@@ -17,6 +17,7 @@ interface RawRider {
   riderId: string;
   name: string;
   finalPosition: number;
+  status: Rider["status"];
   lapCells: RawLapCell[];
   hasAnomaly: boolean;
 }
@@ -36,16 +37,31 @@ function parseLapNumbers($: cheerio.CheerioAPI): number[] {
   return lapNumbers;
 }
 
+interface ParsedRow {
+  riderId: string;
+  name: string;
+  status: Rider["status"];
+  /** 完走者のみ実際の順位。DNFはnull（後で連番を割り当てる） */
+  numericPosition: number | null;
+  lapCells: RawLapCell[];
+  hasAnomaly: boolean;
+}
+
 function parseRawRiders($: cheerio.CheerioAPI, lapNumbers: number[]): RawRider[] {
-  const rawRiders: RawRider[] = [];
+  const rows: ParsedRow[] = [];
 
   $(".table__laptime tbody tr").each((_, rowEl) => {
     const $row = $(rowEl);
     const rankText = $row.find("td.cell__rank").first().text().trim();
-    const finalPosition = Number(rankText);
 
-    // DNF/DNS/欠損（数値でない順位）は比較対象として意味を持たないため除外する
-    if (!Number.isInteger(finalPosition) || finalPosition <= 0) return;
+    // DNS（欠場）はラップデータが存在しないため完全に除外する
+    if (rankText === "DNS") return;
+
+    const numericPosition = Number(rankText);
+    const isFinished = Number.isInteger(numericPosition) && numericPosition > 0;
+
+    // DNFでも完走順位でもない想定外の値は除外する
+    if (!isFinished && rankText !== "DNF") return;
 
     const riderAnchor = $row.find("td.cell__rider a").first();
     const name = riderAnchor.text().trim();
@@ -71,10 +87,97 @@ function parseRawRiders($: cheerio.CheerioAPI, lapNumbers: number[]): RawRider[]
       return { lapNumber, cumulativeTimeSec };
     });
 
-    rawRiders.push({ riderId, name, finalPosition, lapCells, hasAnomaly });
+    rows.push({
+      riderId,
+      name,
+      status: isFinished ? "finished" : "dnf",
+      numericPosition: isFinished ? numericPosition : null,
+      lapCells,
+      hasAnomaly,
+    });
   });
 
-  return rawRiders;
+  // DNF選手には完走者の後ろに連番の順位を割り当てる（テーブル上の並び順を維持）
+  const maxFinisherPosition = rows.reduce(
+    (max, r) => (r.numericPosition !== null ? Math.max(max, r.numericPosition) : max),
+    0
+  );
+  let dnfCount = 0;
+
+  return rows.map((row) => ({
+    riderId: row.riderId,
+    name: row.name,
+    status: row.status,
+    finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
+    lapCells: row.lapCells,
+    hasAnomaly: row.hasAnomaly,
+  }));
+}
+
+/**
+ * table__result（順位表）のTime/Gap列から、各選手のゴールタイム（秒）を算出する。
+ * 1位は絶対タイム、2位以降は1位との差分（+M:SS）で表記されているため、
+ * 1位のタイムに差分を足し合わせて総合タイムを求める。
+ */
+function parseResultTotalTimes($: cheerio.CheerioAPI): Map<string, number> {
+  const totals = new Map<string, number>();
+  let leaderTotal: number | null = null;
+
+  $("table.table__result tbody tr").each((_, rowEl) => {
+    const $row = $(rowEl);
+    const riderHref = $row.find("td a").first().attr("href");
+    const riderId = extractRiderIdFromHref(riderHref);
+    if (!riderId) return;
+
+    const rawText = $row.find("td.cell__timegap").first().text().trim();
+    if (!rawText) return;
+
+    if (rawText.startsWith("+")) {
+      if (leaderTotal === null) return;
+      const gapSec = parseClockToSec(rawText.slice(1));
+      if (gapSec !== null) totals.set(riderId, leaderTotal + gapSec);
+    } else {
+      const absoluteSec = parseClockToSec(rawText);
+      if (absoluteSec === null) return;
+      if (leaderTotal === null) leaderTotal = absoluteSec;
+      totals.set(riderId, absoluteSec);
+    }
+  });
+
+  return totals;
+}
+
+/**
+ * ラップタイムテーブルは、順位が下位の選手ほど最終周（ゴール地点）のスプリットが
+ * 記録されていないことが多い（計測上の欠損）。完走者(status: "finished")については
+ * table__resultの正式ゴールタイムで最終周のセルを補完する。
+ */
+function backfillFinalLapFromResults(
+  $: cheerio.CheerioAPI,
+  rawRiders: RawRider[],
+  lapNumbers: number[]
+): void {
+  if (lapNumbers.length === 0) return;
+  const resultTotalTimes = parseResultTotalTimes($);
+
+  for (const rider of rawRiders) {
+    if (rider.status !== "finished") continue;
+
+    const lastIndex = rider.lapCells.length - 1;
+    const lastCell = rider.lapCells[lastIndex];
+    if (!lastCell || lastCell.cumulativeTimeSec !== null) continue;
+
+    const total = resultTotalTimes.get(rider.riderId);
+    if (total === undefined) continue;
+
+    const prevValid = [...rider.lapCells]
+      .slice(0, lastIndex)
+      .reverse()
+      .find((c) => c.cumulativeTimeSec !== null);
+    if (prevValid && total <= (prevValid.cumulativeTimeSec as number)) continue;
+
+    rider.lapCells[lastIndex] = { lapNumber: lastCell.lapNumber, cumulativeTimeSec: total };
+  }
 }
 
 /** 各周回について、その時点の累積タイム順に順位(rankAtLap)を算出する。 */
@@ -176,12 +279,14 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
 
   const lapNumbers = parseLapNumbers($);
   const rawRiders = parseRawRiders($, lapNumbers);
+  backfillFinalLapFromResults($, rawRiders, lapNumbers);
   const rankAtLapByRider = buildRankAtLapMap(rawRiders);
 
   const riders: Rider[] = rawRiders.map((rawRider) => ({
     riderId: rawRider.riderId,
     name: rawRider.name,
     finalPosition: rawRider.finalPosition,
+    status: rawRider.status,
     laps: buildLapRecords(rawRider, rankAtLapByRider),
     dataQuality: rawRider.hasAnomaly ? "error" : "ok",
   }));

@@ -1,5 +1,11 @@
 export type DataQuality = "ok" | "error";
 
+/**
+ * "finished": 完走。 "dnf":途中棄権（部分的なラップデータを持つ）。
+ * DNS（欠場）は取得元に記録が無いためriders配列に含めない。
+ */
+export type RiderStatus = "finished" | "dnf";
+
 export interface LapRecord {
   lapNumber: number;
   lapTimeSec: number;
@@ -10,7 +16,12 @@ export interface LapRecord {
 export interface Rider {
   riderId: string;
   name: string;
+  /**
+   * DNF選手には完走者の後ろに連番を割り当てる
+   * （例: 完走33名ならDNF1人目は34、2人目は35）。
+   */
   finalPosition: number;
+  status: RiderStatus;
   laps: LapRecord[];
   dataQuality: DataQuality;
 }
