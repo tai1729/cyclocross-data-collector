@@ -2,7 +2,64 @@ name: Collect race data
 
 on:
   schedule:
-    - cron: "*/15 * * * *"
+    # BEGIN GENERATED RACE SCHEDULE
+    - cron: "0 9-23 21 9 *"
+      timezone: "Asia/Tokyo" # 2026-09-21 JST
+    - cron: "0 9-23 22 9 *"
+      timezone: "Asia/Tokyo" # 2026-09-22 JST
+    - cron: "0 9-23 23 9 *"
+      timezone: "Asia/Tokyo" # 2026-09-23 JST
+    - cron: "0 9-23 11 10 *"
+      timezone: "Asia/Tokyo" # 2026-10-11 JST
+    - cron: "0 9-23 12 10 *"
+      timezone: "Asia/Tokyo" # 2026-10-12 JST
+    - cron: "0 9-23 24 10 *"
+      timezone: "Asia/Tokyo" # 2026-10-24 JST
+    - cron: "0 9-23 25 10 *"
+      timezone: "Asia/Tokyo" # 2026-10-25 JST
+    - cron: "0 9-23 31 10 *"
+      timezone: "Asia/Tokyo" # 2026-10-31 JST
+    - cron: "0 9-23 15 11 *"
+      timezone: "Asia/Tokyo" # 2026-11-15 JST
+    - cron: "0 9-23 22 11 *"
+      timezone: "Asia/Tokyo" # 2026-11-22 JST
+    - cron: "0 9-23 23 11 *"
+      timezone: "Asia/Tokyo" # 2026-11-23 JST
+    - cron: "0 9-23 28 11 *"
+      timezone: "Asia/Tokyo" # 2026-11-28 JST
+    - cron: "0 9-23 29 11 *"
+      timezone: "Asia/Tokyo" # 2026-11-29 JST
+    - cron: "0 9-23 12 12 *"
+      timezone: "Asia/Tokyo" # 2026-12-12 JST
+    - cron: "0 9-23 13 12 *"
+      timezone: "Asia/Tokyo" # 2026-12-13 JST
+    - cron: "0 9-23 20 12 *"
+      timezone: "Asia/Tokyo" # 2026-12-20 JST
+    - cron: "0 9-23 27 12 *"
+      timezone: "Asia/Tokyo" # 2026-12-27 JST
+    - cron: "0 9-23 10 1 *"
+      timezone: "Asia/Tokyo" # 2027-01-10 JST
+    - cron: "0 9-23 11 1 *"
+      timezone: "Asia/Tokyo" # 2027-01-11 JST
+    - cron: "0 9-23 17 1 *"
+      timezone: "Asia/Tokyo" # 2027-01-17 JST
+    - cron: "0 9-23 24 1 *"
+      timezone: "Asia/Tokyo" # 2027-01-24 JST
+    - cron: "0 9-23 31 1 *"
+      timezone: "Asia/Tokyo" # 2027-01-31 JST
+    - cron: "0 9-23 13 2 *"
+      timezone: "Asia/Tokyo" # 2027-02-13 JST
+    - cron: "0 9-23 14 2 *"
+      timezone: "Asia/Tokyo" # 2027-02-14 JST
+    - cron: "0 9-23 21 2 *"
+      timezone: "Asia/Tokyo" # 2027-02-21 JST
+    - cron: "0 9-23 28 2 *"
+      timezone: "Asia/Tokyo" # 2027-02-28 JST
+    - cron: "0 9-23 14 3 *"
+      timezone: "Asia/Tokyo" # 2027-03-14 JST
+    - cron: "0 9-23 21 3 *"
+      timezone: "Asia/Tokyo" # 2027-03-21 JST
+    # END GENERATED RACE SCHEDULE
   workflow_dispatch: {}
 
 permissions:
@@ -24,12 +81,14 @@ jobs:
 
       - run: npm ci
 
+      - run: npm run discover
+
       - run: npm run collect
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/
+          git add data/ races.json known_meets.json
           git diff --staged --quiet || git commit -m "chore: update race data"
           git push

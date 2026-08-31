@@ -1,18 +1,17 @@
-import { readFile, writeFile, mkdir } from "node:fs/promises";
+import { mkdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { parseRaceHtml } from "../lib/parseRaceHtml.js";
+import {
+  addDays,
+  fileExists,
+  getJstDate,
+  loadRaceEntries,
+  type RaceEntry,
+} from "../lib/raceConfig.js";
 
-const RACES_JSON_PATH = path.join(import.meta.dirname, "..", "races.json");
 const DATA_DIR = path.join(import.meta.dirname, "..", "data");
-
-async function loadRaceIds(): Promise<string[]> {
-  const raw = await readFile(RACES_JSON_PATH, "utf-8");
-  const raceIds: unknown = JSON.parse(raw);
-  if (!Array.isArray(raceIds)) {
-    throw new Error("races.json はレースIDの配列である必要があります");
-  }
-  return raceIds.map(String);
-}
+const MAX_CONCURRENCY = 5;
+const REFRESH_DAYS = 14;
 
 async function fetchRaceHtml(raceId: string): Promise<string> {
   const url = `https://data.cyclocross.jp/race/${raceId}`;
@@ -25,35 +24,69 @@ async function fetchRaceHtml(raceId: string): Promise<string> {
   return res.text();
 }
 
-async function collectRace(raceId: string): Promise<void> {
-  const html = await fetchRaceHtml(raceId);
-  const race = parseRaceHtml(raceId, html);
+async function collectRace(entry: RaceEntry): Promise<void> {
+  const html = await fetchRaceHtml(entry.raceId);
+  const race = parseRaceHtml(entry.raceId, html);
 
   await mkdir(DATA_DIR, { recursive: true });
-  const outPath = path.join(DATA_DIR, `race-${raceId}.json`);
-  await writeFile(outPath, JSON.stringify(race, null, 2) + "\n", "utf-8");
+  const outPath = path.join(DATA_DIR, `race-${entry.raceId}.json`);
+  await writeFile(outPath, `${JSON.stringify(race, null, 2)}\n`, "utf-8");
 
   console.log(
-    `[OK] race-${raceId}.json (${race.raceName} / ${race.category} / 選手${race.riders.length}名)`
+    `[OK] race-${entry.raceId}.json (${race.raceName} / ${race.category} / ${race.riders.length} riders)`,
   );
 }
 
+async function shouldCollect(entry: RaceEntry, today: string): Promise<boolean> {
+  if (entry.meetDate > today) return false;
+  if (entry.meetDate >= addDays(today, -REFRESH_DAYS)) return true;
+
+  return !(await fileExists(path.join(DATA_DIR, `race-${entry.raceId}.json`)));
+}
+
+async function runWithConcurrency(
+  entries: RaceEntry[],
+  worker: (entry: RaceEntry) => Promise<void>,
+): Promise<void> {
+  const queue = [...entries];
+  const workers = Array.from(
+    { length: Math.min(MAX_CONCURRENCY, queue.length) },
+    async () => {
+      while (queue.length > 0) {
+        const entry = queue.shift();
+        if (entry) await worker(entry);
+      }
+    },
+  );
+  await Promise.all(workers);
+}
+
 async function main() {
-  const raceIds = await loadRaceIds();
-  if (raceIds.length === 0) {
-    console.log("races.json が空です。対象レースがありません。");
+  const raceEntries = await loadRaceEntries();
+  const today = getJstDate();
+  const targets: RaceEntry[] = [];
+
+  for (const entry of raceEntries) {
+    if (await shouldCollect(entry, today)) targets.push(entry);
+  }
+
+  if (targets.length === 0) {
+    console.log("No race data requires collection.");
     return;
   }
 
-  const results = await Promise.allSettled(raceIds.map((id) => collectRace(id)));
-
-  const failures = results.filter((r) => r.status === "rejected") as PromiseRejectedResult[];
-  for (const failure of failures) {
-    console.error("[FAILED]", failure.reason);
-  }
+  const failures: unknown[] = [];
+  await runWithConcurrency(targets, async (entry) => {
+    try {
+      await collectRace(entry);
+    } catch (error) {
+      failures.push(error);
+      console.error("[FAILED]", error);
+    }
+  });
 
   if (failures.length > 0) {
-    process.exitCode = 1;
+    console.warn(`[WARN] ${failures.length} collection(s) failed; successful data was saved.`);
   }
 }
 
