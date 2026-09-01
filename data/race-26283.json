@@ -1,0 +1,107 @@
+{
+  "raceId": "26283",
+  "raceName": "2025-12-21 INAGI CROSS-12（シクロクロス東京）",
+  "category": "MM40",
+  "updatedAt": "2026-09-01T14:35:36.773Z",
+  "riders": [
+    {
+      "riderId": "XTK-256-0246",
+      "name": "Rommeswinkel Hendrik",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 385.5,
+          "cumulativeTimeSec": 385.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 352.3,
+          "cumulativeTimeSec": 737.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 350.7,
+          "cumulativeTimeSec": 1088.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 363.4,
+          "cumulativeTimeSec": 1451.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 355.7,
+          "cumulativeTimeSec": 1807.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0034",
+      "name": "亀井 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 386.8,
+          "cumulativeTimeSec": 386.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 362.4,
+          "cumulativeTimeSec": 749.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 370,
+          "cumulativeTimeSec": 1119.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 376.6,
+          "cumulativeTimeSec": 1495.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 375.4,
+          "cumulativeTimeSec": 1871.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-212-0076",
+      "name": "細川 雅司",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 513.8,
+          "cumulativeTimeSec": 513.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 432.9,
+          "cumulativeTimeSec": 946.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

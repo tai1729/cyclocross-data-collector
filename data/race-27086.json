@@ -1,0 +1,71 @@
+{
+  "raceId": "27086",
+  "raceName": "2026-02-01 高知 ヤシィシクロクロスカップ（四国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-01T14:37:01.371Z",
+  "riders": [
+    {
+      "riderId": "CCS-256-0002",
+      "name": "川野 弥生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 252.6,
+          "cumulativeTimeSec": 252.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 249.4,
+          "cumulativeTimeSec": 502,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-256-0004",
+      "name": "橋本 心渚",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.7,
+          "cumulativeTimeSec": 305.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 284.9,
+          "cumulativeTimeSec": 590.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-256-0003",
+      "name": "橋本 渚凰",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 316.7,
+          "cumulativeTimeSec": 316.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 329,
+          "cumulativeTimeSec": 645.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

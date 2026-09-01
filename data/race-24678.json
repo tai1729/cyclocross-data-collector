@@ -1,0 +1,86 @@
+{
+  "raceId": "24678",
+  "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-01T14:33:53.535Z",
+  "riders": [
+    {
+      "riderId": "XTK-000-1501",
+      "name": "西山 みゆき",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 587.6,
+          "cumulativeTimeSec": 587.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 562.5,
+          "cumulativeTimeSec": 1150.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 584.9,
+          "cumulativeTimeSec": 1735,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 616.9,
+          "cumulativeTimeSec": 616.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 592.4,
+          "cumulativeTimeSec": 1209.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 585.4,
+          "cumulativeTimeSec": 1794.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-156-0096",
+      "name": "高津 裕子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 693.4,
+          "cumulativeTimeSec": 693.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 651.1,
+          "cumulativeTimeSec": 1344.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": 671.9,
+          "cumulativeTimeSec": 2016.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

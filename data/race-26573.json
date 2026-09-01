@@ -1,0 +1,62 @@
+{
+  "raceId": "26573",
+  "raceName": "2026-01-12 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-01T14:36:18.297Z",
+  "riders": [
+    {
+      "riderId": "CXK-234-0035",
+      "name": "角田 直央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.4,
+          "cumulativeTimeSec": 406.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 421.7,
+          "cumulativeTimeSec": 828.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 421.8,
+          "cumulativeTimeSec": 1249.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0005",
+      "name": "吉田 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 449.2,
+          "cumulativeTimeSec": 449.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 443.9,
+          "cumulativeTimeSec": 893.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 437.1,
+          "cumulativeTimeSec": 1330.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

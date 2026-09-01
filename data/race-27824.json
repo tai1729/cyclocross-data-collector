@@ -1,0 +1,80 @@
+{
+  "raceId": "27824",
+  "raceName": "2026-03-08 シクロクロス四国 第3戦 阿波シクロクロス（四国クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-09-01T14:37:52.879Z",
+  "riders": [
+    {
+      "riderId": "KNS-245-0243",
+      "name": "岸 和彦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 394,
+          "cumulativeTimeSec": 394,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 391.6,
+          "cumulativeTimeSec": 785.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 385.8,
+          "cumulativeTimeSec": 1171.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 384,
+          "cumulativeTimeSec": 1555.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 389.9,
+          "cumulativeTimeSec": 1945.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4204",
+      "name": "村田 孝幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.8,
+          "cumulativeTimeSec": 467.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 387,
+          "cumulativeTimeSec": 854.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 391.4,
+          "cumulativeTimeSec": 1246.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 391.1,
+          "cumulativeTimeSec": 1637.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

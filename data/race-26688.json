@@ -1,0 +1,77 @@
+{
+  "raceId": "26688",
+  "raceName": "2026-01-11 関西シクロクロス 第7戦 堺浜（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-01T14:36:16.014Z",
+  "riders": [
+    {
+      "riderId": "KNS-234-0068",
+      "name": "数元 陽華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.7,
+          "cumulativeTimeSec": 624.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 615,
+          "cumulativeTimeSec": 1239.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 631.9,
+          "cumulativeTimeSec": 1871.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0014",
+      "name": "本多 恋乃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 725.6,
+          "cumulativeTimeSec": 725.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 704.1,
+          "cumulativeTimeSec": 1429.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0345",
+      "name": "松井 莉夢",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 865.5,
+          "cumulativeTimeSec": 865.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 847.8,
+          "cumulativeTimeSec": 1713.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

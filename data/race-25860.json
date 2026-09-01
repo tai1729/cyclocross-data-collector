@@ -1,0 +1,70 @@
+{
+  "raceId": "25860",
+  "raceName": "2025-12-06 2025 宇都宮シクロクロス Day1（宇都宮クロス）",
+  "category": "MM35",
+  "updatedAt": "2026-09-01T14:35:06.922Z",
+  "riders": [
+    {
+      "riderId": "SHN-156-0090",
+      "name": "佐野 千尋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 491.1,
+          "cumulativeTimeSec": 491.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 408.9,
+          "cumulativeTimeSec": 900,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 399.3,
+          "cumulativeTimeSec": 1299.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0133",
+      "name": "倉持 和弘",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 506.2,
+          "cumulativeTimeSec": 506.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 424.1,
+          "cumulativeTimeSec": 930.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 453,
+          "cumulativeTimeSec": 1383.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0025",
+      "name": "鈴木 禄徳",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

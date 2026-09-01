@@ -1,0 +1,50 @@
+{
+  "raceId": "27153",
+  "raceName": "2026-02-08 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-01T14:37:11.732Z",
+  "riders": [
+    {
+      "riderId": "KNS-256-0154",
+      "name": "武田 祐輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 411,
+          "cumulativeTimeSec": 411,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403,
+          "cumulativeTimeSec": 814,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0153",
+      "name": "繁富 大輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 463.2,
+          "cumulativeTimeSec": 463.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 438.6,
+          "cumulativeTimeSec": 901.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "raceId": "25580",
+  "raceName": "2025-11-30 シクロクロスミーティングシリーズ　シーズン2025-2026　第7戦　チロルの森Day2（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-01T14:35:05.046Z",
+  "riders": [
+    {
+      "riderId": "CCM-245-0012",
+      "name": "丸山 憧",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 117.7,
+          "cumulativeTimeSec": 117.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 311.8,
+          "cumulativeTimeSec": 429.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 287.4,
+          "cumulativeTimeSec": 716.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-245-0031",
+      "name": "大槻 空",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 123.3,
+          "cumulativeTimeSec": 123.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 307.8,
+          "cumulativeTimeSec": 431.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 287.9,
+          "cumulativeTimeSec": 719,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

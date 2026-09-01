@@ -1,0 +1,128 @@
+{
+  "raceId": "27009",
+  "raceName": "2026-01-25 関西シクロクロス 第9戦 マイアミ（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-09-01T14:36:49.226Z",
+  "riders": [
+    {
+      "riderId": "KNS-201-0036",
+      "name": "大石 理人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.5,
+          "cumulativeTimeSec": 493.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 484.8,
+          "cumulativeTimeSec": 978.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 497.6,
+          "cumulativeTimeSec": 1475.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 502.2,
+          "cumulativeTimeSec": 1978.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0022",
+      "name": "上中 隼斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 492.1,
+          "cumulativeTimeSec": 492.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.9,
+          "cumulativeTimeSec": 997,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 498.1,
+          "cumulativeTimeSec": 1495.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 517.8,
+          "cumulativeTimeSec": 2012.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0278",
+      "name": "金澤 那旺",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 505.1,
+          "cumulativeTimeSec": 505.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 514.3,
+          "cumulativeTimeSec": 1019.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 526.8,
+          "cumulativeTimeSec": 1546.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 561.6,
+          "cumulativeTimeSec": 2107.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0227",
+      "name": "奥谷 将全",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522.8,
+          "cumulativeTimeSec": 522.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 714.2,
+          "cumulativeTimeSec": 1237,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

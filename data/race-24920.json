@@ -1,0 +1,62 @@
+{
+  "raceId": "24920",
+  "raceName": "2025-11-16 シクロクロスミーティングシリーズ　シーズン2025-2026　第5戦　富士山（信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-01T14:34:13.203Z",
+  "riders": [
+    {
+      "riderId": "XTK-000-1501",
+      "name": "西山 みゆき",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 577,
+          "cumulativeTimeSec": 577,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 572.6,
+          "cumulativeTimeSec": 1149.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 579.2,
+          "cumulativeTimeSec": 1728.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 544,
+          "cumulativeTimeSec": 544,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 663.6,
+          "cumulativeTimeSec": 1207.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 588.4,
+          "cumulativeTimeSec": 1796,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

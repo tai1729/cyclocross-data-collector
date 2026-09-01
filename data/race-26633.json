@@ -1,0 +1,108 @@
+{
+  "raceId": "26633",
+  "raceName": "2026-01-10 東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-01T14:36:00.733Z",
+  "riders": [
+    {
+      "riderId": "TKI-256-0123",
+      "name": "石黒 千鶴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 244.7,
+          "cumulativeTimeSec": 244.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": -3.1,
+          "cumulativeTimeSec": 241.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-256-0124",
+      "name": "島方 菜摘",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 252,
+          "cumulativeTimeSec": 252,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": -14.4,
+          "cumulativeTimeSec": 237.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-234-0059",
+      "name": "井上 智子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.7,
+          "cumulativeTimeSec": 254.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": 11.5,
+          "cumulativeTimeSec": 266.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0106",
+      "name": "長木 絵利香",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 274.1,
+          "cumulativeTimeSec": 274.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapTimeSec": 24.5,
+          "cumulativeTimeSec": 298.6,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-256-0035",
+      "name": "星野 友美",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 287,
+          "cumulativeTimeSec": 287,
+          "rankAtLap": 5
+        },
+        {
+          "lapTimeSec": 6.1,
+          "cumulativeTimeSec": 293.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

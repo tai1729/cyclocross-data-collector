@@ -1,0 +1,67 @@
+{
+  "raceId": "26965",
+  "raceName": "2026-01-25 東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-01T14:36:43.997Z",
+  "riders": [
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 528.1,
+          "cumulativeTimeSec": 528.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 13.6,
+          "cumulativeTimeSec": 541.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": -20.9,
+          "cumulativeTimeSec": 520.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 2.4,
+          "cumulativeTimeSec": 523.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.5,
+          "cumulativeTimeSec": 585.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 4.6,
+          "cumulativeTimeSec": 590.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1.5,
+          "cumulativeTimeSec": 591.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

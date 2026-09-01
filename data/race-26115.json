@@ -1,0 +1,43 @@
+{
+  "raceId": "26115",
+  "raceName": "2025-12-21 東北CXシリーズ#3いわきラウンド（東北 CX Project）",
+  "category": "WM",
+  "updatedAt": "2026-09-01T14:35:27.600Z",
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 577.6,
+          "cumulativeTimeSec": 577.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 583.1,
+          "cumulativeTimeSec": 1160.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 593.4,
+          "cumulativeTimeSec": 1754.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 2,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

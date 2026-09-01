@@ -1,0 +1,71 @@
+{
+  "raceId": "25347",
+  "raceName": "2025-11-23 シクロクロス昭和（前橋シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-01T14:34:32.232Z",
+  "riders": [
+    {
+      "riderId": "MBS-245-0027",
+      "name": "大林 駿",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.6,
+          "cumulativeTimeSec": 284.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 266.6,
+          "cumulativeTimeSec": 551.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-234-0028",
+      "name": "小山 伊織",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 360,
+          "cumulativeTimeSec": 360,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.2,
+          "cumulativeTimeSec": 684.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-256-0003",
+      "name": "横山 裕哉",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 365.8,
+          "cumulativeTimeSec": 365.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 352.5,
+          "cumulativeTimeSec": 718.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

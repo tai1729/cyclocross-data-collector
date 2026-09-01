@@ -1,0 +1,77 @@
+{
+  "raceId": "25852",
+  "raceName": "2025-12-07 2025 宇都宮シクロクロス Day2（宇都宮クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-01T14:35:18.593Z",
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 569.2,
+          "cumulativeTimeSec": 569.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 476,
+          "cumulativeTimeSec": 1045.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 481,
+          "cumulativeTimeSec": 1526.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 632.3,
+          "cumulativeTimeSec": 632.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.9,
+          "cumulativeTimeSec": 1163.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 526.7,
+          "cumulativeTimeSec": 1689.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-256-0033",
+      "name": "岡田 恵子",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1319.5,
+          "cumulativeTimeSec": 1319.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

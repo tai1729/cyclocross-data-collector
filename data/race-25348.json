@@ -1,0 +1,56 @@
+{
+  "raceId": "25348",
+  "raceName": "2025-11-23 シクロクロス昭和（前橋シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-01T14:34:32.533Z",
+  "riders": [
+    {
+      "riderId": "TCX-223-0018",
+      "name": "伊藤 岳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 227.8,
+          "cumulativeTimeSec": 227.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 209.9,
+          "cumulativeTimeSec": 437.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 206,
+          "cumulativeTimeSec": 643.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-256-0009",
+      "name": "劉 浩哲",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337.5,
+          "cumulativeTimeSec": 337.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 314.4,
+          "cumulativeTimeSec": 651.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

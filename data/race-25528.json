@@ -1,0 +1,77 @@
+{
+  "raceId": "25528",
+  "raceName": "2025-11-30 関西シクロクロス 第5戦 マキノ（関西クロス）",
+  "category": "W3",
+  "updatedAt": "2026-09-01T14:34:57.496Z",
+  "riders": [
+    {
+      "riderId": "CCM-178-0039",
+      "name": "高橋 由佳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 312.8,
+          "cumulativeTimeSec": 312.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 320.4,
+          "cumulativeTimeSec": 633.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 322.4,
+          "cumulativeTimeSec": 955.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3052",
+      "name": "神谷 みを",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 433.5,
+          "cumulativeTimeSec": 433.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.7,
+          "cumulativeTimeSec": 881.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0081",
+      "name": "永田 奈々美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 465.9,
+          "cumulativeTimeSec": 465.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.9,
+          "cumulativeTimeSec": 953.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

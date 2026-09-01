@@ -1,0 +1,50 @@
+{
+  "raceId": "27152",
+  "raceName": "2026-02-08 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "W3",
+  "updatedAt": "2026-09-01T14:37:11.751Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-3872",
+      "name": "山野井 真紀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 523.1,
+          "cumulativeTimeSec": 523.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 532.3,
+          "cumulativeTimeSec": 1055.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0032",
+      "name": "村尾 尚美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 591.7,
+          "cumulativeTimeSec": 591.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 518.3,
+          "cumulativeTimeSec": 1110,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "raceId": "26172",
+  "raceName": "2025-12-21 関西シクロクロス 第6戦 信太山（関西クロス）",
+  "category": "A65-69",
+  "updatedAt": "2026-09-01T14:35:29.699Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-0084",
+      "name": "横尾 治彦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 970.8,
+          "cumulativeTimeSec": 970.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 554.1,
+          "cumulativeTimeSec": 1524.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 549.3,
+          "cumulativeTimeSec": 2074.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3811",
+      "name": "鈴木 徹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 969.5,
+          "cumulativeTimeSec": 969.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 580.4,
+          "cumulativeTimeSec": 1549.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 552.7,
+          "cumulativeTimeSec": 2102.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0063",
+      "name": "直江 敦司",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1102.2,
+          "cumulativeTimeSec": 1102.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 631.7,
+          "cumulativeTimeSec": 1733.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0557",
+      "name": "杜若 治彦",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1166.2,
+          "cumulativeTimeSec": 1166.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 620,
+          "cumulativeTimeSec": 1786.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

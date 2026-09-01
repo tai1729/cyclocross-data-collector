@@ -1,0 +1,68 @@
+{
+  "raceId": "25297",
+  "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-01T14:34:20.764Z",
+  "riders": [
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 552,
+          "cumulativeTimeSec": 552,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": -33.1,
+          "cumulativeTimeSec": 518.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-256-0035",
+      "name": "星野 友美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 658,
+          "cumulativeTimeSec": 658,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 11.7,
+          "cumulativeTimeSec": 669.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 706.1,
+          "cumulativeTimeSec": 706.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": -0.4,
+          "cumulativeTimeSec": 705.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

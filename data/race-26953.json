@@ -1,0 +1,48 @@
+{
+  "raceId": "26953",
+  "raceName": "2026-01-25 東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-01T14:36:40.747Z",
+  "riders": [
+    {
+      "riderId": "TKI-256-0122",
+      "name": "杉浦 杏奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 258.4,
+          "cumulativeTimeSec": 258.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 11.6,
+          "cumulativeTimeSec": 270,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.9,
+          "cumulativeTimeSec": 368.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": -1.4,
+          "cumulativeTimeSec": 367.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

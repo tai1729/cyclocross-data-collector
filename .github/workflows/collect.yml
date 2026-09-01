@@ -60,7 +60,12 @@ on:
     - cron: "0 9-23 21 3 *"
       timezone: "Asia/Tokyo" # 2027-03-21 JST
     # END GENERATED RACE SCHEDULE
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "過去シーズンを再収集する場合のシーズン (例: 2025-26)"
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -81,7 +86,13 @@ jobs:
 
       - run: npm ci
 
-      - run: npm run discover
+      - name: Discover meets
+        run: |
+          if [ -n "${{ inputs.season }}" ]; then
+            npm run discover -- --season "${{ inputs.season }}"
+          else
+            npm run discover
+          fi
 
       - run: npm run collect
 
@@ -89,6 +100,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ races.json known_meets.json
+          git add data/ races.json known_meets.json meets.json
           git diff --staged --quiet || git commit -m "chore: update race data"
           git push

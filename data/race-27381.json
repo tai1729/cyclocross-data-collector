@@ -1,0 +1,68 @@
+{
+  "raceId": "27381",
+  "raceName": "2026-02-15 前橋シクロクロス 岩神緑地 第2戦（前橋シクロクロス）",
+  "category": "MM40",
+  "updatedAt": "2026-09-01T14:37:20.214Z",
+  "riders": [
+    {
+      "riderId": "TCX-234-0006",
+      "name": "中里 貴裕",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 417.1,
+          "cumulativeTimeSec": 417.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 414.9,
+          "cumulativeTimeSec": 832,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 419.5,
+          "cumulativeTimeSec": 1251.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 419.4,
+          "cumulativeTimeSec": 1670.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-256-0006",
+      "name": "内田 友基",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.8,
+          "cumulativeTimeSec": 606.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 582.9,
+          "cumulativeTimeSec": 1189.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 596,
+          "cumulativeTimeSec": 1785.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

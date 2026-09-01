@@ -6,10 +6,26 @@ export interface RaceEntry {
   meetDate: string;
 }
 
+export interface MeetCategory {
+  raceId: string;
+  name: string;
+  order: number;
+}
+
+export interface MeetEntry {
+  meetId: string;
+  season: string;
+  meetDate: string;
+  series: string;
+  meetName: string;
+  categories: MeetCategory[];
+}
+
 const ROOT_DIR = path.join(import.meta.dirname, "..");
 export const RACES_JSON_PATH = path.join(ROOT_DIR, "races.json");
 export const KNOWN_MEETS_JSON_PATH = path.join(ROOT_DIR, "known_meets.json");
 export const RACE_DAYS_JSON_PATH = path.join(ROOT_DIR, "race_days.json");
+export const MEETS_JSON_PATH = path.join(ROOT_DIR, "meets.json");
 
 export function getJstDate(date = new Date()): string {
   const parts = new Intl.DateTimeFormat("en-CA", {
@@ -85,4 +101,42 @@ export async function loadKnownMeets(): Promise<string[]> {
   }
 
   return [...new Set(value)].sort();
+}
+
+export async function loadMeetEntries(): Promise<MeetEntry[]> {
+  if (!(await fileExists(MEETS_JSON_PATH))) return [];
+
+  const value = await readJson<unknown>(MEETS_JSON_PATH);
+  if (!Array.isArray(value)) {
+    throw new Error("meets.json は大会情報の配列である必要があります。");
+  }
+
+  const entries = value.filter((entry): entry is MeetEntry => {
+    if (typeof entry !== "object" || entry === null) return false;
+    const meet = entry as MeetEntry;
+    return (
+      typeof meet.meetId === "string" &&
+      typeof meet.season === "string" &&
+      /^\d{4}-\d{2}$/.test(meet.season) &&
+      typeof meet.meetDate === "string" &&
+      /^\d{4}-\d{2}-\d{2}$/.test(meet.meetDate) &&
+      typeof meet.series === "string" &&
+      typeof meet.meetName === "string" &&
+      Array.isArray(meet.categories) &&
+      meet.categories.every(
+        (category) =>
+          typeof category === "object" &&
+          category !== null &&
+          typeof (category as MeetCategory).raceId === "string" &&
+          typeof (category as MeetCategory).name === "string" &&
+          Number.isInteger((category as MeetCategory).order),
+      )
+    );
+  });
+
+  if (entries.length !== value.length) {
+    throw new Error("meets.json に不正なエントリがあります。");
+  }
+
+  return entries.sort((a, b) => b.meetDate.localeCompare(a.meetDate));
 }

@@ -1,0 +1,89 @@
+{
+  "raceId": "26579",
+  "raceName": "2026-01-12 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-01T14:36:19.641Z",
+  "riders": [
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 273.4,
+          "cumulativeTimeSec": 273.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 287,
+          "cumulativeTimeSec": 560.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 285.2,
+          "cumulativeTimeSec": 845.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 277.2,
+          "cumulativeTimeSec": 277.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.6,
+          "cumulativeTimeSec": 568.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 288.6,
+          "cumulativeTimeSec": 857.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9014",
+      "name": "横山 創",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 325,
+          "cumulativeTimeSec": 325,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 340.7,
+          "cumulativeTimeSec": 665.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 350.3,
+          "cumulativeTimeSec": 1016,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

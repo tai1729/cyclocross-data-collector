@@ -1,0 +1,81 @@
+{
+  "raceId": "25368",
+  "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-01T14:34:36.867Z",
+  "riders": [
+    {
+      "riderId": "XTK-178-0059",
+      "name": "皆木 海音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 598.5,
+          "cumulativeTimeSec": 598.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": -6.6,
+          "cumulativeTimeSec": 591.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 16.4,
+          "cumulativeTimeSec": 608.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 614.5,
+          "cumulativeTimeSec": 614.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 0.4,
+          "cumulativeTimeSec": 614.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": -29.7,
+          "cumulativeTimeSec": 585.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 748.7,
+          "cumulativeTimeSec": 748.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 29.1,
+          "cumulativeTimeSec": 777.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

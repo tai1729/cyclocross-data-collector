@@ -1,0 +1,50 @@
+{
+  "raceId": "24419",
+  "raceName": "2025-10-12 シクロクロスミーティングシリーズ　シーズン2025-2026　第2戦　上山田（信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-01T14:33:27.230Z",
+  "riders": [
+    {
+      "riderId": "CCM-256-0014",
+      "name": "松邨 華奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 289.6,
+          "cumulativeTimeSec": 289.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 311.9,
+          "cumulativeTimeSec": 601.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0058",
+      "name": "山崎 琴葉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 213.5,
+          "cumulativeTimeSec": 213.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 463.1,
+          "cumulativeTimeSec": 676.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

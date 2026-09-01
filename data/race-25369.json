@@ -1,0 +1,55 @@
+{
+  "raceId": "25369",
+  "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-01T14:34:36.994Z",
+  "riders": [
+    {
+      "riderId": "KNS-234-0068",
+      "name": "数元 陽華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605.7,
+          "cumulativeTimeSec": 605.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 7.1,
+          "cumulativeTimeSec": 612.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 13.2,
+          "cumulativeTimeSec": 626,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0014",
+      "name": "本多 恋乃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 707,
+          "cumulativeTimeSec": 707,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 25.6,
+          "cumulativeTimeSec": 732.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "raceId": "26909",
+  "raceName": "2026-01-18 シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里（信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-01T14:36:39.618Z",
+  "riders": [
+    {
+      "riderId": "SHN-245-0003",
+      "name": "横山 悟",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 110.6,
+          "cumulativeTimeSec": 110.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 116.5,
+          "cumulativeTimeSec": 227.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 124.8,
+          "cumulativeTimeSec": 351.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-256-0014",
+      "name": "松邨 華奈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 137.2,
+          "cumulativeTimeSec": 137.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 145.4,
+          "cumulativeTimeSec": 282.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 153.8,
+          "cumulativeTimeSec": 436.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

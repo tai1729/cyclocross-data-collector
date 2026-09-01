@@ -1,0 +1,74 @@
+{
+  "raceId": "26428",
+  "raceName": "2026-01-04 シクロクロス千葉#15（千葉クロス）",
+  "category": "MM35",
+  "updatedAt": "2026-09-01T14:35:58.374Z",
+  "riders": [
+    {
+      "riderId": "CXK-212-0003",
+      "name": "今西 大地",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.6,
+          "cumulativeTimeSec": 406.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 419.6,
+          "cumulativeTimeSec": 826.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 411.2,
+          "cumulativeTimeSec": 1237.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 425.1,
+          "cumulativeTimeSec": 1662.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-245-0072",
+      "name": "越智 進太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 454.4,
+          "cumulativeTimeSec": 454.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 443,
+          "cumulativeTimeSec": 897.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 444.1,
+          "cumulativeTimeSec": 1341.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 446.1,
+          "cumulativeTimeSec": 1787.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

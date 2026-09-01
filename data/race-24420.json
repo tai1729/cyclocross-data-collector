@@ -1,0 +1,50 @@
+{
+  "raceId": "24420",
+  "raceName": "2025-10-12 シクロクロスミーティングシリーズ　シーズン2025-2026　第2戦　上山田（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-01T14:33:27.895Z",
+  "riders": [
+    {
+      "riderId": "TKI-223-0180",
+      "name": "松邨 一樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 241.9,
+          "cumulativeTimeSec": 241.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 233.4,
+          "cumulativeTimeSec": 475.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-245-0012",
+      "name": "丸山 憧",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 252.3,
+          "cumulativeTimeSec": 252.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268.8,
+          "cumulativeTimeSec": 521.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

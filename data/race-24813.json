@@ -1,0 +1,89 @@
+{
+  "raceId": "24813",
+  "raceName": "2025-11-09 25-26幕張クロス#12（千葉クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-01T14:34:03.805Z",
+  "riders": [
+    {
+      "riderId": "CXK-245-0109",
+      "name": "大関 麟太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 558.2,
+          "cumulativeTimeSec": 558.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 599.3,
+          "cumulativeTimeSec": 1157.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 602,
+          "cumulativeTimeSec": 1759.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-201-0027",
+      "name": "花島 聡太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 608.9,
+          "cumulativeTimeSec": 608.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 648.4,
+          "cumulativeTimeSec": 1257.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 680.1,
+          "cumulativeTimeSec": 1937.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 649.8,
+          "cumulativeTimeSec": 649.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 677,
+          "cumulativeTimeSec": 1326.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 712.3,
+          "cumulativeTimeSec": 2039.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

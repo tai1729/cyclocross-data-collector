@@ -1,0 +1,62 @@
+{
+  "raceId": "26574",
+  "raceName": "2026-01-12 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-01T14:36:18.579Z",
+  "riders": [
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.9,
+          "cumulativeTimeSec": 493.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 491.9,
+          "cumulativeTimeSec": 985.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 488.5,
+          "cumulativeTimeSec": 1474.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-256-0257",
+      "name": "梶山 雄哉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.8,
+          "cumulativeTimeSec": 532.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 524.2,
+          "cumulativeTimeSec": 1057,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 548.1,
+          "cumulativeTimeSec": 1605.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

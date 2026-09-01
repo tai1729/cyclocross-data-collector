@@ -1,0 +1,62 @@
+{
+  "raceId": "24797",
+  "raceName": "2025-11-09 関西シクロクロス 第3戦 美山向山（関西クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-09-01T14:33:59.872Z",
+  "riders": [
+    {
+      "riderId": "CCH-167-0078",
+      "name": "井上 亨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 705.3,
+          "cumulativeTimeSec": 705.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 583.5,
+          "cumulativeTimeSec": 1288.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 581.5,
+          "cumulativeTimeSec": 1870.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0341",
+      "name": "松尾 貞幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 774.4,
+          "cumulativeTimeSec": 774.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 638,
+          "cumulativeTimeSec": 1412.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 635.5,
+          "cumulativeTimeSec": 2047.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

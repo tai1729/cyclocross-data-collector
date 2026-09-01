@@ -1,0 +1,68 @@
+{
+  "raceId": "24381",
+  "raceName": "2025-10-13 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-01T14:33:28.031Z",
+  "riders": [
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 452.7,
+          "cumulativeTimeSec": 452.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429.1,
+          "cumulativeTimeSec": 881.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 450.4,
+          "cumulativeTimeSec": 1332.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 431.9,
+          "cumulativeTimeSec": 1764.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-256-0004",
+      "name": "阿部 快飛",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 561.2,
+          "cumulativeTimeSec": 561.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551.6,
+          "cumulativeTimeSec": 1112.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 564.9,
+          "cumulativeTimeSec": 1677.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

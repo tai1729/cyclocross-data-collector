@@ -1,0 +1,68 @@
+{
+  "raceId": "25532",
+  "raceName": "2025-11-30 関西シクロクロス 第5戦 マキノ（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-01T14:34:58.387Z",
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 756.6,
+          "cumulativeTimeSec": 756.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 1279.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 525,
+          "cumulativeTimeSec": 1804.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 511.9,
+          "cumulativeTimeSec": 2316.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 833.1,
+          "cumulativeTimeSec": 833.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 629.2,
+          "cumulativeTimeSec": 1462.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 636.3,
+          "cumulativeTimeSec": 2098.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

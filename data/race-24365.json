@@ -1,0 +1,89 @@
+{
+  "raceId": "24365",
+  "raceName": "2025-09-21 シクロクロスミーティングシリーズ　シーズン2025-2026　第1戦 白樺湖（信州クロス）",
+  "category": "MM65",
+  "updatedAt": "2026-09-01T14:33:15.884Z",
+  "riders": [
+    {
+      "riderId": "H61-000-0418",
+      "name": "原野 博明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.6,
+          "cumulativeTimeSec": 525.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555.7,
+          "cumulativeTimeSec": 1081.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 567.8,
+          "cumulativeTimeSec": 1649.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-189-0002",
+      "name": "郡山 智",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 561.7,
+          "cumulativeTimeSec": 561.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 627.8,
+          "cumulativeTimeSec": 1189.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 594.6,
+          "cumulativeTimeSec": 1784.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0144",
+      "name": "工藤 耕司",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 639.3,
+          "cumulativeTimeSec": 639.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 686.6,
+          "cumulativeTimeSec": 1325.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 700.8,
+          "cumulativeTimeSec": 2026.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

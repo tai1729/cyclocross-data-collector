@@ -1,0 +1,74 @@
+{
+  "raceId": "27382",
+  "raceName": "2026-02-15 前橋シクロクロス 岩神緑地 第2戦（前橋シクロクロス）",
+  "category": "MM45",
+  "updatedAt": "2026-09-01T14:37:20.962Z",
+  "riders": [
+    {
+      "riderId": "CCH-000-0002",
+      "name": "江下 健太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 404.6,
+          "cumulativeTimeSec": 404.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 396.7,
+          "cumulativeTimeSec": 801.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 400.8,
+          "cumulativeTimeSec": 1202.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 404.1,
+          "cumulativeTimeSec": 1606.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4011",
+      "name": "中澤 佳邦",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 447.5,
+          "cumulativeTimeSec": 447.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 428.2,
+          "cumulativeTimeSec": 875.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 424.4,
+          "cumulativeTimeSec": 1300.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 428,
+          "cumulativeTimeSec": 1728.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

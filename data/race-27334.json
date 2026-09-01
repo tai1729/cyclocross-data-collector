@@ -1,0 +1,62 @@
+{
+  "raceId": "27334",
+  "raceName": "2026-02-15 2025-26もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-01T14:37:17.597Z",
+  "riders": [
+    {
+      "riderId": "MMJ-256-3009",
+      "name": "若林 大路",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.1,
+          "cumulativeTimeSec": 517.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526.4,
+          "cumulativeTimeSec": 1043.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 542.4,
+          "cumulativeTimeSec": 1585.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-256-3010",
+      "name": "前土井 拓海",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 628.7,
+          "cumulativeTimeSec": 628.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 658.5,
+          "cumulativeTimeSec": 1287.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 664.6,
+          "cumulativeTimeSec": 1951.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

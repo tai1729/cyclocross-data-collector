@@ -1,0 +1,88 @@
+{
+  "raceId": "26653",
+  "raceName": "2026-01-11 東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-01T14:36:07.617Z",
+  "riders": [
+    {
+      "riderId": "TKI-256-0123",
+      "name": "石黒 千鶴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 244.6,
+          "cumulativeTimeSec": 244.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": -10.5,
+          "cumulativeTimeSec": 234.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-234-0059",
+      "name": "井上 智子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 247.6,
+          "cumulativeTimeSec": 247.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 6.2,
+          "cumulativeTimeSec": 253.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0130",
+      "name": "本多 香幸",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 272.2,
+          "cumulativeTimeSec": 272.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": 62.5,
+          "cumulativeTimeSec": 334.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 380.1,
+          "cumulativeTimeSec": 380.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapTimeSec": 55.3,
+          "cumulativeTimeSec": 435.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

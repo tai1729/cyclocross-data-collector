@@ -1,0 +1,108 @@
+{
+  "raceId": "27726",
+  "raceName": "2026-02-22 東海シクロクロス 第8戦 愛知県豊田市 千石公園（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-01T14:37:28.721Z",
+  "riders": [
+    {
+      "riderId": "TCX-189-0030",
+      "name": "高橋 麻由美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 144,
+          "cumulativeTimeSec": 144,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 15,
+          "cumulativeTimeSec": 159,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0130",
+      "name": "本多 香幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 162,
+          "cumulativeTimeSec": 162,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 9,
+          "cumulativeTimeSec": 171,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0106",
+      "name": "長木 絵利香",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 169,
+          "cumulativeTimeSec": 169,
+          "rankAtLap": 4
+        },
+        {
+          "lapTimeSec": -5,
+          "cumulativeTimeSec": 164,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-256-0149",
+      "name": "立田 千香子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 168,
+          "cumulativeTimeSec": 168,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": 11,
+          "cumulativeTimeSec": 179,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 174,
+          "cumulativeTimeSec": 174,
+          "rankAtLap": 5
+        },
+        {
+          "lapTimeSec": 19,
+          "cumulativeTimeSec": 193,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

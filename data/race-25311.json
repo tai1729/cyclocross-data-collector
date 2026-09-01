@@ -1,0 +1,104 @@
+{
+  "raceId": "25311",
+  "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
+  "category": "WE1",
+  "updatedAt": "2026-09-01T14:34:24.101Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-2686",
+      "name": "加納 尚子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 663,
+          "cumulativeTimeSec": 663,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": -3.1,
+          "cumulativeTimeSec": 659.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": -7.7,
+          "cumulativeTimeSec": 652.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 21.3,
+          "cumulativeTimeSec": 673.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "error"
+    },
+    {
+      "riderId": "TKI-178-0237",
+      "name": "山崎 友里",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 680.9,
+          "cumulativeTimeSec": 680.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 11.4,
+          "cumulativeTimeSec": 692.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 16.3,
+          "cumulativeTimeSec": 708.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 21.6,
+          "cumulativeTimeSec": 730.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0019",
+      "name": "大類 亜美里",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 691.3,
+          "cumulativeTimeSec": 691.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 56.9,
+          "cumulativeTimeSec": 748.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": -13.2,
+          "cumulativeTimeSec": 735,
+          "rankAtLap": 3
+        },
+        {
+          "lapTimeSec": -13.2,
+          "cumulativeTimeSec": 721.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

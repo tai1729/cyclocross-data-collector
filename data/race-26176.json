@@ -1,0 +1,60 @@
+{
+  "raceId": "26176",
+  "raceName": "2025-12-21 関西シクロクロス 第6戦 信太山（関西クロス）",
+  "category": "W3",
+  "updatedAt": "2026-09-01T14:35:30.351Z",
+  "riders": [
+    {
+      "riderId": "KNS-190-0032",
+      "name": "村尾 尚美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 229.1,
+          "cumulativeTimeSec": 229.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 388.7,
+          "cumulativeTimeSec": 617.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 382.6,
+          "cumulativeTimeSec": 1000.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0109",
+      "name": "大友 秀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 276,
+          "cumulativeTimeSec": 276,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.6,
+          "cumulativeTimeSec": 724.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 409.5,
+          "cumulativeTimeSec": 1134.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "raceId": "27333",
+  "raceName": "2026-02-15 2025-26もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-01T14:37:17.295Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-4057",
+      "name": "田渕 厚子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 817.3,
+          "cumulativeTimeSec": 817.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 894.8,
+          "cumulativeTimeSec": 1712.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0026",
+      "name": "桂正 沙代子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 861.5,
+          "cumulativeTimeSec": 861.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 928.5,
+          "cumulativeTimeSec": 1790,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

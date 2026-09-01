@@ -1,0 +1,134 @@
+{
+  "raceId": "26590",
+  "raceName": "2026-01-12 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-09-01T14:36:22.025Z",
+  "riders": [
+    {
+      "riderId": "CCM-256-0003",
+      "name": "亀井 萌子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 509.5,
+          "cumulativeTimeSec": 509.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 513.9,
+          "cumulativeTimeSec": 1023.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 493,
+          "cumulativeTimeSec": 1516.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 520.3,
+          "cumulativeTimeSec": 2036.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1502",
+      "name": "平野 美穂",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 503.9,
+          "cumulativeTimeSec": 503.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 511.4,
+          "cumulativeTimeSec": 1015.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 529.2,
+          "cumulativeTimeSec": 1544.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 516.1,
+          "cumulativeTimeSec": 2060.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-223-0075",
+      "name": "今井 みち子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522,
+          "cumulativeTimeSec": 522,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 525.8,
+          "cumulativeTimeSec": 1047.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 527.3,
+          "cumulativeTimeSec": 1575.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 515.9,
+          "cumulativeTimeSec": 2091,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9001",
+      "name": "小幡 智恵子",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535,
+          "cumulativeTimeSec": 535,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 548.4,
+          "cumulativeTimeSec": 1083.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 701.8,
+          "cumulativeTimeSec": 1785.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

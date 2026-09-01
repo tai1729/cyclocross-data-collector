@@ -1,0 +1,116 @@
+{
+  "raceId": "27000",
+  "raceName": "2026-01-25 関西シクロクロス 第9戦 マイアミ（関西クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-09-01T14:36:46.735Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-1067",
+      "name": "森 浩一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.4,
+          "cumulativeTimeSec": 530.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 547.4,
+          "cumulativeTimeSec": 1077.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 534.6,
+          "cumulativeTimeSec": 1612.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCT-000-1101",
+      "name": "三谷 長生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548,
+          "cumulativeTimeSec": 548,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 568.5,
+          "cumulativeTimeSec": 1116.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.2,
+          "cumulativeTimeSec": 1676.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0078",
+      "name": "井上 亨",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 559.5,
+          "cumulativeTimeSec": 559.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 598.3,
+          "cumulativeTimeSec": 1157.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 588.7,
+          "cumulativeTimeSec": 1746.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0341",
+      "name": "松尾 貞幸",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 600.6,
+          "cumulativeTimeSec": 600.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 612.6,
+          "cumulativeTimeSec": 1213.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 628.1,
+          "cumulativeTimeSec": 1841.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "raceId": "26352",
+  "raceName": "2025-12-28 東海シクロクロス 第4戦 岐阜県池田町 南部公園（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-01T14:35:49.914Z",
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 419.4,
+          "cumulativeTimeSec": 419.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 3.1,
+          "cumulativeTimeSec": 422.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2.1,
+          "cumulativeTimeSec": 424.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 3.9,
+          "cumulativeTimeSec": 428.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 497.8,
+          "cumulativeTimeSec": 497.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 26.3,
+          "cumulativeTimeSec": 524.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": -2.5,
+          "cumulativeTimeSec": 521.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": -17.8,
+          "cumulativeTimeSec": 503.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

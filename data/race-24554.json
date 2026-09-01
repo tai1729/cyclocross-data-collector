@@ -1,0 +1,50 @@
+{
+  "raceId": "24554",
+  "raceName": "2025-10-19 前橋シクロクロス 岩神緑地 第1戦（前橋シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-01T14:33:41.071Z",
+  "riders": [
+    {
+      "riderId": "TCX-223-0018",
+      "name": "伊藤 岳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 454.8,
+          "cumulativeTimeSec": 454.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.9,
+          "cumulativeTimeSec": 925.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.2,
+          "cumulativeTimeSec": 461.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.1,
+          "cumulativeTimeSec": 929.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

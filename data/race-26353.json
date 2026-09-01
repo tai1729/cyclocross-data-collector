@@ -1,0 +1,60 @@
+{
+  "raceId": "26353",
+  "raceName": "2025-12-28 東海シクロクロス 第4戦 岐阜県池田町 南部公園（東海クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-01T14:35:50.291Z",
+  "riders": [
+    {
+      "riderId": "KNS-245-0014",
+      "name": "本多 恋乃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.9,
+          "cumulativeTimeSec": 504.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 27.2,
+          "cumulativeTimeSec": 532.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 15.9,
+          "cumulativeTimeSec": 548,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0345",
+      "name": "松井 莉夢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526.4,
+          "cumulativeTimeSec": 526.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 56.2,
+          "cumulativeTimeSec": 582.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": -12.7,
+          "cumulativeTimeSec": 569.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

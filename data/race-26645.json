@@ -1,0 +1,67 @@
+{
+  "raceId": "26645",
+  "raceName": "2026-01-10 東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-01T14:36:04.377Z",
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 469.7,
+          "cumulativeTimeSec": 469.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 8.1,
+          "cumulativeTimeSec": 477.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2.2,
+          "cumulativeTimeSec": 480,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 17.1,
+          "cumulativeTimeSec": 497.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 598,
+          "cumulativeTimeSec": 598,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 5.2,
+          "cumulativeTimeSec": 603.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": -15.2,
+          "cumulativeTimeSec": 588,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "error"
+    }
+  ]
+}

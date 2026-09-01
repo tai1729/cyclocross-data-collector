@@ -1,0 +1,80 @@
+{
+  "raceId": "24540",
+  "raceName": "2025-10-19 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "J",
+  "updatedAt": "2026-09-01T14:33:37.848Z",
+  "riders": [
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 817.6,
+          "cumulativeTimeSec": 817.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 413.5,
+          "cumulativeTimeSec": 1231.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 413.9,
+          "cumulativeTimeSec": 1645,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 411.7,
+          "cumulativeTimeSec": 2056.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 411.3,
+          "cumulativeTimeSec": 2468,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4576",
+      "name": "柿本 圭治郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 883.2,
+          "cumulativeTimeSec": 883.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 488.4,
+          "cumulativeTimeSec": 1371.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 492.5,
+          "cumulativeTimeSec": 1864.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 2370.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

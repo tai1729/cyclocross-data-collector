@@ -1,0 +1,62 @@
+{
+  "raceId": "24526",
+  "raceName": "2025-10-19 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "A70-74",
+  "updatedAt": "2026-09-01T14:33:34.576Z",
+  "riders": [
+    {
+      "riderId": "KNS-000-2973",
+      "name": "宮本 光則",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 706.4,
+          "cumulativeTimeSec": 706.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 703.8,
+          "cumulativeTimeSec": 1410.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 736.7,
+          "cumulativeTimeSec": 2146.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0059",
+      "name": "猪飼 文治",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 762.2,
+          "cumulativeTimeSec": 762.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 816.7,
+          "cumulativeTimeSec": 1578.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 810,
+          "cumulativeTimeSec": 2388.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

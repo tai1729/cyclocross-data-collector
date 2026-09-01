@@ -1,0 +1,54 @@
+{
+  "raceId": "24685",
+  "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-01T14:33:55.432Z",
+  "riders": [
+    {
+      "riderId": "SHN-245-0003",
+      "name": "横山 悟",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 499.4,
+          "cumulativeTimeSec": 499.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapTimeSec": 451.4,
+          "cumulativeTimeSec": 950.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0058",
+      "name": "山崎 琴葉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 71.2,
+          "cumulativeTimeSec": 71.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 608.3,
+          "cumulativeTimeSec": 679.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapTimeSec": 596.5,
+          "cumulativeTimeSec": 1276,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
