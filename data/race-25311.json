@@ -2,7 +2,7 @@
   "raceId": "25311",
   "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
   "category": "WE1",
-  "updatedAt": "2026-09-01T14:34:24.101Z",
+  "updatedAt": "2026-09-01T23:06:15.551Z",
   "riders": [
     {
       "riderId": "KNS-000-2686",
@@ -12,29 +12,24 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 663,
-          "cumulativeTimeSec": 663,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -3.1,
+          "lapTimeSec": 659.9,
           "cumulativeTimeSec": 659.9,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": -7.7,
-          "cumulativeTimeSec": 652.2,
+          "lapNumber": 2,
+          "lapTimeSec": 652.2,
+          "cumulativeTimeSec": 1312.1,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 21.3,
-          "cumulativeTimeSec": 673.5,
+          "lapNumber": 3,
+          "lapTimeSec": 673.5,
+          "cumulativeTimeSec": 1985.6,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-178-0237",
@@ -44,26 +39,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 680.9,
-          "cumulativeTimeSec": 680.9,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 11.4,
+          "lapTimeSec": 692.3,
           "cumulativeTimeSec": 692.3,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 16.3,
-          "cumulativeTimeSec": 708.6,
+          "lapNumber": 2,
+          "lapTimeSec": 708.6,
+          "cumulativeTimeSec": 1400.9,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 21.6,
-          "cumulativeTimeSec": 730.2,
-          "rankAtLap": 3
+          "lapNumber": 3,
+          "lapTimeSec": 730.2,
+          "cumulativeTimeSec": 2131.1000000000004,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -76,29 +66,24 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 691.3,
-          "cumulativeTimeSec": 691.3,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 56.9,
+          "lapTimeSec": 748.2,
           "cumulativeTimeSec": 748.2,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": -13.2,
-          "cumulativeTimeSec": 735,
+          "lapNumber": 2,
+          "lapTimeSec": 735,
+          "cumulativeTimeSec": 1483.2,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": -13.2,
-          "cumulativeTimeSec": 721.8,
-          "rankAtLap": 2
+          "lapNumber": 3,
+          "lapTimeSec": 721.8,
+          "cumulativeTimeSec": 2205,
+          "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

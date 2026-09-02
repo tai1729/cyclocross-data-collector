@@ -2,7 +2,7 @@
   "raceId": "25370",
   "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
   "category": "WE1",
-  "updatedAt": "2026-09-01T14:34:37.500Z",
+  "updatedAt": "2026-09-01T23:06:08.797Z",
   "riders": [
     {
       "riderId": "SHN-167-0048",
@@ -12,35 +12,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 513.9,
-          "cumulativeTimeSec": 513.9,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -4.4,
+          "lapTimeSec": 509.5,
           "cumulativeTimeSec": 509.5,
           "rankAtLap": 1
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 512.2,
+          "cumulativeTimeSec": 1021.7,
+          "rankAtLap": 1
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 2.7,
-          "cumulativeTimeSec": 512.2,
+          "lapTimeSec": 520.5,
+          "cumulativeTimeSec": 1542.2,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 8.3,
-          "cumulativeTimeSec": 520.5,
+          "lapTimeSec": 521,
+          "cumulativeTimeSec": 2063.2,
           "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": 0.5,
-          "cumulativeTimeSec": 521,
-          "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-000-3361",
@@ -50,35 +45,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 518.7,
-          "cumulativeTimeSec": 518.7,
+          "lapTimeSec": 517.3,
+          "cumulativeTimeSec": 517.3,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": -1.4,
-          "cumulativeTimeSec": 517.3,
+          "lapTimeSec": 526.2,
+          "cumulativeTimeSec": 1043.5,
           "rankAtLap": 2
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 8.9,
-          "cumulativeTimeSec": 526.2,
+          "lapTimeSec": 537,
+          "cumulativeTimeSec": 1580.5,
           "rankAtLap": 2
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 10.8,
-          "cumulativeTimeSec": 537,
+          "lapTimeSec": 517.3,
+          "cumulativeTimeSec": 2097.8,
           "rankAtLap": 2
-        },
-        {
-          "lapTimeSec": -19.7,
-          "cumulativeTimeSec": 517.3,
-          "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CHB-245-0055",
@@ -88,35 +78,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 587.1,
-          "cumulativeTimeSec": 587.1,
-          "rankAtLap": 4
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -24.1,
+          "lapTimeSec": 563,
           "cumulativeTimeSec": 563,
           "rankAtLap": 4
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 570.7,
+          "cumulativeTimeSec": 1133.7,
+          "rankAtLap": 4
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 7.7,
-          "cumulativeTimeSec": 570.7,
-          "rankAtLap": 5
+          "lapTimeSec": 549.7,
+          "cumulativeTimeSec": 1683.4,
+          "rankAtLap": 3
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": -21,
-          "cumulativeTimeSec": 549.7,
-          "rankAtLap": 3
-        },
-        {
-          "lapTimeSec": -6.3,
-          "cumulativeTimeSec": 543.4,
+          "lapTimeSec": 543.4,
+          "cumulativeTimeSec": 2226.8,
           "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CXK-212-0107",
@@ -126,35 +111,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 592,
-          "cumulativeTimeSec": 592,
-          "rankAtLap": 6
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -31.7,
+          "lapTimeSec": 560.3,
           "cumulativeTimeSec": 560.3,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 7.7,
-          "cumulativeTimeSec": 568,
+          "lapNumber": 2,
+          "lapTimeSec": 568,
+          "cumulativeTimeSec": 1128.3,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 4,
-          "lapTimeSec": -10.6,
-          "cumulativeTimeSec": 557.4,
+          "lapNumber": 3,
+          "lapTimeSec": 557.4,
+          "cumulativeTimeSec": 1685.6999999999998,
           "rankAtLap": 4
         },
         {
-          "lapTimeSec": 17.7,
-          "cumulativeTimeSec": 575.1,
-          "rankAtLap": 6
+          "lapNumber": 4,
+          "lapTimeSec": 575.1,
+          "cumulativeTimeSec": 2260.7999999999997,
+          "rankAtLap": 4
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CXK-000-0334",
@@ -164,35 +144,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 586.4,
-          "cumulativeTimeSec": 586.4,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -21.3,
+          "lapTimeSec": 565.1,
           "cumulativeTimeSec": 565.1,
           "rankAtLap": 6
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 3.8,
-          "cumulativeTimeSec": 568.9,
-          "rankAtLap": 4
-        },
-        {
-          "lapNumber": 4,
-          "lapTimeSec": 1.1,
-          "cumulativeTimeSec": 570,
+          "lapNumber": 2,
+          "lapTimeSec": 568.9,
+          "cumulativeTimeSec": 1134,
           "rankAtLap": 5
         },
         {
-          "lapTimeSec": 22,
-          "cumulativeTimeSec": 592,
-          "rankAtLap": 7
+          "lapNumber": 3,
+          "lapTimeSec": 570,
+          "cumulativeTimeSec": 1704,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 592,
+          "cumulativeTimeSec": 2296,
+          "rankAtLap": 5
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-167-0106",
@@ -202,35 +177,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 589.6,
-          "cumulativeTimeSec": 589.6,
-          "rankAtLap": 5
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -15.7,
+          "lapTimeSec": 573.9,
           "cumulativeTimeSec": 573.9,
           "rankAtLap": 8
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 5.4,
-          "cumulativeTimeSec": 579.3,
-          "rankAtLap": 6
-        },
-        {
-          "lapNumber": 4,
-          "lapTimeSec": 10.5,
-          "cumulativeTimeSec": 589.8,
+          "lapNumber": 2,
+          "lapTimeSec": 579.3,
+          "cumulativeTimeSec": 1153.1999999999998,
           "rankAtLap": 7
         },
         {
-          "lapTimeSec": -32.5,
-          "cumulativeTimeSec": 557.3,
-          "rankAtLap": 4
+          "lapNumber": 3,
+          "lapTimeSec": 589.8,
+          "cumulativeTimeSec": 1742.9999999999998,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 557.3,
+          "cumulativeTimeSec": 2300.2999999999997,
+          "rankAtLap": 6
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CXK-201-0019",
@@ -240,35 +210,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 595.6,
-          "cumulativeTimeSec": 595.6,
-          "rankAtLap": 7
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -31.7,
+          "lapTimeSec": 563.9,
           "cumulativeTimeSec": 563.9,
           "rankAtLap": 5
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 24.1,
-          "cumulativeTimeSec": 588,
-          "rankAtLap": 7
-        },
-        {
-          "lapNumber": 4,
-          "lapTimeSec": -3.7,
-          "cumulativeTimeSec": 584.3,
+          "lapNumber": 2,
+          "lapTimeSec": 588,
+          "cumulativeTimeSec": 1151.9,
           "rankAtLap": 6
         },
         {
-          "lapTimeSec": -9.3,
-          "cumulativeTimeSec": 575,
-          "rankAtLap": 5
+          "lapNumber": 3,
+          "lapTimeSec": 584.3,
+          "cumulativeTimeSec": 1736.2,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 575,
+          "cumulativeTimeSec": 2311.2,
+          "rankAtLap": 7
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "SHN-234-0003",
@@ -278,35 +243,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 596.8,
-          "cumulativeTimeSec": 596.8,
-          "rankAtLap": 8
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -26.8,
+          "lapTimeSec": 570,
           "cumulativeTimeSec": 570,
           "rankAtLap": 7
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 588.2,
+          "cumulativeTimeSec": 1158.2,
+          "rankAtLap": 8
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 18.2,
-          "cumulativeTimeSec": 588.2,
+          "lapTimeSec": 603.6,
+          "cumulativeTimeSec": 1761.8000000000002,
           "rankAtLap": 8
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 15.4,
-          "cumulativeTimeSec": 603.6,
-          "rankAtLap": 9
-        },
-        {
-          "lapTimeSec": 10.2,
-          "cumulativeTimeSec": 613.8,
-          "rankAtLap": 9
+          "lapTimeSec": 613.8,
+          "cumulativeTimeSec": 2375.6000000000004,
+          "rankAtLap": 8
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "SHN-223-0039",
@@ -316,35 +276,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 615.1,
-          "cumulativeTimeSec": 615.1,
-          "rankAtLap": 9
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -24.8,
+          "lapTimeSec": 590.3,
           "cumulativeTimeSec": 590.3,
           "rankAtLap": 9
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 594.3,
+          "cumulativeTimeSec": 1184.6,
+          "rankAtLap": 9
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 4,
-          "cumulativeTimeSec": 594.3,
+          "lapTimeSec": 602.3,
+          "cumulativeTimeSec": 1786.8999999999999,
           "rankAtLap": 9
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 8,
-          "cumulativeTimeSec": 602.3,
-          "rankAtLap": 8
-        },
-        {
-          "lapTimeSec": -9.7,
-          "cumulativeTimeSec": 592.6,
-          "rankAtLap": 8
+          "lapTimeSec": 592.6,
+          "cumulativeTimeSec": 2379.5,
+          "rankAtLap": 9
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CCM-000-7117",
@@ -354,35 +309,30 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 621.2,
-          "cumulativeTimeSec": 621.2,
-          "rankAtLap": 10
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -25,
+          "lapTimeSec": 596.2,
           "cumulativeTimeSec": 596.2,
           "rankAtLap": 10
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 613.1,
+          "cumulativeTimeSec": 1209.3000000000002,
+          "rankAtLap": 10
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 16.9,
-          "cumulativeTimeSec": 613.1,
+          "lapTimeSec": 630,
+          "cumulativeTimeSec": 1839.3000000000002,
           "rankAtLap": 10
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 16.9,
-          "cumulativeTimeSec": 630,
-          "rankAtLap": 10
-        },
-        {
-          "lapTimeSec": -7.1,
-          "cumulativeTimeSec": 622.9,
+          "lapTimeSec": 622.9,
+          "cumulativeTimeSec": 2462.2000000000003,
           "rankAtLap": 10
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

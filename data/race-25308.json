@@ -2,7 +2,7 @@
   "raceId": "25308",
   "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
   "category": "MU15",
-  "updatedAt": "2026-09-01T14:34:22.958Z",
+  "updatedAt": "2026-09-01T23:06:18.108Z",
   "riders": [
     {
       "riderId": "TKI-190-0027",
@@ -12,20 +12,15 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 664.1,
-          "cumulativeTimeSec": 664.1,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 18.6,
+          "lapTimeSec": 682.7,
           "cumulativeTimeSec": 682.7,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 78.9,
-          "cumulativeTimeSec": 761.6,
-          "rankAtLap": 2
+          "lapNumber": 2,
+          "lapTimeSec": 761.6,
+          "cumulativeTimeSec": 1444.3000000000002,
+          "rankAtLap": 1
         }
       ],
       "dataQuality": "ok"
@@ -38,23 +33,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 746.4,
-          "cumulativeTimeSec": 746.4,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 32.4,
+          "lapTimeSec": 778.8,
           "cumulativeTimeSec": 778.8,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": -32.3,
-          "cumulativeTimeSec": 746.5,
-          "rankAtLap": 1
+          "lapNumber": 2,
+          "lapTimeSec": 746.5,
+          "cumulativeTimeSec": 1525.3,
+          "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-212-0020",
@@ -64,19 +54,14 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 773.3,
-          "cumulativeTimeSec": 773.3,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 48.4,
+          "lapTimeSec": 821.7,
           "cumulativeTimeSec": 821.7,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": 23.1,
-          "cumulativeTimeSec": 844.8,
+          "lapNumber": 2,
+          "lapTimeSec": 844.8,
+          "cumulativeTimeSec": 1666.5,
           "rankAtLap": 3
         }
       ],

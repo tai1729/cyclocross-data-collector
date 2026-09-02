@@ -8,7 +8,7 @@
     "discover": "tsx scripts/discover.ts",
     "update-schedule": "tsx scripts/updateSchedule.ts",
     "typecheck": "tsc --noEmit",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tsx --test tests/**/*.test.ts"
   },
   "repository": {
     "type": "git",

@@ -2,7 +2,7 @@
   "raceId": "26965",
   "raceName": "2026-01-25 東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-01T14:36:43.997Z",
+  "updatedAt": "2026-09-01T23:05:46.653Z",
   "riders": [
     {
       "riderId": "CCM-212-0006",
@@ -11,30 +11,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 528.1,
           "cumulativeTimeSec": 528.1,
           "rankAtLap": 1
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 541.7,
+          "cumulativeTimeSec": 1069.8000000000002,
+          "rankAtLap": 1
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 13.6,
-          "cumulativeTimeSec": 541.7,
+          "lapTimeSec": 520.8,
+          "cumulativeTimeSec": 1590.6000000000001,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": -20.9,
-          "cumulativeTimeSec": 520.8,
-          "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": 2.4,
-          "cumulativeTimeSec": 523.2,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 2113.8,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-234-0063",
@@ -43,21 +44,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 585.5,
           "cumulativeTimeSec": 585.5,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 4.6,
-          "cumulativeTimeSec": 590.1,
+          "lapNumber": 2,
+          "lapTimeSec": 590.1,
+          "cumulativeTimeSec": 1175.6,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 4,
-          "lapTimeSec": 1.5,
-          "cumulativeTimeSec": 591.6,
+          "lapNumber": 3,
+          "lapTimeSec": 591.6,
+          "cumulativeTimeSec": 1767.1999999999998,
           "rankAtLap": 2
         }
       ],

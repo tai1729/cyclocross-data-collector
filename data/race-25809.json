@@ -2,7 +2,7 @@
   "raceId": "25809",
   "raceName": "2025-12-07 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-01T14:35:12.752Z",
+  "updatedAt": "2026-09-01T23:06:07.512Z",
   "riders": [
     {
       "riderId": "KNS-201-0043",
@@ -12,29 +12,24 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 465.6,
-          "cumulativeTimeSec": 465.6,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -9.9,
+          "lapTimeSec": 455.7,
           "cumulativeTimeSec": 455.7,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 3.5,
-          "cumulativeTimeSec": 459.2,
+          "lapNumber": 2,
+          "lapTimeSec": 459.2,
+          "cumulativeTimeSec": 914.9,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 5.4,
-          "cumulativeTimeSec": 464.6,
+          "lapNumber": 3,
+          "lapTimeSec": 464.6,
+          "cumulativeTimeSec": 1379.5,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CCM-212-0006",
@@ -44,29 +39,24 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 494.7,
-          "cumulativeTimeSec": 494.7,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 4,
+          "lapTimeSec": 498.7,
           "cumulativeTimeSec": 498.7,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 33.1,
-          "cumulativeTimeSec": 531.8,
+          "lapNumber": 2,
+          "lapTimeSec": 531.8,
+          "cumulativeTimeSec": 1030.5,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": -18.6,
-          "cumulativeTimeSec": 513.2,
+          "lapNumber": 3,
+          "lapTimeSec": 513.2,
+          "cumulativeTimeSec": 1543.7,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-234-0063",
@@ -76,24 +66,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 572.5,
-          "cumulativeTimeSec": 572.5,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -6.1,
+          "lapTimeSec": 566.4,
           "cumulativeTimeSec": 566.4,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": -0.6,
-          "cumulativeTimeSec": 565.8,
+          "lapNumber": 2,
+          "lapTimeSec": 565.8,
+          "cumulativeTimeSec": 1132.1999999999998,
           "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

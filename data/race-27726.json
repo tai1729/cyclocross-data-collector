@@ -2,7 +2,7 @@
   "raceId": "27726",
   "raceName": "2026-02-22 東海シクロクロス 第8戦 愛知県豊田市 千石公園（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-01T14:37:28.721Z",
+  "updatedAt": "2026-09-01T23:05:40.311Z",
   "riders": [
     {
       "riderId": "TCX-189-0030",
@@ -11,14 +11,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 144,
           "cumulativeTimeSec": 144,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 15,
-          "cumulativeTimeSec": 159,
+          "lapNumber": 2,
+          "lapTimeSec": 159,
+          "cumulativeTimeSec": 303,
           "rankAtLap": 1
         }
       ],
@@ -31,15 +32,16 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 162,
           "cumulativeTimeSec": 162,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 9,
-          "cumulativeTimeSec": 171,
-          "rankAtLap": 3
+          "lapNumber": 2,
+          "lapTimeSec": 171,
+          "cumulativeTimeSec": 333,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -51,18 +53,19 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 169,
           "cumulativeTimeSec": 169,
           "rankAtLap": 4
         },
         {
-          "lapTimeSec": -5,
-          "cumulativeTimeSec": 164,
-          "rankAtLap": 2
+          "lapNumber": 2,
+          "lapTimeSec": 164,
+          "cumulativeTimeSec": 333,
+          "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-256-0149",
@@ -71,14 +74,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 168,
           "cumulativeTimeSec": 168,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": 11,
-          "cumulativeTimeSec": 179,
+          "lapNumber": 2,
+          "lapTimeSec": 179,
+          "cumulativeTimeSec": 347,
           "rankAtLap": 4
         }
       ],
@@ -91,14 +95,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 174,
           "cumulativeTimeSec": 174,
           "rankAtLap": 5
         },
         {
-          "lapTimeSec": 19,
-          "cumulativeTimeSec": 193,
+          "lapNumber": 2,
+          "lapTimeSec": 193,
+          "cumulativeTimeSec": 367,
           "rankAtLap": 5
         }
       ],

@@ -22,19 +22,33 @@ interface RawRider {
   hasAnomaly: boolean;
 }
 
+interface LapTableSchema {
+  lapNumbers: number[];
+  cellOffset: number;
+  valueType: "cumulative" | "lap-time";
+}
+
 /**
  * ラップタイムテーブルのヘッダー（例: "2周", "3周", ...）から
  * 列インデックス→周回番号のマッピングを作る。
  * レースによって開始周が1周からでない場合があるため、決め打ちにしない。
  */
-function parseLapNumbers($: cheerio.CheerioAPI): number[] {
+function parseLapTableSchema($: cheerio.CheerioAPI): LapTableSchema {
+  const labels = $(".table__laptime thead th.cell__lapat")
+    .toArray()
+    .map((el) => $(el).text().trim());
+  const hasStartLoop = labels[0] === "StartLoop";
   const lapNumbers: number[] = [];
-  $(".table__laptime thead th.cell__lapat").each((_, el) => {
-    const label = $(el).text().trim();
+  for (const label of labels) {
     const match = label.match(/(\d+)\s*周/);
     if (match) lapNumbers.push(Number(match[1]));
-  });
-  return lapNumbers;
+  }
+
+  return {
+    lapNumbers,
+    cellOffset: hasStartLoop ? 1 : 0,
+    valueType: hasStartLoop ? "lap-time" : "cumulative",
+  };
 }
 
 interface ParsedRow {
@@ -47,7 +61,7 @@ interface ParsedRow {
   hasAnomaly: boolean;
 }
 
-function parseRawRiders($: cheerio.CheerioAPI, lapNumbers: number[]): RawRider[] {
+function parseRawRiders($: cheerio.CheerioAPI, schema: LapTableSchema): RawRider[] {
   const rows: ParsedRow[] = [];
 
   $(".table__laptime tbody tr").each((_, rowEl) => {
@@ -67,17 +81,29 @@ function parseRawRiders($: cheerio.CheerioAPI, lapNumbers: number[]): RawRider[]
     const name = riderAnchor.text().trim();
     const riderId = extractRiderIdFromHref(riderAnchor.attr("href")) ?? name;
 
-    const lapCellEls = $row.find("td").slice(2).toArray();
+    const lapCellEls = $row
+      .find("td")
+      .slice(2 + schema.cellOffset, 2 + schema.cellOffset + schema.lapNumbers.length)
+      .toArray();
     let prevCumulative = 0;
     let hasAnomaly = false;
+    let missingValueSeen = false;
 
     const lapCells: RawLapCell[] = lapCellEls.map((cellEl, i) => {
-      const lapNumber = lapNumbers[i];
+      const lapNumber = schema.lapNumbers[i];
       const text = $(cellEl).text().trim();
-      const cumulativeTimeSec = parseClockToSec(text);
+      const parsedTimeSec = parseClockToSec(text);
+      let cumulativeTimeSec = parsedTimeSec;
+
+      if (parsedTimeSec === null) {
+        missingValueSeen = true;
+      } else if (schema.valueType === "lap-time") {
+        if (parsedTimeSec <= 0 || missingValueSeen) hasAnomaly = true;
+        cumulativeTimeSec = prevCumulative + parsedTimeSec;
+      }
 
       if (cumulativeTimeSec !== null) {
-        if (cumulativeTimeSec < prevCumulative) {
+        if (schema.valueType === "cumulative" && cumulativeTimeSec <= prevCumulative) {
           // 前の周回より累積タイムが減少している = 明らかな異常値
           hasAnomaly = true;
         }
@@ -277,9 +303,9 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
   const raceName = $("#js__page_title").text().trim();
   const category = $("#ec_name").text().trim();
 
-  const lapNumbers = parseLapNumbers($);
-  const rawRiders = parseRawRiders($, lapNumbers);
-  backfillFinalLapFromResults($, rawRiders, lapNumbers);
+  const lapTableSchema = parseLapTableSchema($);
+  const rawRiders = parseRawRiders($, lapTableSchema);
+  backfillFinalLapFromResults($, rawRiders, lapTableSchema.lapNumbers);
   const rankAtLapByRider = buildRankAtLapMap(rawRiders);
 
   const riders: Rider[] = rawRiders.map((rawRider) => ({

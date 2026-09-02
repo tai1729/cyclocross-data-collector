@@ -2,7 +2,7 @@
   "raceId": "26953",
   "raceName": "2026-01-25 東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-01T14:36:40.747Z",
+  "updatedAt": "2026-09-01T23:05:45.178Z",
   "riders": [
     {
       "riderId": "TKI-256-0122",
@@ -11,14 +11,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 258.4,
           "cumulativeTimeSec": 258.4,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 11.6,
-          "cumulativeTimeSec": 270,
+          "lapNumber": 2,
+          "lapTimeSec": 270,
+          "cumulativeTimeSec": 528.4,
           "rankAtLap": 1
         }
       ],
@@ -31,18 +32,19 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 368.9,
           "cumulativeTimeSec": 368.9,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": -1.4,
-          "cumulativeTimeSec": 367.5,
+          "lapNumber": 2,
+          "lapTimeSec": 367.5,
+          "cumulativeTimeSec": 736.4,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

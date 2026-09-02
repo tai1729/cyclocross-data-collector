@@ -2,7 +2,7 @@
   "raceId": "26341",
   "raceName": "2025-12-28 東海シクロクロス 第4戦 岐阜県池田町 南部公園（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-01T14:35:47.223Z",
+  "updatedAt": "2026-09-01T23:06:00.548Z",
   "riders": [
     {
       "riderId": "TKI-256-0084",
@@ -11,18 +11,19 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 272.8,
           "cumulativeTimeSec": 272.8,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": -11,
-          "cumulativeTimeSec": 261.8,
+          "lapNumber": 2,
+          "lapTimeSec": 261.8,
+          "cumulativeTimeSec": 534.6,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TCX-189-0030",
@@ -31,14 +32,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 290.3,
           "cumulativeTimeSec": 290.3,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 14.8,
-          "cumulativeTimeSec": 305.1,
+          "lapNumber": 2,
+          "lapTimeSec": 305.1,
+          "cumulativeTimeSec": 595.4000000000001,
           "rankAtLap": 2
         }
       ],

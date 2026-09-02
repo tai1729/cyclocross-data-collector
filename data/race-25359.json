@@ -2,7 +2,7 @@
   "raceId": "25359",
   "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
   "category": "WM",
-  "updatedAt": "2026-09-01T14:34:34.678Z",
+  "updatedAt": "2026-09-01T23:06:11.030Z",
   "riders": [
     {
       "riderId": "TCX-178-0021",
@@ -12,23 +12,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 654.4,
-          "cumulativeTimeSec": 654.4,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 13,
+          "lapTimeSec": 667.4,
           "cumulativeTimeSec": 667.4,
           "rankAtLap": 4
         },
         {
-          "lapTimeSec": -33.5,
-          "cumulativeTimeSec": 633.9,
+          "lapNumber": 2,
+          "lapTimeSec": 633.9,
+          "cumulativeTimeSec": 1301.3,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CCM-000-7161",
@@ -38,23 +33,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 696.9,
-          "cumulativeTimeSec": 696.9,
-          "rankAtLap": 4
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -56.5,
+          "lapTimeSec": 640.4,
           "cumulativeTimeSec": 640.4,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": -8.2,
-          "cumulativeTimeSec": 632.2,
+          "lapNumber": 2,
+          "lapTimeSec": 632.2,
+          "cumulativeTimeSec": 1272.6,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-234-0013",
@@ -64,23 +54,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 686.5,
-          "cumulativeTimeSec": 686.5,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -30.9,
+          "lapTimeSec": 655.6,
           "cumulativeTimeSec": 655.6,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": -8,
-          "cumulativeTimeSec": 647.6,
+          "lapNumber": 2,
+          "lapTimeSec": 647.6,
+          "cumulativeTimeSec": 1303.2,
           "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-190-0031",
@@ -90,23 +75,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 692,
-          "cumulativeTimeSec": 692,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -27.2,
+          "lapTimeSec": 664.8,
           "cumulativeTimeSec": 664.8,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": 19.4,
-          "cumulativeTimeSec": 684.2,
+          "lapNumber": 2,
+          "lapTimeSec": 684.2,
+          "cumulativeTimeSec": 1349,
           "rankAtLap": 4
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CXK-256-0033",
@@ -116,18 +96,12 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1236.4,
-          "cumulativeTimeSec": 1236.4,
-          "rankAtLap": 5
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -0.8,
+          "lapTimeSec": 1235.6,
           "cumulativeTimeSec": 1235.6,
           "rankAtLap": 5
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

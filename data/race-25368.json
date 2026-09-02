@@ -2,7 +2,7 @@
   "raceId": "25368",
   "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-01T14:34:36.867Z",
+  "updatedAt": "2026-09-01T23:06:11.955Z",
   "riders": [
     {
       "riderId": "XTK-178-0059",
@@ -12,23 +12,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 598.5,
-          "cumulativeTimeSec": 598.5,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": -6.6,
+          "lapTimeSec": 591.9,
           "cumulativeTimeSec": 591.9,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 16.4,
-          "cumulativeTimeSec": 608.3,
+          "lapNumber": 2,
+          "lapTimeSec": 608.3,
+          "cumulativeTimeSec": 1200.1999999999998,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-201-0043",
@@ -38,23 +33,18 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 614.5,
-          "cumulativeTimeSec": 614.5,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 0.4,
+          "lapTimeSec": 614.9,
           "cumulativeTimeSec": 614.9,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": -29.7,
-          "cumulativeTimeSec": 585.2,
+          "lapNumber": 2,
+          "lapTimeSec": 585.2,
+          "cumulativeTimeSec": 1200.1,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-234-0063",
@@ -64,13 +54,7 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 748.7,
-          "cumulativeTimeSec": 748.7,
-          "rankAtLap": 3
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 29.1,
+          "lapTimeSec": 777.8,
           "cumulativeTimeSec": 777.8,
           "rankAtLap": 3
         }

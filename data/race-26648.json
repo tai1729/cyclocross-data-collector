@@ -2,7 +2,7 @@
   "raceId": "26648",
   "raceName": "2026-01-10 東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1（東海クロス）",
   "category": "WE2",
-  "updatedAt": "2026-09-01T14:36:04.648Z",
+  "updatedAt": "2026-09-01T23:05:55.493Z",
   "promotionZoneRank": 1,
   "riders": [
     {
@@ -12,30 +12,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 500.7,
           "cumulativeTimeSec": 500.7,
           "rankAtLap": 2
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 480.4,
+          "cumulativeTimeSec": 981.0999999999999,
+          "rankAtLap": 1
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": -20.3,
-          "cumulativeTimeSec": 480.4,
+          "lapTimeSec": 497.5,
+          "cumulativeTimeSec": 1478.6,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 17.1,
-          "cumulativeTimeSec": 497.5,
-          "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": 7.9,
-          "cumulativeTimeSec": 505.4,
+          "lapTimeSec": 505.4,
+          "cumulativeTimeSec": 1984,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CCM-178-0039",
@@ -44,30 +45,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 501.5,
           "cumulativeTimeSec": 501.5,
           "rankAtLap": 3
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 499.5,
+          "cumulativeTimeSec": 1001,
+          "rankAtLap": 2
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": -2,
-          "cumulativeTimeSec": 499.5,
+          "lapTimeSec": 509.8,
+          "cumulativeTimeSec": 1510.8,
           "rankAtLap": 2
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 10.3,
-          "cumulativeTimeSec": 509.8,
-          "rankAtLap": 2
-        },
-        {
-          "lapTimeSec": 12.7,
-          "cumulativeTimeSec": 522.5,
+          "lapTimeSec": 522.5,
+          "cumulativeTimeSec": 2033.3,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CCM-178-0040",
@@ -76,27 +78,28 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 500.1,
           "cumulativeTimeSec": 500.1,
           "rankAtLap": 1
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 516.8,
+          "cumulativeTimeSec": 1016.9,
+          "rankAtLap": 3
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 16.7,
-          "cumulativeTimeSec": 516.8,
+          "lapTimeSec": 523.4,
+          "cumulativeTimeSec": 1540.3,
           "rankAtLap": 3
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 6.6,
-          "cumulativeTimeSec": 523.4,
-          "rankAtLap": 4
-        },
-        {
-          "lapTimeSec": 9.5,
-          "cumulativeTimeSec": 532.9,
-          "rankAtLap": 4
+          "lapTimeSec": 532.9,
+          "cumulativeTimeSec": 2073.2,
+          "rankAtLap": 3
         }
       ],
       "dataQuality": "ok"
@@ -108,30 +111,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 552.8,
           "cumulativeTimeSec": 552.8,
           "rankAtLap": 6
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 525.3,
+          "cumulativeTimeSec": 1078.1,
+          "rankAtLap": 4
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": -27.5,
-          "cumulativeTimeSec": 525.3,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 1601.3,
           "rankAtLap": 4
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": -2.1,
-          "cumulativeTimeSec": 523.2,
-          "rankAtLap": 3
-        },
-        {
-          "lapTimeSec": 2.1,
-          "cumulativeTimeSec": 525.3,
-          "rankAtLap": 3
+          "lapTimeSec": 525.3,
+          "cumulativeTimeSec": 2126.6,
+          "rankAtLap": 4
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "CHB-212-0044",
@@ -140,30 +144,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 530.9,
           "cumulativeTimeSec": 530.9,
           "rankAtLap": 4
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 547.6,
+          "cumulativeTimeSec": 1078.5,
+          "rankAtLap": 5
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 16.7,
-          "cumulativeTimeSec": 547.6,
-          "rankAtLap": 6
+          "lapTimeSec": 539,
+          "cumulativeTimeSec": 1617.5,
+          "rankAtLap": 5
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": -8.6,
-          "cumulativeTimeSec": 539,
-          "rankAtLap": 5
-        },
-        {
-          "lapTimeSec": -1.2,
-          "cumulativeTimeSec": 537.8,
+          "lapTimeSec": 537.8,
+          "cumulativeTimeSec": 2155.3,
           "rankAtLap": 5
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-234-0056",
@@ -172,26 +177,27 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 542,
           "cumulativeTimeSec": 542,
           "rankAtLap": 5
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 4.5,
-          "cumulativeTimeSec": 546.5,
-          "rankAtLap": 5
-        },
-        {
-          "lapNumber": 4,
-          "lapTimeSec": 5.8,
-          "cumulativeTimeSec": 552.3,
+          "lapNumber": 2,
+          "lapTimeSec": 546.5,
+          "cumulativeTimeSec": 1088.5,
           "rankAtLap": 6
         },
         {
-          "lapTimeSec": 2,
-          "cumulativeTimeSec": 554.3,
+          "lapNumber": 3,
+          "lapTimeSec": 552.3,
+          "cumulativeTimeSec": 1640.8,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 554.3,
+          "cumulativeTimeSec": 2195.1,
           "rankAtLap": 6
         }
       ],
@@ -204,30 +210,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 554.3,
           "cumulativeTimeSec": 554.3,
           "rankAtLap": 7
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 554.4,
+          "cumulativeTimeSec": 1108.6999999999998,
+          "rankAtLap": 7
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 0.1,
-          "cumulativeTimeSec": 554.4,
+          "lapTimeSec": 564.9,
+          "cumulativeTimeSec": 1673.6,
           "rankAtLap": 7
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 10.5,
-          "cumulativeTimeSec": 564.9,
-          "rankAtLap": 7
-        },
-        {
-          "lapTimeSec": -3.3,
-          "cumulativeTimeSec": 561.6,
+          "lapTimeSec": 561.6,
+          "cumulativeTimeSec": 2235.2,
           "rankAtLap": 7
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "KNS-156-0072",
@@ -236,30 +243,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 581.6,
           "cumulativeTimeSec": 581.6,
           "rankAtLap": 9
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 568.5,
+          "cumulativeTimeSec": 1150.1,
+          "rankAtLap": 8
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": -13.1,
-          "cumulativeTimeSec": 568.5,
+          "lapTimeSec": 586.7,
+          "cumulativeTimeSec": 1736.8,
           "rankAtLap": 8
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 18.2,
-          "cumulativeTimeSec": 586.7,
+          "lapTimeSec": 597,
+          "cumulativeTimeSec": 2333.8,
           "rankAtLap": 8
-        },
-        {
-          "lapTimeSec": 10.3,
-          "cumulativeTimeSec": 597,
-          "rankAtLap": 9
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-223-0107",
@@ -268,30 +276,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 591.5,
           "cumulativeTimeSec": 591.5,
           "rankAtLap": 10
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 587.8,
+          "cumulativeTimeSec": 1179.3,
+          "rankAtLap": 10
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": -3.7,
-          "cumulativeTimeSec": 587.8,
+          "lapTimeSec": 587.1,
+          "cumulativeTimeSec": 1766.4,
           "rankAtLap": 9
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": -0.7,
-          "cumulativeTimeSec": 587.1,
+          "lapTimeSec": 610.1,
+          "cumulativeTimeSec": 2376.5,
           "rankAtLap": 9
-        },
-        {
-          "lapTimeSec": 23,
-          "cumulativeTimeSec": 610.1,
-          "rankAtLap": 10
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-256-0084",
@@ -300,30 +309,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 574.8,
           "cumulativeTimeSec": 574.8,
           "rankAtLap": 8
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 595.5,
+          "cumulativeTimeSec": 1170.3,
+          "rankAtLap": 9
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 20.7,
-          "cumulativeTimeSec": 595.5,
+          "lapTimeSec": 629.3,
+          "cumulativeTimeSec": 1799.6,
           "rankAtLap": 10
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 33.8,
-          "cumulativeTimeSec": 629.3,
-          "rankAtLap": 11
-        },
-        {
-          "lapTimeSec": -13.5,
-          "cumulativeTimeSec": 615.8,
-          "rankAtLap": 11
+          "lapTimeSec": 615.8,
+          "cumulativeTimeSec": 2415.3999999999996,
+          "rankAtLap": 10
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-234-0057",
@@ -332,30 +342,31 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 596.1,
           "cumulativeTimeSec": 596.1,
           "rankAtLap": 11
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 604.9,
+          "cumulativeTimeSec": 1201,
+          "rankAtLap": 11
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 8.8,
-          "cumulativeTimeSec": 604.9,
+          "lapTimeSec": 623.5,
+          "cumulativeTimeSec": 1824.5,
           "rankAtLap": 11
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 18.6,
-          "cumulativeTimeSec": 623.5,
-          "rankAtLap": 10
-        },
-        {
-          "lapTimeSec": -31.7,
-          "cumulativeTimeSec": 591.8,
-          "rankAtLap": 8
+          "lapTimeSec": 591.8,
+          "cumulativeTimeSec": 2416.3,
+          "rankAtLap": 11
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-156-0092",
@@ -364,26 +375,27 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 615.5,
           "cumulativeTimeSec": 615.5,
           "rankAtLap": 12
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 628.5,
+          "cumulativeTimeSec": 1244,
+          "rankAtLap": 12
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 13,
-          "cumulativeTimeSec": 628.5,
+          "lapTimeSec": 642.4,
+          "cumulativeTimeSec": 1886.4,
           "rankAtLap": 12
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 13.9,
-          "cumulativeTimeSec": 642.4,
-          "rankAtLap": 12
-        },
-        {
-          "lapTimeSec": 11.4,
-          "cumulativeTimeSec": 653.8,
+          "lapTimeSec": 653.8,
+          "cumulativeTimeSec": 2540.2,
           "rankAtLap": 12
         }
       ],

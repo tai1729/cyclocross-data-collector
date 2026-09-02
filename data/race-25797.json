@@ -2,7 +2,7 @@
   "raceId": "25797",
   "raceName": "2025-12-07 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-01T14:35:10.187Z",
+  "updatedAt": "2026-09-01T23:06:05.368Z",
   "riders": [
     {
       "riderId": "TKI-256-0063",
@@ -12,17 +12,12 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 273.5,
-          "cumulativeTimeSec": 273.5,
-          "rankAtLap": 2
-        },
-        {
-          "lapTimeSec": -29.2,
+          "lapTimeSec": 244.3,
           "cumulativeTimeSec": 244.3,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TCX-189-0030",
@@ -32,17 +27,12 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 273,
-          "cumulativeTimeSec": 273,
-          "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": -22.7,
+          "lapTimeSec": 250.3,
           "cumulativeTimeSec": 250.3,
           "rankAtLap": 2
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     },
     {
       "riderId": "TKI-190-0130",
@@ -52,17 +42,12 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 297.8,
-          "cumulativeTimeSec": 297.8,
-          "rankAtLap": 3
-        },
-        {
-          "lapTimeSec": -16.5,
+          "lapTimeSec": 281.3,
           "cumulativeTimeSec": 281.3,
           "rankAtLap": 3
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }

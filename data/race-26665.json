@@ -2,7 +2,7 @@
   "raceId": "26665",
   "raceName": "2026-01-11 東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-01T14:36:10.708Z",
+  "updatedAt": "2026-09-01T23:05:51.626Z",
   "riders": [
     {
       "riderId": "SHN-212-0007",
@@ -11,24 +11,25 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 597.9,
           "cumulativeTimeSec": 597.9,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 29,
-          "cumulativeTimeSec": 626.9,
+          "lapNumber": 2,
+          "lapTimeSec": 626.9,
+          "cumulativeTimeSec": 1224.8,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": -13.3,
-          "cumulativeTimeSec": 613.6,
+          "lapNumber": 3,
+          "lapTimeSec": 613.6,
+          "cumulativeTimeSec": 1838.4,
           "rankAtLap": 1
         }
       ],
-      "dataQuality": "error"
+      "dataQuality": "ok"
     }
   ]
 }
