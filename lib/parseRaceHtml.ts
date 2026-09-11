@@ -40,6 +40,7 @@ function parseLapTableSchema($: cheerio.CheerioAPI): LapTableSchema {
   const hasStartLoop = labels[0] === "StartLoop";
   const lapNumbers: number[] = [];
   for (const label of labels) {
+    if (label === "StartLoop") continue;
     const match = label.match(/(\d+)\s*周/);
     if (match) lapNumbers.push(Number(match[1]));
   }
@@ -49,6 +50,24 @@ function parseLapTableSchema($: cheerio.CheerioAPI): LapTableSchema {
     cellOffset: hasStartLoop ? 1 : 0,
     valueType: hasStartLoop ? "lap-time" : "cumulative",
   };
+}
+
+function parseOfficialRaceLapNumbers(
+  $: cheerio.CheerioAPI,
+  fallback: readonly number[],
+): number[] {
+  const lapDescription = $("dt")
+    .filter((_, element) => $(element).text().includes("\u5468\u56de\u6570"))
+    .next("dd")
+    .first()
+    .text();
+  const match = lapDescription.match(/[\u00d7x]\s*(\d+)\s*Lap/i);
+  const lapCount = match ? Number(match[1]) : null;
+  if (lapCount === null || !Number.isSafeInteger(lapCount) || lapCount <= 0) {
+    return [...fallback];
+  }
+
+  return Array.from({ length: lapCount }, (_, index) => index + 1);
 }
 
 interface ParsedRow {
@@ -304,6 +323,7 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
   const category = $("#ec_name").text().trim();
 
   const lapTableSchema = parseLapTableSchema($);
+  const raceLapNumbers = parseOfficialRaceLapNumbers($, lapTableSchema.lapNumbers);
   const rawRiders = parseRawRiders($, lapTableSchema);
   backfillFinalLapFromResults($, rawRiders, lapTableSchema.lapNumbers);
   const rankAtLapByRider = buildRankAtLapMap(rawRiders);
@@ -326,6 +346,9 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
     raceName,
     category,
     updatedAt: new Date().toISOString(),
+    ...(raceLapNumbers.length > 0
+      ? { raceLapNumbers }
+      : {}),
     ...(promotionZoneRank !== undefined ? { promotionZoneRank } : {}),
     riders,
   };

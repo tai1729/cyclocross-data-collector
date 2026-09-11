@@ -31,6 +31,8 @@ export interface RaceResult {
   raceName: string;
   category: string;
   updatedAt: string;
+  /** Official numbered lap sequence parsed from the lap-time table header. */
+  raceLapNumbers?: number[];
   /**
    * このレースのカテゴリーで昇格した選手がいる場合のみ設定する
    * （昇格圏内の最下位の順位＝昇格ライン）。

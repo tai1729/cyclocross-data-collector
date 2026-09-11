@@ -6,12 +6,19 @@ export function parseClockToSec(text: string): number | null {
   const trimmed = text.trim();
   if (!trimmed) return null;
 
-  const match = trimmed.match(/^(\d+):(\d+(?:\.\d+)?)$/);
+  const match = trimmed.match(/^(\d+):(?:(\d{2}):)?(\d+(?:\.\d+)?)$/);
   if (!match) return null;
 
-  const minutes = Number(match[1]);
-  const seconds = Number(match[2]);
-  if (Number.isNaN(minutes) || Number.isNaN(seconds)) return null;
+  const firstUnit = Number(match[1]);
+  const middleUnit = match[2] === undefined ? null : Number(match[2]);
+  const seconds = Number(match[3]);
+  if (!Number.isFinite(firstUnit) || !Number.isFinite(seconds)) return null;
+  if (middleUnit !== null && (!Number.isFinite(middleUnit) || middleUnit >= 60)) return null;
+  if (seconds >= 60) return null;
 
-  return Math.round((minutes * 60 + seconds) * 10) / 10;
+  const totalSeconds = middleUnit === null
+    ? firstUnit * 60 + seconds
+    : firstUnit * 3600 + middleUnit * 60 + seconds;
+  if (!Number.isFinite(totalSeconds)) return null;
+  return Math.round(totalSeconds * 10) / 10;
 }
