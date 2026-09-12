@@ -1,0 +1,75 @@
+{
+  "raceId": "21930",
+  "raceName": "2024-11-03 東海シクロクロス 第1戦 岐阜県山県市 おおが城山公園（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:33:45.299Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-212-0029",
+      "name": "玉田 智子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 354,
+          "cumulativeTimeSec": 354,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 356,
+          "cumulativeTimeSec": 710,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0001",
+      "name": "林 祥子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 411.2,
+          "cumulativeTimeSec": 411.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 397.8,
+          "cumulativeTimeSec": 809,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0002",
+      "name": "大澤 由郁",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 436.1,
+          "cumulativeTimeSec": 436.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 459.9,
+          "cumulativeTimeSec": 896,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

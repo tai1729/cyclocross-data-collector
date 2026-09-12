@@ -1,0 +1,54 @@
+{
+  "raceId": "23089",
+  "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:36:08.546Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 317.1,
+          "cumulativeTimeSec": 317.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 315.4,
+          "cumulativeTimeSec": 632.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-234-0016",
+      "name": "板垣 春希",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377.5,
+          "cumulativeTimeSec": 377.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 357.4,
+          "cumulativeTimeSec": 734.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

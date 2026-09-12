@@ -1,0 +1,42 @@
+{
+  "raceId": "18085",
+  "raceName": "2023-10-29 御殿場シクロクロス Supported by 湘南CX （湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:26:39.711Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-212-0034",
+      "name": "武田 祐一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1000.4,
+          "cumulativeTimeSec": 1000.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0130",
+      "name": "本多 香幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1049.4,
+          "cumulativeTimeSec": 1049.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

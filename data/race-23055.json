@@ -1,0 +1,61 @@
+{
+  "raceId": "23055",
+  "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:36:04.931Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-234-0042",
+      "name": "小林 萌",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 770.4,
+          "cumulativeTimeSec": 770.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 774.1,
+          "cumulativeTimeSec": 1544.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 808.4,
+          "cumulativeTimeSec": 2352.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0017",
+      "name": "泉 香織",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 820.5,
+          "cumulativeTimeSec": 820.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 926,
+          "cumulativeTimeSec": 1746.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

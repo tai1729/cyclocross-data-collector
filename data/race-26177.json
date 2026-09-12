@@ -2,7 +2,11 @@
   "raceId": "26177",
   "raceName": "2025-12-21 関西シクロクロス 第6戦 信太山（関西クロス）",
   "category": "CC",
-  "updatedAt": "2026-09-01T14:35:30.909Z",
+  "updatedAt": "2026-09-12T04:41:31.377Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
   "riders": [
     {
       "riderId": "KNS-256-0096",
@@ -12,19 +16,14 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 266.3,
-          "cumulativeTimeSec": 266.3,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 478.3,
+          "lapTimeSec": 744.6,
           "cumulativeTimeSec": 744.6,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 479.6,
-          "cumulativeTimeSec": 1224.2,
+          "lapNumber": 2,
+          "lapTimeSec": 1224.2,
+          "cumulativeTimeSec": 1968.8000000000002,
           "rankAtLap": 1
         }
       ],

@@ -1,0 +1,121 @@
+{
+  "raceId": "22909",
+  "raceName": "2025-01-12      湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:35:46.828Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-212-0008",
+      "name": "稲葉 立",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 289.6,
+          "cumulativeTimeSec": 289.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 305,
+          "cumulativeTimeSec": 594.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 295.8,
+          "cumulativeTimeSec": 890.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 290.4,
+          "cumulativeTimeSec": 290.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 305.7,
+          "cumulativeTimeSec": 596.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 298,
+          "cumulativeTimeSec": 894.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 289.2,
+          "cumulativeTimeSec": 289.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 305.6,
+          "cumulativeTimeSec": 594.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 301.8,
+          "cumulativeTimeSec": 896.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-234-0009",
+      "name": "沖島 旺我",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.3,
+          "cumulativeTimeSec": 350.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.4,
+          "cumulativeTimeSec": 723.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 355.1,
+          "cumulativeTimeSec": 1078.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

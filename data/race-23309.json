@@ -1,0 +1,33 @@
+{
+  "raceId": "23309",
+  "raceName": "2025-02-02 野田シクロクロス25（野田シクロクロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:36:32.922Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-234-0134",
+      "name": "志村 愛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1201.4,
+          "cumulativeTimeSec": 1201.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1212.1,
+          "cumulativeTimeSec": 2413.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "raceId": "18494",
+  "raceName": "2023-11-26 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:27:27.830Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-190-0089",
+      "name": "佐野 将麻",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 588,
+          "cumulativeTimeSec": 588,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 608,
+          "cumulativeTimeSec": 1196,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 626,
+          "cumulativeTimeSec": 1822,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 649,
+          "cumulativeTimeSec": 2471,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0301",
+      "name": "五百蔵 賀之",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 628,
+          "cumulativeTimeSec": 628,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673,
+          "cumulativeTimeSec": 1301,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 670,
+          "cumulativeTimeSec": 1971,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0064",
+      "name": "山中 祐輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 617,
+          "cumulativeTimeSec": 617,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 679,
+          "cumulativeTimeSec": 1296,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 678,
+          "cumulativeTimeSec": 1974,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0202",
+      "name": "山本 太智",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 634,
+          "cumulativeTimeSec": 634,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 778,
+          "cumulativeTimeSec": 1412,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 882,
+          "cumulativeTimeSec": 2294,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

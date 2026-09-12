@@ -1,0 +1,94 @@
+{
+  "raceId": "22714",
+  "raceName": "2024-12-15 第30回全日本選手権シクロクロスDay2（全日本選手権）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:35:18.653Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0280",
+      "name": "齋藤 結陽",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 577.8,
+          "cumulativeTimeSec": 577.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.5,
+          "cumulativeTimeSec": 1065.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 495.8,
+          "cumulativeTimeSec": 1561.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0068",
+      "name": "数元 陽華",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646.7,
+          "cumulativeTimeSec": 646.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.3,
+          "cumulativeTimeSec": 1177,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 540.5,
+          "cumulativeTimeSec": 1717.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 647,
+          "cumulativeTimeSec": 647,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 528.3,
+          "cumulativeTimeSec": 1175.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 547.2,
+          "cumulativeTimeSec": 1722.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

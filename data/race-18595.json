@@ -1,0 +1,94 @@
+{
+  "raceId": "18595",
+  "raceName": "2023-11-26 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:27:33.870Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-178-0184",
+      "name": "伊藤 隆聖",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 630.5,
+          "cumulativeTimeSec": 630.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 509.8,
+          "cumulativeTimeSec": 1140.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 504.6,
+          "cumulativeTimeSec": 1644.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0032",
+      "name": "諏訪 琉生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 648.6,
+          "cumulativeTimeSec": 648.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 534.7,
+          "cumulativeTimeSec": 1183.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 533,
+          "cumulativeTimeSec": 1716.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0279",
+      "name": "佐藤 那音",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 780.7,
+          "cumulativeTimeSec": 780.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673.7,
+          "cumulativeTimeSec": 1454.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 686.2,
+          "cumulativeTimeSec": 2140.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

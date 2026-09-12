@@ -1,0 +1,54 @@
+{
+  "raceId": "18589",
+  "raceName": "2023-11-26 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:27:32.688Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-234-0009",
+      "name": "飯塚 青葉",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 317.7,
+          "cumulativeTimeSec": 317.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 277.4,
+          "cumulativeTimeSec": 595.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 310.3,
+          "cumulativeTimeSec": 310.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 370.7,
+          "cumulativeTimeSec": 681,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

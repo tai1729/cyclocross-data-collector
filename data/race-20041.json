@@ -1,0 +1,67 @@
+{
+  "raceId": "20041",
+  "raceName": "2024-01-21 関西シクロクロス 第8戦 富田林（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:29:15.609Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0166",
+      "name": "大貫 哲誠",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 330,
+          "cumulativeTimeSec": 330,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 277.5,
+          "cumulativeTimeSec": 607.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 295.3,
+          "cumulativeTimeSec": 902.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0113",
+      "name": "西林 佳人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 349.6,
+          "cumulativeTimeSec": 349.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 363.1,
+          "cumulativeTimeSec": 712.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 353.9,
+          "cumulativeTimeSec": 1066.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

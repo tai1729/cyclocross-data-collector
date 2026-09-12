@@ -1,0 +1,94 @@
+{
+  "raceId": "22918",
+  "raceName": "2025-01-12      湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:35:49.166Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1501",
+      "name": "西山 みゆき",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 498.7,
+          "cumulativeTimeSec": 498.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 524.6,
+          "cumulativeTimeSec": 1023.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 1529.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 579.5,
+          "cumulativeTimeSec": 579.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 563.4,
+          "cumulativeTimeSec": 1142.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 598.6,
+          "cumulativeTimeSec": 1741.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-178-0039",
+      "name": "伊達 千鶴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 657.6,
+          "cumulativeTimeSec": 657.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 681.9,
+          "cumulativeTimeSec": 1339.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 717.2,
+          "cumulativeTimeSec": 2056.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "raceId": "19467",
+  "raceName": "2023-12-24 シクロクロスミーティングシリーズ　シーズン2023-2024 第8戦　清里（信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:28:36.378Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0035",
+      "name": "小林 真清",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.9,
+          "cumulativeTimeSec": 548.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 563,
+          "cumulativeTimeSec": 1111.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.1,
+          "cumulativeTimeSec": 1678,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.1,
+          "cumulativeTimeSec": 550.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.6,
+          "cumulativeTimeSec": 1135.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 570.3,
+          "cumulativeTimeSec": 1706,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-9015",
+      "name": "矢野 麻利",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 864.5,
+          "cumulativeTimeSec": 864.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 923.4,
+          "cumulativeTimeSec": 1787.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

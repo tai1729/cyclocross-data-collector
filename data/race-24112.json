@@ -1,0 +1,74 @@
+{
+  "raceId": "24112",
+  "raceName": "2025-01-19 シクロクロスミーティングシリーズ　シーズン2024-2025　第10戦　（信州クロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:36:15.873Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0083",
+      "name": "齋藤 古都美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 480.7,
+          "cumulativeTimeSec": 480.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 556.4,
+          "cumulativeTimeSec": 1037.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.3,
+          "cumulativeTimeSec": 1597.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 521.9,
+          "cumulativeTimeSec": 2119.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-9015",
+      "name": "矢野 麻利",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 647.9,
+          "cumulativeTimeSec": 647.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 770.6,
+          "cumulativeTimeSec": 1418.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 727.5,
+          "cumulativeTimeSec": 2146,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

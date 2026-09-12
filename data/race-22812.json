@@ -1,0 +1,47 @@
+{
+  "raceId": "22812",
+  "raceName": "2025-01-05 シクロクロス千葉#14（千葉クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:35:31.814Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 443.8,
+          "cumulativeTimeSec": 443.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 464.8,
+          "cumulativeTimeSec": 908.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 473.5,
+          "cumulativeTimeSec": 1382.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 449,
+          "cumulativeTimeSec": 1831.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

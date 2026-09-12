@@ -1,0 +1,54 @@
+{
+  "raceId": "19682",
+  "raceName": "2024-01-21 東北CXシリーズ#4ざおうさまカップ（東北 CX Project）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:29:08.192Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-223-0019",
+      "name": "開沼 美結",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 704.3,
+          "cumulativeTimeSec": 704.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 715.5,
+          "cumulativeTimeSec": 1419.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 813.7,
+          "cumulativeTimeSec": 813.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 825.8,
+          "cumulativeTimeSec": 1639.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

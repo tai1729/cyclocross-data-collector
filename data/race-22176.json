@@ -1,0 +1,94 @@
+{
+  "raceId": "22176",
+  "raceName": "2024-11-17 茨城シクロクロス第3戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:34:20.091Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 242.4,
+          "cumulativeTimeSec": 242.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 239,
+          "cumulativeTimeSec": 481.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 244.3,
+          "cumulativeTimeSec": 725.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 263.4,
+          "cumulativeTimeSec": 263.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 266.3,
+          "cumulativeTimeSec": 529.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 388.6,
+          "cumulativeTimeSec": 918.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 295.2,
+          "cumulativeTimeSec": 295.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 344.5,
+          "cumulativeTimeSec": 639.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 318.7,
+          "cumulativeTimeSec": 958.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

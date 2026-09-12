@@ -1,0 +1,75 @@
+{
+  "raceId": "22653",
+  "raceName": "2024-12-08 茨城シクロクロス第4戦城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM40",
+  "updatedAt": "2026-09-12T04:35:08.477Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-189-0005",
+      "name": "高橋 伸明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 668.3,
+          "cumulativeTimeSec": 668.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 659.4,
+          "cumulativeTimeSec": 1327.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0038",
+      "name": "小林 幹昇",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 665.9,
+          "cumulativeTimeSec": 665.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 663.3,
+          "cumulativeTimeSec": 1329.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0013",
+      "name": "秋山 宏之",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 636,
+          "cumulativeTimeSec": 636,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 831.1,
+          "cumulativeTimeSec": 1467.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "22792",
+  "raceName": "2024-12-22 関西シクロクロス 第6戦 信太山（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:35:27.033Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0068",
+      "name": "数元 陽華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 829,
+          "cumulativeTimeSec": 829,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 459.2,
+          "cumulativeTimeSec": 1288.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 453.1,
+          "cumulativeTimeSec": 1741.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 857.7,
+          "cumulativeTimeSec": 857.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.5,
+          "cumulativeTimeSec": 1331.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 463.7,
+          "cumulativeTimeSec": 1794.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

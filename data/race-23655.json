@@ -1,0 +1,96 @@
+{
+  "raceId": "23655",
+  "raceName": "2025-02-16 東海シクロクロス 第7戦 愛知県豊田市 千石公園（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:36:53.381Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-234-0057",
+      "name": "中川 万里",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 278.3,
+          "cumulativeTimeSec": 278.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268.5,
+          "cumulativeTimeSec": 546.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0130",
+      "name": "本多 香幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.3,
+          "cumulativeTimeSec": 301.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 309.3,
+          "cumulativeTimeSec": 610.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0184",
+      "name": "青山 紗季",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 327.7,
+          "cumulativeTimeSec": 327.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.9,
+          "cumulativeTimeSec": 655.5999999999999,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 353.7,
+          "cumulativeTimeSec": 353.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 374.8,
+          "cumulativeTimeSec": 728.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

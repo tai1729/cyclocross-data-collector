@@ -1,0 +1,94 @@
+{
+  "raceId": "20380",
+  "raceName": "2024-02-11 関西シクロクロス 二色の浜グランプリ(1日目)（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:30:00.223Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7201",
+      "name": "矢野 柊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 500.8,
+          "cumulativeTimeSec": 500.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.3,
+          "cumulativeTimeSec": 984.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 498.1,
+          "cumulativeTimeSec": 1482.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 508.1,
+          "cumulativeTimeSec": 508.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 1031.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 520.5,
+          "cumulativeTimeSec": 1551.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0131",
+      "name": "辻本 直矢",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.9,
+          "cumulativeTimeSec": 530.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 516.1,
+          "cumulativeTimeSec": 1047,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 531.2,
+          "cumulativeTimeSec": 1578.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

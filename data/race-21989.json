@@ -1,0 +1,48 @@
+{
+  "raceId": "21989",
+  "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:33:49.960Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MDX-234-0003",
+      "name": "今井 秋里",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646.3,
+          "cumulativeTimeSec": 646.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1287.2,
+          "cumulativeTimeSec": 1933.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-245-0003",
+      "name": "横山 悟",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 751.9,
+          "cumulativeTimeSec": 751.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

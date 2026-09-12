@@ -1,0 +1,75 @@
+{
+  "raceId": "21691",
+  "raceName": "2024-10-13 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:33:22.618Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 368.1,
+          "cumulativeTimeSec": 368.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 341.9,
+          "cumulativeTimeSec": 710,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 406.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 362.9,
+          "cumulativeTimeSec": 769,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405.8,
+          "cumulativeTimeSec": 405.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 363.5,
+          "cumulativeTimeSec": 769.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

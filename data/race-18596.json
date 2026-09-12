@@ -1,0 +1,54 @@
+{
+  "raceId": "18596",
+  "raceName": "2023-11-26 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:27:33.915Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0280",
+      "name": "齋藤 結陽",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 826.5,
+          "cumulativeTimeSec": 826.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 725.1,
+          "cumulativeTimeSec": 1551.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 849.3,
+          "cumulativeTimeSec": 849.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 745.3,
+          "cumulativeTimeSec": 1594.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

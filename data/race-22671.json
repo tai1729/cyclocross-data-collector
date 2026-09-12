@@ -1,0 +1,80 @@
+{
+  "raceId": "22671",
+  "raceName": "2024-12-08 シクロクロスミーティングシリーズ　シーズン2024-2025　第9戦　南信州（信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:35:11.948Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-156-0042",
+      "name": "鈴木 理恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 420.3,
+          "cumulativeTimeSec": 420.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 475,
+          "cumulativeTimeSec": 895.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 480.5,
+          "cumulativeTimeSec": 1375.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 475.5,
+          "cumulativeTimeSec": 1851.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7567",
+      "name": "長崎 佑子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 460.1,
+          "cumulativeTimeSec": 460.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 519.8,
+          "cumulativeTimeSec": 979.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 521.6,
+          "cumulativeTimeSec": 1501.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 526.9,
+          "cumulativeTimeSec": 2028.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "raceId": "18679",
+  "raceName": "2023-12-03 関西シクロクロス 第4戦 マキノ（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:27:46.600Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0271",
+      "name": "阪根 康太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 509.1,
+          "cumulativeTimeSec": 509.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 521,
+          "cumulativeTimeSec": 1030.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 517.1,
+          "cumulativeTimeSec": 1547.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522.5,
+          "cumulativeTimeSec": 522.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.3,
+          "cumulativeTimeSec": 1044.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 505.5,
+          "cumulativeTimeSec": 1550.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0027",
+      "name": "田中 遼介",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 533.6,
+          "cumulativeTimeSec": 533.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 540.7,
+          "cumulativeTimeSec": 1074.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 542,
+          "cumulativeTimeSec": 1616.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4576",
+      "name": "柿本 圭治郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 526.5,
+          "cumulativeTimeSec": 526.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557.8,
+          "cumulativeTimeSec": 1084.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.9,
+          "cumulativeTimeSec": 1651.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 537.7,
+          "cumulativeTimeSec": 537.7,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 582.5,
+          "cumulativeTimeSec": 1120.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 574,
+          "cumulativeTimeSec": 1694.2,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0180",
+      "name": "福井 慎",
+      "finalPosition": 6,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.4,
+          "cumulativeTimeSec": 530.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

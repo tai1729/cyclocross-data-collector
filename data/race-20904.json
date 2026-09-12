@@ -1,0 +1,93 @@
+{
+  "raceId": "20904",
+  "raceName": "2024-01-28 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:29:40.367Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0001",
+      "name": "今泉 蒼人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 384.5,
+          "cumulativeTimeSec": 384.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 374.6,
+          "cumulativeTimeSec": 759.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 373.9,
+          "cumulativeTimeSec": 1133,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 387.4,
+          "cumulativeTimeSec": 1520.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 370.3,
+          "cumulativeTimeSec": 1890.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0009",
+      "name": "尾崎 愛周",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 460.5,
+          "cumulativeTimeSec": 460.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 437.3,
+          "cumulativeTimeSec": 897.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 441.2,
+          "cumulativeTimeSec": 1339,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 446.3,
+          "cumulativeTimeSec": 1785.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 455.3,
+          "cumulativeTimeSec": 2240.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

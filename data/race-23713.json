@@ -1,0 +1,90 @@
+{
+  "raceId": "23713",
+  "raceName": "2025-02-16 前橋シクロクロス 岩神緑地 Day2（前橋シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:37:05.889Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0136",
+      "name": "馬場 悠貴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 432.5,
+          "cumulativeTimeSec": 432.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 435.7,
+          "cumulativeTimeSec": 868.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-245-0025",
+      "name": "佐藤 然",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 521.1,
+          "cumulativeTimeSec": 521.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.2,
+          "cumulativeTimeSec": 1016.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-245-0027",
+      "name": "大林 駿",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 524.4,
+          "cumulativeTimeSec": 524.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.2,
+          "cumulativeTimeSec": 1019.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-245-0029",
+      "name": "新川 洸太郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 714.4,
+          "cumulativeTimeSec": 714.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

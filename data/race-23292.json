@@ -1,0 +1,67 @@
+{
+  "raceId": "23292",
+  "raceName": "2025-01-26 第10回高知CX ヤシィシクロクロスカップ（四国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:36:28.926Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0356",
+      "name": "林 舜二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 313.8,
+          "cumulativeTimeSec": 313.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 169.8,
+          "cumulativeTimeSec": 483.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 280.3,
+          "cumulativeTimeSec": 763.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-245-0003",
+      "name": "吉川 弘哉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 348.5,
+          "cumulativeTimeSec": 348.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 193.1,
+          "cumulativeTimeSec": 541.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 223,
+          "cumulativeTimeSec": 764.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

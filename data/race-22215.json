@@ -1,0 +1,96 @@
+{
+  "raceId": "22215",
+  "raceName": "2024-11-24 東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:34:30.493Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MDX-234-0018",
+      "name": "大和田 煌仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 252.1,
+          "cumulativeTimeSec": 252.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 226.9,
+          "cumulativeTimeSec": 479,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0006",
+      "name": "渡辺 陽葵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 281.8,
+          "cumulativeTimeSec": 281.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 243.5,
+          "cumulativeTimeSec": 525.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0008",
+      "name": "村上 耀太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.3,
+          "cumulativeTimeSec": 284.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250.2,
+          "cumulativeTimeSec": 534.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0071",
+      "name": "松川 颯",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 334,
+          "cumulativeTimeSec": 334,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 310.3,
+          "cumulativeTimeSec": 644.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

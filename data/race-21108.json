@@ -1,0 +1,80 @@
+{
+  "raceId": "21108",
+  "raceName": "2024-09-15 茨城シクロクロス第1戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:33:07.671Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 154.5,
+          "cumulativeTimeSec": 154.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 218.7,
+          "cumulativeTimeSec": 373.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 227.3,
+          "cumulativeTimeSec": 600.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 220.9,
+          "cumulativeTimeSec": 821.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 232,
+          "cumulativeTimeSec": 232,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268,
+          "cumulativeTimeSec": 500,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 265.2,
+          "cumulativeTimeSec": 765.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 270.7,
+          "cumulativeTimeSec": 1035.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

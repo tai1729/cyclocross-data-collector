@@ -1,0 +1,113 @@
+{
+  "raceId": "18154",
+  "raceName": "2023-11-05 23-24幕張クロス#10（千葉クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:26:52.172Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-167-0061",
+      "name": "石川 七海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.2,
+          "cumulativeTimeSec": 400.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 407.6,
+          "cumulativeTimeSec": 807.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 415.3,
+          "cumulativeTimeSec": 1223.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 421.6,
+          "cumulativeTimeSec": 1644.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 412.3,
+          "cumulativeTimeSec": 412.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.6,
+          "cumulativeTimeSec": 829.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 426.1,
+          "cumulativeTimeSec": 1256,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 429.2,
+          "cumulativeTimeSec": 1685.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0033",
+      "name": "小林 碧",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 439.5,
+          "cumulativeTimeSec": 439.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 476.4,
+          "cumulativeTimeSec": 915.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 458.2,
+          "cumulativeTimeSec": 1374.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 449.4,
+          "cumulativeTimeSec": 1823.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

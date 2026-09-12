@@ -1,0 +1,54 @@
+{
+  "raceId": "21712",
+  "raceName": "2024-10-20 シクロクロスミーティングシリーズ　シーズン2024-2025　第2戦　富士山（信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:33:27.674Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 478.3,
+          "cumulativeTimeSec": 478.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429.7,
+          "cumulativeTimeSec": 908,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 433,
+          "cumulativeTimeSec": 1341,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 423.8,
+          "cumulativeTimeSec": 1764.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 432.2,
+          "cumulativeTimeSec": 2197,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

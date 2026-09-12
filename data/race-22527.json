@@ -1,0 +1,122 @@
+{
+  "raceId": "22527",
+  "raceName": "2024-12-01 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:34:52.842Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-245-0050",
+      "name": "丹野 夏波",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 436.3,
+          "cumulativeTimeSec": 436.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 442.1,
+          "cumulativeTimeSec": 878.4000000000001,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 438,
+          "cumulativeTimeSec": 1316.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0005",
+      "name": "阪本 実樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 465.5,
+          "cumulativeTimeSec": 465.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 452.5,
+          "cumulativeTimeSec": 918,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 442,
+          "cumulativeTimeSec": 1360,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0176",
+      "name": "足立 今日子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 507.5,
+          "cumulativeTimeSec": 507.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.2,
+          "cumulativeTimeSec": 1015.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 499.4,
+          "cumulativeTimeSec": 1515.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4605",
+      "name": "山脇 輝枝",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 577.4,
+          "cumulativeTimeSec": 577.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 570.8,
+          "cumulativeTimeSec": 1148.1999999999998,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571.7,
+          "cumulativeTimeSec": 1719.8999999999999,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

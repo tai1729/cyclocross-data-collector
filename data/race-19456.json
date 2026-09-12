@@ -1,0 +1,120 @@
+{
+  "raceId": "19456",
+  "raceName": "2023-12-24 2023-24もみじシクロクロス第３戦 （もみじシクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:28:33.766Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-234-3008",
+      "name": "河本 龍ノ助",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 164.4,
+          "cumulativeTimeSec": 164.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 196,
+          "cumulativeTimeSec": 360.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 197.6,
+          "cumulativeTimeSec": 558,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 217.7,
+          "cumulativeTimeSec": 775.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 246.6,
+          "cumulativeTimeSec": 1022.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0024",
+      "name": "森村 望",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 283.2,
+          "cumulativeTimeSec": 283.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 241.7,
+          "cumulativeTimeSec": 524.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 226.1,
+          "cumulativeTimeSec": 751,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 213.5,
+          "cumulativeTimeSec": 964.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-223-8009",
+      "name": "永尾 明寛",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 259.2,
+          "cumulativeTimeSec": 259.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 239.3,
+          "cumulativeTimeSec": 498.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 231.8,
+          "cumulativeTimeSec": 730.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 236.1,
+          "cumulativeTimeSec": 966.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

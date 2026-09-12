@@ -1,0 +1,117 @@
+{
+  "raceId": "19048",
+  "raceName": "2023-12-10 松伏シクロクロス23（野田シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:27:56.734Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-201-0028",
+      "name": "村田 心泰",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 114.6,
+          "cumulativeTimeSec": 114.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 130.4,
+          "cumulativeTimeSec": 245,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 148.2,
+          "cumulativeTimeSec": 148.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 172.3,
+          "cumulativeTimeSec": 320.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0141",
+      "name": "海野 遙真",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 155.2,
+          "cumulativeTimeSec": 155.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 184.5,
+          "cumulativeTimeSec": 339.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0014",
+      "name": "内田 慧",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 211.4,
+          "cumulativeTimeSec": 211.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 231.8,
+          "cumulativeTimeSec": 443.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MDX-234-0004",
+      "name": "相柄 碧羽",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 216.9,
+          "cumulativeTimeSec": 216.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 251.2,
+          "cumulativeTimeSec": 468.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

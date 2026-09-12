@@ -1,0 +1,76 @@
+{
+  "raceId": "22149",
+  "raceName": "2024-11-16 シクロクロスミーティングシリーズ　シーズン2024-2025 第6戦　チロルの森day1（信州クロス）",
+  "category": "キッズカテゴリー2",
+  "updatedAt": "2026-09-12T04:34:14.146Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 334,
+          "cumulativeTimeSec": 334,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 290.2,
+          "cumulativeTimeSec": 624.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0033",
+      "name": "花島 正樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 358.2,
+          "cumulativeTimeSec": 358.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 345.2,
+          "cumulativeTimeSec": 703.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0288",
+      "name": "奥西 楓太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.8,
+          "cumulativeTimeSec": 368.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 361.8,
+          "cumulativeTimeSec": 730.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

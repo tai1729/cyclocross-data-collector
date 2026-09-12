@@ -1,0 +1,75 @@
+{
+  "raceId": "18316",
+  "raceName": "2023-11-12 東海シクロクロス 第1戦 岐阜県山県市 おおが城山公園（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:27:06.007Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-190-0033",
+      "name": "奥村 仁美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 258,
+          "cumulativeTimeSec": 258,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 269,
+          "cumulativeTimeSec": 527,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0004",
+      "name": "新名 真理弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 269,
+          "cumulativeTimeSec": 269,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268,
+          "cumulativeTimeSec": 537,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 271,
+          "cumulativeTimeSec": 271,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 281,
+          "cumulativeTimeSec": 552,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

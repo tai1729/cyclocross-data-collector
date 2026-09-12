@@ -1,0 +1,75 @@
+{
+  "raceId": "19619",
+  "raceName": "2024-01-07 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:32:45.476Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-212-0008",
+      "name": "稲葉 立",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 390.3,
+          "cumulativeTimeSec": 390.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 360.9,
+          "cumulativeTimeSec": 751.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 502.2,
+          "cumulativeTimeSec": 502.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429.3,
+          "cumulativeTimeSec": 931.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9014",
+      "name": "横山 創",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 553.3,
+          "cumulativeTimeSec": 553.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 527.1,
+          "cumulativeTimeSec": 1080.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

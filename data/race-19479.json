@@ -1,0 +1,68 @@
+{
+  "raceId": "19479",
+  "raceName": "2023-12-24 シクロクロスミーティングシリーズ　シーズン2023-2024 第8戦　清里（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:28:39.072Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-223-0021",
+      "name": "中込 圭",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 203.4,
+          "cumulativeTimeSec": 203.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 216.9,
+          "cumulativeTimeSec": 420.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 225,
+          "cumulativeTimeSec": 645.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0024",
+      "name": "田切 琉聖",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 206.6,
+          "cumulativeTimeSec": 206.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 235.5,
+          "cumulativeTimeSec": 442.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 228.7,
+          "cumulativeTimeSec": 670.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

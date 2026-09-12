@@ -1,0 +1,121 @@
+{
+  "raceId": "23030",
+  "raceName": "2025-01-12 関西シクロクロス 第8戦 二色の浜(1日目)（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:35:58.787Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.7,
+          "cumulativeTimeSec": 520.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 516.7,
+          "cumulativeTimeSec": 1037.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 530.1,
+          "cumulativeTimeSec": 1567.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582.6,
+          "cumulativeTimeSec": 582.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 589.2,
+          "cumulativeTimeSec": 1171.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 595,
+          "cumulativeTimeSec": 1766.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0216",
+      "name": "塚本 優月",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 619.2,
+          "cumulativeTimeSec": 619.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 617.8,
+          "cumulativeTimeSec": 1237,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 686.3,
+          "cumulativeTimeSec": 1923.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0063",
+      "name": "本多 美緒",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.1,
+          "cumulativeTimeSec": 701.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 675.4,
+          "cumulativeTimeSec": 1376.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 694.6,
+          "cumulativeTimeSec": 2071.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

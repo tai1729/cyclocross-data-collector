@@ -1,0 +1,93 @@
+{
+  "raceId": "24105",
+  "raceName": "2025-03-16 2024-25もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "MJ",
+  "updatedAt": "2026-09-12T04:37:38.288Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0008",
+      "name": "中平 泰棋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 849.4,
+          "cumulativeTimeSec": 849.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1282.7,
+          "cumulativeTimeSec": 2132.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1736.1,
+          "cumulativeTimeSec": 3868.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2223.1,
+          "cumulativeTimeSec": 6091.299999999999,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2717.3,
+          "cumulativeTimeSec": 8808.599999999999,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-234-3006",
+      "name": "石原 太一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 935.6,
+          "cumulativeTimeSec": 935.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1401.2,
+          "cumulativeTimeSec": 2336.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1844,
+          "cumulativeTimeSec": 4180.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2287.2,
+          "cumulativeTimeSec": 6468,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2735.3,
+          "cumulativeTimeSec": 9203.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

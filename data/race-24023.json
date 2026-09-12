@@ -1,0 +1,134 @@
+{
+  "raceId": "24023",
+  "raceName": "2025-03-02 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:37:24.497Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0035",
+      "name": "石井 寿弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 307.8,
+          "cumulativeTimeSec": 307.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 420.7,
+          "cumulativeTimeSec": 728.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 530.4,
+          "cumulativeTimeSec": 1258.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 639.6,
+          "cumulativeTimeSec": 1898.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0189",
+      "name": "小島 真音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 336.7,
+          "cumulativeTimeSec": 336.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 456.9,
+          "cumulativeTimeSec": 793.5999999999999,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 577.5,
+          "cumulativeTimeSec": 1371.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 690.9,
+          "cumulativeTimeSec": 2062,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0036",
+      "name": "柴田 宗昌",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 334.1,
+          "cumulativeTimeSec": 334.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 454.3,
+          "cumulativeTimeSec": 788.4000000000001,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 578.8,
+          "cumulativeTimeSec": 1367.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 699.6,
+          "cumulativeTimeSec": 2066.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0013",
+      "name": "柴田 宗典",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 501,
+          "cumulativeTimeSec": 501,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 692.2,
+          "cumulativeTimeSec": 1193.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

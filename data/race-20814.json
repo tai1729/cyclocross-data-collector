@@ -1,0 +1,40 @@
+{
+  "raceId": "20814",
+  "raceName": "2024-02-25 2023-24もみじシクロクロス第４戦 （もみじシクロクロス）",
+  "category": "C3",
+  "updatedAt": "2026-09-12T04:30:25.190Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-178-0079",
+      "name": "井上 裕樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 995.2,
+          "cumulativeTimeSec": 995.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1490.3,
+          "cumulativeTimeSec": 2485.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1994.2,
+          "cumulativeTimeSec": 4479.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

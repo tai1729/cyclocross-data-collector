@@ -1,0 +1,134 @@
+{
+  "raceId": "20191",
+  "raceName": "2024-01-28 関西シクロクロス 第9戦 堺浜（関西クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:29:33.233Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0301",
+      "name": "五百蔵 賀之",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.5,
+          "cumulativeTimeSec": 532.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 496.4,
+          "cumulativeTimeSec": 1028.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 502.9,
+          "cumulativeTimeSec": 1531.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 512.3,
+          "cumulativeTimeSec": 2044.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0101",
+      "name": "藤本 周平",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 529.3,
+          "cumulativeTimeSec": 529.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 507.1,
+          "cumulativeTimeSec": 1036.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 517.7,
+          "cumulativeTimeSec": 1554.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 521.8,
+          "cumulativeTimeSec": 2075.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0187",
+      "name": "瀬戸 健瑠",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 504.6,
+          "cumulativeTimeSec": 504.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 492.1,
+          "cumulativeTimeSec": 996.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 796.6,
+          "cumulativeTimeSec": 1793.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0343",
+      "name": "國分 大地",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 623.6,
+          "cumulativeTimeSec": 623.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600.9,
+          "cumulativeTimeSec": 1224.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 584.3,
+          "cumulativeTimeSec": 1808.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

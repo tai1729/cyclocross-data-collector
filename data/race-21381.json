@@ -1,0 +1,87 @@
+{
+  "raceId": "21381",
+  "raceName": "2024-09-29 シクロクロスミーティングシリーズ　シーズン2024-2025　第1戦  白樺湖（信州クロス）",
+  "category": "MM40+MM45",
+  "updatedAt": "2026-09-12T04:33:10.998Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-178-0054",
+      "name": "ＳＴＥＷＡＲＴ ＶＡＵＧＨＡＮ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 510,
+          "cumulativeTimeSec": 510,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 1016,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 512,
+          "cumulativeTimeSec": 1528,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 519,
+          "cumulativeTimeSec": 2047,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 514,
+          "cumulativeTimeSec": 2561,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0203",
+      "name": "野口 徹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 594,
+          "cumulativeTimeSec": 594,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 622,
+          "cumulativeTimeSec": 1216,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1835,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 647,
+          "cumulativeTimeSec": 2482,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

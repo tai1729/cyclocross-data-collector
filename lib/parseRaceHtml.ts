@@ -8,6 +8,37 @@ function extractRiderIdFromHref(href: string | undefined): string | null {
   return match ? match[1] : null;
 }
 
+function fallbackRiderId(raceId: string, rowOrdinal: number): string {
+  return "race-" + raceId + "-row-" + rowOrdinal;
+}
+
+function parseAcceptedRank(rankText: string): {
+  status: Rider["status"];
+  numericPosition: number | null;
+} | null {
+  const numericPosition = Number(rankText);
+  if (/^\d+$/.test(rankText) && Number.isSafeInteger(numericPosition) && numericPosition > 0) {
+    return { status: "finished", numericPosition };
+  }
+  if (rankText === "DNF") {
+    return { status: "dnf", numericPosition: null };
+  }
+  return null;
+}
+
+function getRiderIdentity(
+  name: string,
+  href: string | undefined,
+  raceId: string,
+  rowOrdinal: number,
+): { riderId: string; name: string } {
+  return {
+    name,
+    riderId:
+      extractRiderIdFromHref(href) ?? fallbackRiderId(raceId, rowOrdinal),
+  };
+}
+
 interface RawLapCell {
   lapNumber: number;
   cumulativeTimeSec: number | null;
@@ -34,7 +65,10 @@ interface LapTableSchema {
  * レースによって開始周が1周からでない場合があるため、決め打ちにしない。
  */
 function parseLapTableSchema($: cheerio.CheerioAPI): LapTableSchema {
-  const labels = $(".table__laptime thead th.cell__lapat")
+  const headerCells = $(".table__laptime thead th.cell__lapat");
+  const labels = (headerCells.length > 0
+    ? headerCells
+    : $(".table__laptime thead th").slice(2))
     .toArray()
     .map((el) => $(el).text().trim());
   const hasStartLoop = labels[0] === "StartLoop";
@@ -67,6 +101,13 @@ function parseOfficialRaceLapNumbers(
     return [...fallback];
   }
 
+  // A small number of historical pages publish a stale metadata lap count
+  // while the numbered timing header contains additional official checkpoints.
+  // Keep the source-provided header axis in that case; never truncate measured
+  // checkpoints or infer an axis from a selected rider.
+  const fallbackLastLap = fallback.at(-1) ?? 0;
+  if (fallbackLastLap > lapCount) return [...fallback];
+
   return Array.from({ length: lapCount }, (_, index) => index + 1);
 }
 
@@ -80,25 +121,49 @@ interface ParsedRow {
   hasAnomaly: boolean;
 }
 
-function parseRawRiders($: cheerio.CheerioAPI, schema: LapTableSchema): RawRider[] {
+interface ParsedRiders {
+  riders: RawRider[];
+  excludedRowsByStatus: Record<string, number>;
+}
+
+function sortStatusCounts(counts: Map<string, number>): Record<string, number> {
+  return Object.fromEntries(
+    [...counts.entries()].sort(([left], [right]) => left.localeCompare(right)),
+  );
+}
+
+function parseRawRiders(
+  $: cheerio.CheerioAPI,
+  schema: LapTableSchema,
+  raceId: string,
+): ParsedRiders {
   const rows: ParsedRow[] = [];
+  const excludedRowsByStatus = new Map<string, number>();
 
-  $(".table__laptime tbody tr").each((_, rowEl) => {
+  $(".table__laptime tbody tr").each((rowOrdinal, rowEl) => {
     const $row = $(rowEl);
-    const rankText = $row.find("td.cell__rank").first().text().trim();
+    const rankCell = $row.find("td.cell__rank").first();
+    const rankText = (rankCell.length > 0 ? rankCell : $row.find("td").first())
+      .text()
+      .trim();
+    const parsedRank = parseAcceptedRank(rankText);
+    if (!parsedRank) {
+      excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
+      return;
+    }
 
-    // DNS（欠場）はラップデータが存在しないため完全に除外する
-    if (rankText === "DNS") return;
-
-    const numericPosition = Number(rankText);
-    const isFinished = Number.isInteger(numericPosition) && numericPosition > 0;
-
-    // DNFでも完走順位でもない想定外の値は除外する
-    if (!isFinished && rankText !== "DNF") return;
-
-    const riderAnchor = $row.find("td.cell__rider a").first();
-    const name = riderAnchor.text().trim();
-    const riderId = extractRiderIdFromHref(riderAnchor.attr("href")) ?? name;
+    const riderCell = $row.find("td.cell__rider").first();
+    const riderAnchor = $row.find("td.cell__rider a, a[href*='/racer/']").first();
+    const { riderId, name } = getRiderIdentity(
+      riderAnchor.length > 0
+        ? riderAnchor.text().trim()
+        : riderCell.length > 0
+          ? riderCell.text().trim()
+          : $row.find("td").eq(1).text().trim(),
+      riderAnchor.attr("href"),
+      raceId,
+      rowOrdinal + 1,
+    );
 
     const lapCellEls = $row
       .find("td")
@@ -135,8 +200,8 @@ function parseRawRiders($: cheerio.CheerioAPI, schema: LapTableSchema): RawRider
     rows.push({
       riderId,
       name,
-      status: isFinished ? "finished" : "dnf",
-      numericPosition: isFinished ? numericPosition : null,
+      status: parsedRank.status,
+      numericPosition: parsedRank.numericPosition,
       lapCells,
       hasAnomaly,
     });
@@ -149,14 +214,74 @@ function parseRawRiders($: cheerio.CheerioAPI, schema: LapTableSchema): RawRider
   );
   let dnfCount = 0;
 
-  return rows.map((row) => ({
-    riderId: row.riderId,
-    name: row.name,
-    status: row.status,
-    finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
-    lapCells: row.lapCells,
-    hasAnomaly: row.hasAnomaly,
-  }));
+  return {
+    riders: rows.map((row) => ({
+      riderId: row.riderId,
+      name: row.name,
+      status: row.status,
+      finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
+      lapCells: row.lapCells,
+      hasAnomaly: row.hasAnomaly,
+    })),
+    excludedRowsByStatus: sortStatusCounts(excludedRowsByStatus),
+  };
+}
+
+function parseResultRiders($: cheerio.CheerioAPI, raceId: string): ParsedRiders {
+  const rows: ParsedRow[] = [];
+  const excludedRowsByStatus = new Map<string, number>();
+
+  $("table.table__result tbody tr").each((rowOrdinal, rowEl) => {
+    const $row = $(rowEl);
+    const rankCell = $row.find("td.cell__rank").first();
+    const parsedRank = parseAcceptedRank(
+      (rankCell.length > 0 ? rankCell : $row.find("td").first()).text().trim(),
+    );
+    if (!parsedRank) {
+      const rankText = (rankCell.length > 0 ? rankCell : $row.find("td").first()).text().trim();
+      excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
+      return;
+    }
+
+    const riderCell = $row.find("td.cell__rider").first();
+    const riderAnchor = $row.find("td.cell__rider a, a[href*='/racer/']").first();
+    const { riderId, name } = getRiderIdentity(
+      riderAnchor.length > 0
+        ? riderAnchor.text().trim()
+        : riderCell.length > 0
+          ? riderCell.text().trim()
+          : $row.find("td").eq(1).text().trim(),
+      riderAnchor.attr("href"),
+      raceId,
+      rowOrdinal + 1,
+    );
+    rows.push({
+      riderId,
+      name,
+      status: parsedRank.status,
+      numericPosition: parsedRank.numericPosition,
+      lapCells: [],
+      hasAnomaly: false,
+    });
+  });
+
+  const maxFinisherPosition = rows.reduce(
+    (max, r) => (r.numericPosition !== null ? Math.max(max, r.numericPosition) : max),
+    0,
+  );
+  let dnfCount = 0;
+
+  return {
+    riders: rows.map((row) => ({
+      riderId: row.riderId,
+      name: row.name,
+      status: row.status,
+      finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
+      lapCells: row.lapCells,
+      hasAnomaly: row.hasAnomaly,
+    })),
+    excludedRowsByStatus: sortStatusCounts(excludedRowsByStatus),
+  };
 }
 
 /**
@@ -164,15 +289,19 @@ function parseRawRiders($: cheerio.CheerioAPI, schema: LapTableSchema): RawRider
  * 1位は絶対タイム、2位以降は1位との差分（+M:SS）で表記されているため、
  * 1位のタイムに差分を足し合わせて総合タイムを求める。
  */
-function parseResultTotalTimes($: cheerio.CheerioAPI): Map<string, number> {
+function parseResultTotalTimes($: cheerio.CheerioAPI, raceId: string): Map<string, number> {
   const totals = new Map<string, number>();
   let leaderTotal: number | null = null;
 
-  $("table.table__result tbody tr").each((_, rowEl) => {
+  $("table.table__result tbody tr").each((rowOrdinal, rowEl) => {
     const $row = $(rowEl);
-    const riderHref = $row.find("td a").first().attr("href");
-    const riderId = extractRiderIdFromHref(riderHref);
-    if (!riderId) return;
+    const riderAnchor = $row.find("td.cell__rider a, a[href*='/racer/']").first();
+    const { riderId } = getRiderIdentity(
+      riderAnchor.text().trim(),
+      riderAnchor.attr("href"),
+      raceId,
+      rowOrdinal + 1,
+    );
 
     const rawText = $row.find("td.cell__timegap").first().text().trim();
     if (!rawText) return;
@@ -200,10 +329,11 @@ function parseResultTotalTimes($: cheerio.CheerioAPI): Map<string, number> {
 function backfillFinalLapFromResults(
   $: cheerio.CheerioAPI,
   rawRiders: RawRider[],
-  lapNumbers: number[]
+  lapNumbers: number[],
+  raceId: string,
 ): void {
   if (lapNumbers.length === 0) return;
-  const resultTotalTimes = parseResultTotalTimes($);
+  const resultTotalTimes = parseResultTotalTimes($, raceId);
 
   for (const rider of rawRiders) {
     if (rider.status !== "finished") continue;
@@ -324,8 +454,19 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
 
   const lapTableSchema = parseLapTableSchema($);
   const raceLapNumbers = parseOfficialRaceLapNumbers($, lapTableSchema.lapNumbers);
-  const rawRiders = parseRawRiders($, lapTableSchema);
-  backfillFinalLapFromResults($, rawRiders, lapTableSchema.lapNumbers);
+  const parsedLapRiders = parseRawRiders($, lapTableSchema, raceId);
+  const parsedResultRiders = parsedLapRiders.riders.length > 0
+    ? null
+    : parseResultRiders($, raceId);
+  const parsed = parsedLapRiders.riders.length > 0
+    ? parsedLapRiders
+    : parsedResultRiders &&
+        (parsedResultRiders.riders.length > 0 ||
+          Object.keys(parsedResultRiders.excludedRowsByStatus).length > 0)
+      ? parsedResultRiders
+      : parsedLapRiders;
+  const rawRiders = parsed.riders;
+  backfillFinalLapFromResults($, rawRiders, lapTableSchema.lapNumbers, raceId);
   const rankAtLapByRider = buildRankAtLapMap(rawRiders);
 
   const riders: Rider[] = rawRiders.map((rawRider) => ({
@@ -350,6 +491,9 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
       ? { raceLapNumbers }
       : {}),
     ...(promotionZoneRank !== undefined ? { promotionZoneRank } : {}),
+    ...(Object.keys(parsed.excludedRowsByStatus).length > 0
+      ? { excludedRowsByStatus: parsed.excludedRowsByStatus }
+      : {}),
     riders,
   };
 }

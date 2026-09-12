@@ -1,0 +1,96 @@
+{
+  "raceId": "23523",
+  "raceName": "2025-02-15 前橋シクロクロス 岩神緑地 Day1（前橋シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:36:51.111Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-245-0007",
+      "name": "飯島 勘多",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 354.7,
+          "cumulativeTimeSec": 354.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 349,
+          "cumulativeTimeSec": 703.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-234-0004",
+      "name": "鈴木 湊友",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 471,
+          "cumulativeTimeSec": 471,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 486,
+          "cumulativeTimeSec": 957,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-245-0078",
+      "name": "杉山 陽翔",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.1,
+          "cumulativeTimeSec": 542.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 566.7,
+          "cumulativeTimeSec": 1108.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-234-0029",
+      "name": "櫻井 美茉",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 616.9,
+          "cumulativeTimeSec": 616.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 655,
+          "cumulativeTimeSec": 1271.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

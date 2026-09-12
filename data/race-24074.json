@@ -1,0 +1,74 @@
+{
+  "raceId": "24074",
+  "raceName": "2025-03-09 阿波シクロクロス（四国クロス）",
+  "category": "U15",
+  "updatedAt": "2026-09-12T04:37:33.893Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0247",
+      "name": "林 展一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 385.4,
+          "cumulativeTimeSec": 385.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 423.1,
+          "cumulativeTimeSec": 808.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 430.5,
+          "cumulativeTimeSec": 1239,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 432,
+          "cumulativeTimeSec": 1671,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0021",
+      "name": "行田 楓",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 632.7,
+          "cumulativeTimeSec": 632.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 548.8,
+          "cumulativeTimeSec": 1181.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 475.5,
+          "cumulativeTimeSec": 1657,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

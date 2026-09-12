@@ -1,0 +1,121 @@
+{
+  "raceId": "23048",
+  "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
+  "category": "MM60",
+  "updatedAt": "2026-09-12T04:36:03.476Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-201-0032",
+      "name": "田辺 明宏",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 492.6,
+          "cumulativeTimeSec": 492.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 502,
+          "cumulativeTimeSec": 994.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 502.4,
+          "cumulativeTimeSec": 1497,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0001",
+      "name": "江部 敏",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 496.9,
+          "cumulativeTimeSec": 496.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 520,
+          "cumulativeTimeSec": 1016.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.1,
+          "cumulativeTimeSec": 1502,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0187",
+      "name": "助川 修",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 513.1,
+          "cumulativeTimeSec": 513.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 506.9,
+          "cumulativeTimeSec": 1020,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 508,
+          "cumulativeTimeSec": 1528,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0007",
+      "name": "武田 善弘",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 551.8,
+          "cumulativeTimeSec": 551.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.5,
+          "cumulativeTimeSec": 1137.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 576,
+          "cumulativeTimeSec": 1713.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

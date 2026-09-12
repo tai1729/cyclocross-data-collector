@@ -1,0 +1,67 @@
+{
+  "raceId": "22177",
+  "raceName": "2024-11-17 茨城シクロクロス第3戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "Category Challenge",
+  "updatedAt": "2026-09-12T04:34:20.071Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-245-0006",
+      "name": "藤村 海仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 298.3,
+          "cumulativeTimeSec": 298.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 296.9,
+          "cumulativeTimeSec": 595.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 306.3,
+          "cumulativeTimeSec": 901.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0020",
+      "name": "乾 隆至",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 304.8,
+          "cumulativeTimeSec": 304.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 311.2,
+          "cumulativeTimeSec": 616,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 317.3,
+          "cumulativeTimeSec": 933.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

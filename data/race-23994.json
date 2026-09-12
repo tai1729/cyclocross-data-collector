@@ -1,0 +1,99 @@
+{
+  "raceId": "23994",
+  "raceName": "2025-03-02 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:37:23.043Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0103",
+      "name": "新藤 匠真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 323.6,
+          "cumulativeTimeSec": 323.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 316.3,
+          "cumulativeTimeSec": 639.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0136",
+      "name": "馬場 悠貴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 357.3,
+          "cumulativeTimeSec": 357.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 343.8,
+          "cumulativeTimeSec": 701.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0026",
+      "name": "田崎 葉",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405,
+          "cumulativeTimeSec": 405,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-234-0019",
+      "name": "浅川 結翔",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 407.7,
+          "cumulativeTimeSec": 407.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0018",
+      "name": "森脇 惟斗",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 425.2,
+          "cumulativeTimeSec": 425.2,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

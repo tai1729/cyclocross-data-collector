@@ -1,0 +1,94 @@
+{
+  "raceId": "22049",
+  "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:33:59.258Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 553.2,
+          "cumulativeTimeSec": 553.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1092.8,
+          "cumulativeTimeSec": 1646,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1624.3,
+          "cumulativeTimeSec": 3270.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0033",
+      "name": "小林 碧",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 575.6,
+          "cumulativeTimeSec": 575.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1125.4,
+          "cumulativeTimeSec": 1701,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1671.2,
+          "cumulativeTimeSec": 3372.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.7,
+          "cumulativeTimeSec": 670.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1311.7,
+          "cumulativeTimeSec": 1982.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1945,
+          "cumulativeTimeSec": 3927.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

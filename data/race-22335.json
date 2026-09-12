@@ -1,0 +1,75 @@
+{
+  "raceId": "22335",
+  "raceName": "2024-11-24 シクロクロスミーティングシリーズ　シーズン2024-2025　第8戦　上山田（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:34:42.874Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0043",
+      "name": "湯原 和",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 442.7,
+          "cumulativeTimeSec": 442.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 453.5,
+          "cumulativeTimeSec": 896.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0029",
+      "name": "森林 烈規",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 470.4,
+          "cumulativeTimeSec": 470.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 466.6,
+          "cumulativeTimeSec": 937,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0025",
+      "name": "野嵜 日貴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 471.4,
+          "cumulativeTimeSec": 471.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 489.7,
+          "cumulativeTimeSec": 961.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

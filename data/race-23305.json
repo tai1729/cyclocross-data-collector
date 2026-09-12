@@ -1,0 +1,67 @@
+{
+  "raceId": "23305",
+  "raceName": "2025-02-02 野田シクロクロス25（野田シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:36:31.892Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-190-0039",
+      "name": "村上 蕾夢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 497.3,
+          "cumulativeTimeSec": 497.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 589.7,
+          "cumulativeTimeSec": 1087,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 572.7,
+          "cumulativeTimeSec": 1659.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0039",
+      "name": "水沼 龍之介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 642.6,
+          "cumulativeTimeSec": 642.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 745.1,
+          "cumulativeTimeSec": 1387.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 783.4,
+          "cumulativeTimeSec": 2171.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

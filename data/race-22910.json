@@ -1,0 +1,40 @@
+{
+  "raceId": "22910",
+  "raceName": "2025-01-12      湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:35:46.685Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-223-9014",
+      "name": "横山 創",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 338.7,
+          "cumulativeTimeSec": 338.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 359,
+          "cumulativeTimeSec": 697.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 351.6,
+          "cumulativeTimeSec": 1049.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

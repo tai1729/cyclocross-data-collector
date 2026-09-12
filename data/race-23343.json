@@ -1,0 +1,54 @@
+{
+  "raceId": "23343",
+  "raceName": "2025-02-08 CYCLOCROSS TOKYO 2025 Day1（千葉クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:36:41.531Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1121.1,
+          "cumulativeTimeSec": 1121.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 665.9,
+          "cumulativeTimeSec": 1787,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0138",
+      "name": "阿部 怜奈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1439.1,
+          "cumulativeTimeSec": 1439.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 810.8,
+          "cumulativeTimeSec": 2249.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

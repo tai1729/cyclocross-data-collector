@@ -1,0 +1,94 @@
+{
+  "raceId": "24081",
+  "raceName": "2025-03-09 阿波シクロクロス（四国クロス）",
+  "category": "W3",
+  "updatedAt": "2026-09-12T04:37:35.114Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-245-0016",
+      "name": "才門 香織",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.8,
+          "cumulativeTimeSec": 406.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412.7,
+          "cumulativeTimeSec": 819.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 416.7,
+          "cumulativeTimeSec": 1236.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3052",
+      "name": "神谷 みを",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 448,
+          "cumulativeTimeSec": 448,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 438.1,
+          "cumulativeTimeSec": 886.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.7,
+          "cumulativeTimeSec": 1318.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0047",
+      "name": "西尾 友希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 444.7,
+          "cumulativeTimeSec": 444.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 445.4,
+          "cumulativeTimeSec": 890.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 453.1,
+          "cumulativeTimeSec": 1343.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

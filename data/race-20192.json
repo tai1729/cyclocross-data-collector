@@ -1,0 +1,74 @@
+{
+  "raceId": "20192",
+  "raceName": "2024-01-28 関西シクロクロス 第9戦 堺浜（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:29:32.959Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 478.5,
+          "cumulativeTimeSec": 478.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.6,
+          "cumulativeTimeSec": 937.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 460.8,
+          "cumulativeTimeSec": 1397.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 464.3,
+          "cumulativeTimeSec": 1862.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0015",
+      "name": "藏田 瑶",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 502.7,
+          "cumulativeTimeSec": 502.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 481,
+          "cumulativeTimeSec": 983.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 859.1,
+          "cumulativeTimeSec": 1842.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "raceId": "19293",
+  "raceName": "2023-12-17 東海シクロクロス 第4戦 岐阜県 糸貫根尾川スポーツ広場(予定)（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:28:04.292Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0004",
+      "name": "新名 真理弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 191,
+          "cumulativeTimeSec": 191,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 202,
+          "cumulativeTimeSec": 393,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0029",
+      "name": "玉田 智子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 199,
+          "cumulativeTimeSec": 199,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 198,
+          "cumulativeTimeSec": 397,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 200,
+          "cumulativeTimeSec": 200,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 204,
+          "cumulativeTimeSec": 404,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-234-0048",
+      "name": "松野 舞",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 238,
+          "cumulativeTimeSec": 238,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 256,
+          "cumulativeTimeSec": 494,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

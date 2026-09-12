@@ -1,0 +1,40 @@
+{
+  "raceId": "20381",
+  "raceName": "2024-02-11 関西シクロクロス 二色の浜グランプリ(1日目)（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:30:00.256Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 703.5,
+          "cumulativeTimeSec": 703.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600,
+          "cumulativeTimeSec": 1303.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 591.7,
+          "cumulativeTimeSec": 1895.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

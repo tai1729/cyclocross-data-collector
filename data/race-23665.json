@@ -1,0 +1,67 @@
+{
+  "raceId": "23665",
+  "raceName": "2025-02-16 東海シクロクロス 第7戦 愛知県豊田市 千石公園（東海クロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:36:56.032Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-178-0040",
+      "name": "谷江 史帆",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472,
+          "cumulativeTimeSec": 472,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 469.3,
+          "cumulativeTimeSec": 941.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.2,
+          "cumulativeTimeSec": 1398.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0220",
+      "name": "石田 依里",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472,
+          "cumulativeTimeSec": 472,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.4,
+          "cumulativeTimeSec": 940.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 465.2,
+          "cumulativeTimeSec": 1405.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

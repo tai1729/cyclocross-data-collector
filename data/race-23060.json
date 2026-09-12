@@ -1,0 +1,93 @@
+{
+  "raceId": "23060",
+  "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
+  "category": "MM35",
+  "updatedAt": "2026-09-12T04:36:05.087Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-245-0009",
+      "name": "畠山 和也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 499.6,
+          "cumulativeTimeSec": 499.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 476.7,
+          "cumulativeTimeSec": 976.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 480.5,
+          "cumulativeTimeSec": 1456.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 484.7,
+          "cumulativeTimeSec": 1941.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 471.8,
+          "cumulativeTimeSec": 2413.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-234-0006",
+      "name": "中里 貴裕",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.3,
+          "cumulativeTimeSec": 493.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 491.6,
+          "cumulativeTimeSec": 984.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 496.9,
+          "cumulativeTimeSec": 1481.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 503.4,
+          "cumulativeTimeSec": 1985.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 482.7,
+          "cumulativeTimeSec": 2467.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "raceId": "19624",
+  "raceName": "2024-01-07 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:32:47.025Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-178-0184",
+      "name": "伊藤 隆聖",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 397.2,
+          "cumulativeTimeSec": 397.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 357.5,
+          "cumulativeTimeSec": 754.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 361.3,
+          "cumulativeTimeSec": 1116,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 356.1,
+          "cumulativeTimeSec": 1472.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0062",
+      "name": "横田 壮一郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 420.9,
+          "cumulativeTimeSec": 420.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.3,
+          "cumulativeTimeSec": 811.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 383.6,
+          "cumulativeTimeSec": 1194.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 387,
+          "cumulativeTimeSec": 1581.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

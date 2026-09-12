@@ -1,0 +1,75 @@
+{
+  "raceId": "23337",
+  "raceName": "2025-02-08 CYCLOCROSS TOKYO 2025 Day1（千葉クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:36:40.198Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-178-0062",
+      "name": "横田 壮一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 971.7,
+          "cumulativeTimeSec": 971.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555.1,
+          "cumulativeTimeSec": 1526.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0020",
+      "name": "近藤 虎流",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 982.5,
+          "cumulativeTimeSec": 982.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 629,
+          "cumulativeTimeSec": 1611.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-234-0055",
+      "name": "増輪 太志",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1048.7,
+          "cumulativeTimeSec": 1048.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 626.8,
+          "cumulativeTimeSec": 1675.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raceId": "19601",
+  "raceName": "2024-01-07 シクロクロスミーティングシリーズ　シーズン2023-2024 第9戦　清里（信州クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:28:50.089Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0005",
+      "name": "綱嶋 凛々音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 581.1,
+          "cumulativeTimeSec": 581.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 492.4,
+          "cumulativeTimeSec": 1073.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0002",
+      "name": "森岡 咲希",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 840,
+          "cumulativeTimeSec": 840,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1020.2,
+          "cumulativeTimeSec": 1860.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "raceId": "22200",
+  "raceName": "2024-11-17 シクロクロスミーティングシリーズ　シーズン2024-2025 第7戦　チロルの森day2（信州クロス）",
+  "category": "女子マスターズ",
+  "updatedAt": "2026-09-12T04:34:25.713Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 483.3,
+          "cumulativeTimeSec": 483.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 456,
+          "cumulativeTimeSec": 939.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 466.2,
+          "cumulativeTimeSec": 1405.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 447.1,
+          "cumulativeTimeSec": 1852.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0035",
+      "name": "小林 真清",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 490.4,
+          "cumulativeTimeSec": 490.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 460.6,
+          "cumulativeTimeSec": 951,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 455.8,
+          "cumulativeTimeSec": 1406.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 452.2,
+          "cumulativeTimeSec": 1859,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

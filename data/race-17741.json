@@ -1,0 +1,82 @@
+{
+  "raceId": "17741",
+  "raceName": "2023-10-01 シクロクロスミーティングシリーズ　シーズン2023-2024 第1戦　白樺湖 （信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:26:16.678Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0035",
+      "name": "石井 寿弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 151.7,
+          "cumulativeTimeSec": 151.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 150.8,
+          "cumulativeTimeSec": 302.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 147.7,
+          "cumulativeTimeSec": 450.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0174",
+      "name": "松井 正橙",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 230.3,
+          "cumulativeTimeSec": 230.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 251,
+          "cumulativeTimeSec": 481.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0019",
+      "name": "松井 正樹",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 371.4,
+          "cumulativeTimeSec": 371.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 336.1,
+          "cumulativeTimeSec": 707.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

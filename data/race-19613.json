@@ -1,0 +1,94 @@
+{
+  "raceId": "19613",
+  "raceName": "2024-01-07 シクロクロスミーティングシリーズ　シーズン2023-2024 第9戦　清里（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:28:52.819Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 458.7,
+          "cumulativeTimeSec": 458.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 236,
+          "cumulativeTimeSec": 694.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 222.2,
+          "cumulativeTimeSec": 916.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 469.3,
+          "cumulativeTimeSec": 469.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 230.9,
+          "cumulativeTimeSec": 700.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 218.9,
+          "cumulativeTimeSec": 919.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0029",
+      "name": "森林 烈規",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 494,
+          "cumulativeTimeSec": 494,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250.7,
+          "cumulativeTimeSec": 744.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 254,
+          "cumulativeTimeSec": 998.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

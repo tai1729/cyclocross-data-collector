@@ -1,0 +1,67 @@
+{
+  "raceId": "20817",
+  "raceName": "2024-02-25 2023-24もみじシクロクロス第４戦 （もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:26.243Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0173",
+      "name": "梶谷 万里",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 288.2,
+          "cumulativeTimeSec": 288.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 308,
+          "cumulativeTimeSec": 596.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 315.2,
+          "cumulativeTimeSec": 911.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-234-3007",
+      "name": "船岡 浬",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 281.8,
+          "cumulativeTimeSec": 281.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 319.2,
+          "cumulativeTimeSec": 601,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 318.2,
+          "cumulativeTimeSec": 919.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

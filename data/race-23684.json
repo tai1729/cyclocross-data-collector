@@ -1,0 +1,67 @@
+{
+  "raceId": "23684",
+  "raceName": "2025-02-16 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:37:00.992Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCT-000-1076",
+      "name": "小杉 亮太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 441.5,
+          "cumulativeTimeSec": 441.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 425.6,
+          "cumulativeTimeSec": 867.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 431.9,
+          "cumulativeTimeSec": 1299,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0238",
+      "name": "竹井 健",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 396.2,
+          "cumulativeTimeSec": 396.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 342.7,
+          "cumulativeTimeSec": 738.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 723.9,
+          "cumulativeTimeSec": 1462.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

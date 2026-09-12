@@ -1,0 +1,87 @@
+{
+  "raceId": "21385",
+  "raceName": "2024-09-29 シクロクロスミーティングシリーズ　シーズン2024-2025　第1戦  白樺湖（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:33:11.925Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 122,
+          "cumulativeTimeSec": 122,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 122,
+          "cumulativeTimeSec": 244,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 124,
+          "cumulativeTimeSec": 368,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 130,
+          "cumulativeTimeSec": 498,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 128,
+          "cumulativeTimeSec": 626,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-234-9022",
+      "name": "鈴木 はる",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 192,
+          "cumulativeTimeSec": 192,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 191,
+          "cumulativeTimeSec": 383,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 200,
+          "cumulativeTimeSec": 583,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 209,
+          "cumulativeTimeSec": 792,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

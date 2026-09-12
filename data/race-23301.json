@@ -1,0 +1,121 @@
+{
+  "raceId": "23301",
+  "raceName": "2025-02-02 野田シクロクロス25（野田シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:36:31.174Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 119.9,
+          "cumulativeTimeSec": 119.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 156.5,
+          "cumulativeTimeSec": 276.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 156.6,
+          "cumulativeTimeSec": 433,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0320",
+      "name": "山口 登新",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 138.5,
+          "cumulativeTimeSec": 138.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 171.9,
+          "cumulativeTimeSec": 310.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 167.4,
+          "cumulativeTimeSec": 477.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0074",
+      "name": "守屋 和明",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 151.9,
+          "cumulativeTimeSec": 151.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 176.9,
+          "cumulativeTimeSec": 328.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 182.4,
+          "cumulativeTimeSec": 511.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0161",
+      "name": "渋谷 一",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 167,
+          "cumulativeTimeSec": 167,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 212.8,
+          "cumulativeTimeSec": 379.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 197.1,
+          "cumulativeTimeSec": 576.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

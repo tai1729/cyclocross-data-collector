@@ -1,0 +1,93 @@
+{
+  "raceId": "21850",
+  "raceName": "2024-10-27 関西シクロクロス 第1戦 御坊（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:33:39.758Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 318.8,
+          "cumulativeTimeSec": 318.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 375.8,
+          "cumulativeTimeSec": 694.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 375.9,
+          "cumulativeTimeSec": 1070.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 378.5,
+          "cumulativeTimeSec": 1449,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 373,
+          "cumulativeTimeSec": 1822,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0216",
+      "name": "塚本 優月",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 329.4,
+          "cumulativeTimeSec": 329.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.9,
+          "cumulativeTimeSec": 703.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 382.1,
+          "cumulativeTimeSec": 1085.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 390.2,
+          "cumulativeTimeSec": 1475.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 379.1,
+          "cumulativeTimeSec": 1854.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "raceId": "22517",
+  "raceName": "2024-12-01 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:34:50.382Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3685",
+      "name": "菅野 直美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 271.5,
+          "cumulativeTimeSec": 271.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0130",
+      "name": "本多 香幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.3,
+          "cumulativeTimeSec": 305.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0076",
+      "name": "石川 紫乃",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.3,
+          "cumulativeTimeSec": 301.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

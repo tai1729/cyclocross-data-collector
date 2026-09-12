@@ -1,0 +1,67 @@
+{
+  "raceId": "19354",
+  "raceName": "2023-12-17 関西シクロクロス 第5戦 信太山（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:28:14.385Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 889.5,
+          "cumulativeTimeSec": 889.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.5,
+          "cumulativeTimeSec": 1394,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 508.7,
+          "cumulativeTimeSec": 1902.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0280",
+      "name": "齋藤 結陽",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 957.1,
+          "cumulativeTimeSec": 957.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551.7,
+          "cumulativeTimeSec": 1508.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 549.7,
+          "cumulativeTimeSec": 2058.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

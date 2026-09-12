@@ -1,0 +1,117 @@
+{
+  "raceId": "21988",
+  "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:33:49.648Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0019",
+      "name": "横田 和晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 466.1,
+          "cumulativeTimeSec": 466.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 906.7,
+          "cumulativeTimeSec": 1372.8000000000002,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-223-0001",
+      "name": "田中 亮丞",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 500.1,
+          "cumulativeTimeSec": 500.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 947.9,
+          "cumulativeTimeSec": 1448,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-234-0048",
+      "name": "森田 旬",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 516.1,
+          "cumulativeTimeSec": 516.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 966.2,
+          "cumulativeTimeSec": 1482.3000000000002,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0026",
+      "name": "稲 えみり",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 625.5,
+          "cumulativeTimeSec": 625.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1269.4,
+          "cumulativeTimeSec": 1894.9,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0086",
+      "name": "本多 真幸",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 583.5,
+          "cumulativeTimeSec": 583.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1309.1,
+          "cumulativeTimeSec": 1892.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

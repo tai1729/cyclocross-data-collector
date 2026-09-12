@@ -1,0 +1,63 @@
+{
+  "raceId": "21693",
+  "raceName": "2024-10-13 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:33:23.317Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-234-0029",
+      "name": "水竹 輪",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 512.1,
+          "cumulativeTimeSec": 512.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 469,
+          "cumulativeTimeSec": 981.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-245-0003",
+      "name": "横山 悟",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 625.2,
+          "cumulativeTimeSec": 625.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-245-0078",
+      "name": "杉山 陽翔",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 792.4,
+          "cumulativeTimeSec": 792.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

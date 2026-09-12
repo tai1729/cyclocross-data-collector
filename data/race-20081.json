@@ -1,0 +1,40 @@
+{
+  "raceId": "20081",
+  "raceName": "2024-01-21 東海シクロクロス 第6戦 愛知県 愛知牧場 JCX（東海クロス）",
+  "category": "WJ",
+  "updatedAt": "2026-09-12T04:29:22.805Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0175",
+      "name": "日吉 愛華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 585,
+          "cumulativeTimeSec": 585,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581,
+          "cumulativeTimeSec": 1166,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 602,
+          "cumulativeTimeSec": 1768,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "raceId": "19073",
+  "raceName": "2023-12-03 シクロクロスミーティングシリーズ　シーズン2023-2024第6戦　GP日本金属化工所上山田（信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:27:49.066Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377,
+          "cumulativeTimeSec": 377,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.2,
+          "cumulativeTimeSec": 750.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 375.4,
+          "cumulativeTimeSec": 1125.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 378.1,
+          "cumulativeTimeSec": 1503.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 376,
+          "cumulativeTimeSec": 1879.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0035",
+      "name": "小林 真清",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 383.6,
+          "cumulativeTimeSec": 383.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.2,
+          "cumulativeTimeSec": 759.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 375.4,
+          "cumulativeTimeSec": 1135.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 377.4,
+          "cumulativeTimeSec": 1512.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 370.4,
+          "cumulativeTimeSec": 1883,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

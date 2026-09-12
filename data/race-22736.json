@@ -1,0 +1,121 @@
+{
+  "raceId": "22736",
+  "raceName": "2024-12-22 東北CXシリーズ#3いわきラウンド（東北 CX Project）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:35:21.879Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 596.9,
+          "cumulativeTimeSec": 596.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 595.9,
+          "cumulativeTimeSec": 1192.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 610.8,
+          "cumulativeTimeSec": 1803.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-212-0044",
+      "name": "松井 紀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 652.4,
+          "cumulativeTimeSec": 652.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 661.4,
+          "cumulativeTimeSec": 1313.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 641.2,
+          "cumulativeTimeSec": 1955,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 668.4,
+          "cumulativeTimeSec": 668.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 653.4,
+          "cumulativeTimeSec": 1321.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 634.5,
+          "cumulativeTimeSec": 1956.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0138",
+      "name": "阿部 怜奈",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.5,
+          "cumulativeTimeSec": 670.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 684.4,
+          "cumulativeTimeSec": 1354.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 700.1,
+          "cumulativeTimeSec": 2055,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

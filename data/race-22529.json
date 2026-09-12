@@ -1,0 +1,95 @@
+{
+  "raceId": "22529",
+  "raceName": "2024-12-01 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:34:53.361Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-167-0066",
+      "name": "蜂須賀 巧真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 360.1,
+          "cumulativeTimeSec": 360.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 356.7,
+          "cumulativeTimeSec": 716.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 354.1,
+          "cumulativeTimeSec": 1070.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0097",
+      "name": "佐野 凌麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.9,
+          "cumulativeTimeSec": 389.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 394.9,
+          "cumulativeTimeSec": 784.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 388.1,
+          "cumulativeTimeSec": 1172.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0064",
+      "name": "山中 祐輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 423.5,
+          "cumulativeTimeSec": 423.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429,
+          "cumulativeTimeSec": 852.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 409.5,
+          "cumulativeTimeSec": 1262,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

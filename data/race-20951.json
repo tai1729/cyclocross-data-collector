@@ -1,0 +1,75 @@
+{
+  "raceId": "20951",
+  "raceName": "2024-03-03 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-09-12T04:30:40.453Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-234-0005",
+      "name": "柏野 祥重",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 995.7,
+          "cumulativeTimeSec": 995.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1451.3,
+          "cumulativeTimeSec": 2447,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0082",
+      "name": "遠藤 杏奈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1063,
+          "cumulativeTimeSec": 1063,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1555.7,
+          "cumulativeTimeSec": 2618.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4274",
+      "name": "渡邊 見紀",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1355.5,
+          "cumulativeTimeSec": 1355.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1907.5,
+          "cumulativeTimeSec": 3263,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

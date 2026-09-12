@@ -31,6 +31,8 @@ export interface RaceResult {
   raceName: string;
   category: string;
   updatedAt: string;
+  /** Counts of source result rows excluded because their status is unsupported. */
+  excludedRowsByStatus?: Record<string, number>;
   /** Official numbered lap sequence parsed from the lap-time table header. */
   raceLapNumbers?: number[];
   /**

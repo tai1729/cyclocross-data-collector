@@ -1,0 +1,117 @@
+{
+  "raceId": "23344",
+  "raceName": "2025-02-08 CYCLOCROSS TOKYO 2025 Day1（千葉クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:36:41.483Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1501",
+      "name": "西山 みゆき",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1023.1,
+          "cumulativeTimeSec": 1023.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 603.6,
+          "cumulativeTimeSec": 1626.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-223-0075",
+      "name": "今井 みち子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1102.1,
+          "cumulativeTimeSec": 1102.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 609.1,
+          "cumulativeTimeSec": 1711.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1173.6,
+          "cumulativeTimeSec": 1173.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 642.6,
+          "cumulativeTimeSec": 1816.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0787",
+      "name": "安田 朋子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1145.5,
+          "cumulativeTimeSec": 1145.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 670.9,
+          "cumulativeTimeSec": 1816.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-189-0026",
+      "name": "リップスコム 美里",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1234.5,
+          "cumulativeTimeSec": 1234.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 704.7,
+          "cumulativeTimeSec": 1939.2,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

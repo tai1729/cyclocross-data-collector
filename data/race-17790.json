@@ -1,0 +1,47 @@
+{
+  "raceId": "17790",
+  "raceName": "2023-10-01 INAGI CROSS-10（シクロクロス東京）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:26:20.175Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-234-0088",
+      "name": "村田 陽太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 358.5,
+          "cumulativeTimeSec": 358.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 404.8,
+          "cumulativeTimeSec": 763.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 389.9,
+          "cumulativeTimeSec": 1153.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 401.2,
+          "cumulativeTimeSec": 1554.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

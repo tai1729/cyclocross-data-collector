@@ -1,0 +1,54 @@
+{
+  "raceId": "21722",
+  "raceName": "2024-10-20 シクロクロスミーティングシリーズ　シーズン2024-2025　第2戦　富士山（信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:33:30.026Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-234-0001",
+      "name": "稲葉 桃子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 333.5,
+          "cumulativeTimeSec": 333.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 323.5,
+          "cumulativeTimeSec": 657,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-245-0012",
+      "name": "丸山 憧",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 378,
+          "cumulativeTimeSec": 378,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 427.7,
+          "cumulativeTimeSec": 805.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

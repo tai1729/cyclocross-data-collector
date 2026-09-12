@@ -1,0 +1,75 @@
+{
+  "raceId": "19876",
+  "raceName": "2024-01-14 第29回全日本選手権シクロクロスDay2（全日本選手権）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:29:00.054Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 942,
+          "cumulativeTimeSec": 942,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1370,
+          "cumulativeTimeSec": 2312,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0005",
+      "name": "綱嶋 凛々音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1031.9,
+          "cumulativeTimeSec": 1031.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1493.8,
+          "cumulativeTimeSec": 2525.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0033",
+      "name": "小林 碧",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1021.2,
+          "cumulativeTimeSec": 1021.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1523.9,
+          "cumulativeTimeSec": 2545.1000000000004,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

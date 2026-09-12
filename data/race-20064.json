@@ -1,0 +1,75 @@
+{
+  "raceId": "20064",
+  "raceName": "2024-01-21 東北CXシリーズ#4ざおうさまカップ（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:29:18.864Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 365.5,
+          "cumulativeTimeSec": 365.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 345.4,
+          "cumulativeTimeSec": 710.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 438.8,
+          "cumulativeTimeSec": 438.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 436,
+          "cumulativeTimeSec": 874.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0071",
+      "name": "松川 颯",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.2,
+          "cumulativeTimeSec": 520.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 505.3,
+          "cumulativeTimeSec": 1025.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -2,7 +2,12 @@
   "raceId": "24678",
   "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "WM",
-  "updatedAt": "2026-09-01T14:33:53.535Z",
+  "updatedAt": "2026-09-12T04:39:48.186Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
   "riders": [
     {
       "riderId": "XTK-000-1501",
@@ -11,20 +16,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 587.6,
           "cumulativeTimeSec": 587.6,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 562.5,
-          "cumulativeTimeSec": 1150.1,
+          "lapNumber": 2,
+          "lapTimeSec": 1150.1,
+          "cumulativeTimeSec": 1737.6999999999998,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 584.9,
-          "cumulativeTimeSec": 1735,
+          "lapNumber": 3,
+          "lapTimeSec": 1735,
+          "cumulativeTimeSec": 3472.7,
           "rankAtLap": 1
         }
       ],
@@ -37,20 +43,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 616.9,
           "cumulativeTimeSec": 616.9,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 592.4,
-          "cumulativeTimeSec": 1209.3,
+          "lapNumber": 2,
+          "lapTimeSec": 1209.3,
+          "cumulativeTimeSec": 1826.1999999999998,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 585.4,
-          "cumulativeTimeSec": 1794.7,
+          "lapNumber": 3,
+          "lapTimeSec": 1794.7,
+          "cumulativeTimeSec": 3620.8999999999996,
           "rankAtLap": 2
         }
       ],
@@ -63,20 +70,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 693.4,
           "cumulativeTimeSec": 693.4,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 651.1,
-          "cumulativeTimeSec": 1344.5,
+          "lapNumber": 2,
+          "lapTimeSec": 1344.5,
+          "cumulativeTimeSec": 2037.9,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": 671.9,
-          "cumulativeTimeSec": 2016.4,
+          "lapNumber": 3,
+          "lapTimeSec": 2016.4,
+          "cumulativeTimeSec": 4054.3,
           "rankAtLap": 3
         }
       ],

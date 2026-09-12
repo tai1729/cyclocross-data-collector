@@ -1,0 +1,68 @@
+{
+  "raceId": "24006",
+  "raceName": "2025-02-23 茨城シクロクロス第6戦GALFER PRESENTS取手ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:37:20.651Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1501",
+      "name": "西山 みゆき",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 526.4,
+          "cumulativeTimeSec": 526.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 415.3,
+          "cumulativeTimeSec": 941.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.1,
+          "cumulativeTimeSec": 1355.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 412.1,
+          "cumulativeTimeSec": 1767.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0155",
+      "name": "後藤 まゆみ",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 804.3,
+          "cumulativeTimeSec": 804.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 661.4,
+          "cumulativeTimeSec": 1465.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

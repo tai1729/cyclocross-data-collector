@@ -1,0 +1,67 @@
+{
+  "raceId": "23275",
+  "raceName": "2025-01-26 茨城シクロクロス第5戦大洗町大洗サンビーチステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:36:25.261Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-190-0039",
+      "name": "村上 蕾夢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.7,
+          "cumulativeTimeSec": 493.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.2,
+          "cumulativeTimeSec": 963.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 474.3,
+          "cumulativeTimeSec": 1438.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0039",
+      "name": "水沼 龍之介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 557.3,
+          "cumulativeTimeSec": 557.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 553.6,
+          "cumulativeTimeSec": 1110.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555,
+          "cumulativeTimeSec": 1665.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

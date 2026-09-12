@@ -1,0 +1,75 @@
+{
+  "raceId": "22001",
+  "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "MM35",
+  "updatedAt": "2026-09-12T04:33:52.356Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-156-0090",
+      "name": "佐野 千尋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 523.9,
+          "cumulativeTimeSec": 523.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1027.6,
+          "cumulativeTimeSec": 1551.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1521.1,
+          "cumulativeTimeSec": 3072.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2025.5,
+          "cumulativeTimeSec": 5098.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2530.2,
+          "cumulativeTimeSec": 7628.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0094",
+      "name": "白坂 僚",
+      "finalPosition": 2,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 682.1,
+          "cumulativeTimeSec": 682.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1392.8,
+          "cumulativeTimeSec": 2074.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

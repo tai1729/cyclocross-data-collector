@@ -1,0 +1,54 @@
+{
+  "raceId": "20876",
+  "raceName": "2024-03-03 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:30:34.914Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 幸恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 679.4,
+          "cumulativeTimeSec": 679.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 700.7,
+          "cumulativeTimeSec": 1380.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-156-0095",
+      "name": "伊藤 圭菜子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 772,
+          "cumulativeTimeSec": 772,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 760.5,
+          "cumulativeTimeSec": 1532.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

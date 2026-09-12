@@ -1,0 +1,75 @@
+{
+  "raceId": "20665",
+  "raceName": "2024-02-18 九州シクロクロス 第2戦 海の中道ステージ（九州シクロクロス）",
+  "category": "Challenge Cross",
+  "updatedAt": "2026-09-12T04:30:12.653Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-234-0034",
+      "name": "仁部 秀徳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 569.7,
+          "cumulativeTimeSec": 569.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 440.1,
+          "cumulativeTimeSec": 1009.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0035",
+      "name": "荒木 愛美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 578,
+          "cumulativeTimeSec": 578,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.5,
+          "cumulativeTimeSec": 1025.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0036",
+      "name": "松林 茂",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 676.4,
+          "cumulativeTimeSec": 676.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 615.9,
+          "cumulativeTimeSec": 1292.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

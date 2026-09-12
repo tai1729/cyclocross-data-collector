@@ -1,0 +1,97 @@
+{
+  "raceId": "18091",
+  "raceName": "2023-10-29 御殿場シクロクロス Supported by 湘南CX （湘南シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:26:40.913Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-167-0008",
+      "name": "安藤 誠一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 953.7,
+          "cumulativeTimeSec": 953.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1401.6,
+          "cumulativeTimeSec": 2355.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0005",
+      "name": "吉田 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1017.2,
+          "cumulativeTimeSec": 1017.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1526.3,
+          "cumulativeTimeSec": 2543.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0018",
+      "name": "長田 匠生",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1132.1,
+          "cumulativeTimeSec": 1132.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1664.5,
+          "cumulativeTimeSec": 2796.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0004",
+      "name": "西條 真弘",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1146.1,
+          "cumulativeTimeSec": 1146.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1677.9,
+          "cumulativeTimeSec": 2824,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

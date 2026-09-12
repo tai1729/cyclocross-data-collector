@@ -1,0 +1,75 @@
+{
+  "raceId": "19681",
+  "raceName": "2024-01-21 東北CXシリーズ#4ざおうさまカップ（東北 CX Project）",
+  "category": "WE1",
+  "updatedAt": "2026-09-12T04:29:07.413Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 662.6,
+          "cumulativeTimeSec": 662.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 648.7,
+          "cumulativeTimeSec": 1311.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 658.6,
+          "cumulativeTimeSec": 1969.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0063",
+      "name": "森田 由美子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 685.5,
+          "cumulativeTimeSec": 685.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 667.2,
+          "cumulativeTimeSec": 1352.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 681,
+          "cumulativeTimeSec": 2033.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0015",
+      "name": "清水 知佳",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

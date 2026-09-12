@@ -1,0 +1,80 @@
+{
+  "raceId": "18309",
+  "raceName": "2023-11-12 茨城シクロクロス 第2戦 常陸大宮市 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CJ",
+  "updatedAt": "2026-09-12T04:27:04.174Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-156-0054",
+      "name": "高橋 壮",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 578.8,
+          "cumulativeTimeSec": 578.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.2,
+          "cumulativeTimeSec": 1083,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.3,
+          "cumulativeTimeSec": 1594.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 514.9,
+          "cumulativeTimeSec": 2109.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0035",
+      "name": "成田 光志",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 536.3,
+          "cumulativeTimeSec": 536.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 973.3,
+          "cumulativeTimeSec": 1509.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 477.7,
+          "cumulativeTimeSec": 1987.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 477.7,
+          "cumulativeTimeSec": 2465,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

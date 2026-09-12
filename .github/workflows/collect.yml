@@ -94,12 +94,21 @@ jobs:
             npm run discover
           fi
 
-      - run: npm run collect
+      - name: Collect race data
+        run: |
+          if [ -n "${{ inputs.season }}" ]; then
+            npm run collect -- --season "${{ inputs.season }}"
+          else
+            npm run collect
+          fi
+
+      - name: Build and validate generated indexes
+        run: npm run build-artifacts -- --strict
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ races.json known_meets.json meets.json
+          git add data/ races.json known_meets.json meets.json inventory.json rider-index.json discovery-failures.json
           git diff --staged --quiet || git commit -m "chore: update race data"
           git push

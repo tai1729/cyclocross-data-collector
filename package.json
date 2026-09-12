@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "collect": "tsx scripts/collect.ts",
+    "build-artifacts": "tsx scripts/buildArtifacts.ts",
     "discover": "tsx scripts/discover.ts",
     "update-schedule": "tsx scripts/updateSchedule.ts",
     "typecheck": "tsc --noEmit",

@@ -1,0 +1,121 @@
+{
+  "raceId": "23818",
+  "raceName": "2025-02-23 2024-25もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "ME3+4",
+  "updatedAt": "2026-09-12T04:37:11.602Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-245-0030",
+      "name": "古谷 朋一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 955.1,
+          "cumulativeTimeSec": 955.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1391.4,
+          "cumulativeTimeSec": 2346.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1821.9,
+          "cumulativeTimeSec": 4168.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0310",
+      "name": "白井 秀侑",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 924.8,
+          "cumulativeTimeSec": 924.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1382.2,
+          "cumulativeTimeSec": 2307,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1839.1,
+          "cumulativeTimeSec": 4146.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-245-3007",
+      "name": "中山 拓真",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 972,
+          "cumulativeTimeSec": 972,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1459.1,
+          "cumulativeTimeSec": 2431.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1954,
+          "cumulativeTimeSec": 4385.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-245-3014",
+      "name": "松本 祥希",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1055.7,
+          "cumulativeTimeSec": 1055.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1567.1,
+          "cumulativeTimeSec": 2622.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2056.1,
+          "cumulativeTimeSec": 4678.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

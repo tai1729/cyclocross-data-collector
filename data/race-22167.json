@@ -1,0 +1,121 @@
+{
+  "raceId": "22167",
+  "raceName": "2024-11-17 茨城シクロクロス第3戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM60",
+  "updatedAt": "2026-09-12T04:34:18.191Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-000-0034",
+      "name": "大野 ニ美雄",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 667.8,
+          "cumulativeTimeSec": 667.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 587,
+          "cumulativeTimeSec": 1254.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 582.7,
+          "cumulativeTimeSec": 1837.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4003",
+      "name": "金子 渉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671,
+          "cumulativeTimeSec": 671,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 601.7,
+          "cumulativeTimeSec": 1272.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 619.6,
+          "cumulativeTimeSec": 1892.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1974",
+      "name": "佐野 修司",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 712.1,
+          "cumulativeTimeSec": 712.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 606.4,
+          "cumulativeTimeSec": 1318.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 627,
+          "cumulativeTimeSec": 1945.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-223-0107",
+      "name": "坂本 晃一",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 720.9,
+          "cumulativeTimeSec": 720.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 617.7,
+          "cumulativeTimeSec": 1338.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1957.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

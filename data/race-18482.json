@@ -1,0 +1,96 @@
+{
+  "raceId": "18482",
+  "raceName": "2023-11-26 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:27:24.167Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0004",
+      "name": "新名 真理弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 489,
+          "cumulativeTimeSec": 489,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 484,
+          "cumulativeTimeSec": 973,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0029",
+      "name": "玉田 智子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 512,
+          "cumulativeTimeSec": 512,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 532,
+          "cumulativeTimeSec": 1044,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-234-0023",
+      "name": "川瀬 七望",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 569,
+          "cumulativeTimeSec": 569,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 560,
+          "cumulativeTimeSec": 1129,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530,
+          "cumulativeTimeSec": 530,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 682,
+          "cumulativeTimeSec": 1212,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

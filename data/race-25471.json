@@ -2,7 +2,21 @@
   "raceId": "25471",
   "raceName": "2025-11-30 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
   "category": "ME1",
-  "updatedAt": "2026-09-01T14:34:53.348Z",
+  "updatedAt": "2026-09-12T04:40:53.003Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+  ],
   "riders": [
     {
       "riderId": "QCX-223-0010",
@@ -74,6 +88,12 @@
           "lapNumber": 11,
           "lapTimeSec": 294.4,
           "cumulativeTimeSec": 3357.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 12,
+          "lapTimeSec": 296.8,
+          "cumulativeTimeSec": 3654.4,
           "rankAtLap": 1
         }
       ],
@@ -150,6 +170,12 @@
           "lapTimeSec": 304.4,
           "cumulativeTimeSec": 3370,
           "rankAtLap": 2
+        },
+        {
+          "lapNumber": 12,
+          "lapTimeSec": 296.9,
+          "cumulativeTimeSec": 3666.9,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -225,6 +251,12 @@
           "lapTimeSec": 307.3,
           "cumulativeTimeSec": 3405.5,
           "rankAtLap": 3
+        },
+        {
+          "lapNumber": 12,
+          "lapTimeSec": 310.1,
+          "cumulativeTimeSec": 3715.6,
+          "rankAtLap": 3
         }
       ],
       "dataQuality": "ok"
@@ -294,6 +326,12 @@
           "lapTimeSec": 344.8,
           "cumulativeTimeSec": 3387.8,
           "rankAtLap": 5
+        },
+        {
+          "lapNumber": 11,
+          "lapTimeSec": 322.5,
+          "cumulativeTimeSec": 3710.3,
+          "rankAtLap": 4
         }
       ],
       "dataQuality": "ok"
@@ -363,6 +401,12 @@
           "lapTimeSec": 339.6,
           "cumulativeTimeSec": 3374.4,
           "rankAtLap": 4
+        },
+        {
+          "lapNumber": 11,
+          "lapTimeSec": 361.9,
+          "cumulativeTimeSec": 3736.3,
+          "rankAtLap": 5
         }
       ],
       "dataQuality": "ok"
@@ -431,6 +475,12 @@
           "lapNumber": 10,
           "lapTimeSec": 348.3,
           "cumulativeTimeSec": 3475.7,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 11,
+          "lapTimeSec": 347.3,
+          "cumulativeTimeSec": 3823,
           "rankAtLap": 6
         }
       ],
@@ -501,6 +551,12 @@
           "lapTimeSec": 374.1,
           "cumulativeTimeSec": 3581,
           "rankAtLap": 7
+        },
+        {
+          "lapNumber": 11,
+          "lapTimeSec": 357.3,
+          "cumulativeTimeSec": 3938.3,
+          "rankAtLap": 7
         }
       ],
       "dataQuality": "ok"
@@ -563,6 +619,12 @@
           "lapNumber": 9,
           "lapTimeSec": 373.7,
           "cumulativeTimeSec": 3347.6,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 10,
+          "lapTimeSec": 385.6,
+          "cumulativeTimeSec": 3733.2,
           "rankAtLap": 8
         }
       ],

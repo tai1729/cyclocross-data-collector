@@ -1,0 +1,115 @@
+{
+  "raceId": "18444",
+  "raceName": "2023-11-19 関西シクロクロス 第3戦 烏丸半島（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:27:18.628Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0023",
+      "name": "今藤 誠俊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 397.2,
+          "cumulativeTimeSec": 397.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.4,
+          "cumulativeTimeSec": 773.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 382.3,
+          "cumulativeTimeSec": 1155.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0218",
+      "name": "山末 瑛士",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 414.3,
+          "cumulativeTimeSec": 414.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 452.5,
+          "cumulativeTimeSec": 866.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 510.9,
+          "cumulativeTimeSec": 1377.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0059",
+      "name": "猪飼 文治",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 503.9,
+          "cumulativeTimeSec": 503.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 493.2,
+          "cumulativeTimeSec": 997.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 480.5,
+          "cumulativeTimeSec": 1477.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4905",
+      "name": "栄 悠之介",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 574.9,
+          "cumulativeTimeSec": 574.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 646.3,
+          "cumulativeTimeSec": 1221.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

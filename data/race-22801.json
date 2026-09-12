@@ -1,0 +1,54 @@
+{
+  "raceId": "22801",
+  "raceName": "2024-12-22 2024-25シーズン　山口シクロクロス　第1戦　美祢市秋芳北部総合運動公園（山口シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:35:29.181Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-201-0004",
+      "name": "宮本 響斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 100,
+          "cumulativeTimeSec": 100,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 100.4,
+          "cumulativeTimeSec": 200.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0048",
+      "name": "濱崎 七海",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 137.3,
+          "cumulativeTimeSec": 137.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 156.2,
+          "cumulativeTimeSec": 293.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

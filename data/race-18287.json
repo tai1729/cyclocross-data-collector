@@ -1,0 +1,132 @@
+{
+  "raceId": "18287",
+  "raceName": "2023-11-12 2023-24もみじシクロクロス第２戦 （もみじシクロクロス）",
+  "category": "C4",
+  "updatedAt": "2026-09-12T04:26:59.089Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-223-8020",
+      "name": "吉岡 拓真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 845.4,
+          "cumulativeTimeSec": 845.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1177.3,
+          "cumulativeTimeSec": 2022.6999999999998,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1510.6,
+          "cumulativeTimeSec": 3533.2999999999997,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1859.6,
+          "cumulativeTimeSec": 5392.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2226.8,
+          "cumulativeTimeSec": 7619.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0320",
+      "name": "上手 勇輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 905.9,
+          "cumulativeTimeSec": 905.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1258.8,
+          "cumulativeTimeSec": 2164.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1613.4,
+          "cumulativeTimeSec": 3778.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1968.6,
+          "cumulativeTimeSec": 5746.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2334.7,
+          "cumulativeTimeSec": 8081.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0062",
+      "name": "大林 敦",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 901,
+          "cumulativeTimeSec": 901,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1252.9,
+          "cumulativeTimeSec": 2153.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1610.5,
+          "cumulativeTimeSec": 3764.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1973.8,
+          "cumulativeTimeSec": 5738.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 2536.9,
+          "cumulativeTimeSec": 8275.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "raceId": "21027",
+  "raceName": "2024-03-10 九州シクロクロス 第3戦 海の中道ステージ（九州シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:30:43.852Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0001",
+      "name": "今泉 蒼人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 327.4,
+          "cumulativeTimeSec": 327.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 289.8,
+          "cumulativeTimeSec": 617.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 294.2,
+          "cumulativeTimeSec": 911.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 289,
+          "cumulativeTimeSec": 1200.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 287.5,
+          "cumulativeTimeSec": 1487.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 294.8,
+          "cumulativeTimeSec": 1782.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0009",
+      "name": "尾崎 愛周",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 399.1,
+          "cumulativeTimeSec": 399.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 339,
+          "cumulativeTimeSec": 738.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 333.8,
+          "cumulativeTimeSec": 1071.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 332.7,
+          "cumulativeTimeSec": 1404.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 337.8,
+          "cumulativeTimeSec": 1742.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 331,
+          "cumulativeTimeSec": 2073.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

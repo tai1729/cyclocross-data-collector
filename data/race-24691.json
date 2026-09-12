@@ -2,7 +2,15 @@
   "raceId": "24691",
   "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "WJ",
-  "updatedAt": "2026-09-01T14:33:56.687Z",
+  "updatedAt": "2026-09-12T04:39:51.576Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
   "riders": [
     {
       "riderId": "CXK-156-0033",
@@ -11,38 +19,39 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 560.6,
           "cumulativeTimeSec": 560.6,
           "rankAtLap": 1
         },
         {
+          "lapNumber": 2,
+          "lapTimeSec": 1079,
+          "cumulativeTimeSec": 1639.6,
+          "rankAtLap": 1
+        },
+        {
           "lapNumber": 3,
-          "lapTimeSec": 518.4,
-          "cumulativeTimeSec": 1079,
+          "lapTimeSec": 1599.8,
+          "cumulativeTimeSec": 3239.3999999999996,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 520.8,
-          "cumulativeTimeSec": 1599.8,
+          "lapTimeSec": 2126.5,
+          "cumulativeTimeSec": 5365.9,
           "rankAtLap": 1
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 526.7,
-          "cumulativeTimeSec": 2126.5,
+          "lapTimeSec": 2656.8,
+          "cumulativeTimeSec": 8022.7,
           "rankAtLap": 1
         },
         {
           "lapNumber": 6,
-          "lapTimeSec": 530.3,
-          "cumulativeTimeSec": 2656.8,
-          "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": 531.3,
-          "cumulativeTimeSec": 3188.1,
+          "lapTimeSec": 3188.1,
+          "cumulativeTimeSec": 11210.8,
           "rankAtLap": 1
         }
       ],

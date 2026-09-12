@@ -1,0 +1,121 @@
+{
+  "raceId": "23323",
+  "raceName": "2025-02-02 2024-25シーズン　山口シクロクロス　第3戦　山口きらら博記念公園（山口シクロクロス）",
+  "category": "MM60",
+  "updatedAt": "2026-09-12T04:36:36.462Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1492",
+      "name": "増田 謙一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 507.3,
+          "cumulativeTimeSec": 507.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 591,
+          "cumulativeTimeSec": 1098.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 600,
+          "cumulativeTimeSec": 1698.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2914",
+      "name": "久馬 逸志",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.8,
+          "cumulativeTimeSec": 517.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 612.4,
+          "cumulativeTimeSec": 1130.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 592.2,
+          "cumulativeTimeSec": 1722.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2154",
+      "name": "大河内 二郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 505.5,
+          "cumulativeTimeSec": 505.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 593.7,
+          "cumulativeTimeSec": 1099.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 630.2,
+          "cumulativeTimeSec": 1729.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4204",
+      "name": "村田 孝幸",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 589.5,
+          "cumulativeTimeSec": 589.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 705.2,
+          "cumulativeTimeSec": 1294.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 718.1,
+          "cumulativeTimeSec": 2012.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

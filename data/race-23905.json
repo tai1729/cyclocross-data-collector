@@ -1,0 +1,127 @@
+{
+  "raceId": "23905",
+  "raceName": "2025-02-23 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:37:14.748Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-245-0002",
+      "name": "高田 知旦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 113.2,
+          "cumulativeTimeSec": 113.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 124.6,
+          "cumulativeTimeSec": 237.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 132.6,
+          "cumulativeTimeSec": 370.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 141.2,
+          "cumulativeTimeSec": 511.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 130.9,
+          "cumulativeTimeSec": 642.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 139,
+          "cumulativeTimeSec": 781.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-245-0008",
+      "name": "桐原 健",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 166.6,
+          "cumulativeTimeSec": 166.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 185.1,
+          "cumulativeTimeSec": 351.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 171.7,
+          "cumulativeTimeSec": 523.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 172.2,
+          "cumulativeTimeSec": 695.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-245-0001",
+      "name": "井上 駿",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 181.9,
+          "cumulativeTimeSec": 181.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 183.8,
+          "cumulativeTimeSec": 365.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 189,
+          "cumulativeTimeSec": 554.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 192.1,
+          "cumulativeTimeSec": 746.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

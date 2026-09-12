@@ -2,7 +2,15 @@
   "raceId": "24890",
   "raceName": "2025-11-16 2025-26もみじシクロクロス第２戦（もみじシクロクロス）",
   "category": "ME2",
-  "updatedAt": "2026-09-01T14:34:11.374Z",
+  "updatedAt": "2026-09-12T04:40:08.683Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
   "riders": [
     {
       "riderId": "CCH-000-0800",
@@ -26,6 +34,24 @@
           "lapNumber": 3,
           "lapTimeSec": 582.2,
           "cumulativeTimeSec": 1403.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2311.1,
+          "cumulativeTimeSec": 3715,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 111.2,
+          "cumulativeTimeSec": 3826.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 1512.5,
+          "cumulativeTimeSec": 5338.7,
           "rankAtLap": 1
         }
       ],
@@ -54,6 +80,24 @@
           "lapTimeSec": 563.1,
           "cumulativeTimeSec": 1417.4,
           "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2323.6,
+          "cumulativeTimeSec": 3741,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 100.1,
+          "cumulativeTimeSec": 3841.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 1513.2,
+          "cumulativeTimeSec": 5354.3,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -80,6 +124,24 @@
           "lapNumber": 3,
           "lapTimeSec": 612.3,
           "cumulativeTimeSec": 1468.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2274.7,
+          "cumulativeTimeSec": 3743,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 102.1,
+          "cumulativeTimeSec": 3845.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 1523.8,
+          "cumulativeTimeSec": 5368.9,
           "rankAtLap": 3
         }
       ],
@@ -108,6 +170,24 @@
           "lapTimeSec": 677.5,
           "cumulativeTimeSec": 1556.4,
           "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2197.4,
+          "cumulativeTimeSec": 3753.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 1517.2,
+          "cumulativeTimeSec": 5271,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 169.5,
+          "cumulativeTimeSec": 5440.5,
+          "rankAtLap": 4
         }
       ],
       "dataQuality": "ok"
@@ -128,6 +208,18 @@
           "lapNumber": 2,
           "lapTimeSec": 1381.1,
           "cumulativeTimeSec": 1466.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2317.6,
+          "cumulativeTimeSec": 3784,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1746.6,
+          "cumulativeTimeSec": 5530.6,
           "rankAtLap": 5
         }
       ],

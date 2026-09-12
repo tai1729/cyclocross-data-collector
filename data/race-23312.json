@@ -1,0 +1,33 @@
+{
+  "raceId": "23312",
+  "raceName": "2025-02-02 野田シクロクロス25（野田シクロクロス）",
+  "category": "MM35",
+  "updatedAt": "2026-09-12T04:36:33.352Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-245-0027",
+      "name": "吹野 翔太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 860.8,
+          "cumulativeTimeSec": 860.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1099.8,
+          "cumulativeTimeSec": 1960.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

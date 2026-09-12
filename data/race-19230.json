@@ -1,0 +1,117 @@
+{
+  "raceId": "19230",
+  "raceName": "2023-12-10 シクロクロスミーティングシリーズ　シーズン2023-2024 第7戦　南信州 （信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:28:00.537Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-190-0033",
+      "name": "品木 大駕",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 237.7,
+          "cumulativeTimeSec": 237.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 232.8,
+          "cumulativeTimeSec": 470.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0024",
+      "name": "田切 琉聖",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 238.5,
+          "cumulativeTimeSec": 238.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 239.3,
+          "cumulativeTimeSec": 477.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0008",
+      "name": "伊藤 颯馬",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 239.5,
+          "cumulativeTimeSec": 239.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 240.5,
+          "cumulativeTimeSec": 480,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0029",
+      "name": "湯澤 海杜",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.4,
+          "cumulativeTimeSec": 243.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.9,
+          "cumulativeTimeSec": 498.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0026",
+      "name": "佐伯 駿太",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 250.2,
+          "cumulativeTimeSec": 250.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 256.5,
+          "cumulativeTimeSec": 506.7,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

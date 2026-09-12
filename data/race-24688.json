@@ -2,7 +2,14 @@
   "raceId": "24688",
   "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "MM35",
-  "updatedAt": "2026-09-01T14:33:55.940Z",
+  "updatedAt": "2026-09-12T04:39:50.674Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
   "riders": [
     {
       "riderId": "SHN-156-0090",
@@ -11,33 +18,34 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 546.7,
           "cumulativeTimeSec": 546.7,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 501.8,
-          "cumulativeTimeSec": 1048.5,
+          "lapNumber": 2,
+          "lapTimeSec": 1048.5,
+          "cumulativeTimeSec": 1595.2,
           "rankAtLap": 1
         },
         {
+          "lapNumber": 3,
+          "lapTimeSec": 1639.1,
+          "cumulativeTimeSec": 3234.3,
+          "rankAtLap": 2
+        },
+        {
           "lapNumber": 4,
-          "lapTimeSec": 590.6,
-          "cumulativeTimeSec": 1639.1,
+          "lapTimeSec": 2137.2,
+          "cumulativeTimeSec": 5371.5,
           "rankAtLap": 2
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 498.1,
-          "cumulativeTimeSec": 2137.2,
+          "lapTimeSec": 2618.8,
+          "cumulativeTimeSec": 7990.3,
           "rankAtLap": 2
-        },
-        {
-          "lapTimeSec": 481.6,
-          "cumulativeTimeSec": 2618.8,
-          "rankAtLap": 1
         }
       ],
       "dataQuality": "ok"
@@ -49,33 +57,34 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 547.3,
           "cumulativeTimeSec": 547.3,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 515.5,
-          "cumulativeTimeSec": 1062.8,
+          "lapNumber": 2,
+          "lapTimeSec": 1062.8,
+          "cumulativeTimeSec": 1610.1,
           "rankAtLap": 2
         },
         {
+          "lapNumber": 3,
+          "lapTimeSec": 1579.4,
+          "cumulativeTimeSec": 3189.5,
+          "rankAtLap": 1
+        },
+        {
           "lapNumber": 4,
-          "lapTimeSec": 516.6,
-          "cumulativeTimeSec": 1579.4,
+          "lapTimeSec": 2098.5,
+          "cumulativeTimeSec": 5288,
           "rankAtLap": 1
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 519.1,
-          "cumulativeTimeSec": 2098.5,
+          "lapTimeSec": 2624.7,
+          "cumulativeTimeSec": 7912.7,
           "rankAtLap": 1
-        },
-        {
-          "lapTimeSec": 526.2,
-          "cumulativeTimeSec": 2624.7,
-          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"

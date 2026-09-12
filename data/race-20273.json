@@ -1,0 +1,113 @@
+{
+  "raceId": "20273",
+  "raceName": "2024-02-04 シクロクロス千葉#13（千葉クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:32:55.051Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-178-0062",
+      "name": "横田 壮一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 404.3,
+          "cumulativeTimeSec": 404.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 416,
+          "cumulativeTimeSec": 820.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 434.5,
+          "cumulativeTimeSec": 1254.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 442.1,
+          "cumulativeTimeSec": 1696.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0032",
+      "name": "渡井 健太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 422.5,
+          "cumulativeTimeSec": 422.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 442.7,
+          "cumulativeTimeSec": 865.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 445.3,
+          "cumulativeTimeSec": 1310.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 405.1,
+          "cumulativeTimeSec": 1715.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 419.3,
+          "cumulativeTimeSec": 419.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 436.6,
+          "cumulativeTimeSec": 855.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 442.2,
+          "cumulativeTimeSec": 1298.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 439.6,
+          "cumulativeTimeSec": 1737.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

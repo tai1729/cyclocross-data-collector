@@ -1,0 +1,80 @@
+{
+  "raceId": "19279",
+  "raceName": "2023-12-16 2023#能登CX iRC Tire CUP Day1（シクロクロス富山）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:28:02.700Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3315",
+      "name": "水谷 有紀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 543,
+          "cumulativeTimeSec": 543,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 569.1,
+          "cumulativeTimeSec": 1112.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 570.6,
+          "cumulativeTimeSec": 1682.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 580.3,
+          "cumulativeTimeSec": 2263,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586.9,
+          "cumulativeTimeSec": 586.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 558.8,
+          "cumulativeTimeSec": 1145.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.2,
+          "cumulativeTimeSec": 1705.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 585.7,
+          "cumulativeTimeSec": 2291.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

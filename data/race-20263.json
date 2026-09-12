@@ -1,0 +1,101 @@
+{
+  "raceId": "20263",
+  "raceName": "2024-02-04 第4戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:29:51.834Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0007",
+      "name": "角島 紀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 521.8,
+          "cumulativeTimeSec": 521.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 545.2,
+          "cumulativeTimeSec": 1067,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 540.8,
+          "cumulativeTimeSec": 1607.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 550.2,
+          "cumulativeTimeSec": 2158,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-212-0002",
+      "name": "古田 晴美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582.9,
+          "cumulativeTimeSec": 582.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 572,
+          "cumulativeTimeSec": 1154.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571,
+          "cumulativeTimeSec": 1725.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-234-0024",
+      "name": "和田 愛純",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 552.6,
+          "cumulativeTimeSec": 552.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 569.2,
+          "cumulativeTimeSec": 1121.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 604.9,
+          "cumulativeTimeSec": 1726.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "raceId": "20001",
+  "raceName": "2024-01-20 東海シクロクロス 第5戦 愛知県 愛知牧場（東海クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:29:04.901Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-167-0066",
+      "name": "蜂須賀 巧真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 611,
+          "cumulativeTimeSec": 611,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 611,
+          "cumulativeTimeSec": 1222,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 650,
+          "cumulativeTimeSec": 1872,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0097",
+      "name": "佐野 凌麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 648,
+          "cumulativeTimeSec": 648,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 651,
+          "cumulativeTimeSec": 1299,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 681,
+          "cumulativeTimeSec": 1980,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 750,
+          "cumulativeTimeSec": 750,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 765,
+          "cumulativeTimeSec": 1515,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 684,
+          "cumulativeTimeSec": 2199,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

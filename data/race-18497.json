@@ -1,0 +1,40 @@
+{
+  "raceId": "18497",
+  "raceName": "2023-11-26 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:27:27.702Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 727,
+          "cumulativeTimeSec": 727,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 748,
+          "cumulativeTimeSec": 1475,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 911,
+          "cumulativeTimeSec": 2386,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

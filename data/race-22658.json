@@ -1,0 +1,61 @@
+{
+  "raceId": "22658",
+  "raceName": "2024-12-08 茨城シクロクロス第4戦城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:35:09.554Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 766.7,
+          "cumulativeTimeSec": 766.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 741.7,
+          "cumulativeTimeSec": 1508.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 716.6,
+          "cumulativeTimeSec": 2225,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0017",
+      "name": "髙見 楓",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 832.2,
+          "cumulativeTimeSec": 832.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 807.1,
+          "cumulativeTimeSec": 1639.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

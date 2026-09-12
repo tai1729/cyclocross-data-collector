@@ -1,0 +1,75 @@
+{
+  "raceId": "23303",
+  "raceName": "2025-02-02 野田シクロクロス25（野田シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:36:31.895Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-245-0011",
+      "name": "江越 稀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 183.7,
+          "cumulativeTimeSec": 183.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 273.9,
+          "cumulativeTimeSec": 457.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0103",
+      "name": "新藤 匠真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 244.1,
+          "cumulativeTimeSec": 244.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 320,
+          "cumulativeTimeSec": 564.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MDX-245-0017",
+      "name": "田口 瑠夏",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249.7,
+          "cumulativeTimeSec": 249.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 355.5,
+          "cumulativeTimeSec": 605.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

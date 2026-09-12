@@ -1,0 +1,109 @@
+{
+  "raceId": "20387",
+  "raceName": "2024-02-11 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:01.615Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-223-0001",
+      "name": "田中 亮丞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 376.4,
+          "cumulativeTimeSec": 376.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 382.5,
+          "cumulativeTimeSec": 758.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 377,
+          "cumulativeTimeSec": 1135.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-234-0048",
+      "name": "森田 旬",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 379.4,
+          "cumulativeTimeSec": 379.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 378.8,
+          "cumulativeTimeSec": 758.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 381.1,
+          "cumulativeTimeSec": 1139.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0029",
+      "name": "水竹 輪",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 390.1,
+          "cumulativeTimeSec": 390.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 411.7,
+          "cumulativeTimeSec": 801.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0001",
+      "name": "稲葉 桃子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 435.6,
+          "cumulativeTimeSec": 435.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 457,
+          "cumulativeTimeSec": 892.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

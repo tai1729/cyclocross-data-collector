@@ -1,0 +1,55 @@
+{
+  "raceId": "19085",
+  "raceName": "2023-12-03 シクロクロスミーティングシリーズ　シーズン2023-2024第6戦　GP日本金属化工所上山田（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:27:52.353Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-234-0012",
+      "name": "平川 れい",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 361.6,
+          "cumulativeTimeSec": 361.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 364.2,
+          "cumulativeTimeSec": 725.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0043",
+      "name": "湯原 和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 369.5,
+          "cumulativeTimeSec": 369.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 370.2,
+          "cumulativeTimeSec": 739.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

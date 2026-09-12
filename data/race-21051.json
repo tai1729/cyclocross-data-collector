@@ -1,0 +1,61 @@
+{
+  "raceId": "21051",
+  "raceName": "2024-03-10 阿波シクロクロス（四国クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-09-12T04:30:49.624Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0101",
+      "name": "安藤 優作",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 459,
+          "cumulativeTimeSec": 459,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 460.3,
+          "cumulativeTimeSec": 919.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 462.5,
+          "cumulativeTimeSec": 1381.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 464.3,
+          "cumulativeTimeSec": 1846.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 489.6,
+          "cumulativeTimeSec": 2335.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 493.3,
+          "cumulativeTimeSec": 2829,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

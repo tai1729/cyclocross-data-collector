@@ -1,0 +1,121 @@
+{
+  "raceId": "18655",
+  "raceName": "2023-12-03 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:27:40.621Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0203",
+      "name": "吉田 真未",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 447,
+          "cumulativeTimeSec": 447,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 445,
+          "cumulativeTimeSec": 892,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 443,
+          "cumulativeTimeSec": 1335,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0005",
+      "name": "阪本 実樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 453,
+          "cumulativeTimeSec": 453,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 444,
+          "cumulativeTimeSec": 897,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 443,
+          "cumulativeTimeSec": 1340,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0073",
+      "name": "村松 里菜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467,
+          "cumulativeTimeSec": 467,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 474,
+          "cumulativeTimeSec": 941,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 468,
+          "cumulativeTimeSec": 1409,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0119",
+      "name": "末廣 裕子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 478,
+          "cumulativeTimeSec": 478,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 480,
+          "cumulativeTimeSec": 958,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 487,
+          "cumulativeTimeSec": 1445,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

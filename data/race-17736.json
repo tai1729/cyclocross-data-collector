@@ -1,0 +1,94 @@
+{
+  "raceId": "17736",
+  "raceName": "2023-10-01 シクロクロスミーティングシリーズ　シーズン2023-2024 第1戦　白樺湖 （信州クロス）",
+  "category": "WE1",
+  "updatedAt": "2026-09-12T04:26:15.433Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-2325",
+      "name": "大蔵 こころ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1349.2,
+          "cumulativeTimeSec": 1349.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2044.9,
+          "cumulativeTimeSec": 3394.1000000000004,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2748.3,
+          "cumulativeTimeSec": 6142.400000000001,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0011",
+      "name": "小田 恵利花",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1389.7,
+          "cumulativeTimeSec": 1389.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2112.6,
+          "cumulativeTimeSec": 3502.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2827.5,
+          "cumulativeTimeSec": 6329.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0059",
+      "name": "野村 知子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1591.3,
+          "cumulativeTimeSec": 1591.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2447.9,
+          "cumulativeTimeSec": 4039.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 3275.3,
+          "cumulativeTimeSec": 7314.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

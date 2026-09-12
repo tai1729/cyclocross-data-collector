@@ -1,0 +1,67 @@
+{
+  "raceId": "22681",
+  "raceName": "2024-12-08 シクロクロスミーティングシリーズ　シーズン2024-2025　第9戦　南信州（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:35:14.582Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 102.6,
+          "cumulativeTimeSec": 102.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 112.8,
+          "cumulativeTimeSec": 215.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 82.6,
+          "cumulativeTimeSec": 298,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0008",
+      "name": "伊藤 颯馬",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 101.3,
+          "cumulativeTimeSec": 101.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 113.1,
+          "cumulativeTimeSec": 214.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 84.9,
+          "cumulativeTimeSec": 299.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

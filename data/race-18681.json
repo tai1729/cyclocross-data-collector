@@ -1,0 +1,40 @@
+{
+  "raceId": "18681",
+  "raceName": "2023-12-03 関西シクロクロス 第4戦 マキノ（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:27:47.392Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.4,
+          "cumulativeTimeSec": 520.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 544.4,
+          "cumulativeTimeSec": 1064.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 521.3,
+          "cumulativeTimeSec": 1586.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

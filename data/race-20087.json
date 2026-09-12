@@ -1,0 +1,67 @@
+{
+  "raceId": "20087",
+  "raceName": "2023-11-26 第1戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:27:36.119Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-201-0048",
+      "name": "濱崎 七海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 188.7,
+          "cumulativeTimeSec": 188.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 176.7,
+          "cumulativeTimeSec": 365.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 182.1,
+          "cumulativeTimeSec": 547.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0157",
+      "name": "安藤 潤平",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 204.2,
+          "cumulativeTimeSec": 204.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 192.5,
+          "cumulativeTimeSec": 396.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 197.3,
+          "cumulativeTimeSec": 594,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

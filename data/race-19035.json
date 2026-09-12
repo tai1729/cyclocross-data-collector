@@ -1,0 +1,146 @@
+{
+  "raceId": "19035",
+  "raceName": "2023-12-10 松伏シクロクロス23（野田シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:27:53.506Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-178-0038",
+      "name": "郷津 輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 355.5,
+          "cumulativeTimeSec": 355.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.8,
+          "cumulativeTimeSec": 732.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 377.5,
+          "cumulativeTimeSec": 1109.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 367,
+          "cumulativeTimeSec": 1476.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0062",
+      "name": "横田 壮一郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 364,
+          "cumulativeTimeSec": 364,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.1,
+          "cumulativeTimeSec": 749.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 383,
+          "cumulativeTimeSec": 1132.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 378.2,
+          "cumulativeTimeSec": 1510.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0061",
+      "name": "福田 栄人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405.7,
+          "cumulativeTimeSec": 405.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 407.9,
+          "cumulativeTimeSec": 813.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 427.5,
+          "cumulativeTimeSec": 1241.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 426.1,
+          "cumulativeTimeSec": 1667.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0449",
+      "name": "冨田 倫太郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405.3,
+          "cumulativeTimeSec": 405.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.6,
+          "cumulativeTimeSec": 822.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 434.1,
+          "cumulativeTimeSec": 1257,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 423.9,
+          "cumulativeTimeSec": 1680.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

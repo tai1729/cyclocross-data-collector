@@ -1,0 +1,80 @@
+{
+  "raceId": "24024",
+  "raceName": "2025-03-02 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:37:24.513Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0175",
+      "name": "小島 蒼士",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 306.4,
+          "cumulativeTimeSec": 306.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 418.3,
+          "cumulativeTimeSec": 724.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 529.4,
+          "cumulativeTimeSec": 1254.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 637.7,
+          "cumulativeTimeSec": 1891.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0356",
+      "name": "林 舜二郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 329.6,
+          "cumulativeTimeSec": 329.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 451.1,
+          "cumulativeTimeSec": 780.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 568.6,
+          "cumulativeTimeSec": 1349.3000000000002,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 688.4,
+          "cumulativeTimeSec": 2037.7000000000003,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

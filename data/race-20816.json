@@ -1,0 +1,54 @@
+{
+  "raceId": "20816",
+  "raceName": "2024-02-25 2023-24もみじシクロクロス第４戦 （もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-09-12T04:30:26.093Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0313",
+      "name": "川口 悦子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1393,
+          "cumulativeTimeSec": 1393,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2104,
+          "cumulativeTimeSec": 3497,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0069",
+      "name": "福田 順子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1418.3,
+          "cumulativeTimeSec": 1418.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2153.6,
+          "cumulativeTimeSec": 3571.8999999999996,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "raceId": "23090",
+  "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:36:08.622Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MDX-234-0018",
+      "name": "大和田 煌仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 361.7,
+          "cumulativeTimeSec": 361.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 358.8,
+          "cumulativeTimeSec": 720.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0006",
+      "name": "渡辺 陽葵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 376.7,
+          "cumulativeTimeSec": 376.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 380.2,
+          "cumulativeTimeSec": 756.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0008",
+      "name": "村上 耀太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 410.6,
+          "cumulativeTimeSec": 410.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 401.7,
+          "cumulativeTimeSec": 812.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0071",
+      "name": "松川 颯",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.5,
+          "cumulativeTimeSec": 416.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 414.3,
+          "cumulativeTimeSec": 830.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0005",
+      "name": "半澤 里奈",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 516.5,
+          "cumulativeTimeSec": 516.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 527.8,
+          "cumulativeTimeSec": 1044.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

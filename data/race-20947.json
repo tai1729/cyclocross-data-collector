@@ -1,0 +1,101 @@
+{
+  "raceId": "20947",
+  "raceName": "2024-03-03 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:30:39.611Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0356",
+      "name": "林 舜二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 311.4,
+          "cumulativeTimeSec": 311.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 427.4,
+          "cumulativeTimeSec": 738.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539.2,
+          "cumulativeTimeSec": 1278,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 655.5,
+          "cumulativeTimeSec": 1933.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-223-0001",
+      "name": "角木 結翔",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 386.2,
+          "cumulativeTimeSec": 386.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 531.9,
+          "cumulativeTimeSec": 918.0999999999999,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 670,
+          "cumulativeTimeSec": 1588.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-212-0013",
+      "name": "浜下 翔",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 403.9,
+          "cumulativeTimeSec": 403.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 553.2,
+          "cumulativeTimeSec": 957.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 707.2,
+          "cumulativeTimeSec": 1664.3000000000002,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

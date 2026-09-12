@@ -1,0 +1,75 @@
+{
+  "raceId": "18061",
+  "raceName": "2023-10-29 東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:26:38.059Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0047",
+      "name": "鈴木 颯太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249.4,
+          "cumulativeTimeSec": 249.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 242.6,
+          "cumulativeTimeSec": 492,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-234-0007",
+      "name": "老川 晃太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 306.3,
+          "cumulativeTimeSec": 306.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 299.4,
+          "cumulativeTimeSec": 605.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0136",
+      "name": "馬場 悠貴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 310.6,
+          "cumulativeTimeSec": 310.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 296.7,
+          "cumulativeTimeSec": 607.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

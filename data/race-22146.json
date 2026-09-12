@@ -1,0 +1,54 @@
+{
+  "raceId": "22146",
+  "raceName": "2024-11-10 シクロクロスミーティングシリーズ　シーズン2024-2025 第5戦　清里  （信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:34:12.056Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389,
+          "cumulativeTimeSec": 389,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 389,
+          "cumulativeTimeSec": 778,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-245-0016",
+      "name": "番場 煌",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 407.1,
+          "cumulativeTimeSec": 407.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 406.9,
+          "cumulativeTimeSec": 814,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

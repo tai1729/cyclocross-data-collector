@@ -1,0 +1,40 @@
+{
+  "raceId": "22916",
+  "raceName": "2025-01-12      湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:35:48.287Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-178-0059",
+      "name": "皆木 海音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 560.7,
+          "cumulativeTimeSec": 560.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 573,
+          "cumulativeTimeSec": 1133.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 574.6,
+          "cumulativeTimeSec": 1708.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

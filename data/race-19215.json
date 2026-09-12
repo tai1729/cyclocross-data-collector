@@ -1,0 +1,113 @@
+{
+  "raceId": "19215",
+  "raceName": "2023-12-10 シクロクロスミーティングシリーズ　シーズン2023-2024 第7戦　南信州 （信州クロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:27:57.848Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4274",
+      "name": "渡邊 見紀",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 504.1,
+          "cumulativeTimeSec": 504.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.1,
+          "cumulativeTimeSec": 1034.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.1,
+          "cumulativeTimeSec": 1558.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 540.3,
+          "cumulativeTimeSec": 2098.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-234-0020",
+      "name": "長岩 里桜",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.5,
+          "cumulativeTimeSec": 542.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 572.6,
+          "cumulativeTimeSec": 1115.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 628.5,
+          "cumulativeTimeSec": 1743.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 635.4,
+          "cumulativeTimeSec": 2379,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0038",
+      "name": "鈴木 千鶴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605.8,
+          "cumulativeTimeSec": 605.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 679.8,
+          "cumulativeTimeSec": 1285.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 675.7,
+          "cumulativeTimeSec": 1961.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 438.7,
+          "cumulativeTimeSec": 2400,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

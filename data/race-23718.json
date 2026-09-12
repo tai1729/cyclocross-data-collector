@@ -1,0 +1,67 @@
+{
+  "raceId": "23718",
+  "raceName": "2025-02-16 第14回さぬきシクロクロス善通寺大会（四国クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:37:06.905Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-245-0007",
+      "name": "金子 裕美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 414.2,
+          "cumulativeTimeSec": 414.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 363,
+          "cumulativeTimeSec": 777.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 379.2,
+          "cumulativeTimeSec": 1156.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2299",
+      "name": "平林 ゆかり",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 465.6,
+          "cumulativeTimeSec": 465.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 451.6,
+          "cumulativeTimeSec": 917.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 464.5,
+          "cumulativeTimeSec": 1381.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

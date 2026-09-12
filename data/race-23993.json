@@ -1,0 +1,117 @@
+{
+  "raceId": "23993",
+  "raceName": "2025-03-02 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:37:22.186Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 245.8,
+          "cumulativeTimeSec": 245.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 225.9,
+          "cumulativeTimeSec": 471.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0006",
+      "name": "渡辺 陽葵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 246.9,
+          "cumulativeTimeSec": 246.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 228.1,
+          "cumulativeTimeSec": 475,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0027",
+      "name": "南野 暖",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249.7,
+          "cumulativeTimeSec": 249.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 240.2,
+          "cumulativeTimeSec": 489.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0008",
+      "name": "村上 耀太",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 248.1,
+          "cumulativeTimeSec": 248.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250,
+          "cumulativeTimeSec": 498.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0071",
+      "name": "松川 颯",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 283.6,
+          "cumulativeTimeSec": 283.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268,
+          "cumulativeTimeSec": 551.6,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

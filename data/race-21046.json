@@ -1,0 +1,96 @@
+{
+  "raceId": "21046",
+  "raceName": "2024-03-10 阿波シクロクロス（四国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:48.319Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0035",
+      "name": "石井 寿弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 302.5,
+          "cumulativeTimeSec": 302.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.8,
+          "cumulativeTimeSec": 627.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0030",
+      "name": "五百蔵 智之",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 374.8,
+          "cumulativeTimeSec": 374.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 432.4,
+          "cumulativeTimeSec": 807.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0247",
+      "name": "上中 麻菜美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 419.8,
+          "cumulativeTimeSec": 419.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 426.6,
+          "cumulativeTimeSec": 846.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0237",
+      "name": "坂田 佳介",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.2,
+          "cumulativeTimeSec": 606.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 399,
+          "cumulativeTimeSec": 1005.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

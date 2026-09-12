@@ -1,0 +1,75 @@
+{
+  "raceId": "21692",
+  "raceName": "2024-10-13 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:33:23.027Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-234-0048",
+      "name": "森田 旬",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 417.9,
+          "cumulativeTimeSec": 417.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 391.9,
+          "cumulativeTimeSec": 809.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 471.2,
+          "cumulativeTimeSec": 471.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 433.3,
+          "cumulativeTimeSec": 904.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0027",
+      "name": "南野 暖",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 487.5,
+          "cumulativeTimeSec": 487.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 424.7,
+          "cumulativeTimeSec": 912.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

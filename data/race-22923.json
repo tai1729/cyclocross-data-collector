@@ -1,0 +1,93 @@
+{
+  "raceId": "22923",
+  "raceName": "2025-01-12      湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-09-12T04:35:50.480Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-234-0003",
+      "name": "山崎 絵美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 503.4,
+          "cumulativeTimeSec": 503.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 525.9,
+          "cumulativeTimeSec": 1029.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 540.7,
+          "cumulativeTimeSec": 1570,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 542.1,
+          "cumulativeTimeSec": 2112.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 529.4,
+          "cumulativeTimeSec": 2641.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1502",
+      "name": "平野 美穂",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 524.3,
+          "cumulativeTimeSec": 524.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 540.2,
+          "cumulativeTimeSec": 1064.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539.8,
+          "cumulativeTimeSec": 1604.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 532.5,
+          "cumulativeTimeSec": 2136.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 536.4,
+          "cumulativeTimeSec": 2673.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

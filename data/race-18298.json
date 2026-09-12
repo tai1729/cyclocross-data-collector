@@ -1,0 +1,67 @@
+{
+  "raceId": "18298",
+  "raceName": "2023-11-12 茨城シクロクロス 第2戦 常陸大宮市 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM35",
+  "updatedAt": "2026-09-12T04:27:01.823Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0072",
+      "name": "小島 寛央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 774.5,
+          "cumulativeTimeSec": 774.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 678.5,
+          "cumulativeTimeSec": 1453,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 682.5,
+          "cumulativeTimeSec": 2135.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0070",
+      "name": "相吉澤 佑輔",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 711.4,
+          "cumulativeTimeSec": 711.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 662.5,
+          "cumulativeTimeSec": 1373.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 804.7,
+          "cumulativeTimeSec": 2178.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

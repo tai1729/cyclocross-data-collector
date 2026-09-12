@@ -1,0 +1,140 @@
+{
+  "raceId": "20000",
+  "raceName": "2024-01-20 東海シクロクロス 第5戦 愛知県 愛知牧場（東海クロス）",
+  "category": "MJ",
+  "updatedAt": "2026-09-12T04:29:04.750Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0111",
+      "name": "新藤 想真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 589,
+          "cumulativeTimeSec": 589,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 599,
+          "cumulativeTimeSec": 1188,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 634,
+          "cumulativeTimeSec": 1822,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 626,
+          "cumulativeTimeSec": 2448,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 616,
+          "cumulativeTimeSec": 616,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 598,
+          "cumulativeTimeSec": 1214,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 618,
+          "cumulativeTimeSec": 1832,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 618,
+          "cumulativeTimeSec": 2450,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 607,
+          "cumulativeTimeSec": 607,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 690,
+          "cumulativeTimeSec": 1297,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 647,
+          "cumulativeTimeSec": 1944,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 710,
+          "cumulativeTimeSec": 2654,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0034",
+      "name": "福島 愛都",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605,
+          "cumulativeTimeSec": 605,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 689,
+          "cumulativeTimeSec": 1294,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 870,
+          "cumulativeTimeSec": 2164,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

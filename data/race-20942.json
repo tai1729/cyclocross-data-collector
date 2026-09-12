@@ -1,0 +1,54 @@
+{
+  "raceId": "20942",
+  "raceName": "2024-03-03 MERIDA X BASE presents 伊豆の国シクロクロス（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:30:38.344Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-212-0008",
+      "name": "稲葉 立",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 321.7,
+          "cumulativeTimeSec": 321.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.9,
+          "cumulativeTimeSec": 649.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0069",
+      "name": "鍋田 心絆",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 367.8,
+          "cumulativeTimeSec": 367.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.6,
+          "cumulativeTimeSec": 741.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

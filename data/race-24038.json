@@ -1,0 +1,96 @@
+{
+  "raceId": "24038",
+  "raceName": "2025-03-09 東海シクロクロス 第8戦 岐阜県本巣市(予定)（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:37:28.212Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4750",
+      "name": "白澤 乃依",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 263.2,
+          "cumulativeTimeSec": 263.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 260.8,
+          "cumulativeTimeSec": 524,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0030",
+      "name": "高橋 麻由美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 264.7,
+          "cumulativeTimeSec": 264.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 261.3,
+          "cumulativeTimeSec": 526,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 270.6,
+          "cumulativeTimeSec": 270.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 288.5,
+          "cumulativeTimeSec": 559.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0097",
+      "name": "森 真以",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 318.3,
+          "cumulativeTimeSec": 318.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 312,
+          "cumulativeTimeSec": 630.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

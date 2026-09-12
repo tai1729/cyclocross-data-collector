@@ -1,0 +1,96 @@
+{
+  "raceId": "20875",
+  "raceName": "2024-03-03 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "WE2+3",
+  "updatedAt": "2026-09-12T04:30:34.395Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-156-0033",
+      "name": "小林 碧",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 641.8,
+          "cumulativeTimeSec": 641.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 666.5,
+          "cumulativeTimeSec": 1308.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 735.6,
+          "cumulativeTimeSec": 735.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 725.6,
+          "cumulativeTimeSec": 1461.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0019",
+      "name": "開沼 美結",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 769.3,
+          "cumulativeTimeSec": 769.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 828.2,
+          "cumulativeTimeSec": 1597.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-212-0044",
+      "name": "松井 紀子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 815.3,
+          "cumulativeTimeSec": 815.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 835.7,
+          "cumulativeTimeSec": 1651,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

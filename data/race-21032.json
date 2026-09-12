@@ -1,0 +1,96 @@
+{
+  "raceId": "21032",
+  "raceName": "2024-03-10 九州シクロクロス 第3戦 海の中道ステージ（九州シクロクロス）",
+  "category": "ChallengeCross",
+  "updatedAt": "2026-09-12T04:30:45.067Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-234-0047",
+      "name": "メルカド ジョビメル",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 358.2,
+          "cumulativeTimeSec": 358.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 404,
+          "cumulativeTimeSec": 762.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0044",
+      "name": "吉見 一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 374.5,
+          "cumulativeTimeSec": 374.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 411.9,
+          "cumulativeTimeSec": 786.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0045",
+      "name": "有馬 まどか",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 452.5,
+          "cumulativeTimeSec": 452.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 462.3,
+          "cumulativeTimeSec": 914.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0046",
+      "name": "神林 亮介",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 456.9,
+          "cumulativeTimeSec": 456.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 461.5,
+          "cumulativeTimeSec": 918.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "raceId": "19353",
+  "raceName": "2023-12-17 関西シクロクロス 第5戦 信太山（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:28:14.372Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0305",
+      "name": "松山 海司",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 764.8,
+          "cumulativeTimeSec": 764.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 410.6,
+          "cumulativeTimeSec": 1175.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 413,
+          "cumulativeTimeSec": 1588.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0027",
+      "name": "田中 遼介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 799.2,
+          "cumulativeTimeSec": 799.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 437.9,
+          "cumulativeTimeSec": 1237.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.2,
+          "cumulativeTimeSec": 1669.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 793.2,
+          "cumulativeTimeSec": 793.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 452.1,
+          "cumulativeTimeSec": 1245.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.6,
+          "cumulativeTimeSec": 1769.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4576",
+      "name": "柿本 圭治郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 834.7,
+          "cumulativeTimeSec": 834.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.1,
+          "cumulativeTimeSec": 1307.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.2,
+          "cumulativeTimeSec": 1793,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

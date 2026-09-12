@@ -1,0 +1,67 @@
+{
+  "raceId": "22684",
+  "raceName": "2024-11-17 茨城シクロクロス第3戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:34:27.894Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-234-0035",
+      "name": "角田 直央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 603.1,
+          "cumulativeTimeSec": 603.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 544.1,
+          "cumulativeTimeSec": 1147.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 548.5,
+          "cumulativeTimeSec": 1695.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0039",
+      "name": "水沼 龍之介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 702.2,
+          "cumulativeTimeSec": 702.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 604.6,
+          "cumulativeTimeSec": 1306.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 624.9,
+          "cumulativeTimeSec": 1931.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "18597",
+  "raceName": "2023-11-26 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:27:35.020Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 654.3,
+          "cumulativeTimeSec": 654.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 536.7,
+          "cumulativeTimeSec": 1191,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 516.7,
+          "cumulativeTimeSec": 1707.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

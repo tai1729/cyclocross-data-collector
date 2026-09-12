@@ -1,0 +1,80 @@
+{
+  "raceId": "19443",
+  "raceName": "2023-12-24 関西シクロクロス 第6戦 マイアミ（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-09-12T04:28:30.988Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0280",
+      "name": "齋藤 結陽",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 554.1,
+          "cumulativeTimeSec": 554.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 563.6,
+          "cumulativeTimeSec": 1117.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544,
+          "cumulativeTimeSec": 1661.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 548.5,
+          "cumulativeTimeSec": 2210.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.2,
+          "cumulativeTimeSec": 532.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 575.6,
+          "cumulativeTimeSec": 1107.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 570.3,
+          "cumulativeTimeSec": 1678.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 597.6,
+          "cumulativeTimeSec": 2275.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

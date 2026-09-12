@@ -1,0 +1,67 @@
+{
+  "raceId": "19454",
+  "raceName": "2023-12-24 2023-24もみじシクロクロス第３戦 （もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-09-12T04:28:33.165Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-223-0004",
+      "name": "山本 百合恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1097.3,
+          "cumulativeTimeSec": 1097.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1641,
+          "cumulativeTimeSec": 2738.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2208.8,
+          "cumulativeTimeSec": 4947.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0053",
+      "name": "小林 綾子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1159.6,
+          "cumulativeTimeSec": 1159.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1760.7,
+          "cumulativeTimeSec": 2920.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2377.2,
+          "cumulativeTimeSec": 5297.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "21068",
+  "raceName": "2024-03-31 2023-24もみじシクロクロス第５戦 （もみじシクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:30:52.907Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-234-3018",
+      "name": "中村 友音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.1,
+          "cumulativeTimeSec": 671.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 683.5,
+          "cumulativeTimeSec": 1354.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 792,
+          "cumulativeTimeSec": 2146.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

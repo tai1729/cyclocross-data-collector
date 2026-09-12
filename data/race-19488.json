@@ -1,0 +1,54 @@
+{
+  "raceId": "19488",
+  "raceName": "2023-12-24 野田シクロクロス23（野田シクロクロス）",
+  "category": "MJ",
+  "updatedAt": "2026-09-12T04:28:41.368Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0008",
+      "name": "大石 哲平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 368.6,
+          "cumulativeTimeSec": 368.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 456.6,
+          "cumulativeTimeSec": 825.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 468.6,
+          "cumulativeTimeSec": 1293.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 453.9,
+          "cumulativeTimeSec": 1747.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 471.1,
+          "cumulativeTimeSec": 2218.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

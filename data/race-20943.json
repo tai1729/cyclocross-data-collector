@@ -1,0 +1,54 @@
+{
+  "raceId": "20943",
+  "raceName": "2024-03-03 MERIDA X BASE presents 伊豆の国シクロクロス（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:38.359Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-223-0001",
+      "name": "田中 亮丞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 382.4,
+          "cumulativeTimeSec": 382.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.2,
+          "cumulativeTimeSec": 767.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0001",
+      "name": "稲葉 桃子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 418.5,
+          "cumulativeTimeSec": 418.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 437.6,
+          "cumulativeTimeSec": 856.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "raceId": "22566",
+  "raceName": "2024-12-01 関西シクロクロス 第4戦 マキノ（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:35:01.817Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.5,
+          "cumulativeTimeSec": 525.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551.3,
+          "cumulativeTimeSec": 1076.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 547.2,
+          "cumulativeTimeSec": 1624,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 551,
+          "cumulativeTimeSec": 2175,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0216",
+      "name": "塚本 優月",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 566.1,
+          "cumulativeTimeSec": 566.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600.1,
+          "cumulativeTimeSec": 1166.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 612.8,
+          "cumulativeTimeSec": 1779,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "raceId": "18558",
+  "raceName": "2023-11-26 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
+  "category": "W35",
+  "updatedAt": "2026-09-12T04:27:28.976Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0037",
+      "name": "藤江 恭子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 715,
+          "cumulativeTimeSec": 715,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 654.6,
+          "cumulativeTimeSec": 1369.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 658,
+          "cumulativeTimeSec": 2027.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 769.3,
+          "cumulativeTimeSec": 769.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 690,
+          "cumulativeTimeSec": 1459.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 691.7,
+          "cumulativeTimeSec": 2151,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2152",
+      "name": "上田 順子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 784.3,
+          "cumulativeTimeSec": 784.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 723,
+          "cumulativeTimeSec": 1507.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 721.7,
+          "cumulativeTimeSec": 2229,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-190-0015",
+      "name": "髙橋 恭子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 808.5,
+          "cumulativeTimeSec": 808.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 751.2,
+          "cumulativeTimeSec": 1559.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 757.5,
+          "cumulativeTimeSec": 2317.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0022",
+      "name": "宮田 直美",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 867.7,
+          "cumulativeTimeSec": 867.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 825.6,
+          "cumulativeTimeSec": 1693.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

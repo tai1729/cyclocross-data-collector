@@ -21,11 +21,77 @@ export interface MeetEntry {
   categories: MeetCategory[];
 }
 
+export type DiscoveryFailureStage = "season" | "meet";
+
+export type DiscoveryFailureCode =
+  | "invalid-season"
+  | "season-not-found"
+  | "season-duplicate"
+  | "season-value-missing"
+  | "season-response-mismatch"
+  | "event-date-mismatch"
+  | "meet-fetch"
+  | "categories-missing";
+
+export interface DiscoveryFailure {
+  stage: DiscoveryFailureStage;
+  code: DiscoveryFailureCode;
+  message: string;
+  season?: string;
+  sourceSeasonValue?: string;
+  meetId?: string;
+  meetDate?: string;
+}
+
+export function isCanonicalSeason(season: string): boolean {
+  const match = season.match(/^(\d{4})-(\d{2})$/);
+  if (!match) return false;
+
+  const startYear = Number(match[1]);
+  return Number(match[2]) === (startYear + 1) % 100;
+}
+
+export function seasonForDate(meetDate: string): string {
+  const year = Number(meetDate.slice(0, 4));
+  const month = Number(meetDate.slice(5, 7));
+  const startYear = month >= 7 ? year : year - 1;
+  return `${startYear}-${String((startYear + 1) % 100).padStart(2, "0")}`;
+}
+
+export function mergeMeetEntries(
+  existing: MeetEntry[],
+  discovered: MeetEntry[],
+): MeetEntry[] {
+  const byId = new Map(existing.map((meet) => [meet.meetId, meet]));
+  for (const meet of discovered) byId.set(meet.meetId, meet);
+
+  return [...byId.values()].sort(
+    (a, b) =>
+      b.meetDate.localeCompare(a.meetDate) || a.meetId.localeCompare(b.meetId),
+  );
+}
+
+export function mergeRaceEntries(
+  existing: RaceEntry[],
+  discovered: RaceEntry[],
+): RaceEntry[] {
+  const byId = new Map(existing.map((race) => [race.raceId, race]));
+  for (const race of discovered) byId.set(race.raceId, race);
+
+  return [...byId.values()].sort(
+    (a, b) =>
+      a.meetDate.localeCompare(b.meetDate) || a.raceId.localeCompare(b.raceId),
+  );
+}
+
 const ROOT_DIR = path.join(import.meta.dirname, "..");
 export const RACES_JSON_PATH = path.join(ROOT_DIR, "races.json");
 export const KNOWN_MEETS_JSON_PATH = path.join(ROOT_DIR, "known_meets.json");
 export const RACE_DAYS_JSON_PATH = path.join(ROOT_DIR, "race_days.json");
 export const MEETS_JSON_PATH = path.join(ROOT_DIR, "meets.json");
+export const INVENTORY_JSON_PATH = path.join(ROOT_DIR, "inventory.json");
+export const RIDER_INDEX_JSON_PATH = path.join(ROOT_DIR, "rider-index.json");
+export const DISCOVERY_FAILURES_JSON_PATH = path.join(ROOT_DIR, "discovery-failures.json");
 
 export function getJstDate(date = new Date()): string {
   const parts = new Intl.DateTimeFormat("en-CA", {
@@ -117,7 +183,7 @@ export async function loadMeetEntries(): Promise<MeetEntry[]> {
     return (
       typeof meet.meetId === "string" &&
       typeof meet.season === "string" &&
-      /^\d{4}-\d{2}$/.test(meet.season) &&
+      isCanonicalSeason(meet.season) &&
       typeof meet.meetDate === "string" &&
       /^\d{4}-\d{2}-\d{2}$/.test(meet.meetDate) &&
       typeof meet.series === "string" &&

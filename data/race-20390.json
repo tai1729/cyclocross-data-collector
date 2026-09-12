@@ -1,0 +1,67 @@
+{
+  "raceId": "20390",
+  "raceName": "2024-02-11 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:30:03.027Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-167-0008",
+      "name": "安藤 誠一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 455.4,
+          "cumulativeTimeSec": 455.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 471.4,
+          "cumulativeTimeSec": 926.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 463.9,
+          "cumulativeTimeSec": 1390.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0005",
+      "name": "吉田 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 463,
+          "cumulativeTimeSec": 463,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 479.8,
+          "cumulativeTimeSec": 942.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 487.1,
+          "cumulativeTimeSec": 1429.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "raceId": "23328",
+  "raceName": "2025-02-02 2024-25シーズン　山口シクロクロス　第3戦　山口きらら博記念公園（山口シクロクロス）",
+  "category": "MJ",
+  "updatedAt": "2026-09-12T04:36:37.593Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0111",
+      "name": "新藤 想真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532,
+          "cumulativeTimeSec": 532,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 548,
+          "cumulativeTimeSec": 1080,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 552,
+          "cumulativeTimeSec": 1632,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 559,
+          "cumulativeTimeSec": 2191,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0276",
+      "name": "宮本 翼輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 576,
+          "cumulativeTimeSec": 576,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 599,
+          "cumulativeTimeSec": 1175,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 654.5,
+          "cumulativeTimeSec": 1829.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 621.5,
+          "cumulativeTimeSec": 2451,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

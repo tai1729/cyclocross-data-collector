@@ -1,0 +1,69 @@
+{
+  "raceId": "20913",
+  "raceName": "2024-03-03 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:35.891Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-223-0008",
+      "name": "村上 耀太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 415.5,
+          "cumulativeTimeSec": 415.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 408.7,
+          "cumulativeTimeSec": 824.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0136",
+      "name": "馬場 悠貴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 471.3,
+          "cumulativeTimeSec": 471.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 496.5,
+          "cumulativeTimeSec": 967.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-234-0019",
+      "name": "浅川 結翔",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 689.2,
+          "cumulativeTimeSec": 689.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

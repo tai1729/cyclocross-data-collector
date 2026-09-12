@@ -1,0 +1,94 @@
+{
+  "raceId": "22661",
+  "raceName": "2024-12-08 茨城シクロクロス第4戦城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:35:10.568Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-234-0035",
+      "name": "角田 直央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 519.8,
+          "cumulativeTimeSec": 519.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 543.7,
+          "cumulativeTimeSec": 1063.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 546,
+          "cumulativeTimeSec": 1609.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-190-0039",
+      "name": "村上 蕾夢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582.8,
+          "cumulativeTimeSec": 582.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600.3,
+          "cumulativeTimeSec": 1183.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571.4,
+          "cumulativeTimeSec": 1754.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0039",
+      "name": "水沼 龍之介",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 626.9,
+          "cumulativeTimeSec": 626.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 629.9,
+          "cumulativeTimeSec": 1256.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 665.4,
+          "cumulativeTimeSec": 1922.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

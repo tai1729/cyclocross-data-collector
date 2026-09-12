@@ -1,0 +1,67 @@
+{
+  "raceId": "19714",
+  "raceName": "2024-01-21 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:29:10.408Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-156-0045",
+      "name": "鬼形 珀亜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 486.2,
+          "cumulativeTimeSec": 486.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 503.5,
+          "cumulativeTimeSec": 989.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 493.2,
+          "cumulativeTimeSec": 1482.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 494.3,
+          "cumulativeTimeSec": 494.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 506.9,
+          "cumulativeTimeSec": 1001.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 507.5,
+          "cumulativeTimeSec": 1508.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

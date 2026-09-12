@@ -1,0 +1,121 @@
+{
+  "raceId": "21069",
+  "raceName": "2024-03-31 2023-24もみじシクロクロス第５戦 （もみじシクロクロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:30:53.180Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0313",
+      "name": "川口 悦子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 616.8,
+          "cumulativeTimeSec": 616.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 686.8,
+          "cumulativeTimeSec": 1303.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 677.5,
+          "cumulativeTimeSec": 1981.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4274",
+      "name": "渡邊 見紀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646.3,
+          "cumulativeTimeSec": 646.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 682.8,
+          "cumulativeTimeSec": 1329.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 691.2,
+          "cumulativeTimeSec": 2020.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-234-3019",
+      "name": "松下 恵子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 656.1,
+          "cumulativeTimeSec": 656.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 682.8,
+          "cumulativeTimeSec": 1338.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 693.1,
+          "cumulativeTimeSec": 2032,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0026",
+      "name": "榎本 菜未子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 731.4,
+          "cumulativeTimeSec": 731.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 734.7,
+          "cumulativeTimeSec": 1466.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 741.4,
+          "cumulativeTimeSec": 2207.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

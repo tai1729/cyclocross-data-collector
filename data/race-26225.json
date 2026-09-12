@@ -2,7 +2,13 @@
   "raceId": "26225",
   "raceName": "2025-12-21 2025-2026　セービング・山口シクロクロス　第１戦　リフレッシュパーク豊浦（山口シクロクロス）",
   "category": "MU17",
-  "updatedAt": "2026-09-01T14:35:34.799Z",
+  "updatedAt": "2026-09-12T04:41:35.212Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
   "riders": [
     {
       "riderId": "QCX-190-0009",
@@ -12,25 +18,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 483.1,
-          "cumulativeTimeSec": 483.1,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 414.9,
+          "lapTimeSec": 898,
           "cumulativeTimeSec": 898,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 407,
-          "cumulativeTimeSec": 1305,
+          "lapNumber": 2,
+          "lapTimeSec": 1305,
+          "cumulativeTimeSec": 2203,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 407.1,
-          "cumulativeTimeSec": 1712.1,
+          "lapNumber": 3,
+          "lapTimeSec": 1712.1,
+          "cumulativeTimeSec": 3915.1,
           "rankAtLap": 1
         }
       ],
@@ -44,25 +45,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 508.2,
-          "cumulativeTimeSec": 508.2,
-          "rankAtLap": 2
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 437.9,
+          "lapTimeSec": 946.1,
           "cumulativeTimeSec": 946.1,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 408.8,
-          "cumulativeTimeSec": 1354.9,
+          "lapNumber": 2,
+          "lapTimeSec": 1354.9,
+          "cumulativeTimeSec": 2301,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 437.4,
-          "cumulativeTimeSec": 1792.3,
+          "lapNumber": 3,
+          "lapTimeSec": 1792.3,
+          "cumulativeTimeSec": 4093.3,
           "rankAtLap": 2
         }
       ],

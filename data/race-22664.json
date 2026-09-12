@@ -1,0 +1,107 @@
+{
+  "raceId": "22664",
+  "raceName": "2024-12-08 茨城シクロクロス第4戦城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WE1",
+  "updatedAt": "2026-09-12T04:35:11.414Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3361",
+      "name": "石田 唯",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 554.1,
+          "cumulativeTimeSec": 554.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 564,
+          "cumulativeTimeSec": 1118.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 568.3,
+          "cumulativeTimeSec": 1686.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 572.5,
+          "cumulativeTimeSec": 2258.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 643.8,
+          "cumulativeTimeSec": 643.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 650.2,
+          "cumulativeTimeSec": 1294,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 650.9,
+          "cumulativeTimeSec": 1944.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 657.5,
+          "cumulativeTimeSec": 2602.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0109",
+      "name": "上野 妙子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 777.2,
+          "cumulativeTimeSec": 777.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 806.3,
+          "cumulativeTimeSec": 1583.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 800.9,
+          "cumulativeTimeSec": 2384.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

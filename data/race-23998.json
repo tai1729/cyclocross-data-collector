@@ -1,0 +1,40 @@
+{
+  "raceId": "23998",
+  "raceName": "2025-03-02 東北CXシリーズ#5福島空港ラウンド（東北 CX Project）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:37:23.072Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-189-0033",
+      "name": "首藤 律子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 611.4,
+          "cumulativeTimeSec": 611.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 657,
+          "cumulativeTimeSec": 1268.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 654.6,
+          "cumulativeTimeSec": 1923,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

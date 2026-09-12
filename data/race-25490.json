@@ -2,7 +2,12 @@
   "raceId": "25490",
   "raceName": "2025-11-29 シクロクロスミーティングシリーズ　シーズン2025-2026　第6戦　チロルの森Day1（信州クロス）",
   "category": "CK3",
-  "updatedAt": "2026-09-01T14:34:46.845Z",
+  "updatedAt": "2026-09-12T04:40:46.485Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
   "riders": [
     {
       "riderId": "XTK-223-0161",
@@ -11,20 +16,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 240,
           "cumulativeTimeSec": 240,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 201,
-          "cumulativeTimeSec": 441,
+          "lapNumber": 2,
+          "lapTimeSec": 441,
+          "cumulativeTimeSec": 681,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 201.1,
-          "cumulativeTimeSec": 642.1,
+          "lapNumber": 3,
+          "lapTimeSec": 642.1,
+          "cumulativeTimeSec": 1323.1,
           "rankAtLap": 1
         }
       ],
@@ -37,20 +43,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 251,
           "cumulativeTimeSec": 251,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 200.9,
-          "cumulativeTimeSec": 451.9,
+          "lapNumber": 2,
+          "lapTimeSec": 451.9,
+          "cumulativeTimeSec": 702.9,
           "rankAtLap": 2
         },
         {
-          "lapTimeSec": 195.7,
-          "cumulativeTimeSec": 647.6,
+          "lapNumber": 3,
+          "lapTimeSec": 647.6,
+          "cumulativeTimeSec": 1350.5,
           "rankAtLap": 2
         }
       ],
@@ -63,20 +70,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 249.6,
           "cumulativeTimeSec": 249.6,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 211.8,
-          "cumulativeTimeSec": 461.4,
+          "lapNumber": 2,
+          "lapTimeSec": 461.4,
+          "cumulativeTimeSec": 711,
           "rankAtLap": 3
         },
         {
-          "lapTimeSec": 217.4,
-          "cumulativeTimeSec": 678.8,
+          "lapNumber": 3,
+          "lapTimeSec": 678.8,
+          "cumulativeTimeSec": 1389.8,
           "rankAtLap": 3
         }
       ],
@@ -89,20 +97,21 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 2,
+          "lapNumber": 1,
           "lapTimeSec": 325.3,
           "cumulativeTimeSec": 325.3,
           "rankAtLap": 4
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 249.9,
-          "cumulativeTimeSec": 575.2,
+          "lapNumber": 2,
+          "lapTimeSec": 575.2,
+          "cumulativeTimeSec": 900.5,
           "rankAtLap": 4
         },
         {
-          "lapTimeSec": 281.2,
-          "cumulativeTimeSec": 856.4,
+          "lapNumber": 3,
+          "lapTimeSec": 856.4,
+          "cumulativeTimeSec": 1756.9,
           "rankAtLap": 4
         }
       ],

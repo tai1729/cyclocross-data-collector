@@ -1,0 +1,117 @@
+{
+  "raceId": "23714",
+  "raceName": "2025-02-16 前橋シクロクロス 岩神緑地 Day2（前橋シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:37:05.655Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0019",
+      "name": "横田 和晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 324.9,
+          "cumulativeTimeSec": 324.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 332.2,
+          "cumulativeTimeSec": 657.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-234-0019",
+      "name": "田代 渉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.5,
+          "cumulativeTimeSec": 341.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 347,
+          "cumulativeTimeSec": 688.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-234-0048",
+      "name": "森田 旬",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 338.1,
+          "cumulativeTimeSec": 338.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 351.5,
+          "cumulativeTimeSec": 689.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0027",
+      "name": "南野 暖",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377.5,
+          "cumulativeTimeSec": 377.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.2,
+          "cumulativeTimeSec": 745.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-223-0018",
+      "name": "佐藤 成",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 427.1,
+          "cumulativeTimeSec": 427.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 461.9,
+          "cumulativeTimeSec": 889,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

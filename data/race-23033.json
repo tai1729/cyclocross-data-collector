@@ -1,0 +1,80 @@
+{
+  "raceId": "23033",
+  "raceName": "2025-01-12 2024-25シーズン　山口シクロクロス　第2戦　リフレッシュパーク豊浦（山口シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:35:59.451Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-201-0004",
+      "name": "宮本 響斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 147.6,
+          "cumulativeTimeSec": 147.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 139.9,
+          "cumulativeTimeSec": 287.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 136,
+          "cumulativeTimeSec": 423.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 137.5,
+          "cumulativeTimeSec": 561,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0048",
+      "name": "濱崎 七海",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 148.7,
+          "cumulativeTimeSec": 148.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 179.6,
+          "cumulativeTimeSec": 328.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 191.4,
+          "cumulativeTimeSec": 519.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 195.3,
+          "cumulativeTimeSec": 715,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

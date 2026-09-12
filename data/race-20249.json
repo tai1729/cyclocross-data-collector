@@ -1,0 +1,40 @@
+{
+  "raceId": "20249",
+  "raceName": "2024-02-04 関西シクロクロス 第10戦 桂川（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:29:48.406Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0059",
+      "name": "猪飼 文治",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 365.5,
+          "cumulativeTimeSec": 365.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 308.4,
+          "cumulativeTimeSec": 673.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 299.5,
+          "cumulativeTimeSec": 973.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

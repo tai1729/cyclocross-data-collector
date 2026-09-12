@@ -1,0 +1,40 @@
+{
+  "raceId": "23321",
+  "raceName": "2025-02-02 2024-25シーズン　山口シクロクロス　第3戦　山口きらら博記念公園（山口シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:36:35.894Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 609.3,
+          "cumulativeTimeSec": 609.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 606.8,
+          "cumulativeTimeSec": 1216.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 680,
+          "cumulativeTimeSec": 1896.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

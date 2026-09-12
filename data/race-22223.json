@@ -1,0 +1,70 @@
+{
+  "raceId": "22223",
+  "raceName": "2024-11-23 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ GHISALLOCUP JCF/JCX DAY1（東海クロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:34:28.615Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0106",
+      "name": "伊藤 あすみ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 543.7,
+          "cumulativeTimeSec": 543.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551.9,
+          "cumulativeTimeSec": 1095.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0787",
+      "name": "安田 朋子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 636.1,
+          "cumulativeTimeSec": 636.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 692.4,
+          "cumulativeTimeSec": 1328.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0363",
+      "name": "濵口 真帆",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1036,
+          "cumulativeTimeSec": 1036,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

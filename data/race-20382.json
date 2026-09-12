@@ -1,0 +1,40 @@
+{
+  "raceId": "20382",
+  "raceName": "2024-02-11 関西シクロクロス 二色の浜グランプリ(1日目)（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:30:00.372Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 622.9,
+          "cumulativeTimeSec": 622.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 493.1,
+          "cumulativeTimeSec": 1116,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 500.4,
+          "cumulativeTimeSec": 1616.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

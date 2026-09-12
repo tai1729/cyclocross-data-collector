@@ -1,0 +1,116 @@
+{
+  "raceId": "18095",
+  "raceName": "2023-10-29 御殿場シクロクロス Supported by 湘南CX （湘南シクロクロス）",
+  "category": "MM35",
+  "updatedAt": "2026-09-12T04:26:41.864Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-190-0021",
+      "name": "渡邊 真和",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1045.4,
+          "cumulativeTimeSec": 1045.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1581.8,
+          "cumulativeTimeSec": 2627.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2122.1,
+          "cumulativeTimeSec": 4749.299999999999,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0020",
+      "name": "白岩 利映",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1065.6,
+          "cumulativeTimeSec": 1065.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1601.5,
+          "cumulativeTimeSec": 2667.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2168.5,
+          "cumulativeTimeSec": 4835.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0083",
+      "name": "松嶋 友則",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1179,
+          "cumulativeTimeSec": 1179,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1843.8,
+          "cumulativeTimeSec": 3022.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2537.4,
+          "cumulativeTimeSec": 5560.200000000001,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0094",
+      "name": "白坂 僚",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1075.2,
+          "cumulativeTimeSec": 1075.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1614,
+          "cumulativeTimeSec": 2689.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "24025",
+  "raceName": "2025-03-02 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:37:24.704Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-245-3016",
+      "name": "荒木 咲",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 366.3,
+          "cumulativeTimeSec": 366.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 503,
+          "cumulativeTimeSec": 869.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 640.8,
+          "cumulativeTimeSec": 1510.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

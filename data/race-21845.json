@@ -1,0 +1,40 @@
+{
+  "raceId": "21845",
+  "raceName": "2024-10-27 関西シクロクロス 第1戦 御坊（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:33:38.602Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-245-0031",
+      "name": "玉置 絢慎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 362.2,
+          "cumulativeTimeSec": 362.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 369.1,
+          "cumulativeTimeSec": 731.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 362.4,
+          "cumulativeTimeSec": 1093.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

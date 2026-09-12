@@ -1,0 +1,40 @@
+{
+  "raceId": "22788",
+  "raceName": "2024-12-22 関西シクロクロス 第6戦 信太山（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:35:26.066Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-245-0130",
+      "name": "佐藤 誠",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472.9,
+          "cumulativeTimeSec": 472.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 255.9,
+          "cumulativeTimeSec": 728.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 263.6,
+          "cumulativeTimeSec": 992.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

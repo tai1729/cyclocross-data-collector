@@ -1,0 +1,33 @@
+{
+  "raceId": "22984",
+  "raceName": "2025-01-12 東海シクロクロス 第5戦 愛知県 愛知牧場（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-09-12T04:35:51.024Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-234-0059",
+      "name": "井上 智子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 468.3,
+          "cumulativeTimeSec": 468.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 490.3,
+          "cumulativeTimeSec": 958.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

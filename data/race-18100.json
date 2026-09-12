@@ -1,0 +1,48 @@
+{
+  "raceId": "18100",
+  "raceName": "2023-10-29 御殿場シクロクロス Supported by 湘南CX （湘南シクロクロス）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:26:42.970Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-156-0096",
+      "name": "高津 裕子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1148.5,
+          "cumulativeTimeSec": 1148.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1726.8,
+          "cumulativeTimeSec": 2875.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 2325.6,
+          "cumulativeTimeSec": 5200.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2924.5,
+          "cumulativeTimeSec": 8125.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

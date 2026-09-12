@@ -1,0 +1,87 @@
+{
+  "raceId": "20171",
+  "raceName": "2024-01-28 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:29:27.735Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-234-0002",
+      "name": "陶山 義斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 138.2,
+          "cumulativeTimeSec": 138.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 139.1,
+          "cumulativeTimeSec": 277.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 140.6,
+          "cumulativeTimeSec": 417.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 137,
+          "cumulativeTimeSec": 554.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 141.4,
+          "cumulativeTimeSec": 696.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-234-0003",
+      "name": "肥山 和希",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 158.3,
+          "cumulativeTimeSec": 158.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 166.3,
+          "cumulativeTimeSec": 324.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 164.6,
+          "cumulativeTimeSec": 489.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 157.7,
+          "cumulativeTimeSec": 646.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

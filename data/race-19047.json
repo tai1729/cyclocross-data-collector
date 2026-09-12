@@ -1,0 +1,75 @@
+{
+  "raceId": "19047",
+  "raceName": "2023-12-10 松伏シクロクロス23（野田シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:27:56.712Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-234-0035",
+      "name": "角田 直央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 100.9,
+          "cumulativeTimeSec": 100.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 123.2,
+          "cumulativeTimeSec": 224.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0081",
+      "name": "吉田 悠一郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 101.2,
+          "cumulativeTimeSec": 101.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 127.7,
+          "cumulativeTimeSec": 228.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 132.7,
+          "cumulativeTimeSec": 132.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 150.7,
+          "cumulativeTimeSec": 283.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

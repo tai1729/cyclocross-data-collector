@@ -1,0 +1,81 @@
+{
+  "raceId": "19480",
+  "raceName": "2023-12-24 シクロクロスミーティングシリーズ　シーズン2023-2024 第8戦　清里（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-09-12T04:28:39.077Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 228.3,
+          "cumulativeTimeSec": 228.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 224.6,
+          "cumulativeTimeSec": 452.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 4,
+          "cumulativeTimeSec": 456.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 230.9,
+          "cumulativeTimeSec": 687.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 230.3,
+          "cumulativeTimeSec": 230.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 6.9,
+          "cumulativeTimeSec": 237.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 235.1,
+          "cumulativeTimeSec": 472.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 237.5,
+          "cumulativeTimeSec": 709.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

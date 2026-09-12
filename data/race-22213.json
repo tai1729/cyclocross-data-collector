@@ -1,0 +1,94 @@
+{
+  "raceId": "22213",
+  "raceName": "2024-11-24 東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）（東北 CX Project）",
+  "category": "MM2",
+  "updatedAt": "2026-09-12T04:34:30.133Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-189-0039",
+      "name": "工藤 薫",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 649.4,
+          "cumulativeTimeSec": 649.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1268.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 614,
+          "cumulativeTimeSec": 1882.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0022",
+      "name": "中島 達雄",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 648.1,
+          "cumulativeTimeSec": 648.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 643.2,
+          "cumulativeTimeSec": 1291.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 630.5,
+          "cumulativeTimeSec": 1921.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-178-0076",
+      "name": "関口 誠",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 694,
+          "cumulativeTimeSec": 694,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 666.4,
+          "cumulativeTimeSec": 1360.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 644.2,
+          "cumulativeTimeSec": 2004.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

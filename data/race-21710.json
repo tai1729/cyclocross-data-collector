@@ -1,0 +1,80 @@
+{
+  "raceId": "21710",
+  "raceName": "2024-10-20 シクロクロスミーティングシリーズ　シーズン2024-2025　第2戦　富士山（信州クロス）",
+  "category": "WE2",
+  "updatedAt": "2026-09-12T04:33:26.905Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-190-0015",
+      "name": "��橋 恭子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 473.1,
+          "cumulativeTimeSec": 473.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 488.6,
+          "cumulativeTimeSec": 961.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 489.8,
+          "cumulativeTimeSec": 1451.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 498.2,
+          "cumulativeTimeSec": 1949.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0179",
+      "name": "奥田 亜紀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 531,
+          "cumulativeTimeSec": 531,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 593,
+          "cumulativeTimeSec": 1124,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 625.8,
+          "cumulativeTimeSec": 1749.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 549.5,
+          "cumulativeTimeSec": 2299.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

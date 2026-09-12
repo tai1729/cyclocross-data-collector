@@ -1,0 +1,54 @@
+{
+  "raceId": "21031",
+  "raceName": "2024-03-10 九州シクロクロス 第3戦 海の中道ステージ（九州シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:30:44.949Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0030",
+      "name": "西村 真平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 90.2,
+          "cumulativeTimeSec": 90.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 110.3,
+          "cumulativeTimeSec": 200.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 115.4,
+          "cumulativeTimeSec": 315.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 117.2,
+          "cumulativeTimeSec": 433.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 115.3,
+          "cumulativeTimeSec": 548.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

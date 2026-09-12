@@ -1,0 +1,95 @@
+{
+  "raceId": "21070",
+  "raceName": "2024-03-31 2023-24もみじシクロクロス第５戦 （もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-12T04:30:53.087Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0035",
+      "name": "石井 寿弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 295.6,
+          "cumulativeTimeSec": 295.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 307.1,
+          "cumulativeTimeSec": 602.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 322,
+          "cumulativeTimeSec": 924.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 335.6,
+          "cumulativeTimeSec": 1260.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-234-3007",
+      "name": "船岡 浬",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 359.8,
+          "cumulativeTimeSec": 359.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 377.3,
+          "cumulativeTimeSec": 737.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 381.9,
+          "cumulativeTimeSec": 1119,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0042",
+      "name": "宮本 千寿",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 862.4,
+          "cumulativeTimeSec": 862.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 721.9,
+          "cumulativeTimeSec": 1584.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

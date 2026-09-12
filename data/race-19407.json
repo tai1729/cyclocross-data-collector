@@ -1,0 +1,121 @@
+{
+  "raceId": "19407",
+  "raceName": "2023-12-24 東北CXシリーズ#3いわきラウンド（東北 CX Project）",
+  "category": "WM",
+  "updatedAt": "2026-09-12T04:28:25.234Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 486.1,
+          "cumulativeTimeSec": 486.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 457.2,
+          "cumulativeTimeSec": 943.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 463.6,
+          "cumulativeTimeSec": 1406.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 474.8,
+          "cumulativeTimeSec": 474.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 469.9,
+          "cumulativeTimeSec": 944.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 463.4,
+          "cumulativeTimeSec": 1408.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.6,
+          "cumulativeTimeSec": 493.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.6,
+          "cumulativeTimeSec": 981.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 491.7,
+          "cumulativeTimeSec": 1472.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-223-0043",
+      "name": "三ツ橋 美佳",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 511.5,
+          "cumulativeTimeSec": 511.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 1017.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 508.8,
+          "cumulativeTimeSec": 1526.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

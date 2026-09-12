@@ -1,0 +1,80 @@
+{
+  "raceId": "21109",
+  "raceName": "2024-09-15 茨城シクロクロス第1戦常陸大宮市辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "Category Challenge",
+  "updatedAt": "2026-09-12T04:33:08.040Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-245-0020",
+      "name": "乾 隆至",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 230.3,
+          "cumulativeTimeSec": 230.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 261.9,
+          "cumulativeTimeSec": 492.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 274.1,
+          "cumulativeTimeSec": 766.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 276.2,
+          "cumulativeTimeSec": 1042.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0021",
+      "name": "黒澤 光",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 215.7,
+          "cumulativeTimeSec": 215.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 282.6,
+          "cumulativeTimeSec": 498.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 287.8,
+          "cumulativeTimeSec": 786.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 317.6,
+          "cumulativeTimeSec": 1103.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

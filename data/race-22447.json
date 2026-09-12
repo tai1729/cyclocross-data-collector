@@ -1,0 +1,55 @@
+{
+  "raceId": "22447",
+  "raceName": "2024-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ GHISALLOCUP JCF/JCX DAY2（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:34:43.904Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-178-0059",
+      "name": "皆木 海音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586,
+          "cumulativeTimeSec": 586,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 601.9,
+          "cumulativeTimeSec": 1187.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.5,
+          "cumulativeTimeSec": 653.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 648.6,
+          "cumulativeTimeSec": 1302.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

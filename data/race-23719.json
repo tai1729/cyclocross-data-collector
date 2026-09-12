@@ -1,0 +1,94 @@
+{
+  "raceId": "23719",
+  "raceName": "2025-02-16 第14回さぬきシクロクロス善通寺大会（四国クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-09-12T04:37:06.915Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-245-0013",
+      "name": "筒井 淳人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 351.7,
+          "cumulativeTimeSec": 351.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 328.9,
+          "cumulativeTimeSec": 680.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 317.5,
+          "cumulativeTimeSec": 998.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0377",
+      "name": "新名 凜大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.9,
+          "cumulativeTimeSec": 389.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 358.8,
+          "cumulativeTimeSec": 748.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 355.2,
+          "cumulativeTimeSec": 1103.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-245-0014",
+      "name": "笠井 利樹",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 395.9,
+          "cumulativeTimeSec": 395.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 350.7,
+          "cumulativeTimeSec": 746.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 358.4,
+          "cumulativeTimeSec": 1105,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

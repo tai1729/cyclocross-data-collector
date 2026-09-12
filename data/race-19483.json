@@ -1,0 +1,74 @@
+{
+  "raceId": "19483",
+  "raceName": "2023-12-24 野田シクロクロス23（野田シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-09-12T04:28:40.279Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-178-0062",
+      "name": "横田 壮一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 409,
+          "cumulativeTimeSec": 409,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.9,
+          "cumulativeTimeSec": 882.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.3,
+          "cumulativeTimeSec": 1368.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 483,
+          "cumulativeTimeSec": 1851.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0449",
+      "name": "冨田 倫太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.3,
+          "cumulativeTimeSec": 548.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 593.8,
+          "cumulativeTimeSec": 1142.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 617.9,
+          "cumulativeTimeSec": 1760,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

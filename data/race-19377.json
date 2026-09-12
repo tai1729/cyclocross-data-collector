@@ -1,0 +1,96 @@
+{
+  "raceId": "19377",
+  "raceName": "2023-12-17 茨城シクロクロス 第3戦 城里町 うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM60",
+  "updatedAt": "2026-09-12T04:28:17.069Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1492",
+      "name": "増田 謙一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1223.8,
+          "cumulativeTimeSec": 1223.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 636.4,
+          "cumulativeTimeSec": 1860.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0070",
+      "name": "吉池 司",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1313.2,
+          "cumulativeTimeSec": 1313.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 762.8,
+          "cumulativeTimeSec": 2076,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "HCR-000-0327",
+      "name": "猪又 靖",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1354.2,
+          "cumulativeTimeSec": 1354.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 811.5,
+          "cumulativeTimeSec": 2165.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-189-0002",
+      "name": "郡山 智",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1441.3,
+          "cumulativeTimeSec": 1441.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 769.2,
+          "cumulativeTimeSec": 2210.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

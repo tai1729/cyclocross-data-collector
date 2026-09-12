@@ -2,7 +2,11 @@
   "raceId": "26528",
   "raceName": "2026-01-11 2025-26もみじシクロクロス第３戦（もみじシクロクロス）",
   "category": "MU15",
-  "updatedAt": "2026-09-01T14:36:06.051Z",
+  "updatedAt": "2026-09-12T04:42:08.473Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
   "riders": [
     {
       "riderId": "YGC-201-0004",
@@ -12,19 +16,14 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 291.8,
-          "cumulativeTimeSec": 291.8,
-          "rankAtLap": 1
-        },
-        {
-          "lapNumber": 2,
-          "lapTimeSec": 565.5,
+          "lapTimeSec": 857.3,
           "cumulativeTimeSec": 857.3,
           "rankAtLap": 1
         },
         {
-          "lapTimeSec": 873.5,
-          "cumulativeTimeSec": 1730.8,
+          "lapNumber": 2,
+          "lapTimeSec": 1730.8,
+          "cumulativeTimeSec": 2588.1,
           "rankAtLap": 1
         }
       ],

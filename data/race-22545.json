@@ -1,0 +1,40 @@
+{
+  "raceId": "22545",
+  "raceName": "2024-12-01 関西シクロクロス 第4戦 マキノ（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-09-12T04:34:58.045Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-245-0092",
+      "name": "芳田 龍我",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 439.1,
+          "cumulativeTimeSec": 439.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 395.7,
+          "cumulativeTimeSec": 834.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 399.7,
+          "cumulativeTimeSec": 1234.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

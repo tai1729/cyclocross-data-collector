@@ -1,0 +1,40 @@
+{
+  "raceId": "20683",
+  "raceName": "2024-02-18 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-09-12T04:30:16.691Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0185",
+      "name": "関 南都子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 656.4,
+          "cumulativeTimeSec": 656.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 772.8,
+          "cumulativeTimeSec": 1429.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 777.2,
+          "cumulativeTimeSec": 2206.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

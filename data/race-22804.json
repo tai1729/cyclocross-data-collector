@@ -1,0 +1,121 @@
+{
+  "raceId": "22804",
+  "raceName": "2024-12-22 2024-25シーズン　山口シクロクロス　第1戦　美祢市秋芳北部総合運動公園（山口シクロクロス）",
+  "category": "MU17",
+  "updatedAt": "2026-09-12T04:35:29.962Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-201-0031",
+      "name": "北原 鉄平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 470.5,
+          "cumulativeTimeSec": 470.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 477.6,
+          "cumulativeTimeSec": 948.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 479.9,
+          "cumulativeTimeSec": 1428,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-223-0001",
+      "name": "今泉 蒼人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 500,
+          "cumulativeTimeSec": 500,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 479.8,
+          "cumulativeTimeSec": 979.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.1,
+          "cumulativeTimeSec": 1436.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-234-0020",
+      "name": "福島 蒼大",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.9,
+          "cumulativeTimeSec": 550.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 621.5,
+          "cumulativeTimeSec": 1172.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 575.5,
+          "cumulativeTimeSec": 1747.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-234-0016",
+      "name": "横田 陸",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.6,
+          "cumulativeTimeSec": 530.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 765.4,
+          "cumulativeTimeSec": 1296,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 591.6,
+          "cumulativeTimeSec": 1887.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

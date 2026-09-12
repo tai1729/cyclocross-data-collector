@@ -1,0 +1,93 @@
+{
+  "raceId": "19477",
+  "raceName": "2023-12-24 シクロクロスミーティングシリーズ　シーズン2023-2024 第8戦　清里（信州クロス）",
+  "category": "MJ",
+  "updatedAt": "2026-09-12T04:28:38.453Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0111",
+      "name": "新藤 想真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 476.6,
+          "cumulativeTimeSec": 476.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 410.1,
+          "cumulativeTimeSec": 886.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 449.8,
+          "cumulativeTimeSec": 1336.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 460.5,
+          "cumulativeTimeSec": 1797,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 453.3,
+          "cumulativeTimeSec": 2250.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-234-0032",
+      "name": "田切 智裕",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 454.8,
+          "cumulativeTimeSec": 454.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 475.5,
+          "cumulativeTimeSec": 930.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544.3,
+          "cumulativeTimeSec": 1474.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 613,
+          "cumulativeTimeSec": 2087.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 652.4,
+          "cumulativeTimeSec": 2740,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

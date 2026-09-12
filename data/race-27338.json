@@ -2,7 +2,16 @@
   "raceId": "27338",
   "raceName": "2026-02-15 2025-26もみじシクロクロス第４戦（もみじシクロクロス）",
   "category": "ME1",
-  "updatedAt": "2026-09-01T14:37:18.674Z",
+  "updatedAt": "2026-09-12T04:43:23.664Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
   "riders": [
     {
       "riderId": "CCH-000-0176",
@@ -44,6 +53,12 @@
           "lapNumber": 6,
           "lapTimeSec": 543.8,
           "cumulativeTimeSec": 3080.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 536.2,
+          "cumulativeTimeSec": 3616.8,
           "rankAtLap": 1
         }
       ],
@@ -89,6 +104,12 @@
           "lapNumber": 6,
           "lapTimeSec": 597.2,
           "cumulativeTimeSec": 3429.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 578,
+          "cumulativeTimeSec": 4007.3,
           "rankAtLap": 2
         }
       ],
