@@ -2,7 +2,7 @@
   "raceId": "25333",
   "raceName": "2025-11-23 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
   "category": "M35-39",
-  "updatedAt": "2026-09-12T04:40:27.903Z",
+  "updatedAt": "2026-09-15T00:15:47.429Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,9 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
   "riders": [
     {
       "riderId": "KNS-156-0344",
@@ -358,6 +361,28 @@
           "lapTimeSec": 533.1,
           "cumulativeTimeSec": 2781.2,
           "rankAtLap": 9
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0162",
+      "name": "間所 智幸",
+      "finalPosition": 10,
+      "status": "annotated-rank",
+      "officialPositionLabel": "10 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 631.3,
+          "cumulativeTimeSec": 631.3,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 626.4,
+          "cumulativeTimeSec": 1257.7,
+          "rankAtLap": 10
         }
       ],
       "dataQuality": "ok"

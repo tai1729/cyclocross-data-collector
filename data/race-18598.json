@@ -2,7 +2,7 @@
   "raceId": "18598",
   "raceName": "2023-11-26 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
   "category": "UCI-Men Junior",
-  "updatedAt": "2026-09-12T04:27:35.049Z",
+  "updatedAt": "2026-09-15T00:05:38.527Z",
   "raceLapNumbers": [
     1,
     2,
@@ -553,6 +553,34 @@
           "lapTimeSec": 583.7,
           "cumulativeTimeSec": 2922.3,
           "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0074",
+      "name": "只隈 健太郎",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 679.8,
+          "cumulativeTimeSec": 679.8,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 584.6,
+          "cumulativeTimeSec": 1264.4,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 604.9,
+          "cumulativeTimeSec": 1869.3,
+          "rankAtLap": 15
         }
       ],
       "dataQuality": "ok"

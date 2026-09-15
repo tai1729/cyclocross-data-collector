@@ -2,7 +2,7 @@
   "raceId": "22045",
   "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "WE",
-  "updatedAt": "2026-09-12T04:33:58.538Z",
+  "updatedAt": "2026-09-15T00:10:26.247Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,6 +11,9 @@
     5,
     6
   ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
   "riders": [
     {
       "riderId": "KNS-000-3361",
@@ -458,6 +461,174 @@
           "lapTimeSec": 3639.8,
           "cumulativeTimeSec": 12765.8,
           "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 11,
+      "status": "annotated-rank",
+      "officialPositionLabel": "11 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.9,
+          "cumulativeTimeSec": 653.9,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1273,
+          "cumulativeTimeSec": 1926.9,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1883.8,
+          "cumulativeTimeSec": 3810.7,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2481.4,
+          "cumulativeTimeSec": 6292.1,
+          "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 12,
+      "status": "annotated-rank",
+      "officialPositionLabel": "12 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 651.9,
+          "cumulativeTimeSec": 651.9,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1275.2,
+          "cumulativeTimeSec": 1927.1,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1889.2,
+          "cumulativeTimeSec": 3816.3,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2487.2,
+          "cumulativeTimeSec": 6303.5,
+          "rankAtLap": 12
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0041",
+      "name": "小林 慧美",
+      "finalPosition": 13,
+      "status": "annotated-rank",
+      "officialPositionLabel": "13 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.9,
+          "cumulativeTimeSec": 653.9,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1246.4,
+          "cumulativeTimeSec": 1900.3000000000002,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1874.4,
+          "cumulativeTimeSec": 3774.7000000000003,
+          "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1502",
+      "name": "平野 美穂",
+      "finalPosition": 14,
+      "status": "annotated-rank",
+      "officialPositionLabel": "14 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 657.9,
+          "cumulativeTimeSec": 657.9,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1284.2,
+          "cumulativeTimeSec": 1942.1,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1895.1,
+          "cumulativeTimeSec": 3837.2,
+          "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0031",
+      "name": "鮎澤 加奈子",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 678.8,
+          "cumulativeTimeSec": 678.8,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1326.3,
+          "cumulativeTimeSec": 2005.1,
+          "rankAtLap": 15
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-234-0002",
+      "name": "河合 有羽",
+      "finalPosition": 16,
+      "status": "annotated-rank",
+      "officialPositionLabel": "16 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 690.8,
+          "cumulativeTimeSec": 690.8,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1377.3,
+          "cumulativeTimeSec": 2068.1,
+          "rankAtLap": 16
         }
       ],
       "dataQuality": "ok"

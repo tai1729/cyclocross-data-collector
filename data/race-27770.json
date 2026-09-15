@@ -2,7 +2,7 @@
   "raceId": "27770",
   "raceName": "2026-02-22 関西シクロクロス 第10戦 富田林（関西クロス）",
   "category": "E1",
-  "updatedAt": "2026-09-12T04:43:44.961Z",
+  "updatedAt": "2026-09-15T00:19:06.775Z",
   "raceLapNumbers": [
     1,
     2,
@@ -16,6 +16,10 @@
     10,
     11
   ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 13
+  },
   "riders": [
     {
       "riderId": "CCM-000-1602",

@@ -63,6 +63,23 @@ test("parses cumulative lap tables and preserves numbered headers", () => {
   ]);
 });
 
+test("parses lap clock cells surrounded by HTML whitespace and indentation", () => {
+  const result = parseRaceHtml(
+    "whitespace-laps",
+    raceHtml(
+      ["1\u5468", "2\u5468", "3\u5468"],
+      riderRow("\n\t1\r", "R-1", "Indented rider", [
+        "\n\t10:00.0\r\n",
+        "\n  15:10.0\t",
+        "\r\n20:30.0\n",
+      ]),
+    ),
+  );
+
+  assert.deepEqual(result.riders[0]?.laps.map((lap) => lap.cumulativeTimeSec), [600, 910, 1230]);
+  assert.equal(result.riders[0]?.dataQuality, "ok");
+});
+
 test("accepts the old lap table shape and uses its ordered header axis", () => {
   const result = parseRaceHtml(
     "old-shape",
@@ -129,6 +146,38 @@ test("accepts H:MM:SS lap totals and retains the final lap", () => {
   assert.deepEqual(result.raceLapNumbers, [9, 10, 11]);
   assert.deepEqual(result.riders[0].laps.map((lap) => lap.lapNumber), [9, 10, 11]);
   assert.equal(result.riders[0].laps.at(-1)?.cumulativeTimeSec, 4165.6);
+});
+
+test("retains the final checkpoint on a 24579-equivalent six-lap table", () => {
+  const result = parseRaceHtml(
+    "24579",
+    raceHtml(
+      ["1\u5468", "2\u5468", "3\u5468", "4\u5468", "5\u5468", "6\u5468"],
+      riderRow("1", "R-24579", "Six lap rider", [
+        "9:48.5", "19:54.3", "30:15.5", "40:47.2", "51:17.2", "1:01:43.4",
+      ]),
+    ),
+  );
+
+  assert.equal(result.raceLapNumbers?.length, 6);
+  assert.equal(result.riders[0]?.laps.length, 6);
+  assert.equal(result.riders[0]?.laps.at(-1)?.lapNumber, 6);
+});
+
+test("retains the final checkpoint on a 25888-equivalent eight-lap table", () => {
+  const result = parseRaceHtml(
+    "25888",
+    raceHtml(
+      ["1\u5468", "2\u5468", "3\u5468", "4\u5468", "5\u5468", "6\u5468", "7\u5468", "8\u5468"],
+      riderRow("1", "R-25888", "Eight lap rider", [
+        "8:00.0", "16:10.0", "24:20.0", "32:30.0", "40:40.0", "48:50.0", "57:00.0", "1:05:10.0",
+      ]),
+    ),
+  );
+
+  assert.equal(result.raceLapNumbers?.length, 8);
+  assert.equal(result.riders[0]?.laps.length, 8);
+  assert.equal(result.riders[0]?.laps.at(-1)?.lapNumber, 8);
 });
 
 test("preserves the official numbered axis when measured columns begin at lap 2", () => {
@@ -249,18 +298,36 @@ test("excludes unsupported result statuses without mapping them to finished or D
         resultRow("DSQ", "Disqualified", "", "R-4"),
         resultRow("OTL", "Over time", "", "R-5"),
         resultRow("?", "Unknown", "", "R-6"),
+        resultRow("FIN", "Finished open", "", "R-7"),
+        resultRow("FIN/OPEN", "Finished open", "", "R-8"),
+        resultRow("DNS/OPEN", "Open did not start", "", "R-9"),
+        resultRow("DNF/OPEN", "Open DNF", "", "R-10"),
       ].join(""),
     ),
   );
 
   assert.deepEqual(
-    result.riders.map(({ riderId, status }) => ({ riderId, status })),
+    result.riders.map(({ riderId, finalPosition, status, officialPositionLabel }) => ({
+      riderId,
+      finalPosition,
+      status,
+      officialPositionLabel,
+    })),
     [
-      { riderId: "R-1", status: "finished" },
-      { riderId: "R-2", status: "dnf" },
+      { riderId: "R-1", finalPosition: 1, status: "finished", officialPositionLabel: undefined },
+      { riderId: "R-2", finalPosition: 2, status: "dnf", officialPositionLabel: undefined },
     ],
   );
-  assert.deepEqual(result.excludedRowsByStatus, { "?": 1, DNS: 1, DSQ: 1, OTL: 1 });
+  assert.deepEqual(result.excludedRowsByStatus, {
+    "?": 1,
+    DNS: 1,
+    "DNS/OPEN": 1,
+    DSQ: 1,
+    "DNF/OPEN": 1,
+    FIN: 1,
+    "FIN/OPEN": 1,
+    OTL: 1,
+  });
 });
 
 test("retains excluded status diagnostics when every lap row is unsupported", () => {
@@ -296,4 +363,137 @@ test("preserves lap-down riders as finished with only their measured laps", () =
   assert.equal(result.riders[1].status, "finished");
   assert.equal(result.riders[1].finalPosition, 2);
   assert.deepEqual(result.riders[1].laps.map((lap) => lap.lapNumber), [1, 2]);
+});
+
+test("accepts annotated numeric ranks and preserves DOM text as the official label", () => {
+  const result = parseRaceHtml(
+    "annotated-ranks",
+    raceHtml(
+      ["1周", "2周"],
+      [
+        riderRow(" \t11 <span>(80%Out)</span> ", "R-11", "Eighty percent out", ["5:00.0", "10:00.0"]),
+        riderRow("15 <span>LapOut</span>", "R-15", "Lap out", ["5:10.0", "10:20.0"]),
+        riderRow("16 (club note)", "R-16", "Other note", ["5:20.0", "10:40.0"]),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(
+    result.riders.map(({ riderId, finalPosition, status, officialPositionLabel }) => ({
+      riderId,
+      finalPosition,
+      status,
+      officialPositionLabel,
+    })),
+    [
+      { riderId: "R-11", finalPosition: 11, status: "annotated-rank", officialPositionLabel: "11 (80%Out)" },
+      { riderId: "R-15", finalPosition: 15, status: "annotated-rank", officialPositionLabel: "15 LapOut" },
+      { riderId: "R-16", finalPosition: 16, status: "annotated-rank", officialPositionLabel: "16 (club note)" },
+    ],
+  );
+});
+
+test("does not backfill a missing final lap for annotated ranks", () => {
+  const result = parseRaceHtml(
+    "annotated-no-backfill",
+    `${raceHtml(
+      ["1周", "2周"],
+      riderRow("11 (80%Out)", "R-11", "Annotated", ["5:00.0", ""]),
+    )}
+    <table class="table__result"><tbody>
+      ${resultRow("11 (80%Out)", "Annotated", "1:00.0", "R-11")}
+    </tbody></table>`,
+  );
+
+  assert.equal(result.riders[0]?.status, "annotated-rank");
+  assert.deepEqual(result.riders[0]?.laps.map((lap) => lap.lapNumber), [1]);
+});
+
+test("accepts annotated ranks through the result-table fallback", () => {
+  const result = parseRaceHtml(
+    "annotated-result-only",
+    resultRaceHtml(
+      [
+        resultRow("11 <span>LapOut</span>", "Lap out", "1:00.0", "R-11"),
+        resultRow("DNF", "Stopped", "DNF", "R-12"),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(result.riders.map(({ riderId, finalPosition, status, officialPositionLabel }) => ({
+    riderId,
+    finalPosition,
+    status,
+    officialPositionLabel,
+  })), [
+    { riderId: "R-11", finalPosition: 11, status: "annotated-rank", officialPositionLabel: "11 LapOut" },
+    { riderId: "R-12", finalPosition: 12, status: "dnf", officialPositionLabel: undefined },
+  ]);
+});
+
+test("rejects malformed numeric rank prefixes and records diagnostics", () => {
+  const result = parseRaceHtml(
+    "invalid-ranks",
+    raceHtml(
+      ["1周"],
+      [
+        riderRow("0", "R-0", "Zero", [""]),
+        riderRow("-1", "R-negative", "Negative", [""]),
+        riderRow("LapOut", "R-no-prefix", "No prefix", [""]),
+        riderRow("9007199254740992", "R-overflow", "Overflow", [""]),
+        riderRow("", "R-empty", "Empty", [""]),
+        riderRow("1\u0000LapOut", "R-control", "Control", [""]),
+        riderRow("&lt;b&gt;1&lt;/b&gt;", "R-html", "HTML", [""]),
+        riderRow("１ LapOut", "R-fullwidth", "Full width", [""]),
+        riderRow("DNS", "R-dns", "DNS", [""]),
+        riderRow("DSQ", "R-dsq", "DSQ", [""]),
+        riderRow("OTL", "R-otl", "OTL", [""]),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(result.riders, []);
+  const diagnostics = result.excludedRowsByStatus ?? {};
+  const invalidRankLabels = [
+    "",
+    "-1",
+    "0",
+    "1\u0000LapOut",
+    "<b>1</b>",
+    "１ LapOut",
+    "9007199254740992",
+    "DNS",
+    "DSQ",
+    "LapOut",
+    "OTL",
+  ];
+  assert.equal(Object.keys(diagnostics).length, invalidRankLabels.length);
+  for (const label of invalidRankLabels) assert.equal(diagnostics[label], 1, label);
+});
+
+test("fails a timing table that has clock-like source values but no usable laps", () => {
+  assert.throws(
+    () =>
+      parseRaceHtml(
+        "invalid-timing-table",
+        raceHtml(
+          ["1\u5468", "2\u5468"],
+          riderRow("1", "R-1", "Unsafe timing", ["10:00.0\u0000", "20:00.0\u0000"]),
+        ),
+      ),
+    /clock-like values but no usable lap records/,
+  );
+});
+
+test("keeps FIN/OPEN-only clock rows as an empty diagnostic result", () => {
+  const result = parseRaceHtml(
+    "open-only-timing-table",
+    raceHtml(
+      ["1\u5468", "2\u5468"],
+      riderRow("FIN/OPEN", "R-open", "Finished open", ["10:00.0", "20:00.0"]),
+    ),
+  );
+
+  assert.deepEqual(result.riders, []);
+  assert.deepEqual(result.excludedRowsByStatus, { "FIN/OPEN": 1 });
 });

@@ -4,7 +4,17 @@ import type { RaceResult, Rider } from "./types.js";
 export const ARTIFACT_VERSION = 1 as const;
 export const RIDER_INDEX_APPEARANCE_LIMIT = 6;
 
-const SUPPORTED_EXCLUDED_SOURCE_STATUSES = new Set(["?", "DNS", "DSQ", "OTL"]);
+const SUPPORTED_EXCLUDED_SOURCE_STATUSES = new Set([
+  "?",
+  "DNS",
+  "DSQ",
+  "OTL",
+  "FIN",
+  "FIN/OPEN",
+  "DNS/OPEN",
+  "DNF/OPEN",
+]);
+const UNSAFE_OFFICIAL_POSITION_LABEL = /[\p{Cc}\p{Cf}\u2028\u2029\ufffd<>]/u;
 
 export type Availability = "available" | "unavailable" | "invalid-data";
 export type LapAvailability = "enabled" | "result-only" | "unavailable";
@@ -97,6 +107,13 @@ function isFinitePositiveInteger(value: unknown): value is number {
   return typeof value === "number" && Number.isSafeInteger(value) && value > 0;
 }
 
+function officialLabelRank(label: string): number | null {
+  const match = label.trim().match(/^(\d+)(.*)$/u);
+  if (!match || match[2]?.length === 0) return null;
+  const rank = Number(match[1]);
+  return isFinitePositiveInteger(rank) ? rank : null;
+}
+
 function hasUsableLap(rider: Rider): boolean {
   return rider.laps.some(
     (lap) =>
@@ -120,12 +137,50 @@ function validateRace(
   let maximumMeasuredLap = 0;
 
   for (const rider of race.riders) {
-    if (rider.status !== "finished" && rider.status !== "dnf") {
+    if (
+      rider.status !== "finished" &&
+      rider.status !== "dnf" &&
+      rider.status !== "annotated-rank"
+    ) {
       failures.push({
         ...failureContext,
         stage: "validation",
         code: "invalid-rider-status",
         message: `rider ${rider.riderId} has an unsupported status`,
+      });
+    }
+
+    const label = typeof rider.officialPositionLabel === "string"
+      ? rider.officialPositionLabel.trim()
+      : null;
+    const unsafeLabel = typeof rider.officialPositionLabel === "string" &&
+      UNSAFE_OFFICIAL_POSITION_LABEL.test(rider.officialPositionLabel);
+    if (rider.status === "annotated-rank" && (label === null || label.length === 0)) {
+      failures.push({
+        ...failureContext,
+        stage: "validation",
+        code: "missing-official-position-label",
+        message: `rider ${rider.riderId} is annotated but has no official position label`,
+      });
+    } else if (
+      rider.status === "annotated-rank" &&
+      (unsafeLabel || label === null || officialLabelRank(label) !== rider.finalPosition)
+    ) {
+      failures.push({
+        ...failureContext,
+        stage: "validation",
+        code: "invalid-official-position-label",
+        message: `rider ${rider.riderId} has an invalid official position label`,
+      });
+    } else if (
+      rider.officialPositionLabel !== undefined &&
+      (label === null || label.length === 0 || unsafeLabel)
+    ) {
+      failures.push({
+        ...failureContext,
+        stage: "validation",
+        code: "invalid-official-position-label",
+        message: `rider ${rider.riderId} has an invalid official position label`,
       });
     }
 
@@ -340,7 +395,10 @@ function validateExcludedStatusCounts(
       continue;
     }
 
-    if (SUPPORTED_EXCLUDED_SOURCE_STATUSES.has(status)) validCounts.push([status, count]);
+    // Preserve every well-formed source label in the inventory. Known buckets
+    // retain their legacy behavior; unknown/malformed labels remain visible
+    // diagnostics instead of disappearing at the artifact boundary.
+    validCounts.push([status, count]);
   }
 
   return {

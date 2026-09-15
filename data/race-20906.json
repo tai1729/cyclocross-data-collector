@@ -2,7 +2,7 @@
   "raceId": "20906",
   "raceName": "2024-02-18 九州シクロクロス 第2戦 海の中道ステージ（九州シクロクロス）",
   "category": "ME3+4",
-  "updatedAt": "2026-09-12T04:30:24.158Z",
+  "updatedAt": "2026-09-15T00:08:28.900Z",
   "raceLapNumbers": [
     1,
     2,
@@ -12,6 +12,11 @@
     6
   ],
   "promotionZoneRank": 3,
+  "excludedRowsByStatus": {
+    "DNS": 3,
+    "DNS/OPEN": 2,
+    "FIN/OPEN": 8
+  },
   "riders": [
     {
       "riderId": "QCX-190-0093",

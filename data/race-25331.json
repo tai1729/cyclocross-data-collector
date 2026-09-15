@@ -2,7 +2,7 @@
   "raceId": "25331",
   "raceName": "2025-11-23 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
   "category": "W1",
-  "updatedAt": "2026-09-12T04:40:26.672Z",
+  "updatedAt": "2026-09-15T00:15:47.027Z",
   "raceLapNumbers": [
     1,
     2,
@@ -427,7 +427,7 @@
           "lapNumber": 1,
           "lapTimeSec": 576.1,
           "cumulativeTimeSec": 576.1,
-          "rankAtLap": 16
+          "rankAtLap": 17
         },
         {
           "lapNumber": 2,
@@ -517,7 +517,7 @@
           "lapNumber": 1,
           "lapTimeSec": 572.2,
           "cumulativeTimeSec": 572.2,
-          "rankAtLap": 15
+          "rankAtLap": 16
         },
         {
           "lapNumber": 2,
@@ -733,9 +733,251 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "SHN-234-0003",
+      "name": "山﨑 絵美",
+      "finalPosition": 17,
+      "status": "annotated-rank",
+      "officialPositionLabel": "17 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 571.5,
+          "cumulativeTimeSec": 571.5,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557.8,
+          "cumulativeTimeSec": 1129.3,
+          "rankAtLap": 17
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 582.6,
+          "cumulativeTimeSec": 1711.9,
+          "rankAtLap": 17
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 18,
+      "status": "annotated-rank",
+      "officialPositionLabel": "18 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 609.9,
+          "cumulativeTimeSec": 609.9,
+          "rankAtLap": 18
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555.9,
+          "cumulativeTimeSec": 1165.8,
+          "rankAtLap": 18
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 577.5,
+          "cumulativeTimeSec": 1743.3,
+          "rankAtLap": 18
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0093",
+      "name": "五百蔵 佳代",
+      "finalPosition": 19,
+      "status": "annotated-rank",
+      "officialPositionLabel": "19 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 618,
+          "cumulativeTimeSec": 618,
+          "rankAtLap": 19
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 621.5,
+          "cumulativeTimeSec": 1239.5,
+          "rankAtLap": 19
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0239",
+      "name": "中西 奈都美",
+      "finalPosition": 20,
+      "status": "annotated-rank",
+      "officialPositionLabel": "20 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 632.2,
+          "cumulativeTimeSec": 632.2,
+          "rankAtLap": 21
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 615.3,
+          "cumulativeTimeSec": 1247.5,
+          "rankAtLap": 20
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0039",
+      "name": "吉田 美穂",
+      "finalPosition": 21,
+      "status": "annotated-rank",
+      "officialPositionLabel": "21 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 633.6,
+          "cumulativeTimeSec": 633.6,
+          "rankAtLap": 22
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 617.9,
+          "cumulativeTimeSec": 1251.5,
+          "rankAtLap": 21
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0005",
+      "name": "阪本 実樹",
+      "finalPosition": 22,
+      "status": "annotated-rank",
+      "officialPositionLabel": "22 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 668.5,
+          "cumulativeTimeSec": 668.5,
+          "rankAtLap": 23
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 640.9,
+          "cumulativeTimeSec": 1309.4,
+          "rankAtLap": 24
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0058",
+      "name": "塩貝 穂佳",
+      "finalPosition": 23,
+      "status": "annotated-rank",
+      "officialPositionLabel": "23 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 619.1,
+          "cumulativeTimeSec": 619.1,
+          "rankAtLap": 20
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 657,
+          "cumulativeTimeSec": 1276.1,
+          "rankAtLap": 22
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0032",
+      "name": "鈴木 花歩",
+      "finalPosition": 24,
+      "status": "annotated-rank",
+      "officialPositionLabel": "24 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 678.7,
+          "cumulativeTimeSec": 678.7,
+          "rankAtLap": 24
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 623.5,
+          "cumulativeTimeSec": 1302.2,
+          "rankAtLap": 23
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0044",
+      "name": "豊田 華奈",
+      "finalPosition": 25,
+      "status": "annotated-rank",
+      "officialPositionLabel": "25 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 694.1,
+          "cumulativeTimeSec": 694.1,
+          "rankAtLap": 27
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 638.6,
+          "cumulativeTimeSec": 1332.7,
+          "rankAtLap": 25
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-245-0015",
+      "name": "所司 望美",
+      "finalPosition": 26,
+      "status": "annotated-rank",
+      "officialPositionLabel": "26 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 682.7,
+          "cumulativeTimeSec": 682.7,
+          "rankAtLap": 25
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-190-0015",
+      "name": "髙橋 恭子",
+      "finalPosition": 27,
+      "status": "annotated-rank",
+      "officialPositionLabel": "27 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 692.1,
+          "cumulativeTimeSec": 692.1,
+          "rankAtLap": 26
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "KNS-167-0104",
       "name": "西原 夕華",
-      "finalPosition": 17,
+      "finalPosition": 28,
       "status": "dnf",
       "laps": [],
       "dataQuality": "ok"

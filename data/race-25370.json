@@ -2,7 +2,7 @@
   "raceId": "25370",
   "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
   "category": "WE1",
-  "updatedAt": "2026-09-12T04:40:36.386Z",
+  "updatedAt": "2026-09-15T00:15:55.765Z",
   "raceLapNumbers": [
     1,
     2,
@@ -291,7 +291,7 @@
           "lapNumber": 2,
           "lapTimeSec": 594.3,
           "cumulativeTimeSec": 1184.6,
-          "rankAtLap": 9
+          "rankAtLap": 10
         },
         {
           "lapNumber": 3,
@@ -324,19 +324,135 @@
           "lapNumber": 2,
           "lapTimeSec": 613.1,
           "cumulativeTimeSec": 1209.3000000000002,
-          "rankAtLap": 10
+          "rankAtLap": 12
         },
         {
           "lapNumber": 3,
           "lapTimeSec": 630,
           "cumulativeTimeSec": 1839.3000000000002,
-          "rankAtLap": 10
+          "rankAtLap": 11
         },
         {
           "lapNumber": 4,
           "lapTimeSec": 622.9,
           "cumulativeTimeSec": 2462.2000000000003,
           "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-245-0032",
+      "name": "鈴木 花歩",
+      "finalPosition": 11,
+      "status": "annotated-rank",
+      "officialPositionLabel": "11 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 628.7,
+          "cumulativeTimeSec": 628.7,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 644.8,
+          "cumulativeTimeSec": 1273.5,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 532.8,
+          "cumulativeTimeSec": 1806.3,
+          "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0011",
+      "name": "小田 恵利花",
+      "finalPosition": 12,
+      "status": "annotated-rank",
+      "officialPositionLabel": "12 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 652.6,
+          "cumulativeTimeSec": 652.6,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557.8,
+          "cumulativeTimeSec": 1210.4,
+          "rankAtLap": 13
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0239",
+      "name": "中西 奈都美",
+      "finalPosition": 13,
+      "status": "annotated-rank",
+      "officialPositionLabel": "13 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.6,
+          "cumulativeTimeSec": 670.6,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 552.7,
+          "cumulativeTimeSec": 1223.3000000000002,
+          "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0005",
+      "name": "阪本 実樹",
+      "finalPosition": 14,
+      "status": "annotated-rank",
+      "officialPositionLabel": "14 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.9,
+          "cumulativeTimeSec": 670.9,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.8,
+          "cumulativeTimeSec": 1201.6999999999998,
+          "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0044",
+      "name": "豊田 華奈",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 631.6,
+          "cumulativeTimeSec": 631.6,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 542.9,
+          "cumulativeTimeSec": 1174.5,
+          "rankAtLap": 9
         }
       ],
       "dataQuality": "ok"

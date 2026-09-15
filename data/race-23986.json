@@ -2,7 +2,7 @@
   "raceId": "23986",
   "raceName": "2025-02-23 茨城シクロクロス第6戦GALFER PRESENTS取手ステージ（秩父・茨城クロス（関東クロス））",
   "category": "ME2",
-  "updatedAt": "2026-09-12T04:37:19.578Z",
+  "updatedAt": "2026-09-15T00:13:40.868Z",
   "raceLapNumbers": [
     1,
     2,
@@ -12,6 +12,10 @@
     6
   ],
   "promotionZoneRank": 4,
+  "excludedRowsByStatus": {
+    "DNS": 5,
+    "FIN/OPEN": 1
+  },
   "riders": [
     {
       "riderId": "CHB-189-0013",

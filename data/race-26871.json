@@ -2,7 +2,7 @@
   "raceId": "26871",
   "raceName": "2026-01-18 関西シクロクロス 第8戦 希望が丘（関西クロス）",
   "category": "W1",
-  "updatedAt": "2026-09-12T04:42:38.672Z",
+  "updatedAt": "2026-09-15T00:17:58.267Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,10 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 5
+  },
   "riders": [
     {
       "riderId": "KNS-167-0104",

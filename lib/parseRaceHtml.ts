@@ -2,6 +2,34 @@ import * as cheerio from "cheerio";
 import type { RaceResult, Rider, LapRecord } from "./types.js";
 import { parseClockToSec } from "./timeFormat.js";
 
+// parse5 (Cheerio's default HTML parser) drops NUL and other forbidden
+// control characters while tokenizing HTML. Preserve them through parsing so
+// rank-cell validation can reject them instead of accidentally accepting the
+// remaining numeric prefix as an annotation.
+const SOURCE_CONTROL_SENTINELS = new Map<number, string>([
+  // TAB/LF/FF/CR are valid HTML whitespace. Leave them untouched so DOM
+  // text extraction and clock parsing keep their normal trim semantics.
+  ...Array.from({ length: 0x20 }, (_, code) => [code, String.fromCodePoint(0xe000 + code)] as const)
+    .filter(([code]) => ![0x09, 0x0a, 0x0c, 0x0d].includes(code)),
+  ...Array.from({ length: 0x21 }, (_, index) => [0x7f + index, String.fromCodePoint(0xe020 + index)] as const),
+  [0x2028, String.fromCodePoint(0xe041)],
+  [0x2029, String.fromCodePoint(0xe042)],
+]);
+const SENTINEL_SOURCE_CONTROLS = new Map(
+  [...SOURCE_CONTROL_SENTINELS].map(([code, sentinel]) => [sentinel, String.fromCodePoint(code)]),
+);
+const UNSAFE_RANK_TEXT = /[\p{Cc}\p{Cf}\u2028\u2029\ufffd<>]/u;
+
+function preserveSourceControls(html: string): string {
+  return [...html]
+    .map((character) => SOURCE_CONTROL_SENTINELS.get(character.codePointAt(0)!) ?? character)
+    .join("");
+}
+
+function restoreSourceControls(text: string): string {
+  return [...text].map((character) => SENTINEL_SOURCE_CONTROLS.get(character) ?? character).join("");
+}
+
 function extractRiderIdFromHref(href: string | undefined): string | null {
   if (!href) return null;
   const match = href.match(/\/racer\/([^/?#]+)/);
@@ -15,15 +43,32 @@ function fallbackRiderId(raceId: string, rowOrdinal: number): string {
 function parseAcceptedRank(rankText: string): {
   status: Rider["status"];
   numericPosition: number | null;
+  officialPositionLabel?: string;
 } | null {
-  const numericPosition = Number(rankText);
-  if (/^\d+$/.test(rankText) && Number.isSafeInteger(numericPosition) && numericPosition > 0) {
-    return { status: "finished", numericPosition };
+  // Rank labels come from DOM textContent. Keep only incidental outer
+  // whitespace out of the payload, while preserving all internal source text.
+  const label = rankText.trim();
+  if (!label || UNSAFE_RANK_TEXT.test(label)) {
+    return null;
   }
-  if (rankText === "DNF") {
+
+  if (label === "DNF") {
     return { status: "dnf", numericPosition: null };
   }
-  return null;
+
+  // Only an ASCII decimal prefix is accepted. A suffix is opaque and, when
+  // present, makes this an annotated rank rather than a semantic status.
+  const match = label.match(/^(\d+)(.*)$/u);
+  if (!match) return null;
+  const [, digits, suffix] = match;
+  const numericPosition = Number(digits);
+  if (!Number.isSafeInteger(numericPosition) || numericPosition <= 0) return null;
+  if (suffix.length === 0) return { status: "finished", numericPosition };
+  return {
+    status: "annotated-rank",
+    numericPosition,
+    officialPositionLabel: label,
+  };
 }
 
 function getRiderIdentity(
@@ -49,6 +94,7 @@ interface RawRider {
   name: string;
   finalPosition: number;
   status: Rider["status"];
+  officialPositionLabel?: string;
   lapCells: RawLapCell[];
   hasAnomaly: boolean;
 }
@@ -57,6 +103,31 @@ interface LapTableSchema {
   lapNumbers: number[];
   cellOffset: number;
   valueType: "cumulative" | "lap-time";
+}
+
+// Keep the quality gate deliberately broader than parseClockToSec: a source
+// value that looks like a clock but contains an unsafe control character must
+// not silently turn a timing table into a result-only race.
+const CLOCK_LIKE_TEXT = /\d+:\d+(?::\d+)?(?:\.\d+)?/u;
+
+function hasClockLikeLapValue($: cheerio.CheerioAPI): boolean {
+  let found = false;
+  $(".table__laptime tbody td").each((_, cell) => {
+    if (CLOCK_LIKE_TEXT.test(restoreSourceControls($(cell).text()))) found = true;
+  });
+  return found;
+}
+
+function hasUsableLap(rider: Rider): boolean {
+  return rider.laps.some(
+    (lap) =>
+      Number.isSafeInteger(lap.lapNumber) &&
+      lap.lapNumber > 0 &&
+      Number.isFinite(lap.lapTimeSec) &&
+      lap.lapTimeSec > 0 &&
+      Number.isFinite(lap.cumulativeTimeSec) &&
+      lap.cumulativeTimeSec > 0,
+  );
 }
 
 /**
@@ -115,6 +186,7 @@ interface ParsedRow {
   riderId: string;
   name: string;
   status: Rider["status"];
+  officialPositionLabel?: string;
   /** 完走者のみ実際の順位。DNFはnull（後で連番を割り当てる） */
   numericPosition: number | null;
   lapCells: RawLapCell[];
@@ -143,9 +215,9 @@ function parseRawRiders(
   $(".table__laptime tbody tr").each((rowOrdinal, rowEl) => {
     const $row = $(rowEl);
     const rankCell = $row.find("td.cell__rank").first();
-    const rankText = (rankCell.length > 0 ? rankCell : $row.find("td").first())
-      .text()
-      .trim();
+    const rankText = restoreSourceControls(
+      (rankCell.length > 0 ? rankCell : $row.find("td").first()).text(),
+    ).trim();
     const parsedRank = parseAcceptedRank(rankText);
     if (!parsedRank) {
       excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
@@ -202,6 +274,9 @@ function parseRawRiders(
       name,
       status: parsedRank.status,
       numericPosition: parsedRank.numericPosition,
+      ...(parsedRank.officialPositionLabel
+        ? { officialPositionLabel: parsedRank.officialPositionLabel }
+        : {}),
       lapCells,
       hasAnomaly,
     });
@@ -219,6 +294,9 @@ function parseRawRiders(
       riderId: row.riderId,
       name: row.name,
       status: row.status,
+      ...(row.officialPositionLabel
+        ? { officialPositionLabel: row.officialPositionLabel }
+        : {}),
       finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
       lapCells: row.lapCells,
       hasAnomaly: row.hasAnomaly,
@@ -235,10 +313,14 @@ function parseResultRiders($: cheerio.CheerioAPI, raceId: string): ParsedRiders 
     const $row = $(rowEl);
     const rankCell = $row.find("td.cell__rank").first();
     const parsedRank = parseAcceptedRank(
-      (rankCell.length > 0 ? rankCell : $row.find("td").first()).text().trim(),
+      restoreSourceControls(
+        (rankCell.length > 0 ? rankCell : $row.find("td").first()).text(),
+      ).trim(),
     );
     if (!parsedRank) {
-      const rankText = (rankCell.length > 0 ? rankCell : $row.find("td").first()).text().trim();
+      const rankText = restoreSourceControls(
+        (rankCell.length > 0 ? rankCell : $row.find("td").first()).text(),
+      ).trim();
       excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
       return;
     }
@@ -260,6 +342,9 @@ function parseResultRiders($: cheerio.CheerioAPI, raceId: string): ParsedRiders 
       name,
       status: parsedRank.status,
       numericPosition: parsedRank.numericPosition,
+      ...(parsedRank.officialPositionLabel
+        ? { officialPositionLabel: parsedRank.officialPositionLabel }
+        : {}),
       lapCells: [],
       hasAnomaly: false,
     });
@@ -276,6 +361,9 @@ function parseResultRiders($: cheerio.CheerioAPI, raceId: string): ParsedRiders 
       riderId: row.riderId,
       name: row.name,
       status: row.status,
+      ...(row.officialPositionLabel
+        ? { officialPositionLabel: row.officialPositionLabel }
+        : {}),
       finalPosition: row.numericPosition ?? maxFinisherPosition + ++dnfCount,
       lapCells: row.lapCells,
       hasAnomaly: row.hasAnomaly,
@@ -324,7 +412,8 @@ function parseResultTotalTimes($: cheerio.CheerioAPI, raceId: string): Map<strin
 /**
  * ラップタイムテーブルは、順位が下位の選手ほど最終周（ゴール地点）のスプリットが
  * 記録されていないことが多い（計測上の欠損）。完走者(status: "finished")については
- * table__resultの正式ゴールタイムで最終周のセルを補完する。
+ * table__resultの正式ゴールタイムで最終周のセルを補完する。注記付き順位は
+ * 完走扱いのタイムを暗黙に補完できないため対象外とする。
  */
 function backfillFinalLapFromResults(
   $: cheerio.CheerioAPI,
@@ -447,12 +536,14 @@ function parsePromotionZoneRank(
 }
 
 export function parseRaceHtml(raceId: string, html: string): RaceResult {
-  const $ = cheerio.load(html);
+  const $ = cheerio.load(preserveSourceControls(html));
 
   const raceName = $("#js__page_title").text().trim();
   const category = $("#ec_name").text().trim();
 
   const lapTableSchema = parseLapTableSchema($);
+  const sourceHasClockLikeLapValue =
+    lapTableSchema.lapNumbers.length > 0 && hasClockLikeLapValue($);
   const raceLapNumbers = parseOfficialRaceLapNumbers($, lapTableSchema.lapNumbers);
   const parsedLapRiders = parseRawRiders($, lapTableSchema, raceId);
   const parsedResultRiders = parsedLapRiders.riders.length > 0
@@ -474,11 +565,26 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
     name: rawRider.name,
     finalPosition: rawRider.finalPosition,
     status: rawRider.status,
+    ...(rawRider.officialPositionLabel
+      ? { officialPositionLabel: rawRider.officialPositionLabel }
+      : {}),
     laps: buildLapRecords(rawRider, rankAtLapByRider),
     dataQuality: rawRider.hasAnomaly ? "error" : "ok",
   }));
 
   riders.sort((a, b) => a.finalPosition - b.finalPosition);
+
+  // Only enforce the timing-table quality gate when at least one lap-table
+  // row has an accepted rank. A table containing only unsupported statuses
+  // (for example FIN/OPEN) is still useful as a diagnostic-only result and
+  // must not be rejected merely because its source cells resemble clocks.
+  if (
+    sourceHasClockLikeLapValue &&
+    parsedLapRiders.riders.length > 0 &&
+    !riders.some(hasUsableLap)
+  ) {
+    throw new Error(`race ${raceId} lap table contains clock-like values but no usable lap records`);
+  }
 
   const promotionZoneRank = parsePromotionZoneRank($, raceId, riders);
 

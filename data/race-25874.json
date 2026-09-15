@@ -2,7 +2,7 @@
   "raceId": "25874",
   "raceName": "2025-12-13 第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(土曜)（全日本選手権）",
   "category": "MM40-44",
-  "updatedAt": "2026-09-12T04:41:20.846Z",
+  "updatedAt": "2026-09-15T00:16:41.665Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,9 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
   "riders": [
     {
       "riderId": "CCM-167-0030",
@@ -528,7 +531,7 @@
           "lapNumber": 1,
           "lapTimeSec": 680.7,
           "cumulativeTimeSec": 680.7,
-          "rankAtLap": 14
+          "rankAtLap": 15
         },
         {
           "lapNumber": 2,
@@ -558,16 +561,100 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "KNS-223-0270",
+      "name": "行田 良和",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 674,
+          "cumulativeTimeSec": 674,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 649,
+          "cumulativeTimeSec": 1323,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 649.8,
+          "cumulativeTimeSec": 1972.8,
+          "rankAtLap": 15
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0051",
+      "name": "西島 将晃",
+      "finalPosition": 16,
+      "status": "annotated-rank",
+      "officialPositionLabel": "16 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 682.4,
+          "cumulativeTimeSec": 682.4,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 653.9,
+          "cumulativeTimeSec": 1336.3,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 675.8,
+          "cumulativeTimeSec": 2012.1,
+          "rankAtLap": 16
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0181",
+      "name": "伊藤 隼也",
+      "finalPosition": 17,
+      "status": "annotated-rank",
+      "officialPositionLabel": "17 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 696.6,
+          "cumulativeTimeSec": 696.6,
+          "rankAtLap": 17
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 659.3,
+          "cumulativeTimeSec": 1355.9,
+          "rankAtLap": 17
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 666.9,
+          "cumulativeTimeSec": 2022.8,
+          "rankAtLap": 17
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "KNS-190-0268",
       "name": "武田 晃一",
-      "finalPosition": 15,
+      "finalPosition": 18,
       "status": "dnf",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 710.8,
           "cumulativeTimeSec": 710.8,
-          "rankAtLap": 15
+          "rankAtLap": 18
         }
       ],
       "dataQuality": "ok"

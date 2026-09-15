@@ -2,7 +2,7 @@
   "raceId": "18063",
   "raceName": "2023-10-29 東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)（東北 CX Project）",
   "category": "MM1",
-  "updatedAt": "2026-09-12T04:26:38.522Z",
+  "updatedAt": "2026-09-15T00:04:41.449Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,9 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
   "riders": [
     {
       "riderId": "UCX-167-0051",
@@ -670,6 +673,22 @@
           "lapTimeSec": 533.1,
           "cumulativeTimeSec": 2643.3,
           "rankAtLap": 17
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1874",
+      "name": "牧野 元",
+      "finalPosition": 18,
+      "status": "annotated-rank",
+      "officialPositionLabel": "18 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 898.5,
+          "cumulativeTimeSec": 898.5,
+          "rankAtLap": 18
         }
       ],
       "dataQuality": "ok"

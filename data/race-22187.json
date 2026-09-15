@@ -2,7 +2,7 @@
   "raceId": "22187",
   "raceName": "2024-11-17 関西シクロクロス 琵琶湖グランプリ（関西クロス）",
   "category": "UCI-Men Junior",
-  "updatedAt": "2026-09-12T04:34:22.590Z",
+  "updatedAt": "2026-09-15T00:10:50.252Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,6 +11,9 @@
     5,
     6
   ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
   "riders": [
     {
       "riderId": "UCX-156-0035",
@@ -368,6 +371,84 @@
           "lapTimeSec": 514.2,
           "cumulativeTimeSec": 3017.1,
           "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0008",
+      "name": "中平 泰棋",
+      "finalPosition": 9,
+      "status": "annotated-rank",
+      "officialPositionLabel": "9 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 480.3,
+          "cumulativeTimeSec": 480.3,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 513.4,
+          "cumulativeTimeSec": 993.7,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 543.3,
+          "cumulativeTimeSec": 1537,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 579.9,
+          "cumulativeTimeSec": 2116.9,
+          "rankAtLap": 9
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0054",
+      "name": "松本 大和",
+      "finalPosition": 10,
+      "status": "annotated-rank",
+      "officialPositionLabel": "10 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 578,
+          "cumulativeTimeSec": 578,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 606.8,
+          "cumulativeTimeSec": 1184.8,
+          "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 11,
+      "status": "annotated-rank",
+      "officialPositionLabel": "11 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.8,
+          "cumulativeTimeSec": 624.8,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 647.3,
+          "cumulativeTimeSec": 1272.1,
+          "rankAtLap": 11
         }
       ],
       "dataQuality": "ok"

@@ -2,7 +2,7 @@
   "raceId": "26184",
   "raceName": "2025-12-21 関西シクロクロス 第6戦 信太山（関西クロス）",
   "category": "E1",
-  "updatedAt": "2026-09-12T04:41:33.393Z",
+  "updatedAt": "2026-09-15T00:16:54.187Z",
   "raceLapNumbers": [
     1,
     2,
@@ -12,6 +12,10 @@
     6,
     7
   ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 20
+  },
   "riders": [
     {
       "riderId": "KNS-000-2505",

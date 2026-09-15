@@ -2,7 +2,7 @@
   "raceId": "26793",
   "raceName": "2026-01-18 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
   "category": "WE1",
-  "updatedAt": "2026-09-12T04:42:27.909Z",
+  "updatedAt": "2026-09-15T00:17:47.795Z",
   "raceLapNumbers": [
     1,
     2,
@@ -247,7 +247,7 @@
           "lapNumber": 1,
           "lapTimeSec": 544.1,
           "cumulativeTimeSec": 544.1,
-          "rankAtLap": 6
+          "rankAtLap": 7
         },
         {
           "lapNumber": 2,
@@ -278,6 +278,78 @@
           "lapTimeSec": 521.9,
           "cumulativeTimeSec": 3190.6,
           "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0063",
+      "name": "森田 由美子",
+      "finalPosition": 7,
+      "status": "annotated-rank",
+      "officialPositionLabel": "7 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 568.9,
+          "cumulativeTimeSec": 568.9,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 547.6,
+          "cumulativeTimeSec": 1116.5,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539.9,
+          "cumulativeTimeSec": 1656.4,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0019",
+      "name": "竹村 舞葉",
+      "finalPosition": 8,
+      "status": "annotated-rank",
+      "officialPositionLabel": "8 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.6,
+          "cumulativeTimeSec": 542.6,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 710.6,
+          "cumulativeTimeSec": 1253.2,
+          "rankAtLap": 9
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 9,
+      "status": "annotated-rank",
+      "officialPositionLabel": "9 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 589.8,
+          "cumulativeTimeSec": 589.8,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.5,
+          "cumulativeTimeSec": 1175.3,
+          "rankAtLap": 8
         }
       ],
       "dataQuality": "ok"

@@ -2,7 +2,7 @@
   "raceId": "25873",
   "raceName": "2025-12-13 第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(土曜)（全日本選手権）",
   "category": "MM35-39",
-  "updatedAt": "2026-09-12T04:41:21.261Z",
+  "updatedAt": "2026-09-15T00:16:41.401Z",
   "raceLapNumbers": [
     1,
     2,
@@ -489,7 +489,7 @@
           "lapNumber": 1,
           "lapTimeSec": 677.9,
           "cumulativeTimeSec": 677.9,
-          "rankAtLap": 13
+          "rankAtLap": 15
         },
         {
           "lapNumber": 2,
@@ -514,6 +514,62 @@
           "lapTimeSec": 629.1,
           "cumulativeTimeSec": 3223.1,
           "rankAtLap": 13
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0025",
+      "name": "鈴木 禄徳",
+      "finalPosition": 14,
+      "status": "annotated-rank",
+      "officialPositionLabel": "14 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.9,
+          "cumulativeTimeSec": 671.9,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 657.3,
+          "cumulativeTimeSec": 1329.2,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 680.8,
+          "cumulativeTimeSec": 2010,
+          "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0054",
+      "name": "植田 春樹",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 674.8,
+          "cumulativeTimeSec": 674.8,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 669.7,
+          "cumulativeTimeSec": 1344.5,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 675.5,
+          "cumulativeTimeSec": 2020,
+          "rankAtLap": 15
         }
       ],
       "dataQuality": "ok"

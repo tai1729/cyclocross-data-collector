@@ -2,7 +2,7 @@
   "raceId": "25334",
   "raceName": "2025-11-23 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
   "category": "M40-44",
-  "updatedAt": "2026-09-12T04:40:28.044Z",
+  "updatedAt": "2026-09-15T00:15:47.788Z",
   "raceLapNumbers": [
     1,
     2,
@@ -372,7 +372,7 @@
           "lapNumber": 1,
           "lapTimeSec": 585.4,
           "cumulativeTimeSec": 585.4,
-          "rankAtLap": 11
+          "rankAtLap": 12
         },
         {
           "lapNumber": 2,
@@ -436,6 +436,72 @@
           "lapTimeSec": 518.4,
           "cumulativeTimeSec": 2756.3,
           "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0382",
+      "name": "坂本 陽介",
+      "finalPosition": 12,
+      "status": "annotated-rank",
+      "officialPositionLabel": "12 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 570.7,
+          "cumulativeTimeSec": 570.7,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581,
+          "cumulativeTimeSec": 1151.7,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.4,
+          "cumulativeTimeSec": 1718.1,
+          "rankAtLap": 12
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0336",
+      "name": "平野 慎介",
+      "finalPosition": 13,
+      "status": "annotated-rank",
+      "officialPositionLabel": "13 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 619,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 579.4,
+          "cumulativeTimeSec": 1198.4,
+          "rankAtLap": 13
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0163",
+      "name": "久保田 次郎",
+      "finalPosition": 14,
+      "status": "annotated-rank",
+      "officialPositionLabel": "14 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 666.1,
+          "cumulativeTimeSec": 666.1,
+          "rankAtLap": 14
         }
       ],
       "dataQuality": "ok"

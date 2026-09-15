@@ -2,7 +2,7 @@
   "raceId": "23369",
   "raceName": "2025-02-09 関西シクロクロス 第10戦 桂川（関西クロス）",
   "category": "E1",
-  "updatedAt": "2026-09-12T04:36:49.061Z",
+  "updatedAt": "2026-09-15T00:13:12.023Z",
   "raceLapNumbers": [
     1,
     2,
@@ -16,6 +16,11 @@
     10,
     11
   ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 24,
+    "DNS/OPEN": 1
+  },
   "riders": [
     {
       "riderId": "CCM-000-1602",

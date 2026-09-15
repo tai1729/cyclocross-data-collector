@@ -2,7 +2,7 @@
   "raceId": "22001",
   "raceName": "2024-11-03 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "MM35",
-  "updatedAt": "2026-09-12T04:33:52.356Z",
+  "updatedAt": "2026-09-15T00:10:20.816Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,9 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
   "riders": [
     {
       "riderId": "SHN-156-0090",

@@ -2,7 +2,7 @@
   "raceId": "20901",
   "raceName": "2024-01-28 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
   "category": "ME3+4",
-  "updatedAt": "2026-09-12T04:29:40.236Z",
+  "updatedAt": "2026-09-15T00:07:43.181Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,6 +11,12 @@
     5
   ],
   "promotionZoneRank": 2,
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 2,
+    "DNS/OPEN": 2,
+    "FIN/OPEN": 5
+  },
   "riders": [
     {
       "riderId": "CCH-167-0018",

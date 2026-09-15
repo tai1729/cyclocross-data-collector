@@ -2,7 +2,7 @@
   "raceId": "23092",
   "raceName": "2025-01-19 東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）（東北 CX Project）",
   "category": "WE1",
-  "updatedAt": "2026-09-12T04:36:09.479Z",
+  "updatedAt": "2026-09-15T00:12:33.485Z",
   "raceLapNumbers": [
     1,
     2,
@@ -323,6 +323,50 @@
           "lapTimeSec": 551.2,
           "cumulativeTimeSec": 3122.3,
           "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0015",
+      "name": "清水 知佳",
+      "finalPosition": 8,
+      "status": "annotated-rank",
+      "officialPositionLabel": "8 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 564.5,
+          "cumulativeTimeSec": 564.5,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 566.2,
+          "cumulativeTimeSec": 1130.7,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0019",
+      "name": "開沼 美結",
+      "finalPosition": 9,
+      "status": "annotated-rank",
+      "officialPositionLabel": "9 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 571.7,
+          "cumulativeTimeSec": 571.7,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.3,
+          "cumulativeTimeSec": 1143,
+          "rankAtLap": 9
         }
       ],
       "dataQuality": "ok"

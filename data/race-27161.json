@@ -2,7 +2,7 @@
   "raceId": "27161",
   "raceName": "2026-02-08 関西シクロクロス くろんどクロス（関西クロス）",
   "category": "W1",
-  "updatedAt": "2026-09-12T04:43:18.534Z",
+  "updatedAt": "2026-09-15T00:18:39.565Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,6 +11,10 @@
     5,
     6
   ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 3
+  },
   "riders": [
     {
       "riderId": "KNS-167-0106",

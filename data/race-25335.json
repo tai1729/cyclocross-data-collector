@@ -2,7 +2,7 @@
   "raceId": "25335",
   "raceName": "2025-11-23 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
   "category": "M45-49",
-  "updatedAt": "2026-09-12T04:40:28.017Z",
+  "updatedAt": "2026-09-15T00:15:47.681Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,9 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 4
+  },
   "riders": [
     {
       "riderId": "KNS-189-0091",
@@ -714,9 +717,175 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "KNS-178-0046",
+      "name": "福地 徹",
+      "finalPosition": 19,
+      "status": "annotated-rank",
+      "officialPositionLabel": "19 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 603.3,
+          "cumulativeTimeSec": 603.3,
+          "rankAtLap": 22
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 537.8,
+          "cumulativeTimeSec": 1141.1,
+          "rankAtLap": 19
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 564.2,
+          "cumulativeTimeSec": 1705.3,
+          "rankAtLap": 19
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-178-0004",
+      "name": "佐藤 貴志",
+      "finalPosition": 20,
+      "status": "annotated-rank",
+      "officialPositionLabel": "20 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 599.5,
+          "cumulativeTimeSec": 599.5,
+          "rankAtLap": 21
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 565.3,
+          "cumulativeTimeSec": 1164.8,
+          "rankAtLap": 20
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 575.7,
+          "cumulativeTimeSec": 1740.5,
+          "rankAtLap": 20
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0047",
+      "name": "Witte Tom",
+      "finalPosition": 21,
+      "status": "annotated-rank",
+      "officialPositionLabel": "21 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 588.4,
+          "cumulativeTimeSec": 588.4,
+          "rankAtLap": 20
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 578.2,
+          "cumulativeTimeSec": 1166.6,
+          "rankAtLap": 21
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0203",
+      "name": "野口 徹",
+      "finalPosition": 22,
+      "status": "annotated-rank",
+      "officialPositionLabel": "22 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 615.2,
+          "cumulativeTimeSec": 615.2,
+          "rankAtLap": 23
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.8,
+          "cumulativeTimeSec": 1201,
+          "rankAtLap": 22
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-190-0017",
+      "name": "大沼 真太郎",
+      "finalPosition": 23,
+      "status": "annotated-rank",
+      "officialPositionLabel": "23 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 622.8,
+          "cumulativeTimeSec": 622.8,
+          "rankAtLap": 24
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 592.7,
+          "cumulativeTimeSec": 1215.5,
+          "rankAtLap": 23
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0222",
+      "name": "奥谷 朋也",
+      "finalPosition": 24,
+      "status": "annotated-rank",
+      "officialPositionLabel": "24 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 629.1,
+          "cumulativeTimeSec": 629.1,
+          "rankAtLap": 25
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 601.1,
+          "cumulativeTimeSec": 1230.2,
+          "rankAtLap": 24
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0045",
+      "name": "池田 大樹",
+      "finalPosition": 25,
+      "status": "annotated-rank",
+      "officialPositionLabel": "25 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 656.6,
+          "cumulativeTimeSec": 656.6,
+          "rankAtLap": 26
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 612.9,
+          "cumulativeTimeSec": 1269.5,
+          "rankAtLap": 25
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "CCM-167-0141",
       "name": "太田 好政",
-      "finalPosition": 19,
+      "finalPosition": 26,
       "status": "dnf",
       "laps": [
         {

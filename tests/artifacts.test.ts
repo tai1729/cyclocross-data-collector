@@ -1,6 +1,7 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 import { buildArtifacts } from "../lib/artifacts.js";
+import { parseRaceHtml } from "../lib/parseRaceHtml.js";
 import type { MeetEntry } from "../lib/raceConfig.js";
 import type { RaceResult } from "../lib/types.js";
 
@@ -109,6 +110,90 @@ test("records malformed and unsupported rider statuses as validation failures", 
   }
 });
 
+test("accepts annotated-rank riders and retains their official label in the rider index", () => {
+  const annotatedRider = {
+    ...resultOnlyRider,
+    riderId: "ANNOTATED",
+    name: "Annotated",
+    finalPosition: 11,
+    status: "annotated-rank" as const,
+    officialPositionLabel: "11 (80%Out)",
+  };
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: [meet.categories[1]!] }],
+    races: new Map([[
+      "R-1",
+      race("R-1", [annotatedRider]),
+    ]]),
+  });
+
+  assert.deepEqual(result.inventory.failures, []);
+  assert.equal(result.inventory.counts.resultRowsAvailable, 1);
+  assert.equal(result.riderIndex.riders[0]?.riderId, "ANNOTATED");
+});
+
+test("diagnoses malformed annotated-rank official labels", () => {
+  const malformed = {
+    ...resultOnlyRider,
+    riderId: "ANNOTATED",
+    finalPosition: 11,
+    status: "annotated-rank" as const,
+    officialPositionLabel: "<b>11</b>",
+  };
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: [meet.categories[1]!] }],
+    races: new Map([["R-1", race("R-1", [malformed])]]),
+  });
+
+  assert.ok(result.inventory.failures.some((failure) => failure.code === "invalid-official-position-label"));
+});
+
+test("requires an annotated official label to retain a non-empty suffix and matching rank", () => {
+  for (const [label, finalPosition] of [["11", 11], ["11 ", 11], ["12 LapOut", 11]] as const) {
+    const malformed = {
+      ...resultOnlyRider,
+      riderId: `ANNOTATED-${label}`,
+      finalPosition,
+      status: "annotated-rank" as const,
+      officialPositionLabel: label,
+    };
+    const result = buildArtifacts({
+      meets: [{ ...meet, categories: [meet.categories[1]!] }],
+      races: new Map([["R-1", race("R-1", [malformed])]]),
+    });
+
+    assert.ok(
+      result.inventory.failures.some((failure) => failure.code === "invalid-official-position-label"),
+      label,
+    );
+  }
+});
+
+test("carries parser excluded rank diagnostics into inventory", () => {
+  const parsed = parseRaceHtml(
+    "R-1",
+    `<h1 id="js__page_title">Diagnostic race</h1><div id="ec_name">ME1</div>
+      <table class="table__laptime"><thead><tr><th>Rank</th><th>Rider</th></tr></thead><tbody>
+        <tr><td class="cell__rank">1</td><td class="cell__rider">Accepted</td></tr>
+        <tr><td class="cell__rank">-1</td><td class="cell__rider">Negative</td></tr>
+        <tr><td class="cell__rank">LapOut</td><td class="cell__rider">No prefix</td></tr>
+        <tr><td class="cell__rank">9007199254740992</td><td class="cell__rider">Overflow</td></tr>
+        <tr><td class="cell__rank">1\u0000LapOut</td><td class="cell__rider">Control</td></tr>
+      </tbody></table>`,
+  );
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: [meet.categories[1]!] }],
+    races: new Map([["R-1", parsed]]),
+  });
+  const category = result.inventory.events[0]?.categories[0];
+
+  assert.equal(category?.excludedRowsByStatus?.["-1"], 1);
+  assert.equal(category?.excludedRowsByStatus?.LapOut, 1);
+  assert.equal(category?.excludedRowsByStatus?.["9007199254740992"], 1);
+  assert.equal(category?.excludedRowsByStatus?.["1\u0000LapOut"], 1);
+  assert.ok(result.inventory.failures.filter((failure) => failure.code === "invalid-excluded-status").length >= 4);
+});
+
 test("records duplicate meet, race, and event identities as dataset failures", () => {
   const duplicateMeet = { ...meet, categories: [{ raceId: "R-3", name: "Men", order: 1 }] };
   const duplicateEvent = {
@@ -176,6 +261,59 @@ test("copies excluded source status counts into inventory diagnostics", () => {
   });
 });
 
+test("accepts known numeric-less source labels as nonfatal inventory diagnostics", () => {
+  const excludedRowsByStatus = {
+    FIN: 1,
+    "FIN/OPEN": 2,
+    "DNS/OPEN": 3,
+    "DNF/OPEN": 4,
+  };
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: [meet.categories[0]!] }],
+    races: new Map([
+      [
+        "R-2",
+        {
+          ...race("R-2", [resultOnlyRider]),
+          excludedRowsByStatus,
+        },
+      ],
+    ]),
+  });
+
+  assert.deepEqual(result.inventory.events[0]?.categories[0]?.excludedRowsByStatus, excludedRowsByStatus);
+  assert.equal(result.inventory.failures.filter((failure) => failure.code === "invalid-excluded-status").length, 0);
+  assert.equal(Object.values(result.inventory.events[0]?.categories[0]?.excludedRowsByStatus ?? {}).reduce((sum, count) => sum + count, 0), 10);
+});
+
+test("keeps unknown, malformed, control, and overflow source labels fatal", () => {
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: [meet.categories[0]!] }],
+    races: new Map([
+      [
+        "R-2",
+        {
+          ...race("R-2", [resultOnlyRider]),
+          excludedRowsByStatus: {
+            UNKNOWN: 1,
+            "-1": 1,
+            "1\u0000LapOut": 1,
+            "9007199254740992": 1,
+          },
+        },
+      ],
+    ]),
+  });
+
+  assert.equal(result.inventory.failures.filter((failure) => failure.code === "invalid-excluded-status").length, 4);
+  assert.deepEqual(result.inventory.events[0]?.categories[0]?.excludedRowsByStatus, {
+    "-1": 1,
+    "1\u0000LapOut": 1,
+    "9007199254740992": 1,
+    UNKNOWN: 1,
+  });
+});
+
 test("retains excluded status diagnostics for races with no accepted riders", () => {
   const result = buildArtifacts({
     meets: [{ ...meet, categories: [meet.categories[0]!] }],
@@ -219,7 +357,7 @@ test("records malformed excluded status diagnostics without dropping valid entri
     ]),
   });
 
-  assert.deepEqual(result.inventory.events[0]?.categories[0]?.excludedRowsByStatus, { "?": 0 });
+  assert.deepEqual(result.inventory.events[0]?.categories[0]?.excludedRowsByStatus, { "?": 0, UNKNOWN: 2 });
   assert.equal(result.inventory.failures.filter((failure) => failure.code === "invalid-excluded-status").length, 1);
   assert.equal(result.inventory.failures.filter((failure) => failure.code === "invalid-excluded-status-count").length, 3);
 });

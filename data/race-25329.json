@@ -2,7 +2,7 @@
   "raceId": "25329",
   "raceName": "2025-11-23 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
   "category": "J",
-  "updatedAt": "2026-09-12T04:40:26.477Z",
+  "updatedAt": "2026-09-15T00:15:46.352Z",
   "raceLapNumbers": [
     1,
     2,
@@ -247,7 +247,7 @@
           "lapNumber": 1,
           "lapTimeSec": 493.6,
           "cumulativeTimeSec": 493.6,
-          "rankAtLap": 6
+          "rankAtLap": 7
         },
         {
           "lapNumber": 2,
@@ -292,7 +292,7 @@
           "lapNumber": 1,
           "lapTimeSec": 509.9,
           "cumulativeTimeSec": 509.9,
-          "rankAtLap": 7
+          "rankAtLap": 8
         },
         {
           "lapNumber": 2,
@@ -323,6 +323,56 @@
           "lapTimeSec": 537.9,
           "cumulativeTimeSec": 3125.8,
           "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 8,
+      "status": "annotated-rank",
+      "officialPositionLabel": "8 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 470.5,
+          "cumulativeTimeSec": 470.5,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 675.9,
+          "cumulativeTimeSec": 1146.4,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 525.7,
+          "cumulativeTimeSec": 1672.1,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0054",
+      "name": "松本 大和",
+      "finalPosition": 9,
+      "status": "annotated-rank",
+      "officialPositionLabel": "9 (LapOut)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 571.4,
+          "cumulativeTimeSec": 571.4,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 586.3,
+          "cumulativeTimeSec": 1157.7,
+          "rankAtLap": 9
         }
       ],
       "dataQuality": "ok"

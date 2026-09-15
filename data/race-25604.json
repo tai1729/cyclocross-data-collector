@@ -2,7 +2,7 @@
   "raceId": "25604",
   "raceName": "2025-11-30 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
   "category": "WE2",
-  "updatedAt": "2026-09-12T04:41:04.794Z",
+  "updatedAt": "2026-09-15T00:16:24.971Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,6 +10,10 @@
     4,
     5
   ],
+  "excludedRowsByStatus": {
+    "DNS": 3,
+    "FIN/OPEN": 1
+  },
   "riders": [
     {
       "riderId": "KNS-000-4643",

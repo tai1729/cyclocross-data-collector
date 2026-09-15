@@ -2,7 +2,7 @@
   "raceId": "24692",
   "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "WE",
-  "updatedAt": "2026-09-12T04:39:52.454Z",
+  "updatedAt": "2026-09-15T00:15:15.474Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,6 +11,9 @@
     5,
     6
   ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
   "riders": [
     {
       "riderId": "KNS-000-3361",
@@ -292,13 +295,13 @@
           "lapNumber": 1,
           "lapTimeSec": 606.9,
           "cumulativeTimeSec": 606.9,
-          "rankAtLap": 8
+          "rankAtLap": 9
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 1170.6,
           "cumulativeTimeSec": 1777.5,
-          "rankAtLap": 8
+          "rankAtLap": 9
         },
         {
           "lapNumber": 3,
@@ -337,13 +340,13 @@
           "lapNumber": 1,
           "lapTimeSec": 609.8,
           "cumulativeTimeSec": 609.8,
-          "rankAtLap": 9
+          "rankAtLap": 10
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 1171.5,
           "cumulativeTimeSec": 1781.3,
-          "rankAtLap": 9
+          "rankAtLap": 10
         },
         {
           "lapNumber": 3,
@@ -427,25 +430,25 @@
           "lapNumber": 1,
           "lapTimeSec": 627.2,
           "cumulativeTimeSec": 627.2,
-          "rankAtLap": 10
+          "rankAtLap": 11
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 1210.6,
           "cumulativeTimeSec": 1837.8,
-          "rankAtLap": 10
+          "rankAtLap": 11
         },
         {
           "lapNumber": 3,
           "lapTimeSec": 1791.1,
           "cumulativeTimeSec": 3628.8999999999996,
-          "rankAtLap": 10
+          "rankAtLap": 11
         },
         {
           "lapNumber": 4,
           "lapTimeSec": 2360,
           "cumulativeTimeSec": 5988.9,
-          "rankAtLap": 10
+          "rankAtLap": 11
         },
         {
           "lapNumber": 5,
@@ -458,6 +461,102 @@
           "lapTimeSec": 3493.3,
           "cumulativeTimeSec": 12396.399999999998,
           "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7117",
+      "name": "川崎 路子",
+      "finalPosition": 11,
+      "status": "annotated-rank",
+      "officialPositionLabel": "11 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.7,
+          "cumulativeTimeSec": 606.7,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1170.6,
+          "cumulativeTimeSec": 1777.3,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1758.7,
+          "cumulativeTimeSec": 3536,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2345.4,
+          "cumulativeTimeSec": 5881.4,
+          "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 12,
+      "status": "annotated-rank",
+      "officialPositionLabel": "12 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 633.2,
+          "cumulativeTimeSec": 633.2,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1211.2,
+          "cumulativeTimeSec": 1844.4,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1797,
+          "cumulativeTimeSec": 3641.4,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 2383.8,
+          "cumulativeTimeSec": 6025.200000000001,
+          "rankAtLap": 12
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0005",
+      "name": "阪本 実樹",
+      "finalPosition": 13,
+      "status": "annotated-rank",
+      "officialPositionLabel": "13 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 648.4,
+          "cumulativeTimeSec": 648.4,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1262.5,
+          "cumulativeTimeSec": 1910.9,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1882.3,
+          "cumulativeTimeSec": 3793.2,
+          "rankAtLap": 13
         }
       ],
       "dataQuality": "ok"

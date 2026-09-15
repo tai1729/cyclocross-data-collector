@@ -2,9 +2,11 @@ export type DataQuality = "ok" | "error";
 
 /**
  * "finished": 完走。 "dnf":途中棄権（部分的なラップデータを持つ）。
+ * "annotated-rank": numeric rank with an opaque source annotation (for
+ * example LapOut or 80%Out). The annotation does not imply a result status.
  * DNS（欠場）は取得元に記録が無いためriders配列に含めない。
  */
-export type RiderStatus = "finished" | "dnf";
+export type RiderStatus = "finished" | "dnf" | "annotated-rank";
 
 export interface LapRecord {
   lapNumber: number;
@@ -22,6 +24,8 @@ export interface Rider {
    */
   finalPosition: number;
   status: RiderStatus;
+  /** Source rank-cell text for annotated ranks; never contains HTML. */
+  officialPositionLabel?: string;
   laps: LapRecord[];
   dataQuality: DataQuality;
 }
