@@ -91,6 +91,7 @@ export const RACE_DAYS_JSON_PATH = path.join(ROOT_DIR, "race_days.json");
 export const MEETS_JSON_PATH = path.join(ROOT_DIR, "meets.json");
 export const INVENTORY_JSON_PATH = path.join(ROOT_DIR, "inventory.json");
 export const RIDER_INDEX_JSON_PATH = path.join(ROOT_DIR, "rider-index.json");
+export const SITE_METADATA_JSON_PATH = path.join(ROOT_DIR, "site-metadata.json");
 export const DISCOVERY_FAILURES_JSON_PATH = path.join(ROOT_DIR, "discovery-failures.json");
 
 export function getJstDate(date = new Date()): string {

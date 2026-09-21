@@ -1,6 +1,7 @@
 import * as cheerio from "cheerio";
 import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
+import { pathToFileURL } from "node:url";
 import { RACE_DAYS_JSON_PATH, writeJson } from "../lib/raceConfig.js";
 
 const CALENDAR_URL = "https://www.cyclocross.jp/calendar/";
@@ -13,6 +14,7 @@ const COLLECT_WORKFLOW_PATH = path.join(
 );
 const SCHEDULE_START = "    # BEGIN GENERATED RACE SCHEDULE";
 const SCHEDULE_END = "    # END GENERATED RACE SCHEDULE";
+const SCHEDULE_MINUTE = 7;
 
 function parseCalendarDate(text: string): string | null {
   const match = text
@@ -24,10 +26,10 @@ function parseCalendarDate(text: string): string | null {
   return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
 }
 
-function buildScheduleLines(raceDays: string[]): string[] {
+export function buildScheduleLines(raceDays: string[]): string[] {
   return raceDays.map((raceDay) => {
     const [, month, day] = raceDay.split("-");
-    return `    - cron: "0 9-23 ${Number(day)} ${Number(month)} *"\n      timezone: "Asia/Tokyo" # ${raceDay} JST`;
+    return `    - cron: "${SCHEDULE_MINUTE} 9-23 ${Number(day)} ${Number(month)} *"\n      timezone: "Asia/Tokyo" # ${raceDay} JST`;
   });
 }
 
@@ -83,4 +85,13 @@ async function main() {
   console.log(`[OK] ${raceDays.length}日分の開催日と収集スケジュールを更新しました。`);
 }
 
-main();
+function isMainModule(): boolean {
+  return process.argv[1] ? import.meta.url === pathToFileURL(process.argv[1]).href : false;
+}
+
+if (isMainModule()) {
+  main().catch((error) => {
+    console.error(error);
+    process.exitCode = 1;
+  });
+}

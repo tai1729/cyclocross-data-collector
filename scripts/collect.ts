@@ -13,6 +13,10 @@ import {
   type MeetEntry,
   type RaceEntry,
 } from "../lib/raceConfig.js";
+import {
+  shouldPublishSiteMetadata,
+  writeSiteMetadata,
+} from "../lib/siteMetadata.js";
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "data");
 const MAX_CONCURRENCY = 5;
@@ -158,9 +162,11 @@ async function main() {
   }
 
   const failures: unknown[] = [];
+  let successfulCollections = 0;
   await runWithConcurrency(targets, async (entry) => {
     try {
       await collectRace(entry);
+      successfulCollections += 1;
     } catch (error) {
       failures.push(error);
       console.error("[FAILED]", error);
@@ -172,6 +178,9 @@ async function main() {
   }
 
   const artifacts = await buildAndWriteArtifacts();
+  if (shouldPublishSiteMetadata(0, successfulCollections)) {
+    await writeSiteMetadata();
+  }
   console.log(
     `[OK] inventory: ${artifacts.counts.events} events / ${artifacts.counts.races} races / ${artifacts.counts.indexedRiders} riders`,
   );

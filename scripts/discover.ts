@@ -22,6 +22,10 @@ import {
   type MeetEntry,
   type RaceEntry,
 } from "../lib/raceConfig.js";
+import {
+  shouldPublishSiteMetadata,
+  writeSiteMetadata,
+} from "../lib/siteMetadata.js";
 
 export const MEET_LIST_URL = "https://data.cyclocross.jp/meet";
 const MAX_CONCURRENCY = 5;
@@ -373,6 +377,9 @@ async function main() {
     : previousFailures;
   const sortedFailures = sortFailures([...retainedFailures, ...failures]);
   await writeJson(DISCOVERY_FAILURES_JSON_PATH, sortedFailures);
+  if (shouldPublishSiteMetadata(discoveredMeets.length, 0)) {
+    await writeSiteMetadata();
+  }
 
   if (failures.length > 0) {
     console.error(`[DISCOVERY_FAILURES] ${JSON.stringify(sortedFailures)}`);
