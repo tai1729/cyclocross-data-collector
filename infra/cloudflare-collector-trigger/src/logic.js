@@ -63,6 +63,29 @@ export function formatJstDate(timestamp) {
   return `${values.year}-${values.month}-${values.day}`;
 }
 
+export function formatJstSlot(timestamp) {
+  const date = new Date(timestamp);
+  if (Number.isNaN(date.getTime())) {
+    throw new Error(`invalid scheduled time: ${String(timestamp)}`);
+  }
+
+  const parts = new Intl.DateTimeFormat("en-CA", {
+    timeZone: "Asia/Tokyo",
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+    hour: "2-digit",
+    hourCycle: "h23",
+  }).formatToParts(date);
+  const values = Object.fromEntries(
+    parts
+      .filter(({ type }) => type !== "literal")
+      .map(({ type, value }) => [type, value]),
+  );
+
+  return `${values.year}-${values.month}-${values.day}T${values.hour}:00+09:00`;
+}
+
 export function isDispatchEnabled(value) {
   return value === true || value === "true";
 }

@@ -1,19 +1,27 @@
 import assert from "node:assert/strict";
+import { readFile } from "node:fs/promises";
 import test from "node:test";
-import { buildScheduleLines, getCollectionDays } from "../scripts/updateSchedule.js";
 
-test("generates schedules for the race day and the following day", () => {
-  assert.deepEqual(getCollectionDays(["2026-09-21"]), ["2026-09-21", "2026-09-22"]);
-  assert.deepEqual(buildScheduleLines(["2026-09-21"]), [
-    '    - cron: "7 9-23 21 9 *"\n      timezone: "Asia/Tokyo" # 2026-09-21 JST',
-    '    - cron: "7 9-23 22 9 *"\n      timezone: "Asia/Tokyo" # 2026-09-22 JST',
-  ]);
+import { parseCalendarDate } from "../scripts/updateSchedule.js";
+
+test("parses the official calendar date text", () => {
+  assert.equal(parseCalendarDate("2026. 9.21"), "2026-09-21");
+  assert.equal(parseCalendarDate("開催日: 2026.10. 3"), "2026-10-03");
+  assert.equal(parseCalendarDate("date unavailable"), null);
 });
 
-test("deduplicates consecutive race days and handles year rollover", () => {
-  assert.deepEqual(getCollectionDays(["2026-12-31", "2027-01-01"]), [
-    "2026-12-31",
-    "2027-01-01",
-    "2027-01-02",
-  ]);
+test("the monthly updater does not rewrite the collection workflow", async () => {
+  const source = await readFile(
+    new URL("../scripts/updateSchedule.ts", import.meta.url),
+    "utf8",
+  );
+  const workflow = await readFile(
+    new URL("../.github/workflows/collect.yml", import.meta.url),
+    "utf8",
+  );
+
+  assert.doesNotMatch(source, /\.github[\\/]workflows[\\/]collect\.yml/);
+  assert.doesNotMatch(workflow, /^  schedule:/m);
+  assert.match(workflow, /^  workflow_dispatch:/m);
+  assert.match(workflow, /^  queue: max$/m);
 });

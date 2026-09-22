@@ -1,70 +1,17 @@
 import * as cheerio from "cheerio";
-import { readFile, writeFile } from "node:fs/promises";
-import path from "node:path";
 import { pathToFileURL } from "node:url";
 import { RACE_DAYS_JSON_PATH, writeJson } from "../lib/raceConfig.js";
 
 const CALENDAR_URL = "https://www.cyclocross.jp/calendar/";
-const COLLECT_WORKFLOW_PATH = path.join(
-  import.meta.dirname,
-  "..",
-  ".github",
-  "workflows",
-  "collect.yml",
-);
-const SCHEDULE_START = "    # BEGIN GENERATED RACE SCHEDULE";
-const SCHEDULE_END = "    # END GENERATED RACE SCHEDULE";
-const SCHEDULE_MINUTE = 7;
 
-function parseCalendarDate(text: string): string | null {
+export function parseCalendarDate(text: string): string | null {
   const match = text
     .replace(/\s+/g, " ")
-    .match(/(\d{4})\s*\.?\s*(\d{1,2})\.(\d{1,2})/);
+    .match(/(\d{4})\s*\.?\s*(\d{1,2})\s*\.\s*(\d{1,2})/);
   if (!match) return null;
 
   const [, year, month, day] = match;
   return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
-}
-
-function getNextCalendarDay(raceDay: string): string {
-  const date = new Date(`${raceDay}T00:00:00Z`);
-  if (Number.isNaN(date.getTime())) {
-    throw new Error(`開催日の形式が不正です: ${raceDay}`);
-  }
-  date.setUTCDate(date.getUTCDate() + 1);
-  return date.toISOString().slice(0, 10);
-}
-
-export function getCollectionDays(raceDays: string[]): string[] {
-  return [
-    ...new Set(raceDays.flatMap((raceDay) => [raceDay, getNextCalendarDay(raceDay)])),
-  ].sort();
-}
-
-export function buildScheduleLines(raceDays: string[]): string[] {
-  return getCollectionDays(raceDays).map((raceDay) => {
-    const [, month, day] = raceDay.split("-");
-    return `    - cron: "${SCHEDULE_MINUTE} 9-23 ${Number(day)} ${Number(month)} *"\n      timezone: "Asia/Tokyo" # ${raceDay} JST`;
-  });
-}
-
-function replaceGeneratedSchedule(workflow: string, raceDays: string[]): string {
-  const start = workflow.indexOf(SCHEDULE_START);
-  const end = workflow.indexOf(SCHEDULE_END);
-  if (start === -1 || end === -1 || end < start) {
-    throw new Error("collect.yml に生成スケジュール用マーカーがありません。");
-  }
-
-  const lines = buildScheduleLines(raceDays);
-  const replacement = [
-    SCHEDULE_START,
-    ...(lines.length > 0 ? lines : ["    # 開催日未登録のため定期実行なし"]),
-    SCHEDULE_END,
-  ].join("\n");
-
-  return `${workflow.slice(0, start)}${replacement}${workflow.slice(
-    end + SCHEDULE_END.length,
-  )}`;
 }
 
 async function main() {
@@ -90,14 +37,8 @@ async function main() {
   }
 
   await writeJson(RACE_DAYS_JSON_PATH, raceDays);
-  const workflow = await readFile(COLLECT_WORKFLOW_PATH, "utf-8");
-  await writeFile(
-    COLLECT_WORKFLOW_PATH,
-    replaceGeneratedSchedule(workflow, raceDays),
-    "utf-8",
-  );
 
-  console.log(`[OK] ${raceDays.length}日分の開催日と収集スケジュールを更新しました。`);
+  console.log(`[OK] ${raceDays.length}日分の開催日を更新しました。`);
 }
 
 function isMainModule(): boolean {

@@ -3,7 +3,7 @@
   "main": "src/index.js",
   "compatibility_date": "2026-09-22",
   "triggers": {
-    "crons": ["7 0-14 * * *"]
+    "crons": ["0 * * * *"]
   },
   "vars": {
     "DISPATCH_ENABLED": "false",

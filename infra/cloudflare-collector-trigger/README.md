@@ -27,6 +27,8 @@ test token only when testing the dispatch path locally.
 6. At cutover, set `DISPATCH_ENABLED=true`, remove the GitHub `schedule`
    trigger in the collector workflow, and retain `workflow_dispatch`.
 
-The Cron expression is `7 0-14 * * *` UTC, which corresponds to 09:07–23:07
-JST. The Worker checks `race_days.json` at runtime and adds the following
-calendar day before deciding whether to dispatch.
+The Cron expression is `0 * * * *` UTC, which invokes the Worker once per hour
+and covers every JST hour. The Worker checks `race_days.json` at runtime and
+adds the following calendar day before deciding whether to dispatch. On
+non-covered dates it only logs a skip; on a covered date it dispatches the
+collector workflow for that hour.

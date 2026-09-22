@@ -4,6 +4,7 @@ import {
   buildWorkflowRunsUrl,
   DEFAULTS,
   formatJstDate,
+  formatJstSlot,
   isDispatchEnabled,
   isRecentRun,
 } from "./logic.js";
@@ -150,19 +151,20 @@ export async function runScheduledCollection({
   sleep,
 }) {
   const jstDate = formatJstDate(scheduledTime);
+  const jstSlot = formatJstSlot(scheduledTime);
   const collectionDays = await withRetry(
     () => getCollectionDays(env, fetchImpl, scheduledTime),
     { sleep },
   );
 
   if (!collectionDays.includes(jstDate)) {
-    logger.log(JSON.stringify({ event: "skip", reason: "not_collection_day", jstDate }));
-    return { action: "skip", jstDate };
+    logger.log(JSON.stringify({ event: "skip", reason: "not_collection_day", jstDate, jstSlot }));
+    return { action: "skip", jstDate, jstSlot };
   }
 
   if (!isDispatchEnabled(env.DISPATCH_ENABLED)) {
-    logger.log(JSON.stringify({ event: "skip", reason: "dispatch_disabled", jstDate }));
-    return { action: "disabled", jstDate };
+    logger.log(JSON.stringify({ event: "skip", reason: "dispatch_disabled", jstDate, jstSlot }));
+    return { action: "disabled", jstDate, jstSlot };
   }
 
   const token = env.GITHUB_ACTIONS_TOKEN;
@@ -175,14 +177,14 @@ export async function runScheduledCollection({
     { sleep },
   );
   if (recent) {
-    logger.log(JSON.stringify({ event: "skip", reason: "recent_dispatch", jstDate }));
-    return { action: "deduplicated", jstDate };
+    logger.log(JSON.stringify({ event: "skip", reason: "recent_dispatch", jstDate, jstSlot }));
+    return { action: "deduplicated", jstDate, jstSlot };
   }
 
   await withRetry(
     () => dispatchWorkflow(env, fetchImpl, token),
     { sleep },
   );
-  logger.log(JSON.stringify({ event: "dispatch_accepted", jstDate }));
-  return { action: "dispatch", jstDate };
+  logger.log(JSON.stringify({ event: "dispatch_accepted", jstDate, jstSlot }));
+  return { action: "dispatch", jstDate, jstSlot };
 }

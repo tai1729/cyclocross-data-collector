@@ -1,10 +1,10 @@
 import assert from "node:assert/strict";
 import test from "node:test";
 
-import { buildCollectionDays, formatJstDate } from "../src/logic.js";
+import { buildCollectionDays, formatJstDate, formatJstSlot } from "../src/logic.js";
 import { runScheduledCollection } from "../src/trigger.js";
 
-const TARGET_TIME = Date.parse("2026-09-22T00:07:00.000Z");
+const TARGET_TIME = Date.parse("2026-09-22T00:00:00.000Z");
 const BASE_ENV = {
   CALENDAR_URL: "https://example.test/race_days.json",
   DISPATCH_ENABLED: "true",
@@ -44,6 +44,7 @@ function logger() {
 
 test("formats scheduled time in JST", () => {
   assert.equal(formatJstDate(TARGET_TIME), "2026-09-22");
+  assert.equal(formatJstSlot(TARGET_TIME), "2026-09-22T09:00+09:00");
 });
 
 test("covers race day and the following calendar day", () => {
@@ -116,6 +117,27 @@ test("deduplicates a recent workflow dispatch", async () => {
 
   assert.equal(result.action, "deduplicated");
   assert.equal(calls.length, 2);
+});
+
+test("dispatches a later hourly slot instead of treating it as a duplicate", async () => {
+  const nextHourlySlot = TARGET_TIME + 60 * 60 * 1000;
+  const { calls, fetchImpl } = makeFetch([
+    response(["2026-09-22"]),
+    response({ workflow_runs: [{ created_at: "2026-09-22T00:00:00.000Z" }] }),
+    response(null, 204),
+  ]);
+
+  const result = await runScheduledCollection({
+    scheduledTime: nextHourlySlot,
+    observedAtMs: nextHourlySlot,
+    env: BASE_ENV,
+    fetchImpl,
+    logger: logger(),
+  });
+
+  assert.equal(result.action, "dispatch");
+  assert.equal(result.jstSlot, "2026-09-22T10:00+09:00");
+  assert.equal(calls.length, 3);
 });
 
 test("retries a transient dispatch failure", async () => {
