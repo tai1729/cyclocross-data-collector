@@ -4,13 +4,6 @@ export interface SiteMetadata {
   updatedAt: string;
 }
 
-export function shouldPublishSiteMetadata(
-  discoveredMeetCount: number,
-  successfulCollectionCount: number,
-): boolean {
-  return discoveredMeetCount > 0 || successfulCollectionCount > 0;
-}
-
 export function createSiteMetadata(now: Date = new Date()): SiteMetadata {
   return { updatedAt: now.toISOString() };
 }
