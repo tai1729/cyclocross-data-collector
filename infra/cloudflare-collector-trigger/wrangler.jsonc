@@ -6,7 +6,7 @@
     "crons": ["0 * * * *"]
   },
   "vars": {
-    "DISPATCH_ENABLED": "false",
+    "DISPATCH_ENABLED": "true",
     "CALENDAR_URL": "https://raw.githubusercontent.com/tai1729/cyclocross-data-collector/main/race_days.json",
     "GITHUB_OWNER": "tai1729",
     "GITHUB_REPO": "cyclocross-data-collector",
