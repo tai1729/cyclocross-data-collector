@@ -1,0 +1,87 @@
+{
+  "raceId": "27936",
+  "raceName": "2026-09-22 2026-27もみじシクロクロス第１戦（もみじシクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-09-22T09:44:58.198Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0043",
+      "name": "野口 依央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 569.3,
+          "cumulativeTimeSec": 569.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557.6,
+          "cumulativeTimeSec": 1126.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 564.6,
+          "cumulativeTimeSec": 1691.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 588.3,
+          "cumulativeTimeSec": 2279.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 592,
+          "cumulativeTimeSec": 2871.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4096",
+      "name": "大浦 玲音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 640.5,
+          "cumulativeTimeSec": 640.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 791.1,
+          "cumulativeTimeSec": 1431.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 795.1,
+          "cumulativeTimeSec": 2226.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 740,
+          "cumulativeTimeSec": 2966.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

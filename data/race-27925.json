@@ -1,0 +1,185 @@
+{
+  "raceId": "27925",
+  "raceName": "2026-09-22 2026-27もみじシクロクロス第１戦（もみじシクロクロス）",
+  "category": "ME3+4",
+  "updatedAt": "2026-09-22T09:44:55.678Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-178-0079",
+      "name": "井上 裕樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 573.8,
+          "cumulativeTimeSec": 573.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 553.1,
+          "cumulativeTimeSec": 1126.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 530.1,
+          "cumulativeTimeSec": 1657,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 519.1,
+          "cumulativeTimeSec": 2176.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-245-3007",
+      "name": "中山 拓真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 569.7,
+          "cumulativeTimeSec": 569.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 603.2,
+          "cumulativeTimeSec": 1172.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 585.3,
+          "cumulativeTimeSec": 1758.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 631.3,
+          "cumulativeTimeSec": 2389.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-256-0003",
+      "name": "宗内 玲泉",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 618.7,
+          "cumulativeTimeSec": 618.7,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 638.3,
+          "cumulativeTimeSec": 1257,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 705.9,
+          "cumulativeTimeSec": 1962.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-223-0001",
+      "name": "平井 徳亮",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 596.3,
+          "cumulativeTimeSec": 596.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 564,
+          "cumulativeTimeSec": 1160.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 930.3,
+          "cumulativeTimeSec": 2090.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-234-3017",
+      "name": "横山 太一",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 587.2,
+          "cumulativeTimeSec": 587.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 538.3,
+          "cumulativeTimeSec": 1125.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1121.5,
+          "cumulativeTimeSec": 2247,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-245-0016",
+      "name": "深田 良介",
+      "finalPosition": 6,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 603.9,
+          "cumulativeTimeSec": 603.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571,
+          "cumulativeTimeSec": 1174.9,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

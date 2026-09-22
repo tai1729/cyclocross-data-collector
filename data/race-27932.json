@@ -1,0 +1,33 @@
+{
+  "raceId": "27932",
+  "raceName": "2026-09-22 2026-27もみじシクロクロス第１戦（もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-09-22T09:44:57.206Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-256-0152",
+      "name": "松井 輪央",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 345.8,
+          "cumulativeTimeSec": 345.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 366,
+          "cumulativeTimeSec": 711.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
