@@ -98,6 +98,7 @@ test("dispatches a covered date after the recent-run check", async () => {
   assert.equal(calls.length, 3);
   assert.equal(calls[2].options.method, "POST");
   assert.equal(calls[2].options.headers.Authorization, "Bearer secret-token");
+  assert.equal(calls[2].options.headers["User-Agent"], "cyclocross-data-collector-trigger");
   assert.equal(calls[2].options.body, JSON.stringify({ ref: "main" }));
 });
 

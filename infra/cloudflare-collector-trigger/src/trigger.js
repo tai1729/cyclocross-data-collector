@@ -36,6 +36,7 @@ function githubHeaders(token) {
     Accept: "application/vnd.github+json",
     Authorization: `Bearer ${token}`,
     "X-GitHub-Api-Version": GITHUB_API_VERSION,
+    "User-Agent": "cyclocross-data-collector-trigger",
   };
 }
 
