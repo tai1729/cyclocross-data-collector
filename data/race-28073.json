@@ -1,0 +1,54 @@
+{
+  "raceId": "28073",
+  "raceName": "2026-09-22 茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WE3",
+  "updatedAt": "2026-09-22T14:22:35.004Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-245-0153",
+      "name": "小菅 由里",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1038.3,
+          "cumulativeTimeSec": 1038.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1124.2,
+          "cumulativeTimeSec": 2162.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-256-0016",
+      "name": "金澤 ひらり",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1144.5,
+          "cumulativeTimeSec": 1144.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1074.7,
+          "cumulativeTimeSec": 2219.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "raceId": "28081",
+  "raceName": "2026-09-22 茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU17",
+  "updatedAt": "2026-09-22T14:22:37.252Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-190-0039",
+      "name": "村上 蕾夢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.7,
+          "cumulativeTimeSec": 701.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 717.7,
+          "cumulativeTimeSec": 1419.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-234-0035",
+      "name": "角田 直央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 700.3,
+          "cumulativeTimeSec": 700.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 836.9,
+          "cumulativeTimeSec": 1537.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0074",
+      "name": "守屋 和明",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 903.3,
+          "cumulativeTimeSec": 903.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1114.8,
+          "cumulativeTimeSec": 2018.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

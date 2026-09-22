@@ -1,0 +1,78 @@
+{
+  "raceId": "28077",
+  "raceName": "2026-09-22 茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM65",
+  "updatedAt": "2026-09-22T14:22:35.982Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-000-1492",
+      "name": "増田 謙一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 889.6,
+          "cumulativeTimeSec": 889.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 866.8,
+          "cumulativeTimeSec": 1756.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCT-000-1101",
+      "name": "三谷 長生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 931.5,
+          "cumulativeTimeSec": 931.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 946.1,
+          "cumulativeTimeSec": 1877.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-178-0036",
+      "name": "長 裕",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 949.2,
+          "cumulativeTimeSec": 949.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 985,
+          "cumulativeTimeSec": 1934.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

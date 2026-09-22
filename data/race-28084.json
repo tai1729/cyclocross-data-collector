@@ -1,0 +1,172 @@
+{
+  "raceId": "28084",
+  "raceName": "2026-09-22 茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM1",
+  "updatedAt": "2026-09-22T14:22:37.697Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0002",
+      "name": "江下 健太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 738.8,
+          "cumulativeTimeSec": 738.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 811,
+          "cumulativeTimeSec": 1549.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 786.5,
+          "cumulativeTimeSec": 2336.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0055",
+      "name": "守屋 寿人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 765.1,
+          "cumulativeTimeSec": 765.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 778.3,
+          "cumulativeTimeSec": 1543.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 828.2,
+          "cumulativeTimeSec": 2371.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0112",
+      "name": "賀来 成能",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 743.2,
+          "cumulativeTimeSec": 743.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 854.5,
+          "cumulativeTimeSec": 1597.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 863.4,
+          "cumulativeTimeSec": 2461.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0020",
+      "name": "阿部 一人",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 827.5,
+          "cumulativeTimeSec": 827.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 874.8,
+          "cumulativeTimeSec": 1702.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 832.7,
+          "cumulativeTimeSec": 2535,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2885",
+      "name": "嘉数 昇太郎",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 865.6,
+          "cumulativeTimeSec": 865.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 981.4,
+          "cumulativeTimeSec": 1847,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 936.4,
+          "cumulativeTimeSec": 2783.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0061",
+      "name": "米山 雅武",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1279.9,
+          "cumulativeTimeSec": 1279.9,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1330.9,
+          "cumulativeTimeSec": 2610.8,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

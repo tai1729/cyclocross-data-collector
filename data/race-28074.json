@@ -1,0 +1,57 @@
+{
+  "raceId": "28074",
+  "raceName": "2026-09-22 茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM50",
+  "updatedAt": "2026-09-22T14:22:34.849Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-7090",
+      "name": "瀬戸 幸正",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 760.4,
+          "cumulativeTimeSec": 760.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 849.7,
+          "cumulativeTimeSec": 1610.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-3013",
+      "name": "渡辺 和志",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 826.1,
+          "cumulativeTimeSec": 826.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 986.6,
+          "cumulativeTimeSec": 1812.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
