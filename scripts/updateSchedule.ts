@@ -26,8 +26,23 @@ function parseCalendarDate(text: string): string | null {
   return `${year}-${month.padStart(2, "0")}-${day.padStart(2, "0")}`;
 }
 
+function getNextCalendarDay(raceDay: string): string {
+  const date = new Date(`${raceDay}T00:00:00Z`);
+  if (Number.isNaN(date.getTime())) {
+    throw new Error(`開催日の形式が不正です: ${raceDay}`);
+  }
+  date.setUTCDate(date.getUTCDate() + 1);
+  return date.toISOString().slice(0, 10);
+}
+
+export function getCollectionDays(raceDays: string[]): string[] {
+  return [
+    ...new Set(raceDays.flatMap((raceDay) => [raceDay, getNextCalendarDay(raceDay)])),
+  ].sort();
+}
+
 export function buildScheduleLines(raceDays: string[]): string[] {
-  return raceDays.map((raceDay) => {
+  return getCollectionDays(raceDays).map((raceDay) => {
     const [, month, day] = raceDay.split("-");
     return `    - cron: "${SCHEDULE_MINUTE} 9-23 ${Number(day)} ${Number(month)} *"\n      timezone: "Asia/Tokyo" # ${raceDay} JST`;
   });
