@@ -2,6 +2,32 @@
   "raceId": "28136",
   "raceName": "2026-09-23 2026-27もみじシクロクロス第２戦（もみじシクロクロス）",
   "category": "CK3",
-  "updatedAt": "2026-09-23T18:01:03.098Z",
-  "riders": []
+  "updatedAt": "2026-09-23T19:01:04.684Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0288",
+      "name": "奥西 楓太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 300,
+          "cumulativeTimeSec": 300,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 300,
+          "cumulativeTimeSec": 600,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

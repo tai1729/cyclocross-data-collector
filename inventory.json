@@ -5,10 +5,10 @@
     "seasons": 4,
     "events": 208,
     "races": 3445,
-    "resultRowsAvailable": 57363,
-    "lapEnabledRaces": 3322,
+    "resultRowsAvailable": 57370,
+    "lapEnabledRaces": 3326,
     "resultOnlyRaces": 47,
-    "unavailableRaces": 76,
+    "unavailableRaces": 72,
     "indexedRiders": 5709
   },
   "events": [
@@ -71,10 +71,10 @@
           "raceId": "28142",
           "name": "WE1",
           "order": 4,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 16
         },
         {
           "raceId": "28134",
@@ -119,28 +119,28 @@
           "raceId": "28136",
           "name": "CK3",
           "order": 9,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 2
         },
         {
           "raceId": "28137",
           "name": "CK2",
           "order": 10,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 4
         },
         {
           "raceId": "28138",
           "name": "CK1",
           "order": 11,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 2
         }
       ]
     },
