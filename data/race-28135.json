@@ -2,6 +2,46 @@
   "raceId": "28135",
   "raceName": "2026-09-23 2026-27もみじシクロクロス第２戦（もみじシクロクロス）",
   "category": "MU17",
-  "updatedAt": "2026-09-23T13:01:02.320Z",
-  "riders": []
+  "updatedAt": "2026-09-23T14:01:05.371Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0247",
+      "name": "林 展一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 375.5,
+          "cumulativeTimeSec": 375.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 382.4,
+          "cumulativeTimeSec": 757.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 449,
+          "cumulativeTimeSec": 1206.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 316.1,
+          "cumulativeTimeSec": 1523,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

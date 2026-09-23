@@ -2,6 +2,106 @@
   "raceId": "28133",
   "raceName": "2026-09-23 2026-27もみじシクロクロス第２戦（もみじシクロクロス）",
   "category": "MU15",
-  "updatedAt": "2026-09-23T13:01:02.152Z",
-  "riders": []
+  "updatedAt": "2026-09-23T14:01:05.310Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-201-0004",
+      "name": "宮本 響斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 434.5,
+          "cumulativeTimeSec": 434.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 397.2,
+          "cumulativeTimeSec": 831.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 439,
+          "cumulativeTimeSec": 1270.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 434.4,
+          "cumulativeTimeSec": 1705.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0322",
+      "name": "松井 獅夢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 430.3,
+          "cumulativeTimeSec": 430.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 830.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 450.8,
+          "cumulativeTimeSec": 1281.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 599.5,
+          "cumulativeTimeSec": 1880.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-267-3002",
+      "name": "美甘 陸人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 547.6,
+          "cumulativeTimeSec": 547.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 544.1,
+          "cumulativeTimeSec": 1091.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 598,
+          "cumulativeTimeSec": 1689.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

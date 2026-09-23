@@ -2,6 +2,73 @@
   "raceId": "28134",
   "raceName": "2026-09-23 2026-27もみじシクロクロス第２戦（もみじシクロクロス）",
   "category": "WE2",
-  "updatedAt": "2026-09-23T13:01:02.245Z",
-  "riders": []
+  "updatedAt": "2026-09-23T14:01:05.288Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4643",
+      "name": "美並 聡子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 479.3,
+          "cumulativeTimeSec": 479.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 524.4,
+          "cumulativeTimeSec": 1003.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 516.9,
+          "cumulativeTimeSec": 1520.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 504.2,
+          "cumulativeTimeSec": 2024.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4605",
+      "name": "山脇 輝枝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 536.5,
+          "cumulativeTimeSec": 536.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 518.6,
+          "cumulativeTimeSec": 1055.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 553.5,
+          "cumulativeTimeSec": 1608.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

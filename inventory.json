@@ -5,11 +5,11 @@
     "seasons": 4,
     "events": 208,
     "races": 3445,
-    "resultRowsAvailable": 57306,
-    "lapEnabledRaces": 3315,
+    "resultRowsAvailable": 57363,
+    "lapEnabledRaces": 3322,
     "resultOnlyRaces": 47,
-    "unavailableRaces": 83,
-    "indexedRiders": 5708
+    "unavailableRaces": 76,
+    "indexedRiders": 5709
   },
   "events": [
     {
@@ -35,28 +35,37 @@
           "raceId": "28139",
           "name": "ME1",
           "order": 1,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 13,
+          "lapRecords": 118,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
         },
         {
           "raceId": "28141",
           "name": "ME2",
           "order": 2,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 7,
+          "lapRecords": 41,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
         },
         {
           "raceId": "28132",
           "name": "ME3+4",
           "order": 3,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 12,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
         },
         {
           "raceId": "28142",
@@ -71,37 +80,40 @@
           "raceId": "28134",
           "name": "WE2",
           "order": 5,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 7
         },
         {
           "raceId": "28140",
           "name": "MM1",
           "order": 6,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 28,
+          "lapRecords": 166,
+          "excludedRowsByStatus": {
+            "DNS": 4
+          }
         },
         {
           "raceId": "28135",
           "name": "MU17",
           "order": 7,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 4
         },
         {
           "raceId": "28133",
           "name": "MU15",
           "order": 8,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 11
         },
         {
           "raceId": "28136",
