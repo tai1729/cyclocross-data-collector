@@ -3,6 +3,50 @@ import { pathToFileURL } from "node:url";
 import { RACE_DAYS_JSON_PATH, writeJson } from "../lib/raceConfig.js";
 
 const CALENDAR_URL = "https://www.cyclocross.jp/calendar/";
+const MAX_CALENDAR_FETCH_ATTEMPTS = 3;
+const CALENDAR_FETCH_RETRY_DELAY_MS = 1_000;
+
+class NonRetryableCalendarHttpError extends Error {}
+
+export async function fetchCalendarHtml(
+  fetchImpl: typeof fetch = fetch,
+  sleep: (delayMs: number) => Promise<void> = (delayMs) =>
+    new Promise((resolve) => setTimeout(resolve, delayMs)),
+  warn: (message: string) => void = (message) => console.warn(message),
+): Promise<string> {
+  for (let attempt = 1; attempt <= MAX_CALENDAR_FETCH_ATTEMPTS; attempt += 1) {
+    try {
+      const res = await fetchImpl(CALENDAR_URL, {
+        headers: { "User-Agent": "cyclocross-data-collector (personal project)" },
+      });
+      if (!res.ok) {
+        const message = `calendar fetch failed: HTTP ${res.status}`;
+        if (res.status !== 429 && res.status < 500) {
+          throw new NonRetryableCalendarHttpError(message);
+        }
+        throw new Error(message);
+      }
+
+      return await res.text();
+    } catch (error) {
+      if (
+        error instanceof NonRetryableCalendarHttpError ||
+        attempt === MAX_CALENDAR_FETCH_ATTEMPTS
+      ) {
+        throw error;
+      }
+
+      const delayMs = CALENDAR_FETCH_RETRY_DELAY_MS * 2 ** (attempt - 1);
+      const message = error instanceof Error ? error.message : String(error);
+      warn(
+        `[WARN] カレンダー取得に失敗しました (${attempt}/${MAX_CALENDAR_FETCH_ATTEMPTS}回目): ${message}。${delayMs}ms後に再試行します。`,
+      );
+      await sleep(delayMs);
+    }
+  }
+
+  throw new Error("calendar fetch failed after retries");
+}
 
 export function parseCalendarDate(text: string): string | null {
   const match = text
@@ -15,14 +59,7 @@ export function parseCalendarDate(text: string): string | null {
 }
 
 async function main() {
-  const res = await fetch(CALENDAR_URL, {
-    headers: { "User-Agent": "cyclocross-data-collector (personal project)" },
-  });
-  if (!res.ok) {
-    throw new Error(`calendar fetch failed: HTTP ${res.status}`);
-  }
-
-  const $ = cheerio.load(await res.text());
+  const $ = cheerio.load(await fetchCalendarHtml());
   const raceDays = [
     ...new Set(
       $(".CL_raceDate")
