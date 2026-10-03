@@ -9,6 +9,7 @@ export interface RaceEntry {
 export interface MeetCategory {
   raceId: string;
   name: string;
+  /** Zero-based display order assigned by the collector's official class priority. */
   order: number;
 }
 

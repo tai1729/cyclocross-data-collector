@@ -3,6 +3,7 @@ import test from "node:test";
 import {
   DiscoveryFailureError,
   assertSeasonResponse,
+  orderCategoriesByOfficialPriority,
   parseMeetCandidates,
   readSeasonOptions,
   resolveSeasonOption,
@@ -53,6 +54,46 @@ test("rejects a selected response whose canonical heading is missing or duplicat
     () => assertSeasonResponse("<h2>2023-24</h2><h2>2023-24</h2>", "2023-24"),
     (error: unknown) => error instanceof DiscoveryFailureError && error.failure.code === "season-response-mismatch",
   );
+});
+
+test("orders recognized classes by official priority and keeps unknown classes stable", () => {
+  const categories: MeetEntry["categories"] = [
+    { raceId: "redirect", name: "MM2+3", order: 0 },
+    { raceId: "unknown-a", name: "Special A", order: 1 },
+    { raceId: "ck1", name: "CK1", order: 2 },
+    { raceId: "me1", name: "ME1", order: 3 },
+    { raceId: "we2", name: "WE2", order: 4 },
+    { raceId: "unknown-b", name: "Special B", order: 5 },
+    { raceId: "me2", name: "ME2", order: 6 },
+    { raceId: "me34", name: "ME3+4", order: 7 },
+    { raceId: "we1", name: "WE1", order: 8 },
+    { raceId: "mm1", name: "MM1", order: 9 },
+    { raceId: "mu17", name: "MU17", order: 10 },
+    { raceId: "mu15", name: "MU15", order: 11 },
+    { raceId: "ck3", name: "CK3", order: 12 },
+    { raceId: "ck2", name: "CK2", order: 13 },
+  ];
+
+  const ordered = orderCategoriesByOfficialPriority(categories);
+
+  assert.deepEqual(ordered.map(({ name }) => name), [
+    "ME1",
+    "ME2",
+    "ME3+4",
+    "WE1",
+    "WE2",
+    "MM1",
+    "MM2+3",
+    "MU17",
+    "MU15",
+    "CK3",
+    "CK2",
+    "CK1",
+    "Special A",
+    "Special B",
+  ]);
+  assert.deepEqual(ordered.map(({ order }) => order), ordered.map((_, index) => index));
+  assert.deepEqual(categories[0], { raceId: "redirect", name: "MM2+3", order: 0 });
 });
 
 test("filters explicit-season candidates by event-date season and records mismatches", () => {

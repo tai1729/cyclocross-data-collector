@@ -5,9 +5,9 @@
     "seasons": 4,
     "events": 208,
     "races": 3445,
-    "resultRowsAvailable": 57370,
-    "lapEnabledRaces": 3326,
-    "resultOnlyRaces": 47,
+    "resultRowsAvailable": 57368,
+    "lapEnabledRaces": 3325,
+    "resultOnlyRaces": 48,
     "unavailableRaces": 72,
     "indexedRiders": 5709
   },
@@ -20,21 +20,9 @@
       "meetName": "2026-27もみじシクロクロス第２戦",
       "categories": [
         {
-          "raceId": "28131",
-          "name": "MM2+3",
-          "order": 0,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 25,
-          "lapRecords": 96,
-          "excludedRowsByStatus": {
-            "DNS": 5
-          }
-        },
-        {
           "raceId": "28139",
           "name": "ME1",
-          "order": 1,
+          "order": 0,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 13,
@@ -44,9 +32,9 @@
           }
         },
         {
-          "raceId": "28141",
+          "raceId": "28145",
           "name": "ME2",
-          "order": 2,
+          "order": 1,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 7,
@@ -58,7 +46,7 @@
         {
           "raceId": "28132",
           "name": "ME3+4",
-          "order": 3,
+          "order": 2,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 3,
@@ -68,33 +56,45 @@
           }
         },
         {
-          "raceId": "28142",
+          "raceId": "28146",
           "name": "WE1",
-          "order": 4,
+          "order": 3,
           "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
+          "lapDataAvailability": "result-only",
           "resultRows": 3,
-          "lapRecords": 16
+          "lapRecords": 0
         },
         {
           "raceId": "28134",
           "name": "WE2",
-          "order": 5,
+          "order": 4,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
           "lapRecords": 7
         },
         {
-          "raceId": "28140",
+          "raceId": "28144",
           "name": "MM1",
-          "order": 6,
+          "order": 5,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 28,
-          "lapRecords": 166,
+          "lapRecords": 164,
           "excludedRowsByStatus": {
             "DNS": 4
+          }
+        },
+        {
+          "raceId": "28131",
+          "name": "MM2+3",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 25,
+          "lapRecords": 96,
+          "excludedRowsByStatus": {
+            "DNS": 5
           }
         },
         {
@@ -152,7 +152,7 @@
       "meetName": "茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ",
       "categories": [
         {
-          "raceId": "28088",
+          "raceId": "28108",
           "name": "ME1",
           "order": 0,
           "resultAvailability": "available",
@@ -164,72 +164,39 @@
           }
         },
         {
-          "raceId": "28085",
+          "raceId": "28105",
           "name": "ME2",
           "order": 1,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 29,
-          "lapRecords": 86,
+          "lapRecords": 87,
           "excludedRowsByStatus": {
             "DNS": 7
           }
         },
         {
-          "raceId": "28082",
-          "name": "ME3",
-          "order": 2,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 29,
-          "lapRecords": 58,
-          "excludedRowsByStatus": {
-            "DNS": 4
-          }
-        },
-        {
-          "raceId": "28080",
-          "name": "ME4",
-          "order": 3,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 34,
-          "lapRecords": 65,
-          "excludedRowsByStatus": {
-            "DNS": 6
-          }
-        },
-        {
-          "raceId": "28086",
+          "raceId": "28106",
           "name": "WE1",
-          "order": 4,
+          "order": 2,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 5,
           "lapRecords": 12
         },
         {
-          "raceId": "28072",
+          "raceId": "28092",
           "name": "WE2",
-          "order": 5,
+          "order": 3,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
           "lapRecords": 4
         },
         {
-          "raceId": "28073",
-          "name": "WE3",
-          "order": 6,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 2,
-          "lapRecords": 4
-        },
-        {
-          "raceId": "28084",
+          "raceId": "28104",
           "name": "MM1",
-          "order": 7,
+          "order": 4,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 6,
@@ -239,27 +206,78 @@
           }
         },
         {
-          "raceId": "28069",
-          "name": "MM35",
+          "raceId": "28101",
+          "name": "MU17",
+          "order": 5,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 6
+        },
+        {
+          "raceId": "28099",
+          "name": "MU15",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 8
+        },
+        {
+          "raceId": "28102",
+          "name": "ME3",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 29,
+          "lapRecords": 58,
+          "excludedRowsByStatus": {
+            "DNS": 4
+          }
+        },
+        {
+          "raceId": "28100",
+          "name": "ME4",
           "order": 8,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 34,
+          "lapRecords": 65,
+          "excludedRowsByStatus": {
+            "DNS": 6
+          }
+        },
+        {
+          "raceId": "28093",
+          "name": "WE3",
+          "order": 9,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 4
+        },
+        {
+          "raceId": "28089",
+          "name": "MM35",
+          "order": 10,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
           "lapRecords": 2
         },
         {
-          "raceId": "28070",
+          "raceId": "28090",
           "name": "MM45",
-          "order": 9,
+          "order": 11,
           "resultAvailability": "unavailable",
           "lapDataAvailability": "unavailable",
           "resultRows": 0,
           "lapRecords": 0
         },
         {
-          "raceId": "28074",
+          "raceId": "28094",
           "name": "MM50",
-          "order": 10,
+          "order": 12,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
@@ -269,9 +287,9 @@
           }
         },
         {
-          "raceId": "28075",
+          "raceId": "28095",
           "name": "MM55",
-          "order": 11,
+          "order": 13,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 8,
@@ -281,18 +299,18 @@
           }
         },
         {
-          "raceId": "28076",
+          "raceId": "28096",
           "name": "MM60",
-          "order": 12,
+          "order": 14,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 5,
           "lapRecords": 8
         },
         {
-          "raceId": "28077",
+          "raceId": "28097",
           "name": "MM65",
-          "order": 13,
+          "order": 15,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 3,
@@ -302,9 +320,9 @@
           }
         },
         {
-          "raceId": "28078",
+          "raceId": "28098",
           "name": "WM",
-          "order": 14,
+          "order": 16,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 4,
@@ -314,49 +332,31 @@
           }
         },
         {
-          "raceId": "28083",
+          "raceId": "28103",
           "name": "MJ",
-          "order": 15,
+          "order": 17,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
           "lapRecords": 3
         },
         {
-          "raceId": "28087",
+          "raceId": "28107",
           "name": "WJ",
-          "order": 16,
+          "order": 18,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
           "lapRecords": 6
         },
         {
-          "raceId": "28081",
-          "name": "MU17",
-          "order": 17,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 3,
-          "lapRecords": 6
-        },
-        {
-          "raceId": "28071",
+          "raceId": "28091",
           "name": "WU17",
-          "order": 18,
+          "order": 19,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
           "lapRecords": 2
-        },
-        {
-          "raceId": "28079",
-          "name": "MU15",
-          "order": 19,
-          "resultAvailability": "available",
-          "lapDataAvailability": "enabled",
-          "resultRows": 4,
-          "lapRecords": 8
         }
       ]
     },
@@ -368,13 +368,13 @@
       "meetName": "2026-27もみじシクロクロス第１戦",
       "categories": [
         {
-          "raceId": "27933",
+          "raceId": "28143",
           "name": "ME1",
           "order": 0,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 21,
-          "lapRecords": 149
+          "resultRows": 19,
+          "lapRecords": 148
         },
         {
           "raceId": "27935",
@@ -440,18 +440,9 @@
           }
         },
         {
-          "raceId": "27926",
-          "name": "MJ",
-          "order": 7,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
-        },
-        {
           "raceId": "27927",
           "name": "MU17",
-          "order": 8,
+          "order": 7,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
@@ -460,7 +451,7 @@
         {
           "raceId": "27928",
           "name": "MU15",
-          "order": 9,
+          "order": 8,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
@@ -469,7 +460,7 @@
         {
           "raceId": "27930",
           "name": "CK3",
-          "order": 10,
+          "order": 9,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
@@ -478,7 +469,7 @@
         {
           "raceId": "27931",
           "name": "CK2",
-          "order": 11,
+          "order": 10,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
@@ -487,11 +478,20 @@
         {
           "raceId": "27932",
           "name": "CK1",
-          "order": 12,
+          "order": 11,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
           "lapRecords": 2
+        },
+        {
+          "raceId": "27926",
+          "name": "MJ",
+          "order": 12,
+          "resultAvailability": "unavailable",
+          "lapDataAvailability": "unavailable",
+          "resultRows": 0,
+          "lapRecords": 0
         }
       ]
     },

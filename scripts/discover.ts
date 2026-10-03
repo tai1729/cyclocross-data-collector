@@ -27,6 +27,23 @@ import { writeSiteMetadata } from "../lib/siteMetadata.js";
 export const MEET_LIST_URL = "https://data.cyclocross.jp/meet";
 const MAX_CONCURRENCY = 5;
 const DISCOVERY_WINDOW_DAYS = 60;
+const OFFICIAL_CATEGORY_PRIORITY = [
+  "ME1",
+  "ME2",
+  "ME3+4",
+  "WE1",
+  "WE2",
+  "MM1",
+  "MM2+3",
+  "MU17",
+  "MU15",
+  "CK3",
+  "CK2",
+  "CK1",
+] as const;
+const OFFICIAL_CATEGORY_PRIORITY_INDEX = new Map<string, number>(
+  OFFICIAL_CATEGORY_PRIORITY.map((name, index) => [name, index]),
+);
 
 export interface MeetCandidate {
   meetId: string;
@@ -64,6 +81,25 @@ function parseDate(text: string): string | null {
 function extractRaceId(url: string): string | null {
   const match = url.match(/\/race\/(\d+)/);
   return match ? match[1] : null;
+}
+
+export function orderCategoriesByOfficialPriority(
+  categories: MeetEntry["categories"],
+): MeetEntry["categories"] {
+  return categories
+    .map((category, sourceIndex) => ({ category, sourceIndex }))
+    .sort((left, right) => {
+      const leftPriority = OFFICIAL_CATEGORY_PRIORITY_INDEX.get(left.category.name.trim());
+      const rightPriority = OFFICIAL_CATEGORY_PRIORITY_INDEX.get(right.category.name.trim());
+
+      if (leftPriority !== undefined && rightPriority !== undefined) {
+        return leftPriority - rightPriority || left.sourceIndex - right.sourceIndex;
+      }
+      if (leftPriority !== undefined) return -1;
+      if (rightPriority !== undefined) return 1;
+      return left.sourceIndex - right.sourceIndex;
+    })
+    .map(({ category }, order) => ({ ...category, order }));
 }
 
 function extractMeetId(url: string): string | null {
@@ -256,7 +292,7 @@ async function findMeetEntry(candidate: MeetCandidate, requestedSeason: string |
     meetDate: candidate.meetDate,
     series: candidate.series,
     meetName: candidate.meetName,
-    categories,
+    categories: orderCategoriesByOfficialPriority(categories),
   };
 }
 
