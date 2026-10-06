@@ -29,6 +29,7 @@ test token only when testing the dispatch path locally.
 
 The Cron expression is `0 * * * *` UTC, which invokes the Worker once per hour
 and covers every JST hour. The Worker checks `race_days.json` at runtime and
-adds the following calendar day before deciding whether to dispatch. On
-non-covered dates it only logs a skip; on a covered date it dispatches the
-collector workflow for that hour.
+adds the next two calendar days to each official race date. It dispatches on
+the race date and both following dates, with overlapping date windows
+deduplicated. On non-covered dates it only logs a skip; on a covered date it
+dispatches the collector workflow for that hour.

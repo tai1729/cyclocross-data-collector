@@ -23,8 +23,12 @@ export function parseIsoDate(value) {
 }
 
 export function getNextCalendarDay(value) {
+  return addCalendarDays(value, 1);
+}
+
+function addCalendarDays(value, days) {
   const date = new Date(`${parseIsoDate(value)}T00:00:00.000Z`);
-  date.setUTCDate(date.getUTCDate() + 1);
+  date.setUTCDate(date.getUTCDate() + days);
   return date.toISOString().slice(0, 10);
 }
 
@@ -37,7 +41,8 @@ export function buildCollectionDays(raceDays) {
   return [
     ...new Set([
       ...normalized,
-      ...normalized.map(getNextCalendarDay),
+      ...normalized.map((value) => addCalendarDays(value, 1)),
+      ...normalized.map((value) => addCalendarDays(value, 2)),
     ]),
   ].sort();
 }

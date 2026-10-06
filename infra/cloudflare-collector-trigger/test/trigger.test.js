@@ -47,8 +47,21 @@ test("formats scheduled time in JST", () => {
   assert.equal(formatJstSlot(TARGET_TIME), "2026-09-22T09:00+09:00");
 });
 
-test("covers race day and the following calendar day", () => {
-  assert.deepEqual(buildCollectionDays(["2026-09-21"]), ["2026-09-21", "2026-09-22"]);
+test("covers race day and the following two calendar days", () => {
+  assert.deepEqual(buildCollectionDays(["2026-09-21"]), [
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+  ]);
+});
+
+test("deduplicates overlapping race-date windows", () => {
+  assert.deepEqual(buildCollectionDays(["2026-09-21", "2026-09-22"]), [
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+  ]);
 });
 
 test("skips a non-covered date without calling GitHub", async () => {
@@ -100,6 +113,42 @@ test("dispatches a covered date after the recent-run check", async () => {
   assert.equal(calls[2].options.headers.Authorization, "Bearer secret-token");
   assert.equal(calls[2].options.headers["User-Agent"], "cyclocross-data-collector-trigger");
   assert.equal(calls[2].options.body, JSON.stringify({ ref: "main" }));
+});
+
+test("dispatches on the second calendar day after a race", async () => {
+  const { calls, fetchImpl } = makeFetch([
+    response(["2026-09-20"]),
+    response({ workflow_runs: [] }),
+    response(null, 204),
+  ]);
+
+  const result = await runScheduledCollection({
+    scheduledTime: TARGET_TIME,
+    observedAtMs: TARGET_TIME + 60_000,
+    env: BASE_ENV,
+    fetchImpl,
+    logger: logger(),
+  });
+
+  assert.equal(result.action, "dispatch");
+  assert.equal(result.jstDate, "2026-09-22");
+  assert.equal(calls.length, 3);
+});
+
+test("skips the third calendar day after a race", async () => {
+  const thirdCalendarDay = Date.parse("2026-09-23T00:00:00.000Z");
+  const { calls, fetchImpl } = makeFetch([response(["2026-09-20"])]);
+
+  const result = await runScheduledCollection({
+    scheduledTime: thirdCalendarDay,
+    env: { ...BASE_ENV, DISPATCH_ENABLED: "false" },
+    fetchImpl,
+    logger: logger(),
+  });
+
+  assert.equal(result.action, "skip");
+  assert.equal(result.jstDate, "2026-09-23");
+  assert.equal(calls.length, 1);
 });
 
 test("deduplicates a recent workflow dispatch", async () => {
