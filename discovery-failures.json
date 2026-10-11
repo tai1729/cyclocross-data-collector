@@ -150,11 +150,27 @@
   {
     "stage": "meet",
     "code": "categories-missing",
+    "message": "event CCM-267-001 did not expose any race categories",
+    "meetId": "CCM-267-001",
+    "meetDate": "2026-10-11",
+    "season": "2026-27"
+  },
+  {
+    "stage": "meet",
+    "code": "categories-missing",
     "message": "event CXK-267-001 did not expose any race categories",
     "meetId": "CXK-267-001",
     "meetDate": "2026-09-21",
     "season": "2026-27",
     "sourceSeasonValue": "17"
+  },
+  {
+    "stage": "meet",
+    "code": "categories-missing",
+    "message": "event CXK-267-001 did not expose any race categories",
+    "meetId": "CXK-267-001",
+    "meetDate": "2026-09-21",
+    "season": "2026-27"
   },
   {
     "stage": "meet",
@@ -1156,6 +1172,14 @@
     "meetDate": "2025-09-21",
     "season": "2025-26",
     "sourceSeasonValue": "16"
+  },
+  {
+    "stage": "meet",
+    "code": "categories-missing",
+    "message": "event MMJ-267-003 did not expose any race categories",
+    "meetId": "MMJ-267-003",
+    "meetDate": "2026-10-11",
+    "season": "2026-27"
   },
   {
     "stage": "meet",
