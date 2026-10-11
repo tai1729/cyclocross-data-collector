@@ -1,0 +1,40 @@
+{
+  "raceId": "28423",
+  "raceName": "2026-10-11 シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-10-11T10:01:30.914Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0180",
+      "name": "松邨 一樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 201.1,
+          "cumulativeTimeSec": 201.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 239,
+          "cumulativeTimeSec": 440.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 236.4,
+          "cumulativeTimeSec": 676.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
