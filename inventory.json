@@ -3,15 +3,144 @@
   "source": "https://data.cyclocross.jp",
   "counts": {
     "seasons": 4,
-    "events": 209,
-    "races": 3471,
-    "resultRowsAvailable": 57839,
-    "lapEnabledRaces": 3349,
-    "resultOnlyRaces": 48,
-    "unavailableRaces": 74,
-    "indexedRiders": 5735
+    "events": 210,
+    "races": 3484,
+    "resultRowsAvailable": 57940,
+    "lapEnabledRaces": 3357,
+    "resultOnlyRaces": 52,
+    "unavailableRaces": 75,
+    "indexedRiders": 5740
   },
   "events": [
+    {
+      "meetId": "MMJ-267-003",
+      "season": "2026-27",
+      "meetDate": "2026-10-11",
+      "series": "もみじ",
+      "meetName": "2026-27もみじシクロクロス第3戦",
+      "categories": [
+        {
+          "raceId": "28318",
+          "name": "ME1",
+          "order": 0,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 10,
+          "lapRecords": 115
+        },
+        {
+          "raceId": "28320",
+          "name": "ME2",
+          "order": 1,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 7,
+          "lapRecords": 54,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28310",
+          "name": "ME3+4",
+          "order": 2,
+          "resultAvailability": "available",
+          "lapDataAvailability": "result-only",
+          "resultRows": 11,
+          "lapRecords": 0
+        },
+        {
+          "raceId": "28321",
+          "name": "WE1",
+          "order": 3,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 29
+        },
+        {
+          "raceId": "28319",
+          "name": "MM1",
+          "order": 4,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 28,
+          "lapRecords": 212
+        },
+        {
+          "raceId": "28309",
+          "name": "MM2+3",
+          "order": 5,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 27,
+          "lapRecords": 122
+        },
+        {
+          "raceId": "28311",
+          "name": "MU17",
+          "order": 6,
+          "resultAvailability": "unavailable",
+          "lapDataAvailability": "unavailable",
+          "resultRows": 0,
+          "lapRecords": 0
+        },
+        {
+          "raceId": "28312",
+          "name": "MU15",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "result-only",
+          "resultRows": 3,
+          "lapRecords": 0
+        },
+        {
+          "raceId": "28315",
+          "name": "CK3",
+          "order": 8,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 12
+        },
+        {
+          "raceId": "28316",
+          "name": "CK2",
+          "order": 9,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 11
+        },
+        {
+          "raceId": "28317",
+          "name": "CK1",
+          "order": 10,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 4
+        },
+        {
+          "raceId": "28313",
+          "name": "WE2+3",
+          "order": 11,
+          "resultAvailability": "available",
+          "lapDataAvailability": "result-only",
+          "resultRows": 5,
+          "lapRecords": 0
+        },
+        {
+          "raceId": "28314",
+          "name": "MJ",
+          "order": 12,
+          "resultAvailability": "available",
+          "lapDataAvailability": "result-only",
+          "resultRows": 1,
+          "lapRecords": 0
+        }
+      ]
+    },
     {
       "meetId": "CXK-267-003",
       "season": "2026-27",
