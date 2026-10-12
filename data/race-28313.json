@@ -2,7 +2,7 @@
   "raceId": "28313",
   "raceName": "2026-10-11 2026-27もみじシクロクロス第3戦（もみじシクロクロス）",
   "category": "WE2+3",
-  "updatedAt": "2026-10-12T08:01:14.039Z",
+  "updatedAt": "2026-10-12T09:01:15.383Z",
   "raceLapNumbers": [
     1,
     2,
@@ -16,7 +16,38 @@
       "name": "小林 綾子",
       "finalPosition": 1,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416,
+          "cumulativeTimeSec": 416,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 383,
+          "cumulativeTimeSec": 799,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 380.9,
+          "cumulativeTimeSec": 1179.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 384.8,
+          "cumulativeTimeSec": 1564.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 385.1,
+          "cumulativeTimeSec": 1949.8,
+          "rankAtLap": 1
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -24,7 +55,38 @@
       "name": "山脇 輝枝",
       "finalPosition": 2,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.2,
+          "cumulativeTimeSec": 389.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.7,
+          "cumulativeTimeSec": 779.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 392.3,
+          "cumulativeTimeSec": 1172.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 393.8,
+          "cumulativeTimeSec": 1566,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 399.9,
+          "cumulativeTimeSec": 1965.9,
+          "rankAtLap": 2
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -32,7 +94,38 @@
       "name": "福田 順子",
       "finalPosition": 3,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 402,
+          "cumulativeTimeSec": 402,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 384.2,
+          "cumulativeTimeSec": 786.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 398.8,
+          "cumulativeTimeSec": 1185,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 431.8,
+          "cumulativeTimeSec": 1616.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 452.9,
+          "cumulativeTimeSec": 2069.7,
+          "rankAtLap": 3
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -40,7 +133,38 @@
       "name": "守屋 智子",
       "finalPosition": 4,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 473.7,
+          "cumulativeTimeSec": 473.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 436.4,
+          "cumulativeTimeSec": 910.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 428.9,
+          "cumulativeTimeSec": 1339,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 416.7,
+          "cumulativeTimeSec": 1755.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 408,
+          "cumulativeTimeSec": 2163.7,
+          "rankAtLap": 4
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -48,7 +172,32 @@
       "name": "安藤 亜耶",
       "finalPosition": 5,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.2,
+          "cumulativeTimeSec": 520.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 543.4,
+          "cumulativeTimeSec": 1063.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 587.5,
+          "cumulativeTimeSec": 1651.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 576.4,
+          "cumulativeTimeSec": 2227.5,
+          "rankAtLap": 5
+        }
+      ],
       "dataQuality": "ok"
     }
   ]

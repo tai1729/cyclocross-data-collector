@@ -6,8 +6,8 @@
     "events": 212,
     "races": 3522,
     "resultRowsAvailable": 58336,
-    "lapEnabledRaces": 3395,
-    "resultOnlyRaces": 52,
+    "lapEnabledRaces": 3399,
+    "resultOnlyRaces": 48,
     "unavailableRaces": 75,
     "indexedRiders": 5753
   },
@@ -441,9 +441,9 @@
           "name": "ME3+4",
           "order": 2,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 11,
-          "lapRecords": 0
+          "lapRecords": 53
         },
         {
           "raceId": "28321",
@@ -470,7 +470,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 27,
-          "lapRecords": 122
+          "lapRecords": 150
         },
         {
           "raceId": "28311",
@@ -486,9 +486,9 @@
           "name": "MU15",
           "order": 7,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 3,
-          "lapRecords": 0
+          "lapRecords": 16
         },
         {
           "raceId": "28315",
@@ -522,18 +522,18 @@
           "name": "WE2+3",
           "order": 11,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 5,
-          "lapRecords": 0
+          "lapRecords": 24
         },
         {
           "raceId": "28314",
           "name": "MJ",
           "order": 12,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 1,
-          "lapRecords": 0
+          "lapRecords": 6
         }
       ]
     },

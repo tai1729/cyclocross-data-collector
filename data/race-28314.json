@@ -2,7 +2,7 @@
   "raceId": "28314",
   "raceName": "2026-10-11 2026-27もみじシクロクロス第3戦（もみじシクロクロス）",
   "category": "MJ",
-  "updatedAt": "2026-10-12T08:01:13.981Z",
+  "updatedAt": "2026-10-12T09:01:15.547Z",
   "raceLapNumbers": [
     1,
     2,
@@ -17,7 +17,44 @@
       "name": "前土井 拓海",
       "finalPosition": 1,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 367,
+          "cumulativeTimeSec": 367,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 310.6,
+          "cumulativeTimeSec": 677.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 325.9,
+          "cumulativeTimeSec": 1003.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 349.6,
+          "cumulativeTimeSec": 1353.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 405,
+          "cumulativeTimeSec": 1758.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 351.4,
+          "cumulativeTimeSec": 2109.5,
+          "rankAtLap": 1
+        }
+      ],
       "dataQuality": "ok"
     }
   ]
