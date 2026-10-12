@@ -1,0 +1,130 @@
+{
+  "raceId": "28374",
+  "raceName": "2026-10-12 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-10-12T07:02:29.492Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-234-0040",
+      "name": "馬場 傑",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 391.7,
+          "cumulativeTimeSec": 391.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 341.7,
+          "cumulativeTimeSec": 733.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 340.3,
+          "cumulativeTimeSec": 1073.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-256-0279",
+      "name": "堺 青琉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 421.6,
+          "cumulativeTimeSec": 421.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 365.4,
+          "cumulativeTimeSec": 787,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 367.5,
+          "cumulativeTimeSec": 1154.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-267-0001",
+      "name": "菅原 隼乃介",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 501.7,
+          "cumulativeTimeSec": 501.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.1,
+          "cumulativeTimeSec": 959.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-256-0055",
+      "name": "中川 開晴",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 515.3,
+          "cumulativeTimeSec": 515.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 454.2,
+          "cumulativeTimeSec": 969.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-267-0002",
+      "name": "宮下 俊喜",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.5,
+          "cumulativeTimeSec": 517.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.1,
+          "cumulativeTimeSec": 985.6,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

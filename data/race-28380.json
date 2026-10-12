@@ -1,0 +1,106 @@
+{
+  "raceId": "28380",
+  "raceName": "2026-10-12 湘南シクロクロス 開成大会 GP佐宗（湘南シクロクロス）",
+  "category": "MM40",
+  "updatedAt": "2026-10-12T07:02:31.150Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0094",
+      "name": "白坂 僚",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 439.6,
+          "cumulativeTimeSec": 439.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 411.9,
+          "cumulativeTimeSec": 851.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 423.4,
+          "cumulativeTimeSec": 1274.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 429.9,
+          "cumulativeTimeSec": 1704.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 444.5,
+          "cumulativeTimeSec": 2149.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 484.3,
+          "cumulativeTimeSec": 2633.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0021",
+      "name": "渡邊 真和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 453.1,
+          "cumulativeTimeSec": 453.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 420.8,
+          "cumulativeTimeSec": 873.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.8,
+          "cumulativeTimeSec": 1320.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 474.8,
+          "cumulativeTimeSec": 1795.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 486.1,
+          "cumulativeTimeSec": 2281.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 483.9,
+          "cumulativeTimeSec": 2765.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
