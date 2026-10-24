@@ -1,0 +1,93 @@
+{
+  "raceId": "28504",
+  "raceName": "2026-10-24 シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1（信州クロス）",
+  "category": "MM50",
+  "updatedAt": "2026-10-24T08:01:31.537Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-000-0002",
+      "name": "江下 健太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.8,
+          "cumulativeTimeSec": 350.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 364,
+          "cumulativeTimeSec": 714.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 364.2,
+          "cumulativeTimeSec": 1079,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 370.6,
+          "cumulativeTimeSec": 1449.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 382.7,
+          "cumulativeTimeSec": 1832.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-9915",
+      "name": "岡田 紀彦",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 355.8,
+          "cumulativeTimeSec": 355.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 362.3,
+          "cumulativeTimeSec": 718.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 371.4,
+          "cumulativeTimeSec": 1089.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 377.3,
+          "cumulativeTimeSec": 1466.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 381.2,
+          "cumulativeTimeSec": 1848,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

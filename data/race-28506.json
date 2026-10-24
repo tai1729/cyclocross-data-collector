@@ -1,0 +1,83 @@
+{
+  "raceId": "28506",
+  "raceName": "2026-10-24 シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1（信州クロス）",
+  "category": "MM60",
+  "updatedAt": "2026-10-24T08:01:32.178Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-0511",
+      "name": "泉 一成",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 414.3,
+          "cumulativeTimeSec": 414.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 450.2,
+          "cumulativeTimeSec": 864.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 455.4,
+          "cumulativeTimeSec": 1319.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 451.7,
+          "cumulativeTimeSec": 1771.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0829",
+      "name": "伴 肇",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.7,
+          "cumulativeTimeSec": 416.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 467.9,
+          "cumulativeTimeSec": 884.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 476.9,
+          "cumulativeTimeSec": 1361.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 481.2,
+          "cumulativeTimeSec": 1842.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
