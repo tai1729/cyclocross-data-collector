@@ -1,0 +1,124 @@
+{
+  "raceId": "28575",
+  "raceName": "2026-10-25 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-10-25T08:01:45.870Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-2154",
+      "name": "大河内 二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 388.3,
+          "cumulativeTimeSec": 388.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.9,
+          "cumulativeTimeSec": 765.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 386.2,
+          "cumulativeTimeSec": 1151.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0221",
+      "name": "角屋 良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 368.5,
+          "cumulativeTimeSec": 368.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 418.1,
+          "cumulativeTimeSec": 786.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.3,
+          "cumulativeTimeSec": 1200.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-1099",
+      "name": "坂田 秀貴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 382.1,
+          "cumulativeTimeSec": 382.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 425.4,
+          "cumulativeTimeSec": 807.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 443.3,
+          "cumulativeTimeSec": 1250.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0539",
+      "name": "角屋 裕",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.1,
+          "cumulativeTimeSec": 461.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 556.3,
+          "cumulativeTimeSec": 1017.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.4,
+          "cumulativeTimeSec": 1541.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

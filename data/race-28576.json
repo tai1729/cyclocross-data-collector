@@ -1,0 +1,151 @@
+{
+  "raceId": "28576",
+  "raceName": "2026-10-25 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "A65-69",
+  "updatedAt": "2026-10-25T08:01:46.880Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-256-0063",
+      "name": "直江 敦司",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 396.6,
+          "cumulativeTimeSec": 396.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.6,
+          "cumulativeTimeSec": 800.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 403.2,
+          "cumulativeTimeSec": 1203.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0153",
+      "name": "坪井 修一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 403.4,
+          "cumulativeTimeSec": 403.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412,
+          "cumulativeTimeSec": 815.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 407.8,
+          "cumulativeTimeSec": 1223.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0557",
+      "name": "杜若 治彦",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 393.9,
+          "cumulativeTimeSec": 393.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403,
+          "cumulativeTimeSec": 796.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 441.1,
+          "cumulativeTimeSec": 1238,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4185",
+      "name": "中尾 健一",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 411.1,
+          "cumulativeTimeSec": 411.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 427.6,
+          "cumulativeTimeSec": 838.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 451,
+          "cumulativeTimeSec": 1289.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-267-0027",
+      "name": "北村 宗徳",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 491.3,
+          "cumulativeTimeSec": 491.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 559.4,
+          "cumulativeTimeSec": 1050.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 518.6,
+          "cumulativeTimeSec": 1569.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

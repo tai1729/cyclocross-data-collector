@@ -1,0 +1,142 @@
+{
+  "raceId": "28568",
+  "raceName": "2026-10-25 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-10-25T08:01:44.388Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-189-0279",
+      "name": "佐藤 那音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1108.3,
+          "cumulativeTimeSec": 1108.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 573.3,
+          "cumulativeTimeSec": 1681.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0022",
+      "name": "上中 隼斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1172.6,
+          "cumulativeTimeSec": 1172.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 627.8,
+          "cumulativeTimeSec": 1800.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0224",
+      "name": "塚本 一稀",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1303.3,
+          "cumulativeTimeSec": 1303.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 713.7,
+          "cumulativeTimeSec": 2017,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0074",
+      "name": "守屋 和明",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1354.5,
+          "cumulativeTimeSec": 1354.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 735.3,
+          "cumulativeTimeSec": 2089.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0120",
+      "name": "室 倖弥",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1473.8,
+          "cumulativeTimeSec": 1473.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 837.1,
+          "cumulativeTimeSec": 2310.9,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0138",
+      "name": "大河原 瑛翔",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1530.9,
+          "cumulativeTimeSec": 1530.9,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 827.6,
+          "cumulativeTimeSec": 2358.5,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

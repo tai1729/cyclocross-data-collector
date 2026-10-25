@@ -3,15 +3,486 @@
   "source": "https://data.cyclocross.jp",
   "counts": {
     "seasons": 4,
-    "events": 214,
-    "races": 3553,
-    "resultRowsAvailable": 58630,
-    "lapEnabledRaces": 3429,
-    "resultOnlyRaces": 49,
-    "unavailableRaces": 75,
-    "indexedRiders": 5767
+    "events": 216,
+    "races": 3594,
+    "resultRowsAvailable": 59392,
+    "lapEnabledRaces": 3468,
+    "resultOnlyRaces": 50,
+    "unavailableRaces": 76,
+    "indexedRiders": 5816
   },
   "events": [
+    {
+      "meetId": "CCM-267-003",
+      "season": "2026-27",
+      "meetDate": "2026-10-25",
+      "series": "信州",
+      "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
+      "categories": [
+        {
+          "raceId": "28558",
+          "name": "ME1",
+          "order": 0,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 36,
+          "lapRecords": 300,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
+        },
+        {
+          "raceId": "28556",
+          "name": "ME2",
+          "order": 1,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 21,
+          "lapRecords": 122,
+          "excludedRowsByStatus": {
+            "DNS": 5
+          }
+        },
+        {
+          "raceId": "28555",
+          "name": "WE1",
+          "order": 2,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 11
+        },
+        {
+          "raceId": "28547",
+          "name": "WE2",
+          "order": 3,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 4
+        },
+        {
+          "raceId": "28549",
+          "name": "MU17",
+          "order": 4,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 4
+        },
+        {
+          "raceId": "28561",
+          "name": "CK2",
+          "order": 5,
+          "resultAvailability": "unavailable",
+          "lapDataAvailability": "unavailable",
+          "resultRows": 0,
+          "lapRecords": 0,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28560",
+          "name": "CK1",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "result-only",
+          "resultRows": 2,
+          "lapRecords": 0,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28548",
+          "name": "ME3",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 11,
+          "lapRecords": 43,
+          "excludedRowsByStatus": {
+            "DNS": 4
+          }
+        },
+        {
+          "raceId": "28546",
+          "name": "ME4",
+          "order": 8,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 18,
+          "lapRecords": 68,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28557",
+          "name": "MM40",
+          "order": 9,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 5
+        },
+        {
+          "raceId": "28550",
+          "name": "MM50",
+          "order": 10,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 15,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28551",
+          "name": "MM55",
+          "order": 11,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 6,
+          "lapRecords": 22,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28552",
+          "name": "MM60",
+          "order": 12,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 14
+        },
+        {
+          "raceId": "28553",
+          "name": "MM65",
+          "order": 13,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 7
+        },
+        {
+          "raceId": "28554",
+          "name": "MM70",
+          "order": 14,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 3
+        },
+        {
+          "raceId": "28559",
+          "name": "MJ",
+          "order": 15,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 6
+        }
+      ]
+    },
+    {
+      "meetId": "KNS-267-001",
+      "season": "2026-27",
+      "meetDate": "2026-10-25",
+      "series": "関西",
+      "meetName": "関西シクロクロス 第1戦 桂川",
+      "categories": [
+        {
+          "raceId": "28579",
+          "name": "CK3",
+          "order": 0,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 9,
+          "lapRecords": 22,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28571",
+          "name": "CK2",
+          "order": 1,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 21,
+          "lapRecords": 49,
+          "excludedRowsByStatus": {
+            "DNS": 4
+          }
+        },
+        {
+          "raceId": "28572",
+          "name": "CK1",
+          "order": 2,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 13,
+          "lapRecords": 23,
+          "excludedRowsByStatus": {
+            "DNS": 8
+          }
+        },
+        {
+          "raceId": "28583",
+          "name": "E1",
+          "order": 3,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 73,
+          "lapRecords": 395,
+          "excludedRowsByStatus": {
+            "DNS": 7
+          }
+        },
+        {
+          "raceId": "28586",
+          "name": "E2",
+          "order": 4,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 50,
+          "lapRecords": 192,
+          "excludedRowsByStatus": {
+            "DNS": 13
+          }
+        },
+        {
+          "raceId": "28563",
+          "name": "E3",
+          "order": 5,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 38,
+          "lapRecords": 114,
+          "excludedRowsByStatus": {
+            "DNS": 7
+          }
+        },
+        {
+          "raceId": "28581",
+          "name": "E4",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 38,
+          "lapRecords": 109,
+          "excludedRowsByStatus": {
+            "DNS": 8
+          }
+        },
+        {
+          "raceId": "28584",
+          "name": "W1",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 24,
+          "lapRecords": 83,
+          "excludedRowsByStatus": {
+            "DNS": 7
+          }
+        },
+        {
+          "raceId": "28565",
+          "name": "W2",
+          "order": 8,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 22,
+          "lapRecords": 43,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
+        },
+        {
+          "raceId": "28580",
+          "name": "W3",
+          "order": 9,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 6,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28562",
+          "name": "M1",
+          "order": 10,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 95,
+          "lapRecords": 461,
+          "excludedRowsByStatus": {
+            "DNS": 6
+          }
+        },
+        {
+          "raceId": "28566",
+          "name": "M2",
+          "order": 11,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 114,
+          "lapRecords": 226,
+          "excludedRowsByStatus": {
+            "DNS": 22
+          }
+        },
+        {
+          "raceId": "28564",
+          "name": "M3A",
+          "order": 12,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 77,
+          "lapRecords": 198,
+          "excludedRowsByStatus": {
+            "DNS": 14
+          }
+        },
+        {
+          "raceId": "28582",
+          "name": "M3B",
+          "order": 13,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 35,
+          "lapRecords": 87,
+          "excludedRowsByStatus": {
+            "DNS": 5
+          }
+        },
+        {
+          "raceId": "28574",
+          "name": "M4",
+          "order": 14,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 8,
+          "lapRecords": 23,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28575",
+          "name": "A60-64",
+          "order": 15,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 12,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28576",
+          "name": "A65-69",
+          "order": 16,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 5,
+          "lapRecords": 15,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28577",
+          "name": "A70-74",
+          "order": 17,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 4,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28578",
+          "name": "A75-79",
+          "order": 18,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 2
+        },
+        {
+          "raceId": "28585",
+          "name": "J",
+          "order": 19,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 8
+        },
+        {
+          "raceId": "28568",
+          "name": "U17",
+          "order": 20,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 6,
+          "lapRecords": 12,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28570",
+          "name": "WU17",
+          "order": 21,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 2
+        },
+        {
+          "raceId": "28567",
+          "name": "U15",
+          "order": 22,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 8,
+          "lapRecords": 16
+        },
+        {
+          "raceId": "28569",
+          "name": "WU15",
+          "order": 23,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 1
+        },
+        {
+          "raceId": "28573",
+          "name": "E5",
+          "order": 24,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 1,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        }
+      ]
+    },
     {
       "meetId": "TCX-267-001",
       "season": "2026-27",

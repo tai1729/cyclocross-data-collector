@@ -1,0 +1,134 @@
+{
+  "raceId": "28552",
+  "raceName": "2026-10-25 シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2（信州クロス）",
+  "category": "MM60",
+  "updatedAt": "2026-10-25T08:01:38.903Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-1026",
+      "name": "佐宗 広明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 479,
+          "cumulativeTimeSec": 479,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 490.8,
+          "cumulativeTimeSec": 969.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 503.6,
+          "cumulativeTimeSec": 1473.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 513.9,
+          "cumulativeTimeSec": 1987.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-167-0027",
+      "name": "松本 伸実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 481.3,
+          "cumulativeTimeSec": 481.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.4,
+          "cumulativeTimeSec": 989.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 527.1,
+          "cumulativeTimeSec": 1516.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 526.1,
+          "cumulativeTimeSec": 2042.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MDX-234-0023",
+      "name": "楠田 清徳",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.4,
+          "cumulativeTimeSec": 520.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 542.9,
+          "cumulativeTimeSec": 1063.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 538.2,
+          "cumulativeTimeSec": 1601.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0511",
+      "name": "泉 一成",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.9,
+          "cumulativeTimeSec": 517.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 547.2,
+          "cumulativeTimeSec": 1065.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 567.4,
+          "cumulativeTimeSec": 1632.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

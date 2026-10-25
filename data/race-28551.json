@@ -1,0 +1,203 @@
+{
+  "raceId": "28551",
+  "raceName": "2026-10-25 シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2（信州クロス）",
+  "category": "MM55",
+  "updatedAt": "2026-10-25T08:01:38.866Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-212-0045",
+      "name": "跡部 哲也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 457.7,
+          "cumulativeTimeSec": 457.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 474.7,
+          "cumulativeTimeSec": 932.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 494,
+          "cumulativeTimeSec": 1426.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 484.6,
+          "cumulativeTimeSec": 1911,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7579",
+      "name": "木内 浩",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472.2,
+          "cumulativeTimeSec": 472.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.1,
+          "cumulativeTimeSec": 955.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 484,
+          "cumulativeTimeSec": 1439.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 520.2,
+          "cumulativeTimeSec": 1959.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-6736",
+      "name": "川村 浩二",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 462.2,
+          "cumulativeTimeSec": 462.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 490.1,
+          "cumulativeTimeSec": 952.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 502.9,
+          "cumulativeTimeSec": 1455.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 528.9,
+          "cumulativeTimeSec": 1984.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-6682",
+      "name": "篠永 春彦",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 468.2,
+          "cumulativeTimeSec": 468.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 518.3,
+          "cumulativeTimeSec": 986.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.5,
+          "cumulativeTimeSec": 1498,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 577,
+          "cumulativeTimeSec": 2075,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0099",
+      "name": "佐藤 大輔",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 509.3,
+          "cumulativeTimeSec": 509.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 579.4,
+          "cumulativeTimeSec": 1088.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 561.4,
+          "cumulativeTimeSec": 1650.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0969",
+      "name": "田辺 隆文",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.4,
+          "cumulativeTimeSec": 606.4,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581.2,
+          "cumulativeTimeSec": 1187.6,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 617.8,
+          "cumulativeTimeSec": 1805.4,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

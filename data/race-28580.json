@@ -1,0 +1,78 @@
+{
+  "raceId": "28580",
+  "raceName": "2026-10-25 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "W3",
+  "updatedAt": "2026-10-25T08:01:47.617Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-256-0162",
+      "name": "上中 ゆかり",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 581.7,
+          "cumulativeTimeSec": 581.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 550.6,
+          "cumulativeTimeSec": 1132.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3052",
+      "name": "神谷 みを",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 689.6,
+          "cumulativeTimeSec": 689.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 683.3,
+          "cumulativeTimeSec": 1372.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-267-0028",
+      "name": "松井 優奈",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 720.3,
+          "cumulativeTimeSec": 720.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 728.7,
+          "cumulativeTimeSec": 1449,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

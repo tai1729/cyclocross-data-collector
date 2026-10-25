@@ -1,0 +1,58 @@
+{
+  "raceId": "28577",
+  "raceName": "2026-10-25 関西シクロクロス 第1戦 桂川（関西クロス）",
+  "category": "A70-74",
+  "updatedAt": "2026-10-25T08:01:47.348Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0077",
+      "name": "大永 徳彦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 588.7,
+          "cumulativeTimeSec": 588.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 569.5,
+          "cumulativeTimeSec": 1158.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 620.8,
+          "cumulativeTimeSec": 1779,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4164",
+      "name": "小寺 郁男",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1195.5,
+          "cumulativeTimeSec": 1195.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
