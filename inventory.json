@@ -5,7 +5,7 @@
     "seasons": 4,
     "events": 216,
     "races": 3594,
-    "resultRowsAvailable": 59392,
+    "resultRowsAvailable": 59374,
     "lapEnabledRaces": 3468,
     "resultOnlyRaces": 50,
     "unavailableRaces": 76,
@@ -298,10 +298,10 @@
           "order": 8,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 22,
-          "lapRecords": 43,
+          "resultRows": 4,
+          "lapRecords": 4,
           "excludedRowsByStatus": {
-            "DNS": 3
+            "DNS": 1
           }
         },
         {
