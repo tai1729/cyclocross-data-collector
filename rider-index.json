@@ -1,15 +1,25 @@
 {
   "version": 1,
-  "scannedSources": 3518,
+  "scannedSources": 3534,
   "failedSources": 76,
-  "totalSources": 3594,
+  "totalSources": 3610,
   "riders": [
     {
       "riderId": "CCH-000-0002",
       "name": "江下 健太郎",
       "dataQuality": "ok",
-      "totalAppearances": 50,
+      "totalAppearances": 51,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -59,16 +69,6 @@
           "raceId": "28326",
           "categoryId": "28326",
           "categoryName": "MM50"
-        },
-        {
-          "meetId": "CXK-267-002",
-          "meetName": "茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ",
-          "meetDate": "2026-09-22",
-          "season": "2026-27",
-          "series": "関東",
-          "raceId": "28104",
-          "categoryId": "28104",
-          "categoryName": "MM1"
         }
       ]
     },
@@ -858,8 +858,18 @@
       "riderId": "CCH-000-0222",
       "name": "西村 和洋",
       "dataQuality": "ok",
-      "totalAppearances": 59,
+      "totalAppearances": 60,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -908,16 +918,6 @@
           "series": "関東",
           "raceId": "28105",
           "categoryId": "28105",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2026-03-01",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "27786",
-          "categoryId": "27786",
           "categoryName": "ME2"
         }
       ]
@@ -8380,8 +8380,18 @@
       "riderId": "CCM-000-0325",
       "name": "牧野 崇",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -8431,16 +8441,6 @@
           "raceId": "25876",
           "categoryId": "25876",
           "categoryName": "MSS"
-        },
-        {
-          "meetId": "UCX-256-015",
-          "meetName": "2025 宇都宮シクロクロス Day2",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25856",
-          "categoryId": "25856",
-          "categoryName": "UCI-Men Elite"
         }
       ]
     },
@@ -9212,8 +9212,18 @@
       "riderId": "CCM-000-1027",
       "name": "澤田 泰征",
       "dataQuality": "ok",
-      "totalAppearances": 51,
+      "totalAppearances": 52,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -9263,16 +9273,6 @@
           "raceId": "28331",
           "categoryId": "28331",
           "categoryName": "MM60"
-        },
-        {
-          "meetId": "CXK-267-002",
-          "meetName": "茨城シクロクロス第2戦水戸市沢渡川緑地公園ステージ",
-          "meetDate": "2026-09-22",
-          "season": "2026-27",
-          "series": "関東",
-          "raceId": "28108",
-          "categoryId": "28108",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -9280,8 +9280,18 @@
       "riderId": "CCM-000-1028",
       "name": "澤田 雄一",
       "dataQuality": "ok",
-      "totalAppearances": 50,
+      "totalAppearances": 51,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -9330,16 +9340,6 @@
           "series": "関東",
           "raceId": "27749",
           "categoryId": "27749",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-008",
-          "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
-          "meetDate": "2026-02-22",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "27742",
-          "categoryId": "27742",
           "categoryName": "ME1"
         }
       ]
@@ -10198,8 +10198,18 @@
       "riderId": "CCM-000-3011",
       "name": "中村 秀典",
       "dataQuality": "ok",
-      "totalAppearances": 20,
+      "totalAppearances": 21,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "MBS-256-003",
           "meetName": "前橋シクロクロス 岩神緑地 第2戦",
@@ -10248,16 +10258,6 @@
           "series": "信州",
           "raceId": "24923",
           "categoryId": "24923",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "MBS-256-001",
-          "meetName": "前橋シクロクロス 岩神緑地 第1戦",
-          "meetDate": "2025-10-19",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "24546",
-          "categoryId": "24546",
           "categoryName": "MM50"
         }
       ]
@@ -10594,8 +10594,18 @@
       "riderId": "CCM-000-5015",
       "name": "砂子 和久",
       "dataQuality": "ok",
-      "totalAppearances": 23,
+      "totalAppearances": 24,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -10644,16 +10654,6 @@
           "series": "信州",
           "raceId": "26741",
           "categoryId": "26741",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "CCM-256-007",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第7戦　チロルの森Day2",
-          "meetDate": "2025-11-30",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "25565",
-          "categoryId": "25565",
           "categoryName": "ME3"
         }
       ]
@@ -11902,8 +11902,18 @@
       "riderId": "CCM-000-7090",
       "name": "瀬戸 幸正",
       "dataQuality": "ok",
-      "totalAppearances": 45,
+      "totalAppearances": 46,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -11952,16 +11962,6 @@
           "series": "千葉",
           "raceId": "27097",
           "categoryId": "27097",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27057",
-          "categoryId": "27057",
           "categoryName": "MM50"
         }
       ]
@@ -13318,8 +13318,18 @@
       "riderId": "CCM-000-7572",
       "name": "横島 秀宣",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -13369,16 +13379,6 @@
           "raceId": "22203",
           "categoryId": "22203",
           "categoryName": "男子マスターズ50"
-        },
-        {
-          "meetId": "CCM-245-005",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2024-2025 第5戦　清里",
-          "meetDate": "2024-11-10",
-          "season": "2024-25",
-          "series": "信州",
-          "raceId": "24108",
-          "categoryId": "24108",
-          "categoryName": "MM50+MM55"
         }
       ]
     },
@@ -13386,8 +13386,18 @@
       "riderId": "CCM-000-7579",
       "name": "木内 浩",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -13437,16 +13447,6 @@
           "raceId": "26583",
           "categoryId": "26583",
           "categoryName": "MM55"
-        },
-        {
-          "meetId": "TKI-256-005",
-          "meetName": "東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1",
-          "meetDate": "2026-01-10",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26638",
-          "categoryId": "26638",
-          "categoryName": "MM3A"
         }
       ]
     },
@@ -13848,8 +13848,18 @@
       "riderId": "CCM-000-9119",
       "name": "大森 幹雄",
       "dataQuality": "ok",
-      "totalAppearances": 28,
+      "totalAppearances": 29,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -13898,16 +13908,6 @@
           "series": "信州",
           "raceId": "26905",
           "categoryId": "26905",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CCM-256-008",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第8戦　南信州",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26749",
-          "categoryId": "26749",
           "categoryName": "ME2"
         }
       ]
@@ -14742,8 +14742,18 @@
       "riderId": "CCM-000-9915",
       "name": "岡田 紀彦",
       "dataQuality": "ok",
-      "totalAppearances": 43,
+      "totalAppearances": 44,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -14792,16 +14802,6 @@
           "series": "千葉",
           "raceId": "27097",
           "categoryId": "27097",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26899",
-          "categoryId": "26899",
           "categoryName": "MM50"
         }
       ]
@@ -15488,8 +15488,18 @@
       "riderId": "CCM-156-0001",
       "name": "小林 功和",
       "dataQuality": "ok",
-      "totalAppearances": 21,
+      "totalAppearances": 22,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28595",
+          "categoryId": "28595",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -15538,16 +15548,6 @@
           "series": "信州",
           "raceId": "26736",
           "categoryId": "26736",
-          "categoryName": "ME4"
-        },
-        {
-          "meetId": "CCM-256-007",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第7戦　チロルの森Day2",
-          "meetDate": "2025-11-30",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "25560",
-          "categoryId": "25560",
           "categoryName": "ME4"
         }
       ]
@@ -15904,8 +15904,18 @@
       "riderId": "CCM-156-0020",
       "name": "近藤 虎流",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28610",
+          "categoryId": "28610",
+          "categoryName": "MJ"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -15955,16 +15965,6 @@
           "raceId": "23337",
           "categoryId": "23337",
           "categoryName": "MU17"
-        },
-        {
-          "meetId": "CCM-245-010",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2024-2025　第10戦",
-          "meetDate": "2025-01-19",
-          "season": "2024-25",
-          "series": "信州",
-          "raceId": "24114",
-          "categoryId": "24114",
-          "categoryName": "MU17"
         }
       ]
     },
@@ -16010,8 +16010,18 @@
       "riderId": "CCM-156-0031",
       "name": "鈴木 名人",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28610",
+          "categoryId": "28610",
+          "categoryName": "MJ"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -16060,16 +16070,6 @@
           "series": "宇都宮",
           "raceId": "25854",
           "categoryId": "25854",
-          "categoryName": "UCI-Men Junior"
-        },
-        {
-          "meetId": "UCX-256-014",
-          "meetName": "2025 宇都宮シクロクロス Day1",
-          "meetDate": "2025-12-06",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25864",
-          "categoryId": "25864",
           "categoryName": "UCI-Men Junior"
         }
       ]
@@ -17042,8 +17042,18 @@
       "riderId": "CCM-167-0027",
       "name": "松本 伸実",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28603",
+          "categoryId": "28603",
+          "categoryName": "MM60"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -17092,16 +17102,6 @@
           "series": "信州",
           "raceId": "24113",
           "categoryId": "24113",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "CCM-245-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2024-2025　第9戦　南信州",
-          "meetDate": "2024-12-08",
-          "season": "2024-25",
-          "series": "信州",
-          "raceId": "22672",
-          "categoryId": "22672",
           "categoryName": "ME3"
         }
       ]
@@ -17312,8 +17312,18 @@
       "riderId": "CCM-167-0038",
       "name": "高見沢 一彦",
       "dataQuality": "ok",
-      "totalAppearances": 24,
+      "totalAppearances": 25,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -17362,16 +17372,6 @@
           "series": "信州",
           "raceId": "26744",
           "categoryId": "26744",
-          "categoryName": "MM55"
-        },
-        {
-          "meetId": "CCM-256-007",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第7戦　チロルの森Day2",
-          "meetDate": "2025-11-30",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "25568",
-          "categoryId": "25568",
           "categoryName": "MM55"
         }
       ]
@@ -17448,8 +17448,18 @@
       "riderId": "CCM-167-0042",
       "name": "田中 勝",
       "dataQuality": "ok",
-      "totalAppearances": 34,
+      "totalAppearances": 35,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -17499,16 +17509,6 @@
           "raceId": "26408",
           "categoryId": "26408",
           "categoryName": "MM55"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26083",
-          "categoryId": "26083",
-          "categoryName": "MM3"
         }
       ]
     },
@@ -17870,8 +17870,18 @@
       "riderId": "CCM-167-0141",
       "name": "太田 好政",
       "dataQuality": "ok",
-      "totalAppearances": 47,
+      "totalAppearances": 48,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -17921,16 +17931,6 @@
           "raceId": "26572",
           "categoryId": "26572",
           "categoryName": "湘南CXマスターズカップ"
-        },
-        {
-          "meetId": "KNS-256-012",
-          "meetName": "関西シクロクロス 琵琶湖グランプリ(1日目)",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "25335",
-          "categoryId": "25335",
-          "categoryName": "M45-49"
         }
       ]
     },
@@ -18112,8 +18112,18 @@
       "riderId": "CCM-178-0014",
       "name": "榛澤 暁",
       "dataQuality": "ok",
-      "totalAppearances": 23,
+      "totalAppearances": 24,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -18163,16 +18173,6 @@
           "raceId": "26893",
           "categoryId": "26893",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "CCM-256-008",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第8戦　南信州",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26736",
-          "categoryId": "26736",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -18180,8 +18180,18 @@
       "riderId": "CCM-178-0016",
       "name": "小山 力也",
       "dataQuality": "ok",
-      "totalAppearances": 31,
+      "totalAppearances": 32,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -18230,16 +18240,6 @@
           "series": "東海",
           "raceId": "26661",
           "categoryId": "26661",
-          "categoryName": "MM2"
-        },
-        {
-          "meetId": "TKI-256-005",
-          "meetName": "東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1",
-          "meetDate": "2026-01-10",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26641",
-          "categoryId": "26641",
           "categoryName": "MM2"
         }
       ]
@@ -18344,8 +18344,18 @@
       "riderId": "CCM-178-0054",
       "name": "STEWART VAUGHAN",
       "dataQuality": "ok",
-      "totalAppearances": 22,
+      "totalAppearances": 23,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -18394,16 +18404,6 @@
           "series": "信州",
           "raceId": "26752",
           "categoryId": "26752",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TYM-256-001",
-          "meetName": "朝日町自転車オフロード祭inTOYAMA",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "富山",
-          "raceId": "25843",
-          "categoryId": "25843",
           "categoryName": "ME1"
         }
       ]
@@ -18798,8 +18798,18 @@
       "riderId": "CCM-189-0010",
       "name": "貞末 武蔵",
       "dataQuality": "ok",
-      "totalAppearances": 5,
+      "totalAppearances": 6,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-256-009",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
@@ -18856,8 +18866,18 @@
       "riderId": "CCM-189-0011",
       "name": "國本 貴之",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -18907,16 +18927,6 @@
           "raceId": "24401",
           "categoryId": "24401",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TYM-245-001",
-          "meetName": "朝日町自転車オフロード祭inTOYAMA",
-          "meetDate": "2024-12-01",
-          "season": "2024-25",
-          "series": "富山",
-          "raceId": "22556",
-          "categoryId": "22556",
-          "categoryName": "C4"
         }
       ]
     },
@@ -20518,8 +20528,18 @@
       "riderId": "CCM-201-0012",
       "name": "田中 龍文",
       "dataQuality": "ok",
-      "totalAppearances": 56,
+      "totalAppearances": 57,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -20568,16 +20588,6 @@
           "series": "東海",
           "raceId": "27733",
           "categoryId": "27733",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "TKI-256-007",
-          "meetName": "東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26959",
-          "categoryId": "26959",
           "categoryName": "ME3"
         }
       ]
@@ -21420,8 +21430,18 @@
       "riderId": "CCM-212-0006",
       "name": "綱嶋 勇音",
       "dataQuality": "ok",
-      "totalAppearances": 28,
+      "totalAppearances": 29,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28597",
+          "categoryId": "28597",
+          "categoryName": "WU17"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -21471,16 +21491,6 @@
           "raceId": "25883",
           "categoryId": "25883",
           "categoryName": "WU17"
-        },
-        {
-          "meetId": "TKI-256-003",
-          "meetName": "東海シクロクロス 第3戦 愛知県 東郷ケッターパーク",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25809",
-          "categoryId": "25809",
-          "categoryName": "WU17"
         }
       ]
     },
@@ -21488,8 +21498,18 @@
       "riderId": "CCM-212-0007",
       "name": "綱嶋 一信",
       "dataQuality": "ok",
-      "totalAppearances": 33,
+      "totalAppearances": 34,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28596",
+          "categoryId": "28596",
+          "categoryName": "MU15"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -21538,16 +21558,6 @@
           "series": "信州",
           "raceId": "26756",
           "categoryId": "26756",
-          "categoryName": "CK3"
-        },
-        {
-          "meetId": "TKI-256-003",
-          "meetName": "東海シクロクロス 第3戦 愛知県 東郷ケッターパーク",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25796",
-          "categoryId": "25796",
           "categoryName": "CK3"
         }
       ]
@@ -21662,8 +21672,18 @@
       "riderId": "CCM-212-0012",
       "name": "高林 武志",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28603",
+          "categoryId": "28603",
+          "categoryName": "MM60"
+        },
         {
           "meetId": "CCM-256-009",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
@@ -21713,16 +21733,6 @@
           "raceId": "25802",
           "categoryId": "25802",
           "categoryName": "MM3A"
-        },
-        {
-          "meetId": "CCM-256-007",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第7戦　チロルの森Day2",
-          "meetDate": "2025-11-30",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "25569",
-          "categoryId": "25569",
-          "categoryName": "MM60"
         }
       ]
     },
@@ -22666,8 +22676,18 @@
       "riderId": "CCM-212-0045",
       "name": "跡部 哲也",
       "dataQuality": "ok",
-      "totalAppearances": 11,
+      "totalAppearances": 12,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -22716,16 +22736,6 @@
           "series": "信州",
           "raceId": "25481",
           "categoryId": "25481",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "CCM-256-002",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第2戦　上山田",
-          "meetDate": "2025-10-12",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "24408",
-          "categoryId": "24408",
           "categoryName": "MM50"
         }
       ]
@@ -24728,8 +24738,18 @@
       "riderId": "CCM-223-0030",
       "name": "吉川 隆裕",
       "dataQuality": "ok",
-      "totalAppearances": 25,
+      "totalAppearances": 26,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28595",
+          "categoryId": "28595",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -24778,16 +24798,6 @@
           "series": "関東",
           "raceId": "27066",
           "categoryId": "27066",
-          "categoryName": "ME4"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26893",
-          "categoryId": "26893",
           "categoryName": "ME4"
         }
       ]
@@ -24864,8 +24874,18 @@
       "riderId": "CCM-223-0037",
       "name": "小林 蒼",
       "dataQuality": "ok",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28604",
+          "categoryId": "28604",
+          "categoryName": "CK2"
+        },
         {
           "meetId": "CCM-256-006",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第6戦　チロルの森Day1",
@@ -24948,8 +24968,18 @@
       "riderId": "CCM-223-0075",
       "name": "小林 佳楓",
       "dataQuality": "ok",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28605",
+          "categoryId": "28605",
+          "categoryName": "CK3"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -25986,8 +26016,18 @@
       "riderId": "CCM-234-0004",
       "name": "馬庭 楓",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -26037,16 +26077,6 @@
           "raceId": "25486",
           "categoryId": "25486",
           "categoryName": "ME2"
-        },
-        {
-          "meetId": "CCM-256-010",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第5戦　富士山",
-          "meetDate": "2025-11-16",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "24921",
-          "categoryId": "24921",
-          "categoryName": "ME3"
         }
       ]
     },
@@ -28606,8 +28636,18 @@
       "riderId": "CCM-245-0018",
       "name": "太田 智浩",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -28656,16 +28696,6 @@
           "series": "信州",
           "raceId": "26736",
           "categoryId": "26736",
-          "categoryName": "ME4"
-        },
-        {
-          "meetId": "CCM-256-010",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第5戦　富士山",
-          "meetDate": "2025-11-16",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "24915",
-          "categoryId": "24915",
           "categoryName": "ME4"
         }
       ]
@@ -29346,8 +29376,18 @@
       "riderId": "CCM-256-0001",
       "name": "小比田 快斗",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -29396,16 +29436,6 @@
           "series": "前橋",
           "raceId": "27388",
           "categoryId": "27388",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26905",
-          "categoryId": "26905",
           "categoryName": "ME2"
         }
       ]
@@ -31023,6 +31053,24 @@
           "raceId": "28425",
           "categoryId": "28425",
           "categoryName": "CK1"
+        }
+      ]
+    },
+    {
+      "riderId": "CCM-267-0002",
+      "name": "清水 京一郎",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28610",
+          "categoryId": "28610",
+          "categoryName": "MJ"
         }
       ]
     },
@@ -36920,8 +36968,18 @@
       "riderId": "CCT-000-0035",
       "name": "國吉 正紀",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -36971,16 +37029,6 @@
           "raceId": "24929",
           "categoryId": "24929",
           "categoryName": "ME2"
-        },
-        {
-          "meetId": "KNS-256-003",
-          "meetName": "関西シクロクロス 第3戦 美山向山",
-          "meetDate": "2025-11-09",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "24807",
-          "categoryId": "24807",
-          "categoryName": "E2"
         }
       ]
     },
@@ -40276,8 +40324,18 @@
       "riderId": "CHB-190-0007",
       "name": "熊澤 雄介",
       "dataQuality": "ok",
-      "totalAppearances": 24,
+      "totalAppearances": 25,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -40327,16 +40385,6 @@
           "raceId": "25862",
           "categoryId": "25862",
           "categoryName": "MM45"
-        },
-        {
-          "meetId": "MBS-256-002",
-          "meetName": "シクロクロス昭和",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "25338",
-          "categoryId": "25338",
-          "categoryName": "ME3"
         }
       ]
     },
@@ -47008,8 +47056,18 @@
       "riderId": "CHB-234-0007",
       "name": "横山 優",
       "dataQuality": "ok",
-      "totalAppearances": 34,
+      "totalAppearances": 35,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -47058,16 +47116,6 @@
           "series": "前橋",
           "raceId": "27388",
           "categoryId": "27388",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26905",
-          "categoryId": "26905",
           "categoryName": "ME2"
         }
       ]
@@ -50564,8 +50612,18 @@
       "riderId": "CHB-245-0044",
       "name": "安田 ランス",
       "dataQuality": "ok",
-      "totalAppearances": 20,
+      "totalAppearances": 21,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28595",
+          "categoryId": "28595",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -50615,16 +50673,6 @@
           "raceId": "27668",
           "categoryId": "27668",
           "categoryName": "ME4B"
-        },
-        {
-          "meetId": "TKI-256-008",
-          "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
-          "meetDate": "2026-02-22",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "27729",
-          "categoryId": "27729",
-          "categoryName": "ME4A"
         }
       ]
     },
@@ -55988,8 +56036,18 @@
       "riderId": "CXK-167-0137",
       "name": "小杉 優也",
       "dataQuality": "ok",
-      "totalAppearances": 24,
+      "totalAppearances": 25,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -56038,16 +56096,6 @@
           "series": "信州",
           "raceId": "26749",
           "categoryId": "26749",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "MBS-256-002",
-          "meetName": "シクロクロス昭和",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "25345",
-          "categoryId": "25345",
           "categoryName": "ME2"
         }
       ]
@@ -58264,8 +58312,18 @@
       "riderId": "CXK-189-0038",
       "name": "鈴木 健太",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -58314,16 +58372,6 @@
           "series": "千葉",
           "raceId": "26434",
           "categoryId": "26434",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-256-002",
-          "meetName": "茨城シクロクロス第2戦 城里町ステージ",
-          "meetDate": "2025-12-28",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "26411",
-          "categoryId": "26411",
           "categoryName": "ME1"
         }
       ]
@@ -72458,8 +72506,18 @@
       "riderId": "CXK-245-0148",
       "name": "山本 昇",
       "dataQuality": "ok",
-      "totalAppearances": 9,
+      "totalAppearances": 10,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CXK-267-003",
           "meetName": "お米の田島屋 presents 茨城シクロクロス土浦ステージ",
@@ -72509,16 +72567,6 @@
           "raceId": "26281",
           "categoryId": "26281",
           "categoryName": "ME4-A"
-        },
-        {
-          "meetId": "MDX-256-001",
-          "meetName": "弱虫ペダル Presents 松伏シクロクロス25",
-          "meetDate": "2025-11-29",
-          "season": "2025-26",
-          "series": "野田",
-          "raceId": "25584",
-          "categoryId": "25584",
-          "categoryName": "C4"
         }
       ]
     },
@@ -78490,8 +78538,18 @@
       "riderId": "GPM-000-1990",
       "name": "江川 樹一郎",
       "dataQuality": "ok",
-      "totalAppearances": 25,
+      "totalAppearances": 26,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -78540,16 +78598,6 @@
           "series": "前橋",
           "raceId": "27388",
           "categoryId": "27388",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26800",
-          "categoryId": "26800",
           "categoryName": "ME2"
         }
       ]
@@ -89070,8 +89118,18 @@
       "riderId": "KNS-000-2505",
       "name": "副島 達海",
       "dataQuality": "ok",
-      "totalAppearances": 46,
+      "totalAppearances": 47,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CHB-256-007",
           "meetName": "CYCLOCROSS TOKYO 2026 Day2",
@@ -89121,16 +89179,6 @@
           "raceId": "26184",
           "categoryId": "26184",
           "categoryName": "E1"
-        },
-        {
-          "meetId": "JPN-256-002",
-          "meetName": "第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(日曜)",
-          "meetDate": "2025-12-14",
-          "season": "2025-26",
-          "series": "全日本",
-          "raceId": "25888",
-          "categoryId": "25888",
-          "categoryName": "ME"
         }
       ]
     },
@@ -94206,8 +94254,18 @@
       "riderId": "KNS-000-3359",
       "name": "石田 純之",
       "dataQuality": "ok",
-      "totalAppearances": 37,
+      "totalAppearances": 38,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28603",
+          "categoryId": "28603",
+          "categoryName": "MM60"
+        },
         {
           "meetId": "KNS-267-001",
           "meetName": "関西シクロクロス 第1戦 桂川",
@@ -94257,16 +94315,6 @@
           "raceId": "26671",
           "categoryId": "26671",
           "categoryName": "M1"
-        },
-        {
-          "meetId": "KNS-256-006",
-          "meetName": "関西シクロクロス 第6戦 信太山",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "26166",
-          "categoryId": "26166",
-          "categoryName": "M1"
         }
       ]
     },
@@ -94274,8 +94322,18 @@
       "riderId": "KNS-000-3361",
       "name": "石田 唯",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28606",
+          "categoryId": "28606",
+          "categoryName": "WE1"
+        },
         {
           "meetId": "CHB-256-007",
           "meetName": "CYCLOCROSS TOKYO 2026 Day2",
@@ -94325,16 +94383,6 @@
           "raceId": "25887",
           "categoryId": "25887",
           "categoryName": "WE"
-        },
-        {
-          "meetId": "UCX-256-015",
-          "meetName": "2025 宇都宮シクロクロス Day2",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25855",
-          "categoryId": "25855",
-          "categoryName": "UCI-Women Elite"
         }
       ]
     },
@@ -103370,8 +103418,18 @@
       "riderId": "KNS-000-4577",
       "name": "加藤 哲",
       "dataQuality": "ok",
-      "totalAppearances": 44,
+      "totalAppearances": 45,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28603",
+          "categoryId": "28603",
+          "categoryName": "MM60"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -103420,16 +103478,6 @@
           "series": "千葉",
           "raceId": "27102",
           "categoryId": "27102",
-          "categoryName": "MM60"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27061",
-          "categoryId": "27061",
           "categoryName": "MM60"
         }
       ]
@@ -117810,8 +117858,18 @@
       "riderId": "KNS-178-0094",
       "name": "梅澤 楽音",
       "dataQuality": "ok",
-      "totalAppearances": 50,
+      "totalAppearances": 51,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -117861,16 +117919,6 @@
           "raceId": "27770",
           "categoryId": "27770",
           "categoryName": "E1"
-        },
-        {
-          "meetId": "MBS-256-003",
-          "meetName": "前橋シクロクロス 岩神緑地 第2戦",
-          "meetDate": "2026-02-15",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "27393",
-          "categoryId": "27393",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -131672,8 +131720,18 @@
       "riderId": "KNS-201-0002",
       "name": "奥西 章太",
       "dataQuality": "ok",
-      "totalAppearances": 29,
+      "totalAppearances": 30,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MMJ-267-002",
           "meetName": "2026-27もみじシクロクロス第２戦",
@@ -131722,16 +131780,6 @@
           "series": "関西",
           "raceId": "26997",
           "categoryId": "26997",
-          "categoryName": "M2A"
-        },
-        {
-          "meetId": "KNS-256-008",
-          "meetName": "関西シクロクロス 第8戦 希望が丘",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "26854",
-          "categoryId": "26854",
           "categoryName": "M2A"
         }
       ]
@@ -142020,8 +142068,18 @@
       "riderId": "KNS-212-0288",
       "name": "奥西 楓太",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28605",
+          "categoryId": "28605",
+          "categoryName": "CK3"
+        },
         {
           "meetId": "KNS-267-001",
           "meetName": "関西シクロクロス 第1戦 桂川",
@@ -142070,16 +142128,6 @@
           "series": "関西",
           "raceId": "27149",
           "categoryId": "27149",
-          "categoryName": "CK2"
-        },
-        {
-          "meetId": "KNS-256-009",
-          "meetName": "関西シクロクロス 第9戦 マイアミ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "27003",
-          "categoryId": "27003",
           "categoryName": "CK2"
         }
       ]
@@ -183456,8 +183504,18 @@
       "riderId": "MBS-245-0003",
       "name": "小泉 匠平",
       "dataQuality": "ok",
-      "totalAppearances": 11,
+      "totalAppearances": 12,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "CXK-267-003",
           "meetName": "お米の田島屋 presents 茨城シクロクロス土浦ステージ",
@@ -183507,16 +183565,6 @@
           "raceId": "26293",
           "categoryId": "26293",
           "categoryName": "ME3"
-        },
-        {
-          "meetId": "MDX-256-001",
-          "meetName": "弱虫ペダル Presents 松伏シクロクロス25",
-          "meetDate": "2025-11-29",
-          "season": "2025-26",
-          "series": "野田",
-          "raceId": "25591",
-          "categoryId": "25591",
-          "categoryName": "C3"
         }
       ]
     },
@@ -201190,8 +201238,18 @@
       "riderId": "SHN-223-0021",
       "name": "石神 学",
       "dataQuality": "ok",
-      "totalAppearances": 30,
+      "totalAppearances": 31,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -201240,16 +201298,6 @@
           "series": "宇都宮",
           "raceId": "25863",
           "categoryId": "25863",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "MDX-256-001",
-          "meetName": "弱虫ペダル Presents 松伏シクロクロス25",
-          "meetDate": "2025-11-29",
-          "season": "2025-26",
-          "series": "野田",
-          "raceId": "25596",
-          "categoryId": "25596",
           "categoryName": "MM50"
         }
       ]
@@ -204712,8 +204760,18 @@
       "riderId": "SHN-256-0016",
       "name": "平澤 太亮",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28595",
+          "categoryId": "28595",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -204763,16 +204821,6 @@
           "raceId": "26420",
           "categoryId": "26420",
           "categoryName": "ME4-A"
-        },
-        {
-          "meetId": "XTK-256-001",
-          "meetName": "INAGI CROSS-12",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東京",
-          "raceId": "26282",
-          "categoryId": "26282",
-          "categoryName": "ME4-B"
         }
       ]
     },
@@ -207258,8 +207306,18 @@
       "riderId": "TCX-000-4011",
       "name": "中澤 佳邦",
       "dataQuality": "ok",
-      "totalAppearances": 21,
+      "totalAppearances": 22,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28595",
+          "categoryId": "28595",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -207308,16 +207366,6 @@
           "series": "東北",
           "raceId": "26803",
           "categoryId": "26803",
-          "categoryName": "MM45"
-        },
-        {
-          "meetId": "CHB-256-004",
-          "meetName": "シクロクロス千葉#15",
-          "meetDate": "2026-01-04",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "26430",
-          "categoryId": "26430",
           "categoryName": "MM45"
         }
       ]
@@ -207998,8 +208046,18 @@
       "riderId": "TCX-156-0067",
       "name": "高橋 綾一",
       "dataQuality": "ok",
-      "totalAppearances": 36,
+      "totalAppearances": 37,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -208048,16 +208106,6 @@
           "series": "前橋",
           "raceId": "27388",
           "categoryId": "27388",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26800",
-          "categoryId": "26800",
           "categoryName": "ME2"
         }
       ]
@@ -210704,8 +210752,18 @@
       "riderId": "TCX-201-0007",
       "name": "渡辺 徹",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -210754,16 +210812,6 @@
           "series": "東北",
           "raceId": "26788",
           "categoryId": "26788",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-256-002",
-          "meetName": "茨城シクロクロス第2戦 城里町ステージ",
-          "meetDate": "2025-12-28",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "26411",
-          "categoryId": "26411",
           "categoryName": "ME1"
         }
       ]
@@ -221894,8 +221942,18 @@
       "riderId": "TKI-167-0178",
       "name": "杉原 貴弘",
       "dataQuality": "ok",
-      "totalAppearances": 53,
+      "totalAppearances": 54,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28609",
+          "categoryId": "28609",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -221945,16 +222003,6 @@
           "raceId": "27097",
           "categoryId": "27097",
           "categoryName": "MM50"
-        },
-        {
-          "meetId": "TKI-256-007",
-          "meetName": "東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26969",
-          "categoryId": "26969",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -234156,8 +234204,18 @@
       "riderId": "TKI-212-0016",
       "name": "吉田 篤史",
       "dataQuality": "ok",
-      "totalAppearances": 22,
+      "totalAppearances": 23,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28608",
+          "categoryId": "28608",
+          "categoryName": "MM45"
+        },
         {
           "meetId": "KNS-267-001",
           "meetName": "関西シクロクロス 第1戦 桂川",
@@ -234207,16 +234265,6 @@
           "raceId": "26854",
           "categoryId": "26854",
           "categoryName": "M2A"
-        },
-        {
-          "meetId": "TKI-256-004",
-          "meetName": "東海シクロクロス 第4戦 岐阜県池田町 南部公園",
-          "meetDate": "2025-12-28",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26348",
-          "categoryId": "26348",
-          "categoryName": "MM2"
         }
       ]
     },
@@ -234456,8 +234504,18 @@
       "riderId": "TKI-212-0023",
       "name": "阪本 知栄",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28598",
+          "categoryId": "28598",
+          "categoryName": "WU15"
+        },
         {
           "meetId": "CCM-256-006",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第6戦　チロルの森Day1",
@@ -234506,16 +234564,6 @@
           "series": "東海",
           "raceId": "23656",
           "categoryId": "23656",
-          "categoryName": "CK2"
-        },
-        {
-          "meetId": "CHB-245-006",
-          "meetName": "CYCLOCROSS TOKYO 2025 Day2",
-          "meetDate": "2025-02-09",
-          "season": "2024-25",
-          "series": "千葉",
-          "raceId": "23348",
-          "categoryId": "23348",
           "categoryName": "CK2"
         }
       ]
@@ -245688,8 +245736,18 @@
       "riderId": "TKI-245-0007",
       "name": "神谷 篤志",
       "dataQuality": "ok",
-      "totalAppearances": 11,
+      "totalAppearances": 12,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TKI-256-008",
           "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
@@ -245739,16 +245797,6 @@
           "raceId": "24541",
           "categoryId": "24541",
           "categoryName": "E2"
-        },
-        {
-          "meetId": "TKI-245-008",
-          "meetName": "東海シクロクロス 第7戦 愛知県豊田市 千石公園",
-          "meetDate": "2025-02-16",
-          "season": "2024-25",
-          "series": "東海",
-          "raceId": "23673",
-          "categoryId": "23673",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -249068,8 +249116,18 @@
       "riderId": "TKI-245-0109",
       "name": "中村 広明",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28599",
+          "categoryId": "28599",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "MBS-256-003",
           "meetName": "前橋シクロクロス 岩神緑地 第2戦",
@@ -249119,16 +249177,6 @@
           "raceId": "25317",
           "categoryId": "25317",
           "categoryName": "ME4B"
-        },
-        {
-          "meetId": "KNS-256-001",
-          "meetName": "関西シクロクロス 第1戦 桂川",
-          "meetDate": "2025-10-19",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "24533",
-          "categoryId": "24533",
-          "categoryName": "E4"
         }
       ]
     },
@@ -253820,8 +253868,18 @@
       "riderId": "TYM-189-0026",
       "name": "小原 千明",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28607",
+          "categoryId": "28607",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -253870,16 +253928,6 @@
           "series": "富山",
           "raceId": "25835",
           "categoryId": "25835",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "TKI-256-001",
-          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25304",
-          "categoryId": "25304",
           "categoryName": "ME3"
         }
       ]
@@ -254022,8 +254070,18 @@
       "riderId": "TYM-201-0009",
       "name": "富樫 悠太郎",
       "dataQuality": "ok",
-      "totalAppearances": 47,
+      "totalAppearances": 48,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28600",
+          "categoryId": "28600",
+          "categoryName": "MU17"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -254072,16 +254130,6 @@
           "series": "東海",
           "raceId": "27736",
           "categoryId": "27736",
-          "categoryName": "MU17"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26898",
-          "categoryId": "26898",
           "categoryName": "MU17"
         }
       ]
@@ -255454,8 +255502,18 @@
       "riderId": "UCX-167-0051",
       "name": "生田目 修",
       "dataQuality": "ok",
-      "totalAppearances": 62,
+      "totalAppearances": 63,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -255504,16 +255562,6 @@
           "series": "関東",
           "raceId": "27749",
           "categoryId": "27749",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "MBS-256-003",
-          "meetName": "前橋シクロクロス 岩神緑地 第2戦",
-          "meetDate": "2026-02-15",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "27393",
-          "categoryId": "27393",
           "categoryName": "ME1"
         }
       ]
@@ -256824,8 +256872,18 @@
       "riderId": "XTK-000-1161",
       "name": "森 久",
       "dataQuality": "ok",
-      "totalAppearances": 31,
+      "totalAppearances": 32,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28601",
+          "categoryId": "28601",
+          "categoryName": "MM50"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -256874,16 +256932,6 @@
           "series": "関東",
           "raceId": "27057",
           "categoryId": "27057",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "CHB-256-004",
-          "meetName": "シクロクロス千葉#15",
-          "meetDate": "2026-01-04",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "26423",
-          "categoryId": "26423",
           "categoryName": "MM50"
         }
       ]
@@ -267926,8 +267974,18 @@
       "riderId": "XTK-223-0320",
       "name": "山口 登新",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28596",
+          "categoryId": "28596",
+          "categoryName": "MU15"
+        },
         {
           "meetId": "CXK-267-003",
           "meetName": "お米の田島屋 presents 茨城シクロクロス土浦ステージ",
@@ -267977,16 +268035,6 @@
           "raceId": "27114",
           "categoryId": "27114",
           "categoryName": "CK3"
-        },
-        {
-          "meetId": "CHB-256-006",
-          "meetName": "CYCLOCROSS TOKYO 2026 Day1",
-          "meetDate": "2026-02-07",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "27105",
-          "categoryId": "27105",
-          "categoryName": "MU15"
         }
       ]
     },
@@ -268424,8 +268472,18 @@
       "riderId": "XTK-223-0467",
       "name": "中村 太",
       "dataQuality": "ok",
-      "totalAppearances": 16,
+      "totalAppearances": 17,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28603",
+          "categoryId": "28603",
+          "categoryName": "MM60"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -268474,16 +268532,6 @@
           "series": "千葉",
           "raceId": "24822",
           "categoryId": "24822",
-          "categoryName": "MM60"
-        },
-        {
-          "meetId": "SHN-256-004",
-          "meetName": "御殿場シクロクロス Supported by 湘南CX",
-          "meetDate": "2025-11-02",
-          "season": "2025-26",
-          "series": "湘南",
-          "raceId": "24681",
-          "categoryId": "24681",
           "categoryName": "MM60"
         }
       ]
@@ -269000,8 +269048,18 @@
       "riderId": "XTK-234-0045",
       "name": "萩原 茂",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "CCM-267-004",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト",
+          "meetDate": "2026-10-31",
+          "season": "2026-27",
+          "series": "信州",
+          "raceId": "28602",
+          "categoryId": "28602",
+          "categoryName": "MM55"
+        },
         {
           "meetId": "SHN-267-001",
           "meetName": "湘南シクロクロス 開成大会 GP佐宗",
@@ -269050,16 +269108,6 @@
           "series": "千葉",
           "raceId": "23339",
           "categoryId": "23339",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "SHN-245-003",
-          "meetName": "湘南シクロクロス　中井大会",
-          "meetDate": "2025-01-12",
-          "season": "2024-25",
-          "series": "湘南",
-          "raceId": "22915",
-          "categoryId": "22915",
           "categoryName": "ME3"
         }
       ]

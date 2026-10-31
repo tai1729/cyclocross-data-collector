@@ -1,0 +1,54 @@
+{
+  "raceId": "28605",
+  "raceName": "2026-10-31 シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト（信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-10-31T12:01:43.100Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0288",
+      "name": "奥西 楓太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 364.2,
+          "cumulativeTimeSec": 364.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.5,
+          "cumulativeTimeSec": 740.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0075",
+      "name": "小林 佳楓",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 410.7,
+          "cumulativeTimeSec": 410.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 430.9,
+          "cumulativeTimeSec": 841.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "raceId": "28604",
+  "raceName": "2026-10-31 シクロクロスミーティングシリーズ　シーズン2026-2027　第4戦飯山day1ナイト（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-10-31T12:01:42.638Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-223-0037",
+      "name": "小林 蒼",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646,
+          "cumulativeTimeSec": 646,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 653.7,
+          "cumulativeTimeSec": 1299.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
