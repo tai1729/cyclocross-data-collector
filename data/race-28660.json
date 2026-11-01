@@ -1,0 +1,151 @@
+{
+  "raceId": "28660",
+  "raceName": "2026-11-01 シクロクロスミーティングシリーズ　シーズン2026-2027　第5戦飯山Day2（信州クロス）",
+  "category": "MM50",
+  "updatedAt": "2026-11-01T08:02:08.568Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "UCX-167-0051",
+      "name": "生田目 修",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 407.2,
+          "cumulativeTimeSec": 407.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 401.1,
+          "cumulativeTimeSec": 808.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 408.7,
+          "cumulativeTimeSec": 1217,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0002",
+      "name": "江下 健太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 447.9,
+          "cumulativeTimeSec": 447.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.9,
+          "cumulativeTimeSec": 895.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 445.2,
+          "cumulativeTimeSec": 1341,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7090",
+      "name": "瀬戸 幸正",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.3,
+          "cumulativeTimeSec": 461.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 459,
+          "cumulativeTimeSec": 920.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 472.5,
+          "cumulativeTimeSec": 1392.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-3011",
+      "name": "中村 秀典",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 487.1,
+          "cumulativeTimeSec": 487.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 492.5,
+          "cumulativeTimeSec": 979.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 482.1,
+          "cumulativeTimeSec": 1461.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0006",
+      "name": "富樫 敦",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535.5,
+          "cumulativeTimeSec": 535.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 560.2,
+          "cumulativeTimeSec": 1095.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 547.6,
+          "cumulativeTimeSec": 1643.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
