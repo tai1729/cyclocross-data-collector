@@ -1,0 +1,67 @@
+{
+  "raceId": "28623",
+  "raceName": "2026-11-01 関西シクロクロス 第2戦 美山向山（関西クロス）",
+  "category": "M4",
+  "updatedAt": "2026-11-01T07:01:49.209Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0139",
+      "name": "荻田 浩行",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 355,
+          "cumulativeTimeSec": 355,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 369,
+          "cumulativeTimeSec": 724,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 363.2,
+          "cumulativeTimeSec": 1087.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-267-0022",
+      "name": "大谷 豊",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 356,
+          "cumulativeTimeSec": 356,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 361.1,
+          "cumulativeTimeSec": 717.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 376.1,
+          "cumulativeTimeSec": 1093.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

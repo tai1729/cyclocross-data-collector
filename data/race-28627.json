@@ -1,0 +1,40 @@
+{
+  "raceId": "28627",
+  "raceName": "2026-11-01 関西シクロクロス 第2戦 美山向山（関西クロス）",
+  "category": "A75-79",
+  "updatedAt": "2026-11-01T07:01:50.678Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0233",
+      "name": "神谷 馨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405.5,
+          "cumulativeTimeSec": 405.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 443.3,
+          "cumulativeTimeSec": 848.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 456.7,
+          "cumulativeTimeSec": 1305.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

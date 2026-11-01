@@ -1,0 +1,96 @@
+{
+  "raceId": "28634",
+  "raceName": "2026-11-01 関西シクロクロス 第2戦 美山向山（関西クロス）",
+  "category": "J",
+  "updatedAt": "2026-11-01T07:01:53.140Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0047",
+      "name": "川﨑 利温",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 260.9,
+          "cumulativeTimeSec": 260.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 453.4,
+          "cumulativeTimeSec": 714.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 455.3,
+          "cumulativeTimeSec": 1169.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 453.2,
+          "cumulativeTimeSec": 1622.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 471.8,
+          "cumulativeTimeSec": 2094.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4576",
+      "name": "柿本 圭治郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 302,
+          "cumulativeTimeSec": 302,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 520.2,
+          "cumulativeTimeSec": 822.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 540.9,
+          "cumulativeTimeSec": 1363.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 542.9,
+          "cumulativeTimeSec": 1906,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 554.3,
+          "cumulativeTimeSec": 2460.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

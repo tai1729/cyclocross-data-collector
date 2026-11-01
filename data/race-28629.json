@@ -1,0 +1,88 @@
+{
+  "raceId": "28629",
+  "raceName": "2026-11-01 関西シクロクロス 第2戦 美山向山（関西クロス）",
+  "category": "W3",
+  "updatedAt": "2026-11-01T07:01:51.955Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-256-0162",
+      "name": "上中 ゆかり",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.4,
+          "cumulativeTimeSec": 389.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 401.5,
+          "cumulativeTimeSec": 790.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.7,
+          "cumulativeTimeSec": 1205.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3872",
+      "name": "山野井 真紀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.3,
+          "cumulativeTimeSec": 424.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 440.4,
+          "cumulativeTimeSec": 864.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.8,
+          "cumulativeTimeSec": 1311.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3052",
+      "name": "神谷 みを",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.3,
+          "cumulativeTimeSec": 467.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 509.3,
+          "cumulativeTimeSec": 976.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
