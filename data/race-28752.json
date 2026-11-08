@@ -1,0 +1,97 @@
+{
+  "raceId": "28752",
+  "raceName": "2026-11-08 関西シクロクロス 第3戦 二色の浜（関西クロス）",
+  "category": "A65-69",
+  "updatedAt": "2026-11-08T08:02:06.219Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-0065",
+      "name": "伊澤 藤成",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 317,
+          "cumulativeTimeSec": 317,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 304.2,
+          "cumulativeTimeSec": 621.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 299.2,
+          "cumulativeTimeSec": 920.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0063",
+      "name": "直江 敦司",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 315.9,
+          "cumulativeTimeSec": 315.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.8,
+          "cumulativeTimeSec": 618.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 316.2,
+          "cumulativeTimeSec": 934.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0557",
+      "name": "杜若 治彦",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 320.2,
+          "cumulativeTimeSec": 320.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 303.8,
+          "cumulativeTimeSec": 624,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 312.3,
+          "cumulativeTimeSec": 936.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

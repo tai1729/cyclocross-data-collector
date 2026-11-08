@@ -1,0 +1,67 @@
+{
+  "raceId": "28751",
+  "raceName": "2026-11-08 関西シクロクロス 第3戦 二色の浜（関西クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-11-08T08:02:05.985Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-2154",
+      "name": "大河内 二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 310.7,
+          "cumulativeTimeSec": 310.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 296.9,
+          "cumulativeTimeSec": 607.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 302.6,
+          "cumulativeTimeSec": 910.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0221",
+      "name": "角屋 良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 317.9,
+          "cumulativeTimeSec": 317.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 305.1,
+          "cumulativeTimeSec": 623,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 295.7,
+          "cumulativeTimeSec": 918.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

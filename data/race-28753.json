@@ -1,0 +1,40 @@
+{
+  "raceId": "28753",
+  "raceName": "2026-11-08 関西シクロクロス 第3戦 二色の浜（関西クロス）",
+  "category": "A70-74",
+  "updatedAt": "2026-11-08T08:02:07.243Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4164",
+      "name": "小寺 郁男",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 444,
+          "cumulativeTimeSec": 444,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 426.1,
+          "cumulativeTimeSec": 870.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 402.9,
+          "cumulativeTimeSec": 1273,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

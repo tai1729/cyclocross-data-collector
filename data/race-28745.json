@@ -1,0 +1,151 @@
+{
+  "raceId": "28745",
+  "raceName": "2026-11-08 関西シクロクロス 第3戦 二色の浜（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-08T08:02:04.214Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 4
+  },
+  "riders": [
+    {
+      "riderId": "KNS-190-0227",
+      "name": "奥谷 将全",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 527.4,
+          "cumulativeTimeSec": 527.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 550.8,
+          "cumulativeTimeSec": 1078.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539,
+          "cumulativeTimeSec": 1617.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0022",
+      "name": "上中 隼斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 570.3,
+          "cumulativeTimeSec": 570.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 543,
+          "cumulativeTimeSec": 1113.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 540,
+          "cumulativeTimeSec": 1653.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-256-0138",
+      "name": "大河原 瑛翔",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 573.2,
+          "cumulativeTimeSec": 573.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 577.1,
+          "cumulativeTimeSec": 1150.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 604.2,
+          "cumulativeTimeSec": 1754.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0224",
+      "name": "塚本 一稀",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 628,
+          "cumulativeTimeSec": 628,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 638.9,
+          "cumulativeTimeSec": 1266.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 617.7,
+          "cumulativeTimeSec": 1884.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0023",
+      "name": "阪根 全哉",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 650.1,
+          "cumulativeTimeSec": 650.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 696.5,
+          "cumulativeTimeSec": 1346.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 732.5,
+          "cumulativeTimeSec": 2079.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
