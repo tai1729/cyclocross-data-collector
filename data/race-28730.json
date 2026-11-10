@@ -1,0 +1,40 @@
+{
+  "raceId": "28730",
+  "raceName": "2026-11-08 雪国オータムクロス（雪国シクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-11-10T06:01:32.457Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0108",
+      "name": "根本 亜緒",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1022.4,
+          "cumulativeTimeSec": 1022.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1036.8,
+          "cumulativeTimeSec": 2059.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1046,
+          "cumulativeTimeSec": 3105.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

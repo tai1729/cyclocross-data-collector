@@ -1,0 +1,33 @@
+{
+  "raceId": "28724",
+  "raceName": "2026-11-08 雪国オータムクロス（雪国シクロクロス）",
+  "category": "MM60",
+  "updatedAt": "2026-11-10T06:01:30.134Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-201-0032",
+      "name": "田辺 明宏",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 873.9,
+          "cumulativeTimeSec": 873.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 848.3,
+          "cumulativeTimeSec": 1722.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

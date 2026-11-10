@@ -1,0 +1,57 @@
+{
+  "raceId": "28722",
+  "raceName": "2026-11-08 雪国オータムクロス（雪国シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-10T06:01:29.385Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 688.7,
+          "cumulativeTimeSec": 688.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 640,
+          "cumulativeTimeSec": 1328.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0013",
+      "name": "小澤 郁篤",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 690.7,
+          "cumulativeTimeSec": 690.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 679,
+          "cumulativeTimeSec": 1369.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

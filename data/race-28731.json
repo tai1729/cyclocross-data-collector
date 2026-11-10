@@ -1,0 +1,54 @@
+{
+  "raceId": "28731",
+  "raceName": "2026-11-08 雪国オータムクロス（雪国シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-10T06:01:32.543Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0185",
+      "name": "村井 和佳子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1026.5,
+          "cumulativeTimeSec": 1026.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1106.2,
+          "cumulativeTimeSec": 2132.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MDX-256-0003",
+      "name": "膝舘 香織",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1086.5,
+          "cumulativeTimeSec": 1086.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1076.2,
+          "cumulativeTimeSec": 2162.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

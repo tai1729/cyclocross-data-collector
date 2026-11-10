@@ -1,0 +1,117 @@
+{
+  "raceId": "28728",
+  "raceName": "2026-11-08 雪国オータムクロス（雪国シクロクロス）",
+  "category": "MM50",
+  "updatedAt": "2026-11-10T06:01:31.429Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-0104",
+      "name": "影山 善明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 837.2,
+          "cumulativeTimeSec": 837.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 834.2,
+          "cumulativeTimeSec": 1671.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-3011",
+      "name": "中村 秀典",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 630.5,
+          "cumulativeTimeSec": 630.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1075.6,
+          "cumulativeTimeSec": 1706.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "NGT-267-0004",
+      "name": "仲山 浩史",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 911.2,
+          "cumulativeTimeSec": 911.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 907.6,
+          "cumulativeTimeSec": 1818.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0002",
+      "name": "三浦 庄太郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 912,
+          "cumulativeTimeSec": 912,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 955.2,
+          "cumulativeTimeSec": 1867.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0038",
+      "name": "小林 幹昇",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 962.6,
+          "cumulativeTimeSec": 962.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 958.2,
+          "cumulativeTimeSec": 1920.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
