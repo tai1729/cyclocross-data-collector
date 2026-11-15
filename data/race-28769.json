@@ -1,0 +1,43 @@
+{
+  "raceId": "28769",
+  "raceName": "2026-11-15 2026-27もみじシクロクロス第4戦（もみじシクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-11-15T07:01:57.287Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4096",
+      "name": "大浦 玲音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1430.8,
+          "cumulativeTimeSec": 1430.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 2271.3,
+          "cumulativeTimeSec": 3702.1000000000004,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 3033.5,
+          "cumulativeTimeSec": 6735.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -3,15 +3,111 @@
   "source": "https://data.cyclocross.jp",
   "counts": {
     "seasons": 4,
-    "events": 221,
-    "races": 3692,
-    "resultRowsAvailable": 60693,
-    "lapEnabledRaces": 3559,
+    "events": 222,
+    "races": 3700,
+    "resultRowsAvailable": 60744,
+    "lapEnabledRaces": 3566,
     "resultOnlyRaces": 50,
-    "unavailableRaces": 83,
-    "indexedRiders": 5844
+    "unavailableRaces": 84,
+    "indexedRiders": 5848
   },
   "events": [
+    {
+      "meetId": "MMJ-267-004",
+      "season": "2026-27",
+      "meetDate": "2026-11-15",
+      "series": "もみじ",
+      "meetName": "2026-27もみじシクロクロス第4戦",
+      "categories": [
+        {
+          "raceId": "28767",
+          "name": "ME1",
+          "order": 0,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 18
+        },
+        {
+          "raceId": "28768",
+          "name": "ME2",
+          "order": 1,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 6,
+          "lapRecords": 23,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28763",
+          "name": "ME3+4",
+          "order": 2,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 8,
+          "lapRecords": 20,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28769",
+          "name": "WE1",
+          "order": 3,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 3,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28765",
+          "name": "WE2",
+          "order": 4,
+          "resultAvailability": "unavailable",
+          "lapDataAvailability": "unavailable",
+          "resultRows": 0,
+          "lapRecords": 0
+        },
+        {
+          "raceId": "28766",
+          "name": "MM1",
+          "order": 5,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 15,
+          "lapRecords": 54,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28762",
+          "name": "MM2+3",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 17,
+          "lapRecords": 49,
+          "excludedRowsByStatus": {
+            "DNS": 4
+          }
+        },
+        {
+          "raceId": "28764",
+          "name": "MU15",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 3
+        }
+      ]
+    },
     {
       "meetId": "KNS-267-003",
       "season": "2026-27",

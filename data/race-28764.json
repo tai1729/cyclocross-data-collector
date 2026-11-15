@@ -1,0 +1,40 @@
+{
+  "raceId": "28764",
+  "raceName": "2026-11-15 2026-27もみじシクロクロス第4戦（もみじシクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-15T07:01:55.857Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-201-0004",
+      "name": "宮本 響斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 489.1,
+          "cumulativeTimeSec": 489.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 553.9,
+          "cumulativeTimeSec": 1043,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 562.3,
+          "cumulativeTimeSec": 1605.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
