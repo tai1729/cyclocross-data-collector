@@ -2,7 +2,7 @@
   "raceId": "28840",
   "raceName": "2026-11-15 弱虫ペダル Presents 松伏シクロクロス2026UCI2（野田シクロクロス）",
   "category": "ME4",
-  "updatedAt": "2026-11-16T11:01:40.264Z",
+  "updatedAt": "2026-11-16T12:01:34.817Z",
   "raceLapNumbers": [
     1,
     2,
@@ -11,8 +11,7 @@
   ],
   "promotionZoneRank": 3,
   "excludedRowsByStatus": {
-    "DNS": 17,
-    "FIN": 1
+    "DNS": 17
   },
   "riders": [
     {
@@ -2371,7 +2370,7 @@
           "lapNumber": 1,
           "lapTimeSec": 761.6,
           "cumulativeTimeSec": 761.6,
-          "rankAtLap": 84
+          "rankAtLap": 85
         },
         {
           "lapNumber": 2,
@@ -2452,13 +2451,13 @@
           "lapNumber": 1,
           "lapTimeSec": 835.1,
           "cumulativeTimeSec": 835.1,
-          "rankAtLap": 86
+          "rankAtLap": 87
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 865.6,
           "cumulativeTimeSec": 1700.7,
-          "rankAtLap": 85
+          "rankAtLap": 86
         },
         {
           "lapNumber": 3,
@@ -2470,22 +2469,43 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "CHB-223-0060",
+      "name": "齋藤 繁雄",
+      "finalPosition": 83,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 759.4,
+          "cumulativeTimeSec": 759.4,
+          "rankAtLap": 84
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 845.8,
+          "cumulativeTimeSec": 1605.2,
+          "rankAtLap": 85
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "CCM-000-0322",
       "name": "野口 有紀",
-      "finalPosition": 83,
+      "finalPosition": 84,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 783.1,
           "cumulativeTimeSec": 783.1,
-          "rankAtLap": 85
+          "rankAtLap": 86
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 1132.8,
           "cumulativeTimeSec": 1915.9,
-          "rankAtLap": 86
+          "rankAtLap": 87
         }
       ],
       "dataQuality": "ok"
@@ -2493,7 +2513,7 @@
     {
       "riderId": "MDX-245-0003",
       "name": "井土 拓海",
-      "finalPosition": 84,
+      "finalPosition": 85,
       "status": "dnf",
       "laps": [
         {
@@ -2514,7 +2534,7 @@
     {
       "riderId": "KNS-178-0269",
       "name": "丸本 浩太郎",
-      "finalPosition": 85,
+      "finalPosition": 86,
       "status": "dnf",
       "laps": [
         {
@@ -2535,7 +2555,7 @@
     {
       "riderId": "MDX-256-0007",
       "name": "横山 隆也",
-      "finalPosition": 86,
+      "finalPosition": 87,
       "status": "dnf",
       "laps": [
         {
@@ -2556,14 +2576,14 @@
     {
       "riderId": "MDX-267-0073",
       "name": "齋藤 和輝",
-      "finalPosition": 87,
+      "finalPosition": 88,
       "status": "dnf",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 867.3,
           "cumulativeTimeSec": 867.3,
-          "rankAtLap": 87
+          "rankAtLap": 88
         }
       ],
       "dataQuality": "ok"
@@ -2571,7 +2591,7 @@
     {
       "riderId": "MDX-267-0076",
       "name": "田中 成治",
-      "finalPosition": 88,
+      "finalPosition": 89,
       "status": "dnf",
       "laps": [],
       "dataQuality": "ok"

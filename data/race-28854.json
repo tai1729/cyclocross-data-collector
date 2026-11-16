@@ -2,15 +2,14 @@
   "raceId": "28854",
   "raceName": "2026-11-15 弱虫ペダル Presents 松伏シクロクロス2026UCI2（野田シクロクロス）",
   "category": "MM55",
-  "updatedAt": "2026-11-16T11:01:45.253Z",
+  "updatedAt": "2026-11-16T12:01:39.249Z",
   "raceLapNumbers": [
     1,
     2,
     3
   ],
   "excludedRowsByStatus": {
-    "DNS": 5,
-    "FIN": 2
+    "DNS": 5
   },
   "riders": [
     {
@@ -509,7 +508,7 @@
           "lapNumber": 1,
           "lapTimeSec": 668.1,
           "cumulativeTimeSec": 668.1,
-          "rankAtLap": 27
+          "rankAtLap": 28
         },
         {
           "lapNumber": 2,
@@ -725,7 +724,7 @@
           "lapNumber": 1,
           "lapTimeSec": 690.2,
           "cumulativeTimeSec": 690.2,
-          "rankAtLap": 29
+          "rankAtLap": 30
         },
         {
           "lapNumber": 2,
@@ -752,7 +751,7 @@
           "lapNumber": 1,
           "lapTimeSec": 680.4,
           "cumulativeTimeSec": 680.4,
-          "rankAtLap": 28
+          "rankAtLap": 29
         },
         {
           "lapNumber": 2,
@@ -779,7 +778,7 @@
           "lapNumber": 1,
           "lapTimeSec": 667.2,
           "cumulativeTimeSec": 667.2,
-          "rankAtLap": 26
+          "rankAtLap": 27
         },
         {
           "lapNumber": 2,
@@ -806,7 +805,7 @@
           "lapNumber": 1,
           "lapTimeSec": 722.8,
           "cumulativeTimeSec": 722.8,
-          "rankAtLap": 32
+          "rankAtLap": 33
         },
         {
           "lapNumber": 2,
@@ -833,7 +832,7 @@
           "lapNumber": 1,
           "lapTimeSec": 707.5,
           "cumulativeTimeSec": 707.5,
-          "rankAtLap": 31
+          "rankAtLap": 32
         },
         {
           "lapNumber": 2,
@@ -860,7 +859,7 @@
           "lapNumber": 1,
           "lapTimeSec": 726.2,
           "cumulativeTimeSec": 726.2,
-          "rankAtLap": 33
+          "rankAtLap": 34
         },
         {
           "lapNumber": 2,
@@ -887,7 +886,7 @@
           "lapNumber": 1,
           "lapTimeSec": 697.4,
           "cumulativeTimeSec": 697.4,
-          "rankAtLap": 30
+          "rankAtLap": 31
         },
         {
           "lapNumber": 2,
@@ -905,22 +904,64 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "MBS-189-0054",
+      "name": "黛 敏治",
+      "finalPosition": 34,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 654,
+          "cumulativeTimeSec": 654,
+          "rankAtLap": 26
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 821.9,
+          "cumulativeTimeSec": 1475.9,
+          "rankAtLap": 34
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-234-0045",
+      "name": "萩原 茂",
+      "finalPosition": 35,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 744.7,
+          "cumulativeTimeSec": 744.7,
+          "rankAtLap": 35
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 734.5,
+          "cumulativeTimeSec": 1479.2,
+          "rankAtLap": 35
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "MDX-267-0063",
       "name": "北澤 正光",
-      "finalPosition": 34,
+      "finalPosition": 36,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 881.1,
           "cumulativeTimeSec": 881.1,
-          "rankAtLap": 34
+          "rankAtLap": 36
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 983.2,
           "cumulativeTimeSec": 1864.3,
-          "rankAtLap": 34
+          "rankAtLap": 36
         }
       ],
       "dataQuality": "ok"
@@ -928,20 +969,20 @@
     {
       "riderId": "MDX-267-0064",
       "name": "大道 浩嗣",
-      "finalPosition": 35,
+      "finalPosition": 37,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 984.7,
           "cumulativeTimeSec": 984.7,
-          "rankAtLap": 35
+          "rankAtLap": 37
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 937,
           "cumulativeTimeSec": 1921.7,
-          "rankAtLap": 35
+          "rankAtLap": 37
         }
       ],
       "dataQuality": "ok"

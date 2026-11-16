@@ -2,7 +2,7 @@
   "raceId": "28842",
   "raceName": "2026-11-15 弱虫ペダル Presents 松伏シクロクロス2026UCI2（野田シクロクロス）",
   "category": "MU15",
-  "updatedAt": "2026-11-16T11:01:40.758Z",
+  "updatedAt": "2026-11-16T12:01:35.429Z",
   "raceLapNumbers": [
     1,
     2,
@@ -10,8 +10,7 @@
     4
   ],
   "excludedRowsByStatus": {
-    "DNS": 1,
-    "FIN": 1
+    "DNS": 1
   },
   "riders": [
     {
@@ -156,13 +155,13 @@
           "lapNumber": 1,
           "lapTimeSec": 593.7,
           "cumulativeTimeSec": 593.7,
-          "rankAtLap": 5
+          "rankAtLap": 6
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 636.8,
           "cumulativeTimeSec": 1230.5,
-          "rankAtLap": 5
+          "rankAtLap": 6
         },
         {
           "lapNumber": 3,
@@ -180,28 +179,55 @@
       "dataQuality": "ok"
     },
     {
+      "riderId": "XTK-223-0314",
+      "name": "森田 圭",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582.9,
+          "cumulativeTimeSec": 582.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 637.5,
+          "cumulativeTimeSec": 1220.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 695,
+          "cumulativeTimeSec": 1915.4,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
       "riderId": "MBS-245-0024",
       "name": "小沼 泰",
-      "finalPosition": 6,
+      "finalPosition": 7,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 682.1,
           "cumulativeTimeSec": 682.1,
-          "rankAtLap": 7
+          "rankAtLap": 8
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 640.5,
           "cumulativeTimeSec": 1322.6,
-          "rankAtLap": 6
+          "rankAtLap": 7
         },
         {
           "lapNumber": 3,
           "lapTimeSec": 666.2,
           "cumulativeTimeSec": 1988.8,
-          "rankAtLap": 6
+          "rankAtLap": 7
         }
       ],
       "dataQuality": "ok"
@@ -209,26 +235,26 @@
     {
       "riderId": "XTK-223-0161",
       "name": "渋谷 一",
-      "finalPosition": 7,
+      "finalPosition": 8,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 676.6,
           "cumulativeTimeSec": 676.6,
-          "rankAtLap": 6
+          "rankAtLap": 7
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 649.3,
           "cumulativeTimeSec": 1325.9,
-          "rankAtLap": 7
+          "rankAtLap": 8
         },
         {
           "lapNumber": 3,
           "lapTimeSec": 808.2,
           "cumulativeTimeSec": 2134.1,
-          "rankAtLap": 7
+          "rankAtLap": 8
         }
       ],
       "dataQuality": "ok"
@@ -236,26 +262,26 @@
     {
       "riderId": "CXK-245-0121",
       "name": "鈴木 瑠唯",
-      "finalPosition": 8,
+      "finalPosition": 9,
       "status": "finished",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 690.3,
           "cumulativeTimeSec": 690.3,
-          "rankAtLap": 8
+          "rankAtLap": 9
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 737,
           "cumulativeTimeSec": 1427.3,
-          "rankAtLap": 8
+          "rankAtLap": 9
         },
         {
           "lapNumber": 3,
           "lapTimeSec": 757.9,
           "cumulativeTimeSec": 2185.2,
-          "rankAtLap": 8
+          "rankAtLap": 9
         }
       ],
       "dataQuality": "ok"
@@ -263,20 +289,20 @@
     {
       "riderId": "MDX-267-0084",
       "name": "秋葉 太翔",
-      "finalPosition": 9,
+      "finalPosition": 10,
       "status": "dnf",
       "laps": [
         {
           "lapNumber": 1,
           "lapTimeSec": 819.4,
           "cumulativeTimeSec": 819.4,
-          "rankAtLap": 9
+          "rankAtLap": 10
         },
         {
           "lapNumber": 2,
           "lapTimeSec": 904.9,
           "cumulativeTimeSec": 1724.3,
-          "rankAtLap": 9
+          "rankAtLap": 10
         }
       ],
       "dataQuality": "ok"

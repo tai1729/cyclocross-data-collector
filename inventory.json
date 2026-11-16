@@ -5,10 +5,10 @@
     "seasons": 4,
     "events": 223,
     "races": 3723,
-    "resultRowsAvailable": 61125,
-    "lapEnabledRaces": 3588,
+    "resultRowsAvailable": 61227,
+    "lapEnabledRaces": 3589,
     "resultOnlyRaces": 50,
-    "unavailableRaces": 85,
+    "unavailableRaces": 84,
     "indexedRiders": 5870
   },
   "events": [
@@ -25,11 +25,10 @@
           "order": 0,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 41,
-          "lapRecords": 162,
+          "resultRows": 47,
+          "lapRecords": 185,
           "excludedRowsByStatus": {
-            "DNS": 14,
-            "FIN": 6
+            "DNS": 14
           }
         },
         {
@@ -50,11 +49,10 @@
           "order": 2,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 9,
-          "lapRecords": 31,
+          "resultRows": 10,
+          "lapRecords": 34,
           "excludedRowsByStatus": {
-            "DNS": 1,
-            "FIN": 1
+            "DNS": 1
           }
         },
         {
@@ -99,11 +97,10 @@
           "order": 6,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 12,
-          "lapRecords": 108,
+          "resultRows": 102,
+          "lapRecords": 433,
           "excludedRowsByStatus": {
-            "DNS": 4,
-            "FIN": 90
+            "DNS": 4
           }
         },
         {
@@ -131,10 +128,10 @@
           "raceId": "28856",
           "name": "UCI-Women Junior",
           "order": 9,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 8
         },
         {
           "raceId": "28847",
@@ -154,11 +151,10 @@
           "order": 11,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 88,
-          "lapRecords": 295,
+          "resultRows": 89,
+          "lapRecords": 297,
           "excludedRowsByStatus": {
-            "DNS": 17,
-            "FIN": 1
+            "DNS": 17
           }
         },
         {
@@ -218,11 +214,10 @@
           "order": 17,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 35,
-          "lapRecords": 103,
+          "resultRows": 37,
+          "lapRecords": 107,
           "excludedRowsByStatus": {
-            "DNS": 5,
-            "FIN": 2
+            "DNS": 5
           }
         },
         {
