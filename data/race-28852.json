@@ -1,0 +1,121 @@
+{
+  "raceId": "28852",
+  "raceName": "2026-11-15 弱虫ペダル Presents 松伏シクロクロス2026UCI2（野田シクロクロス）",
+  "category": "MM35",
+  "updatedAt": "2026-11-16T11:01:44.051Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-212-0071",
+      "name": "和田 拓海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 501.3,
+          "cumulativeTimeSec": 501.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 512.6,
+          "cumulativeTimeSec": 1013.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 553.1,
+          "cumulativeTimeSec": 1567,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0133",
+      "name": "倉持 和弘",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 511.3,
+          "cumulativeTimeSec": 511.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 533.7,
+          "cumulativeTimeSec": 1045,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.1,
+          "cumulativeTimeSec": 1569.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0003",
+      "name": "渡邊 嵩博",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 596.9,
+          "cumulativeTimeSec": 596.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 594.8,
+          "cumulativeTimeSec": 1191.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 589.8,
+          "cumulativeTimeSec": 1781.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1557",
+      "name": "鶴岡 聖隆",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 594.7,
+          "cumulativeTimeSec": 594.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 602.3,
+          "cumulativeTimeSec": 1197,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 639.8,
+          "cumulativeTimeSec": 1836.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

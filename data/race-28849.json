@@ -1,0 +1,67 @@
+{
+  "raceId": "28849",
+  "raceName": "2026-11-15 弱虫ペダル Presents 松伏シクロクロス2026UCI2（野田シクロクロス）",
+  "category": "WU15",
+  "updatedAt": "2026-11-16T11:01:43.141Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 658.3,
+          "cumulativeTimeSec": 658.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 652.7,
+          "cumulativeTimeSec": 1311,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 654.9,
+          "cumulativeTimeSec": 1965.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0023",
+      "name": "阪本 知栄",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 803.5,
+          "cumulativeTimeSec": 803.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 847.3,
+          "cumulativeTimeSec": 1650.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 847.9,
+          "cumulativeTimeSec": 2498.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
