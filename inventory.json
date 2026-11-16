@@ -5,7 +5,7 @@
     "seasons": 4,
     "events": 223,
     "races": 3723,
-    "resultRowsAvailable": 61227,
+    "resultRowsAvailable": 61237,
     "lapEnabledRaces": 3589,
     "resultOnlyRaces": 50,
     "unavailableRaces": 84,
@@ -109,11 +109,8 @@
           "order": 7,
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
-          "resultRows": 6,
-          "lapRecords": 36,
-          "excludedRowsByStatus": {
-            "FIN": 10
-          }
+          "resultRows": 16,
+          "lapRecords": 69
         },
         {
           "raceId": "28855",
