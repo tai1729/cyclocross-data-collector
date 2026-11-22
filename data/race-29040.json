@@ -1,0 +1,30 @@
+{
+  "raceId": "29040",
+  "raceName": "2026-11-22 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
+  "category": "WE3",
+  "updatedAt": "2026-11-22T01:01:37.282Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-256-0035",
+      "name": "星野 友美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 394.8,
+          "cumulativeTimeSec": 394.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
