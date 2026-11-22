@@ -5,10 +5,10 @@
     "seasons": 4,
     "events": 225,
     "races": 3756,
-    "resultRowsAvailable": 61614,
-    "lapEnabledRaces": 3617,
+    "resultRowsAvailable": 61721,
+    "lapEnabledRaces": 3619,
     "resultOnlyRaces": 52,
-    "unavailableRaces": 87,
+    "unavailableRaces": 85,
     "indexedRiders": 5894
   },
   "events": [
@@ -182,10 +182,13 @@
           "raceId": "29058",
           "name": "ME2",
           "order": 1,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 42,
+          "lapRecords": 200,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
         },
         {
           "raceId": "29048",
@@ -209,10 +212,13 @@
           "raceId": "29057",
           "name": "MM1",
           "order": 4,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 65,
+          "lapRecords": 311,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
         },
         {
           "raceId": "29050",
