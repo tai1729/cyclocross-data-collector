@@ -1,0 +1,153 @@
+{
+  "raceId": "29074",
+  "raceName": "2026-11-22 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
+  "category": "M19-34",
+  "updatedAt": "2026-11-22T08:02:09.923Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0053",
+      "name": "坂元 秀平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 565.6,
+          "cumulativeTimeSec": 565.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555,
+          "cumulativeTimeSec": 1120.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 561.4,
+          "cumulativeTimeSec": 1682,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 578.4,
+          "cumulativeTimeSec": 2260.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 588,
+          "cumulativeTimeSec": 2848.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0058",
+      "name": "大林 俊哉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 575.2,
+          "cumulativeTimeSec": 575.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 583.7,
+          "cumulativeTimeSec": 1158.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 621.7,
+          "cumulativeTimeSec": 1780.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 610.5,
+          "cumulativeTimeSec": 2391.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 644.8,
+          "cumulativeTimeSec": 3035.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-234-0054",
+      "name": "松本 大和",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646.7,
+          "cumulativeTimeSec": 646.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 626.6,
+          "cumulativeTimeSec": 1273.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 659.2,
+          "cumulativeTimeSec": 1932.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 627.1,
+          "cumulativeTimeSec": 2559.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 676.7,
+          "cumulativeTimeSec": 3236.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0051",
+      "name": "西藤 幹太",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 658.9,
+          "cumulativeTimeSec": 658.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 646.9,
+          "cumulativeTimeSec": 1305.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "raceId": "29060",
+  "raceName": "2026-11-22 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-22T08:02:03.102Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-189-0008",
+      "name": "平山 開登",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 527.5,
+          "cumulativeTimeSec": 527.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 528.1,
+          "cumulativeTimeSec": 1055.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544.5,
+          "cumulativeTimeSec": 1600.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.1,
+          "cumulativeTimeSec": 525.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 546,
+          "cumulativeTimeSec": 1071.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544,
+          "cumulativeTimeSec": 1615.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0227",
+      "name": "奥谷 将全",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 537.5,
+          "cumulativeTimeSec": 537.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 535.6,
+          "cumulativeTimeSec": 1073.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 543.9,
+          "cumulativeTimeSec": 1617,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0022",
+      "name": "上中 隼斗",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 560.2,
+          "cumulativeTimeSec": 560.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 572.9,
+          "cumulativeTimeSec": 1133.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.9,
+          "cumulativeTimeSec": 1689,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0279",
+      "name": "佐藤 那音",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 566.9,
+          "cumulativeTimeSec": 566.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.1,
+          "cumulativeTimeSec": 1152,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 575.8,
+          "cumulativeTimeSec": 1727.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "raceId": "29062",
+  "raceName": "2026-11-22 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-11-22T08:02:03.479Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-234-0068",
+      "name": "数元 陽華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 587.4,
+          "cumulativeTimeSec": 587.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 592.2,
+          "cumulativeTimeSec": 1179.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 626.2,
+          "cumulativeTimeSec": 1805.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 700.7,
+          "cumulativeTimeSec": 700.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 704.9,
+          "cumulativeTimeSec": 1405.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 755,
+          "cumulativeTimeSec": 2160.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-256-0070",
+      "name": "小田島 寛奈",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

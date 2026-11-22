@@ -1,0 +1,85 @@
+{
+  "raceId": "29067",
+  "raceName": "2026-11-22 関西シクロクロス 琵琶湖グランプリ(1日目)（関西クロス）",
+  "category": "W35",
+  "updatedAt": "2026-11-22T08:02:05.704Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-234-0154",
+      "name": "濱田 祐子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 698,
+          "cumulativeTimeSec": 698,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 671.1,
+          "cumulativeTimeSec": 1369.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 663.7,
+          "cumulativeTimeSec": 2032.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0093",
+      "name": "五百蔵 佳代",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 738.3,
+          "cumulativeTimeSec": 738.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 750.7,
+          "cumulativeTimeSec": 1489,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 903,
+          "cumulativeTimeSec": 903,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1086.1,
+          "cumulativeTimeSec": 1989.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
