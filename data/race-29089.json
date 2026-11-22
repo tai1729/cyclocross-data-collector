@@ -1,0 +1,33 @@
+{
+  "raceId": "29089",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-22T12:02:08.520Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0103",
+      "name": "新藤 匠真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.8,
+          "cumulativeTimeSec": 341.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 321.6,
+          "cumulativeTimeSec": 663.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

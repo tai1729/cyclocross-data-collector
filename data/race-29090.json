@@ -1,0 +1,57 @@
+{
+  "raceId": "29090",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-22T12:02:08.400Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MBS-267-0007",
+      "name": "大林 駿",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377,
+          "cumulativeTimeSec": 377,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 365.4,
+          "cumulativeTimeSec": 742.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-234-0028",
+      "name": "小山 伊織",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 440.9,
+          "cumulativeTimeSec": 440.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.2,
+          "cumulativeTimeSec": 888.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

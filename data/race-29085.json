@@ -1,0 +1,40 @@
+{
+  "raceId": "29085",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "MM65",
+  "updatedAt": "2026-11-22T12:02:06.646Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-189-0002",
+      "name": "郡山 智",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 575.7,
+          "cumulativeTimeSec": 575.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.8,
+          "cumulativeTimeSec": 1147.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 558.4,
+          "cumulativeTimeSec": 1705.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

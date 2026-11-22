@@ -1,0 +1,61 @@
+{
+  "raceId": "29080",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "MM35-44",
+  "updatedAt": "2026-11-22T12:02:04.660Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-256-0021",
+      "name": "中井 祐樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 580.8,
+          "cumulativeTimeSec": 580.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.3,
+          "cumulativeTimeSec": 1152.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 579.6,
+          "cumulativeTimeSec": 1731.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-256-0006",
+      "name": "内田 友基",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1040.6,
+          "cumulativeTimeSec": 1040.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 782,
+          "cumulativeTimeSec": 1822.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

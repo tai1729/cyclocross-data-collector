@@ -1,0 +1,201 @@
+{
+  "raceId": "29088",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "WE1",
+  "updatedAt": "2026-11-22T12:02:08.466Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "UCX-156-0153",
+      "name": "西形 舞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 557.8,
+          "cumulativeTimeSec": 557.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 536.2,
+          "cumulativeTimeSec": 1094,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 535.7,
+          "cumulativeTimeSec": 1629.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 544.4,
+          "cumulativeTimeSec": 2174.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 542.9,
+          "cumulativeTimeSec": 2717,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1502",
+      "name": "平野 美穂",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 559.4,
+          "cumulativeTimeSec": 559.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 537.3,
+          "cumulativeTimeSec": 1096.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 542,
+          "cumulativeTimeSec": 1638.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 548.5,
+          "cumulativeTimeSec": 2187.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 540.1,
+          "cumulativeTimeSec": 2727.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0042",
+      "name": "河村 ゆき子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 578,
+          "cumulativeTimeSec": 578,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.1,
+          "cumulativeTimeSec": 1149.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 581.7,
+          "cumulativeTimeSec": 1730.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 583,
+          "cumulativeTimeSec": 2313.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 594.1,
+          "cumulativeTimeSec": 2907.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-245-0017",
+      "name": "髙見 楓",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586.1,
+          "cumulativeTimeSec": 586.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 606.6,
+          "cumulativeTimeSec": 1192.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 581.2,
+          "cumulativeTimeSec": 1773.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 580.9,
+          "cumulativeTimeSec": 2354.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9001",
+      "name": "小幡 智恵子",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 607.3,
+          "cumulativeTimeSec": 607.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 591.4,
+          "cumulativeTimeSec": 1198.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 595,
+          "cumulativeTimeSec": 1793.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 606.8,
+          "cumulativeTimeSec": 2400.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "29078",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-22T12:02:04.724Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-178-0079",
+      "name": "高橋 風太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605.8,
+          "cumulativeTimeSec": 605.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 573.5,
+          "cumulativeTimeSec": 1179.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 591.1,
+          "cumulativeTimeSec": 1770.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-267-0005",
+      "name": "神田 啓登",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 690.3,
+          "cumulativeTimeSec": 690.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 683.1,
+          "cumulativeTimeSec": 1373.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 723.1,
+          "cumulativeTimeSec": 2096.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

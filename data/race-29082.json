@@ -1,0 +1,148 @@
+{
+  "raceId": "29082",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "MM50-54",
+  "updatedAt": "2026-11-22T12:02:06.123Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-245-0117",
+      "name": "高野 篤",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 498.1,
+          "cumulativeTimeSec": 498.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.2,
+          "cumulativeTimeSec": 993.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 497.4,
+          "cumulativeTimeSec": 1490.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7090",
+      "name": "瀬戸 幸正",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 519.5,
+          "cumulativeTimeSec": 519.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.7,
+          "cumulativeTimeSec": 1042.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 512.3,
+          "cumulativeTimeSec": 1554.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0068",
+      "name": "清水 辰典",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 529.4,
+          "cumulativeTimeSec": 529.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 515.4,
+          "cumulativeTimeSec": 1044.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.3,
+          "cumulativeTimeSec": 1556.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0108",
+      "name": "大久保 徹",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 541.7,
+          "cumulativeTimeSec": 541.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526.8,
+          "cumulativeTimeSec": 1068.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 523.5,
+          "cumulativeTimeSec": 1592,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0116",
+      "name": "加藤 将望",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.9,
+          "cumulativeTimeSec": 542.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 538.4,
+          "cumulativeTimeSec": 1081.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544.2,
+          "cumulativeTimeSec": 1625.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

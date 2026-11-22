@@ -1,0 +1,40 @@
+{
+  "raceId": "29081",
+  "raceName": "2026-11-22 シクロクロス昭和（前橋シクロクロス）",
+  "category": "MM45-49",
+  "updatedAt": "2026-11-22T12:02:04.921Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-156-0053",
+      "name": "鬼形 明浩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 523.1,
+          "cumulativeTimeSec": 523.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.3,
+          "cumulativeTimeSec": 1045.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 505.4,
+          "cumulativeTimeSec": 1550.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
