@@ -2,6 +2,54 @@
   "raceId": "29054",
   "raceName": "2026-11-22 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
   "category": "WU15",
-  "updatedAt": "2026-11-22T04:01:44.470Z",
-  "riders": []
+  "updatedAt": "2026-11-22T05:01:48.433Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-223-0077",
+      "name": "岡田 明子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 527.3,
+          "cumulativeTimeSec": 527.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 533.8,
+          "cumulativeTimeSec": 1061.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0030",
+      "name": "石田 結衣",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 647.9,
+          "cumulativeTimeSec": 647.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 615.8,
+          "cumulativeTimeSec": 1263.6999999999998,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

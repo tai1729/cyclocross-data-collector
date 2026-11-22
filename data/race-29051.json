@@ -2,6 +2,54 @@
   "raceId": "29051",
   "raceName": "2026-11-22 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
   "category": "MU15",
-  "updatedAt": "2026-11-22T04:01:43.620Z",
-  "riders": []
+  "updatedAt": "2026-11-22T05:01:47.558Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0175",
+      "name": "小島 蒼士",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 524,
+          "cumulativeTimeSec": 524,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.1,
+          "cumulativeTimeSec": 1046.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0008",
+      "name": "星野 倖輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.2,
+          "cumulativeTimeSec": 671.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 688.1,
+          "cumulativeTimeSec": 1359.3000000000002,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }
