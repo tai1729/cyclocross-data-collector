@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "scannedSources": 3655,
-  "failedSources": 88,
-  "totalSources": 3743,
+  "scannedSources": 3669,
+  "failedSources": 87,
+  "totalSources": 3756,
   "riders": [
     {
       "riderId": "CCH-000-0002",
@@ -2866,8 +2866,18 @@
       "riderId": "CCH-156-0044",
       "name": "小林 正樹",
       "dataQuality": "ok",
-      "totalAppearances": 39,
+      "totalAppearances": 40,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -2916,16 +2926,6 @@
           "series": "関東",
           "raceId": "28344",
           "categoryId": "28344",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-008",
-          "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
-          "meetDate": "2026-02-22",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "27742",
-          "categoryId": "27742",
           "categoryName": "ME1"
         }
       ]
@@ -9300,8 +9300,18 @@
       "riderId": "CCM-000-1027",
       "name": "澤田 泰征",
       "dataQuality": "ok",
-      "totalAppearances": 54,
+      "totalAppearances": 55,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -9350,16 +9360,6 @@
           "series": "信州",
           "raceId": "28510",
           "categoryId": "28510",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "SHN-267-001",
-          "meetName": "湘南シクロクロス 開成大会 GP佐宗",
-          "meetDate": "2026-10-12",
-          "season": "2026-27",
-          "series": "湘南",
-          "raceId": "28383",
-          "categoryId": "28383",
           "categoryName": "ME1"
         }
       ]
@@ -9464,8 +9464,18 @@
       "riderId": "CCM-000-1039",
       "name": "須藤 大輔",
       "dataQuality": "ok",
-      "totalAppearances": 12,
+      "totalAppearances": 13,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28874",
+          "categoryId": "28874",
+          "categoryName": "MM1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -9514,16 +9524,6 @@
           "series": "東北",
           "raceId": "23999",
           "categoryId": "23999",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CHB-245-005",
-          "meetName": "CYCLOCROSS TOKYO 2025 Day1",
-          "meetDate": "2025-02-08",
-          "season": "2024-25",
-          "series": "千葉",
-          "raceId": "23346",
-          "categoryId": "23346",
           "categoryName": "ME2"
         }
       ]
@@ -13236,8 +13236,18 @@
       "riderId": "CCM-000-7554",
       "name": "佐復 亜都奈",
       "dataQuality": "ok",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28872",
+          "categoryId": "28872",
+          "categoryName": "WM"
+        },
         {
           "meetId": "TCX-245-002",
           "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
@@ -15256,8 +15266,18 @@
       "riderId": "CCM-000-9944",
       "name": "吉川 勝",
       "dataQuality": "ok",
-      "totalAppearances": 21,
+      "totalAppearances": 22,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -15307,16 +15327,6 @@
           "raceId": "26407",
           "categoryId": "26407",
           "categoryName": "MM50"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24976",
-          "categoryId": "24976",
-          "categoryName": "MM3"
         }
       ]
     },
@@ -17556,8 +17566,18 @@
       "riderId": "CCM-167-0042",
       "name": "田中 勝",
       "dataQuality": "ok",
-      "totalAppearances": 36,
+      "totalAppearances": 37,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "NGT-267-001",
           "meetName": "雪国オータムクロス",
@@ -17606,16 +17626,6 @@
           "series": "関東",
           "raceId": "27058",
           "categoryId": "27058",
-          "categoryName": "MM55"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26796",
-          "categoryId": "26796",
           "categoryName": "MM55"
         }
       ]
@@ -28602,8 +28612,18 @@
       "riderId": "CCM-245-0013",
       "name": "及川 弘恭",
       "dataQuality": "ok",
-      "totalAppearances": 19,
+      "totalAppearances": 20,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -28652,16 +28672,6 @@
           "series": "千葉",
           "raceId": "26434",
           "categoryId": "26434",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-256-002",
-          "meetName": "茨城シクロクロス第2戦 城里町ステージ",
-          "meetDate": "2025-12-28",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "26411",
-          "categoryId": "26411",
           "categoryName": "ME1"
         }
       ]
@@ -30652,8 +30662,18 @@
       "riderId": "CCM-256-0045",
       "name": "相澤 竜平",
       "dataQuality": "ok",
-      "totalAppearances": 6,
+      "totalAppearances": 7,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-005",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第5戦飯山Day2",
@@ -30703,16 +30723,6 @@
           "raceId": "25565",
           "categoryId": "25565",
           "categoryName": "ME3"
-        },
-        {
-          "meetId": "CCM-256-006",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第6戦　チロルの森Day1",
-          "meetDate": "2025-11-29",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "25475",
-          "categoryId": "25475",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -52994,8 +53004,18 @@
       "riderId": "CXK-000-0111",
       "name": "須藤 むつみ",
       "dataQuality": "ok",
-      "totalAppearances": 22,
+      "totalAppearances": 23,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28870",
+          "categoryId": "28870",
+          "categoryName": "WE1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -53045,16 +53065,6 @@
           "raceId": "26112",
           "categoryId": "26112",
           "categoryName": "WE1"
-        },
-        {
-          "meetId": "JPN-256-002",
-          "meetName": "第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(日曜)",
-          "meetDate": "2025-12-14",
-          "season": "2025-26",
-          "series": "全日本",
-          "raceId": "25887",
-          "categoryId": "25887",
-          "categoryName": "WE"
         }
       ]
     },
@@ -58086,8 +58096,18 @@
       "riderId": "CXK-189-0009",
       "name": "平尾 学",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -58137,16 +58157,6 @@
           "raceId": "23276",
           "categoryId": "23276",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-234-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2023-12-24",
-          "season": "2023-24",
-          "series": "東北",
-          "raceId": "19401",
-          "categoryId": "19401",
-          "categoryName": "MM35+40"
         }
       ]
     },
@@ -59070,8 +59080,18 @@
       "riderId": "CXK-190-0020",
       "name": "阿部 一人",
       "dataQuality": "ok",
-      "totalAppearances": 25,
+      "totalAppearances": 26,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28874",
+          "categoryId": "28874",
+          "categoryName": "MM1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -59121,16 +59141,6 @@
           "raceId": "25878",
           "categoryId": "25878",
           "categoryName": "MM50-54"
-        },
-        {
-          "meetId": "UCX-256-014",
-          "meetName": "2025 宇都宮シクロクロス Day1",
-          "meetDate": "2025-12-06",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25863",
-          "categoryId": "25863",
-          "categoryName": "MM50"
         }
       ]
     },
@@ -59544,8 +59554,18 @@
       "riderId": "CXK-190-0063",
       "name": "飯島 花怜",
       "dataQuality": "ok",
-      "totalAppearances": 21,
+      "totalAppearances": 22,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28871",
+          "categoryId": "28871",
+          "categoryName": "WU15"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -59594,16 +59614,6 @@
           "series": "東北",
           "raceId": "26775",
           "categoryId": "26775",
-          "categoryName": "WU15"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26114",
-          "categoryId": "26114",
           "categoryName": "WU15"
         }
       ]
@@ -61154,8 +61164,18 @@
       "riderId": "CXK-201-0084",
       "name": "高橋 和樹",
       "dataQuality": "ok",
-      "totalAppearances": 30,
+      "totalAppearances": 31,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -61204,16 +61224,6 @@
           "series": "関東",
           "raceId": "27678",
           "categoryId": "27678",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CHB-256-006",
-          "meetName": "CYCLOCROSS TOKYO 2026 Day1",
-          "meetDate": "2026-02-07",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "27113",
-          "categoryId": "27113",
           "categoryName": "ME2"
         }
       ]
@@ -62196,8 +62206,18 @@
       "riderId": "CXK-212-0012",
       "name": "Spitz Benjamin",
       "dataQuality": "ok",
-      "totalAppearances": 30,
+      "totalAppearances": 31,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -62246,16 +62266,6 @@
           "series": "東京",
           "raceId": "26293",
           "categoryId": "26293",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "CCM-256-010",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第5戦　富士山",
-          "meetDate": "2025-11-16",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "24921",
-          "categoryId": "24921",
           "categoryName": "ME3"
         }
       ]
@@ -62428,8 +62438,18 @@
       "riderId": "CXK-212-0016",
       "name": "川内 一史",
       "dataQuality": "ok",
-      "totalAppearances": 52,
+      "totalAppearances": 53,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -62478,16 +62498,6 @@
           "series": "関東",
           "raceId": "27671",
           "categoryId": "27671",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "CHB-256-006",
-          "meetName": "CYCLOCROSS TOKYO 2026 Day1",
-          "meetDate": "2026-02-07",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "27106",
-          "categoryId": "27106",
           "categoryName": "ME3"
         }
       ]
@@ -68362,8 +68372,18 @@
       "riderId": "CXK-234-0037",
       "name": "村上 輪武",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29038",
+          "categoryId": "29038",
+          "categoryName": "CK1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -68412,16 +68432,6 @@
           "series": "東北",
           "raceId": "27805",
           "categoryId": "27805",
-          "categoryName": "CK1"
-        },
-        {
-          "meetId": "CXK-256-004",
-          "meetName": "GALFER presents 茨城シクロクロス第4戦 取手ステージ",
-          "meetDate": "2026-02-23",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27748",
-          "categoryId": "27748",
           "categoryName": "CK1"
         }
       ]
@@ -73222,8 +73232,18 @@
       "riderId": "CXK-256-0003",
       "name": "櫻井 唯人",
       "dataQuality": "ok",
-      "totalAppearances": 9,
+      "totalAppearances": 10,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29038",
+          "categoryId": "29038",
+          "categoryName": "CK1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -73272,16 +73292,6 @@
           "series": "前橋",
           "raceId": "27390",
           "categoryId": "27390",
-          "categoryName": "CK1"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27079",
-          "categoryId": "27079",
           "categoryName": "CK1"
         }
       ]
@@ -76606,8 +76616,18 @@
       "riderId": "GPM-000-0963",
       "name": "佐復 真人",
       "dataQuality": "ok",
-      "totalAppearances": 7,
+      "totalAppearances": 8,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MDX-245-005",
           "meetName": "野田シクロクロス25",
@@ -76657,16 +76677,6 @@
           "raceId": "19386",
           "categoryId": "19386",
           "categoryName": "C1"
-        },
-        {
-          "meetId": "TCX-234-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2023-11-26",
-          "season": "2023-24",
-          "series": "東北",
-          "raceId": "18480",
-          "categoryId": "18480",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -80154,8 +80164,18 @@
       "riderId": "GPM-000-2183",
       "name": "香西 真介",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CHB-256-006",
           "meetName": "CYCLOCROSS TOKYO 2026 Day1",
@@ -80205,16 +80225,6 @@
           "raceId": "24985",
           "categoryId": "24985",
           "categoryName": "ME2"
-        },
-        {
-          "meetId": "CHB-245-006",
-          "meetName": "CYCLOCROSS TOKYO 2025 Day2",
-          "meetDate": "2025-02-09",
-          "season": "2024-25",
-          "series": "千葉",
-          "raceId": "23351",
-          "categoryId": "23351",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -84190,8 +84200,18 @@
       "riderId": "KNS-000-1011",
       "name": "稲益 拓也",
       "dataQuality": "ok",
-      "totalAppearances": 31,
+      "totalAppearances": 32,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TKI-256-008",
           "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
@@ -84240,16 +84260,6 @@
           "series": "東海",
           "raceId": "25813",
           "categoryId": "25813",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-001",
-          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25352",
-          "categoryId": "25352",
           "categoryName": "ME1"
         }
       ]
@@ -87874,8 +87884,18 @@
       "riderId": "KNS-000-2080",
       "name": "日比 正明",
       "dataQuality": "ok",
-      "totalAppearances": 57,
+      "totalAppearances": 58,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -87924,16 +87944,6 @@
           "series": "もみじ",
           "raceId": "28143",
           "categoryId": "28143",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "MMJ-256-005",
-          "meetName": "2025-26もみじシクロクロス第５戦",
-          "meetDate": "2026-03-15",
-          "season": "2025-26",
-          "series": "もみじ",
-          "raceId": "27858",
-          "categoryId": "27858",
           "categoryName": "ME1"
         }
       ]
@@ -89970,8 +89980,18 @@
       "riderId": "KNS-000-2566",
       "name": "森 峰明",
       "dataQuality": "ok",
-      "totalAppearances": 38,
+      "totalAppearances": 39,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -90020,16 +90040,6 @@
           "series": "関西",
           "raceId": "27012",
           "categoryId": "27012",
-          "categoryName": "E1"
-        },
-        {
-          "meetId": "KNS-256-008",
-          "meetName": "関西シクロクロス 第8戦 希望が丘",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "26870",
-          "categoryId": "26870",
           "categoryName": "E1"
         }
       ]
@@ -90938,8 +90948,18 @@
       "riderId": "KNS-000-2647",
       "name": "柿本 哲治",
       "dataQuality": "ok",
-      "totalAppearances": 52,
+      "totalAppearances": 53,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -90989,16 +91009,6 @@
           "raceId": "28139",
           "categoryId": "28139",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "KNS-256-010",
-          "meetName": "関西シクロクロス 第10戦 富田林",
-          "meetDate": "2026-02-22",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "27770",
-          "categoryId": "27770",
-          "categoryName": "E1"
         }
       ]
     },
@@ -97086,8 +97096,18 @@
       "riderId": "KNS-000-3745",
       "name": "自檀地 崇",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -97136,16 +97156,6 @@
           "series": "関西",
           "raceId": "27160",
           "categoryId": "27160",
-          "categoryName": "E1"
-        },
-        {
-          "meetId": "KNS-256-009",
-          "meetName": "関西シクロクロス 第9戦 マイアミ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "27012",
-          "categoryId": "27012",
           "categoryName": "E1"
         }
       ]
@@ -102488,8 +102498,18 @@
       "riderId": "KNS-000-4326",
       "name": "岡 理裕",
       "dataQuality": "ok",
-      "totalAppearances": 33,
+      "totalAppearances": 34,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TKI-256-008",
           "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
@@ -102539,16 +102559,6 @@
           "raceId": "26356",
           "categoryId": "26356",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "JPN-256-002",
-          "meetName": "第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(日曜)",
-          "meetDate": "2025-12-14",
-          "season": "2025-26",
-          "series": "全日本",
-          "raceId": "25888",
-          "categoryId": "25888",
-          "categoryName": "ME"
         }
       ]
     },
@@ -103446,8 +103456,18 @@
       "riderId": "KNS-000-4432",
       "name": "中西 健児",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCS-256-003",
           "meetName": "シクロクロス四国 第3戦 阿波シクロクロス",
@@ -103496,16 +103516,6 @@
           "series": "東海",
           "raceId": "26668",
           "categoryId": "26668",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-005",
-          "meetName": "東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1",
-          "meetDate": "2026-01-10",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26649",
-          "categoryId": "26649",
           "categoryName": "ME1"
         }
       ]
@@ -121886,8 +121896,18 @@
       "riderId": "KNS-189-0020",
       "name": "髙 智紀",
       "dataQuality": "ok",
-      "totalAppearances": 27,
+      "totalAppearances": 28,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCH-256-001",
           "meetName": "中国シクロクロス岡山県井原市葡萄浪漫館",
@@ -121936,16 +121956,6 @@
           "series": "東海",
           "raceId": "26668",
           "categoryId": "26668",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-005",
-          "meetName": "東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1",
-          "meetDate": "2026-01-10",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26649",
-          "categoryId": "26649",
           "categoryName": "ME1"
         }
       ]
@@ -129314,8 +129324,18 @@
       "riderId": "KNS-190-0171",
       "name": "樋口 博之",
       "dataQuality": "ok",
-      "totalAppearances": 32,
+      "totalAppearances": 33,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -129364,16 +129384,6 @@
           "series": "関西",
           "raceId": "27012",
           "categoryId": "27012",
-          "categoryName": "E1"
-        },
-        {
-          "meetId": "KNS-256-008",
-          "meetName": "関西シクロクロス 第8戦 希望が丘",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "26870",
-          "categoryId": "26870",
           "categoryName": "E1"
         }
       ]
@@ -129876,8 +129886,18 @@
       "riderId": "KNS-190-0189",
       "name": "福 隼人",
       "dataQuality": "ok",
-      "totalAppearances": 28,
+      "totalAppearances": 29,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -129926,16 +129946,6 @@
           "series": "関西",
           "raceId": "27773",
           "categoryId": "27773",
-          "categoryName": "E2"
-        },
-        {
-          "meetId": "KNS-256-009",
-          "meetName": "関西シクロクロス 第9戦 マイアミ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "27015",
-          "categoryId": "27015",
           "categoryName": "E2"
         }
       ]
@@ -135988,8 +135998,18 @@
       "riderId": "KNS-201-0155",
       "name": "山末 浩史",
       "dataQuality": "ok",
-      "totalAppearances": 42,
+      "totalAppearances": 43,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-001",
           "meetName": "関西シクロクロス 第1戦 桂川",
@@ -136039,16 +136059,6 @@
           "raceId": "26870",
           "categoryId": "26870",
           "categoryName": "E1"
-        },
-        {
-          "meetId": "TKI-256-006",
-          "meetName": "東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2",
-          "meetDate": "2026-01-11",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26668",
-          "categoryId": "26668",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -137616,8 +137626,18 @@
       "riderId": "KNS-201-0222",
       "name": "田中 識章",
       "dataQuality": "ok",
-      "totalAppearances": 50,
+      "totalAppearances": 51,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -137666,16 +137686,6 @@
           "series": "関西",
           "raceId": "27770",
           "categoryId": "27770",
-          "categoryName": "E1"
-        },
-        {
-          "meetId": "KNS-256-011",
-          "meetName": "関西シクロクロス くろんどクロス",
-          "meetDate": "2026-02-08",
-          "season": "2025-26",
-          "series": "関西",
-          "raceId": "27160",
-          "categoryId": "27160",
           "categoryName": "E1"
         }
       ]
@@ -199722,8 +199732,18 @@
       "riderId": "SHN-167-0099",
       "name": "若月 浩二",
       "dataQuality": "ok",
-      "totalAppearances": 30,
+      "totalAppearances": 31,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29035",
+          "categoryId": "29035",
+          "categoryName": "MM2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -199772,16 +199792,6 @@
           "series": "千葉",
           "raceId": "26424",
           "categoryId": "26424",
-          "categoryName": "MM55"
-        },
-        {
-          "meetId": "XTK-256-001",
-          "meetName": "INAGI CROSS-12",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東京",
-          "raceId": "26286",
-          "categoryId": "26286",
           "categoryName": "MM55"
         }
       ]
@@ -207966,8 +207976,18 @@
       "riderId": "TCX-000-1001",
       "name": "佐藤 利英",
       "dataQuality": "ok",
-      "totalAppearances": 21,
+      "totalAppearances": 22,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -208017,16 +208037,6 @@
           "raceId": "26802",
           "categoryId": "26802",
           "categoryName": "MM40"
-        },
-        {
-          "meetId": "JPN-256-001",
-          "meetName": "第31回 全日本自転車競技選手権大会 シクロクロス 大阪・二色の浜(土曜)",
-          "meetDate": "2025-12-13",
-          "season": "2025-26",
-          "series": "全日本",
-          "raceId": "25874",
-          "categoryId": "25874",
-          "categoryName": "MM40-44"
         }
       ]
     },
@@ -208034,8 +208044,18 @@
       "riderId": "TCX-000-1007",
       "name": "坂田 智徳",
       "dataQuality": "ok",
-      "totalAppearances": 15,
+      "totalAppearances": 16,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -208084,16 +208104,6 @@
           "series": "東北",
           "raceId": "25911",
           "categoryId": "25911",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24985",
-          "categoryId": "24985",
           "categoryName": "ME2"
         }
       ]
@@ -208170,8 +208180,18 @@
       "riderId": "TCX-000-1010",
       "name": "江川 嘉宏",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -208221,16 +208241,6 @@
           "raceId": "24976",
           "categoryId": "24976",
           "categoryName": "MM3"
-        },
-        {
-          "meetId": "TCX-256-001",
-          "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)",
-          "meetDate": "2025-10-26",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24559",
-          "categoryId": "24559",
-          "categoryName": "MM65"
         }
       ]
     },
@@ -208334,8 +208344,18 @@
       "riderId": "TCX-000-1013",
       "name": "齋藤 拓真",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -208385,16 +208405,6 @@
           "raceId": "27393",
           "categoryId": "27393",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26800",
-          "categoryId": "26800",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -208402,8 +208412,18 @@
       "riderId": "TCX-000-1025",
       "name": "三浦 孝司",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -208453,16 +208473,6 @@
           "raceId": "23333",
           "categoryId": "23333",
           "categoryName": "MM50"
-        },
-        {
-          "meetId": "CXK-245-005",
-          "meetName": "茨城シクロクロス第5戦大洗町大洗サンビーチステージ",
-          "meetDate": "2025-01-26",
-          "season": "2024-25",
-          "series": "関東",
-          "raceId": "23282",
-          "categoryId": "23282",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -209106,8 +209116,18 @@
       "riderId": "TCX-000-2029",
       "name": "山田 幸広",
       "dataQuality": "ok",
-      "totalAppearances": 29,
+      "totalAppearances": 30,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -209156,16 +209176,6 @@
           "series": "関東",
           "raceId": "27075",
           "categoryId": "27075",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26788",
-          "categoryId": "26788",
           "categoryName": "ME1"
         }
       ]
@@ -209242,8 +209252,18 @@
       "riderId": "TCX-000-2038",
       "name": "阪野 邦和",
       "dataQuality": "ok",
-      "totalAppearances": 12,
+      "totalAppearances": 13,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -209293,16 +209313,6 @@
           "raceId": "24000",
           "categoryId": "24000",
           "categoryName": "MM1"
-        },
-        {
-          "meetId": "TCX-245-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2025-01-19",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23050",
-          "categoryId": "23050",
-          "categoryName": "MM50"
         }
       ]
     },
@@ -209650,8 +209660,18 @@
       "riderId": "TCX-000-3031",
       "name": "中里 聡史",
       "dataQuality": "ok",
-      "totalAppearances": 16,
+      "totalAppearances": 17,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28874",
+          "categoryId": "28874",
+          "categoryName": "MM1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -209701,16 +209721,6 @@
           "raceId": "25875",
           "categoryId": "25875",
           "categoryName": "MM45-49"
-        },
-        {
-          "meetId": "UCX-256-014",
-          "meetName": "2025 宇都宮シクロクロス Day1",
-          "meetDate": "2025-12-06",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25862",
-          "categoryId": "25862",
-          "categoryName": "MM45"
         }
       ]
     },
@@ -210258,8 +210268,18 @@
       "riderId": "TCX-156-0001",
       "name": "江部 敏",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29035",
+          "categoryId": "29035",
+          "categoryName": "MM2"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -210309,16 +210329,6 @@
           "raceId": "22720",
           "categoryId": "22720",
           "categoryName": "MM60"
-        },
-        {
-          "meetId": "TCX-245-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2024-11-24",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "22220",
-          "categoryId": "22220",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -210344,8 +210354,18 @@
       "riderId": "TCX-156-0007",
       "name": "武田 善弘",
       "dataQuality": "ok",
-      "totalAppearances": 14,
+      "totalAppearances": 15,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -210395,16 +210415,6 @@
           "raceId": "24559",
           "categoryId": "24559",
           "categoryName": "MM65"
-        },
-        {
-          "meetId": "TCX-245-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2025-03-02",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23989",
-          "categoryId": "23989",
-          "categoryName": "MM3"
         }
       ]
     },
@@ -210498,8 +210508,18 @@
       "riderId": "TCX-156-0027",
       "name": "國井 豊",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -210549,16 +210569,6 @@
           "raceId": "19410",
           "categoryId": "19410",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-234-003",
-          "meetName": "茨城シクロクロス 第3戦 城里町 うぐいすの里ステージ",
-          "meetDate": "2023-12-17",
-          "season": "2023-24",
-          "series": "関東",
-          "raceId": "19386",
-          "categoryId": "19386",
-          "categoryName": "C1"
         }
       ]
     },
@@ -210680,8 +210690,18 @@
       "riderId": "TCX-156-0067",
       "name": "高橋 綾一",
       "dataQuality": "ok",
-      "totalAppearances": 38,
+      "totalAppearances": 39,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "CCM-267-005",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第5戦飯山Day2",
@@ -210730,16 +210750,6 @@
           "series": "東北",
           "raceId": "27786",
           "categoryId": "27786",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "CXK-256-004",
-          "meetName": "GALFER presents 茨城シクロクロス第4戦 取手ステージ",
-          "meetDate": "2026-02-23",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27678",
-          "categoryId": "27678",
           "categoryName": "ME2"
         }
       ]
@@ -210864,8 +210874,18 @@
       "riderId": "TCX-167-0018",
       "name": "林 健太郎",
       "dataQuality": "ok",
-      "totalAppearances": 29,
+      "totalAppearances": 30,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -210914,16 +210934,6 @@
           "series": "千葉",
           "raceId": "27097",
           "categoryId": "27097",
-          "categoryName": "MM50"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26795",
-          "categoryId": "26795",
           "categoryName": "MM50"
         }
       ]
@@ -211018,8 +211028,18 @@
       "riderId": "TCX-167-0029",
       "name": "鈴木 将",
       "dataQuality": "ok",
-      "totalAppearances": 48,
+      "totalAppearances": 49,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -211069,16 +211089,6 @@
           "raceId": "27793",
           "categoryId": "27793",
           "categoryName": "トウホクシングルスピード選手権"
-        },
-        {
-          "meetId": "CHB-256-007",
-          "meetName": "CYCLOCROSS TOKYO 2026 Day2",
-          "meetDate": "2026-02-08",
-          "season": "2025-26",
-          "series": "千葉",
-          "raceId": "27225",
-          "categoryId": "27225",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -211346,8 +211356,18 @@
       "riderId": "TCX-178-0015",
       "name": "高木 倫太郎",
       "dataQuality": "ok",
-      "totalAppearances": 9,
+      "totalAppearances": 10,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -211397,16 +211417,6 @@
           "raceId": "23990",
           "categoryId": "23990",
           "categoryName": "ME3"
-        },
-        {
-          "meetId": "TCX-245-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2025-01-19",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23049",
-          "categoryId": "23049",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -211594,8 +211604,18 @@
       "riderId": "TCX-178-0029",
       "name": "斎藤 源人",
       "dataQuality": "ok",
-      "totalAppearances": 15,
+      "totalAppearances": 16,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -211644,16 +211664,6 @@
           "series": "東北",
           "raceId": "26083",
           "categoryId": "26083",
-          "categoryName": "MM3"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24976",
-          "categoryId": "24976",
           "categoryName": "MM3"
         }
       ]
@@ -211844,8 +211854,18 @@
       "riderId": "TCX-189-0005",
       "name": "森谷 康平",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -212054,8 +212074,18 @@
       "riderId": "TCX-189-0024",
       "name": "田邊 昌宏",
       "dataQuality": "ok",
-      "totalAppearances": 16,
+      "totalAppearances": 17,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "NGT-267-001",
           "meetName": "雪国オータムクロス",
@@ -212104,16 +212134,6 @@
           "series": "信州",
           "raceId": "25576",
           "categoryId": "25576",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24987",
-          "categoryId": "24987",
           "categoryName": "ME1"
         }
       ]
@@ -212296,8 +212316,18 @@
       "riderId": "TCX-189-0032",
       "name": "半澤 和樹",
       "dataQuality": "ok",
-      "totalAppearances": 11,
+      "totalAppearances": 12,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29035",
+          "categoryId": "29035",
+          "categoryName": "MM2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -212347,16 +212377,6 @@
           "raceId": "23061",
           "categoryId": "23061",
           "categoryName": "MM40"
-        },
-        {
-          "meetId": "TCX-245-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2024-12-22",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "22729",
-          "categoryId": "22729",
-          "categoryName": "MM3"
         }
       ]
     },
@@ -212884,8 +212904,18 @@
       "riderId": "TCX-190-0028",
       "name": "遠藤 裕太",
       "dataQuality": "ok",
-      "totalAppearances": 37,
+      "totalAppearances": 38,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -212935,16 +212965,6 @@
           "raceId": "27225",
           "categoryId": "27225",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26788",
-          "categoryId": "26788",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -212952,8 +212972,18 @@
       "riderId": "TCX-190-0030",
       "name": "渡辺 竜也",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -213003,16 +213033,6 @@
           "raceId": "22307",
           "categoryId": "22307",
           "categoryName": "MM3"
-        },
-        {
-          "meetId": "TCX-234-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2023-12-24",
-          "season": "2023-24",
-          "series": "東北",
-          "raceId": "19401",
-          "categoryId": "19401",
-          "categoryName": "MM35+40"
         }
       ]
     },
@@ -213020,8 +213040,18 @@
       "riderId": "TCX-190-0034",
       "name": "加藤 快介",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-256-003",
           "meetName": "東北CXシリーズ#3いわきラウンド",
@@ -213071,16 +213101,6 @@
           "raceId": "19880",
           "categoryId": "19880",
           "categoryName": "UCI-Men U23"
-        },
-        {
-          "meetId": "TCX-234-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2023-12-24",
-          "season": "2023-24",
-          "series": "東北",
-          "raceId": "19410",
-          "categoryId": "19410",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -213242,8 +213262,18 @@
       "riderId": "TCX-190-0039",
       "name": "村上 蕾夢",
       "dataQuality": "ok",
-      "totalAppearances": 42,
+      "totalAppearances": 43,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -213293,16 +213323,6 @@
           "raceId": "28101",
           "categoryId": "28101",
           "categoryName": "MU17"
-        },
-        {
-          "meetId": "TCX-256-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2026-03-01",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "27777",
-          "categoryId": "27777",
-          "categoryName": "ME3"
         }
       ]
     },
@@ -213396,8 +213416,18 @@
       "riderId": "TCX-201-0007",
       "name": "渡辺 徹",
       "dataQuality": "ok",
-      "totalAppearances": 28,
+      "totalAppearances": 29,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-005",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第5戦飯山Day2",
@@ -213446,16 +213476,6 @@
           "series": "前橋",
           "raceId": "27393",
           "categoryId": "27393",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27075",
-          "categoryId": "27075",
           "categoryName": "ME1"
         }
       ]
@@ -213736,8 +213756,18 @@
       "riderId": "TCX-201-0031",
       "name": "香野 祐一",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -213787,16 +213817,6 @@
           "raceId": "27749",
           "categoryId": "27749",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27075",
-          "categoryId": "27075",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -213804,8 +213824,18 @@
       "riderId": "TCX-201-0032",
       "name": "田辺 明宏",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "NGT-267-001",
           "meetName": "雪国オータムクロス",
@@ -213854,16 +213884,6 @@
           "series": "東北",
           "raceId": "26767",
           "categoryId": "26767",
-          "categoryName": "MM60"
-        },
-        {
-          "meetId": "TCX-256-001",
-          "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)",
-          "meetDate": "2025-10-26",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24558",
-          "categoryId": "24558",
           "categoryName": "MM60"
         }
       ]
@@ -214008,8 +214028,18 @@
       "riderId": "TCX-212-0002",
       "name": "原 良多",
       "dataQuality": "ok",
-      "totalAppearances": 53,
+      "totalAppearances": 54,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -214058,16 +214088,6 @@
           "series": "山口",
           "raceId": "27033",
           "categoryId": "27033",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26788",
-          "categoryId": "26788",
           "categoryName": "ME1"
         }
       ]
@@ -214144,8 +214164,18 @@
       "riderId": "TCX-212-0005",
       "name": "半澤 里奈",
       "dataQuality": "ok",
-      "totalAppearances": 5,
+      "totalAppearances": 6,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29036",
+          "categoryId": "29036",
+          "categoryName": "CK3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -214202,8 +214232,18 @@
       "riderId": "TCX-212-0006",
       "name": "渡辺 陽葵",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28871",
+          "categoryId": "28871",
+          "categoryName": "WU15"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -214253,16 +214293,6 @@
           "raceId": "25908",
           "categoryId": "25908",
           "categoryName": "CK3"
-        },
-        {
-          "meetId": "UCX-256-015",
-          "meetName": "2025 宇都宮シクロクロス Day2",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25846",
-          "categoryId": "25846",
-          "categoryName": "CK3"
         }
       ]
     },
@@ -214270,8 +214300,18 @@
       "riderId": "TCX-212-0007",
       "name": "原 睦",
       "dataQuality": "ok",
-      "totalAppearances": 40,
+      "totalAppearances": 41,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28870",
+          "categoryId": "28870",
+          "categoryName": "WE1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -214321,16 +214361,6 @@
           "raceId": "24344",
           "categoryId": "24344",
           "categoryName": "WE1"
-        },
-        {
-          "meetId": "CCM-256-001",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第1戦 白樺湖",
-          "meetDate": "2025-09-21",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "24375",
-          "categoryId": "24375",
-          "categoryName": "WE1"
         }
       ]
     },
@@ -214338,8 +214368,18 @@
       "riderId": "TCX-212-0008",
       "name": "遠藤 健心",
       "dataQuality": "ok",
-      "totalAppearances": 11,
+      "totalAppearances": 12,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -214389,16 +214429,6 @@
           "raceId": "25913",
           "categoryId": "25913",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24985",
-          "categoryId": "24985",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -214636,8 +214666,18 @@
       "riderId": "TCX-212-0018",
       "name": "村上 鳳冴",
       "dataQuality": "ok",
-      "totalAppearances": 44,
+      "totalAppearances": 45,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -214687,16 +214727,6 @@
           "raceId": "28099",
           "categoryId": "28099",
           "categoryName": "MU15"
-        },
-        {
-          "meetId": "TCX-256-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2026-03-01",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "27801",
-          "categoryId": "27801",
-          "categoryName": "MU15"
         }
       ]
     },
@@ -214704,8 +214734,18 @@
       "riderId": "TCX-212-0020",
       "name": "大関 奏音",
       "dataQuality": "ok",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28870",
+          "categoryId": "28870",
+          "categoryName": "WE1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -215100,8 +215140,18 @@
       "riderId": "TCX-223-0002",
       "name": "三浦 庄太郎",
       "dataQuality": "ok",
-      "totalAppearances": 15,
+      "totalAppearances": 16,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "NGT-267-001",
           "meetName": "雪国オータムクロス",
@@ -215151,16 +215201,6 @@
           "raceId": "23332",
           "categoryId": "23332",
           "categoryName": "ME4-B"
-        },
-        {
-          "meetId": "MDX-245-005",
-          "meetName": "野田シクロクロス25",
-          "meetDate": "2025-02-02",
-          "season": "2024-25",
-          "series": "野田",
-          "raceId": "23304",
-          "categoryId": "23304",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -215168,8 +215208,18 @@
       "riderId": "TCX-223-0004",
       "name": "目時 佳祐",
       "dataQuality": "ok",
-      "totalAppearances": 19,
+      "totalAppearances": 20,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -215219,16 +215269,6 @@
           "raceId": "26770",
           "categoryId": "26770",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26081",
-          "categoryId": "26081",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -215236,8 +215276,18 @@
       "riderId": "TCX-223-0005",
       "name": "早坂 明彦",
       "dataQuality": "ok",
-      "totalAppearances": 16,
+      "totalAppearances": 17,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "NGT-267-001",
           "meetName": "雪国オータムクロス",
@@ -215287,16 +215337,6 @@
           "raceId": "24581",
           "categoryId": "24581",
           "categoryName": "MM55"
-        },
-        {
-          "meetId": "TCX-245-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2025-03-02",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23989",
-          "categoryId": "23989",
-          "categoryName": "MM3"
         }
       ]
     },
@@ -215304,8 +215344,18 @@
       "riderId": "TCX-223-0008",
       "name": "村上 耀太",
       "dataQuality": "ok",
-      "totalAppearances": 39,
+      "totalAppearances": 40,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29036",
+          "categoryId": "29036",
+          "categoryName": "CK3"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -215355,16 +215405,6 @@
           "raceId": "27804",
           "categoryId": "27804",
           "categoryName": "CK2"
-        },
-        {
-          "meetId": "CXK-256-004",
-          "meetName": "GALFER presents 茨城シクロクロス第4戦 取手ステージ",
-          "meetDate": "2026-02-23",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27747",
-          "categoryId": "27747",
-          "categoryName": "CK2"
         }
       ]
     },
@@ -215372,8 +215412,18 @@
       "riderId": "TCX-223-0009",
       "name": "片倉 大",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -215423,16 +215473,6 @@
           "raceId": "22728",
           "categoryId": "22728",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-245-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2024-11-24",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "22306",
-          "categoryId": "22306",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -215468,8 +215508,18 @@
       "riderId": "TCX-223-0015",
       "name": "清水 知佳",
       "dataQuality": "ok",
-      "totalAppearances": 12,
+      "totalAppearances": 13,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28870",
+          "categoryId": "28870",
+          "categoryName": "WE1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -215518,16 +215568,6 @@
           "series": "東北",
           "raceId": "22735",
           "categoryId": "22735",
-          "categoryName": "WE1"
-        },
-        {
-          "meetId": "TCX-245-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2024-11-24",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "22217",
-          "categoryId": "22217",
           "categoryName": "WE1"
         }
       ]
@@ -215604,8 +215644,18 @@
       "riderId": "TCX-223-0017",
       "name": "丹羽 雄之",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-245-002",
           "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
@@ -215655,16 +215705,6 @@
           "raceId": "20742",
           "categoryId": "20742",
           "categoryName": "MM50"
-        },
-        {
-          "meetId": "TCX-234-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2023-12-24",
-          "season": "2023-24",
-          "series": "東北",
-          "raceId": "19399",
-          "categoryId": "19399",
-          "categoryName": "MM50+60"
         }
       ]
     },
@@ -215932,8 +215972,18 @@
       "riderId": "TCX-223-0024",
       "name": "煙山 造",
       "dataQuality": "ok",
-      "totalAppearances": 14,
+      "totalAppearances": 15,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -215982,16 +216032,6 @@
           "series": "東北",
           "raceId": "23990",
           "categoryId": "23990",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "MDX-245-005",
-          "meetName": "野田シクロクロス25",
-          "meetDate": "2025-02-02",
-          "season": "2024-25",
-          "series": "野田",
-          "raceId": "23308",
-          "categoryId": "23308",
           "categoryName": "ME3"
         }
       ]
@@ -216296,8 +216336,18 @@
       "riderId": "TCX-234-0008",
       "name": "佐藤 佳依",
       "dataQuality": "ok",
-      "totalAppearances": 31,
+      "totalAppearances": 32,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -216347,16 +216397,6 @@
           "raceId": "28105",
           "categoryId": "28105",
           "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2026-03-01",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "27786",
-          "categoryId": "27786",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -216364,8 +216404,18 @@
       "riderId": "TCX-234-0009",
       "name": "千葉 玲司",
       "dataQuality": "ok",
-      "totalAppearances": 9,
+      "totalAppearances": 10,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -216415,16 +216465,6 @@
           "raceId": "24561",
           "categoryId": "24561",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-245-004",
-          "meetName": "東北CXシリーズ#4ざおうさまカップ(JCX)(JCF公認）",
-          "meetDate": "2025-01-19",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23049",
-          "categoryId": "23049",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -216432,8 +216472,18 @@
       "riderId": "TCX-234-0010",
       "name": "本田 圭吾",
       "dataQuality": "ok",
-      "totalAppearances": 19,
+      "totalAppearances": 20,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -216483,16 +216533,6 @@
           "raceId": "27671",
           "categoryId": "27671",
           "categoryName": "ME3"
-        },
-        {
-          "meetId": "CXK-256-003",
-          "meetName": "EXLUB presents 茨城シクロクロス第3戦 大洗町大洗サンビーチステージ",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27071",
-          "categoryId": "27071",
-          "categoryName": "ME3"
         }
       ]
     },
@@ -216538,8 +216578,18 @@
       "riderId": "TCX-234-0012",
       "name": "菊地 航平",
       "dataQuality": "ok",
-      "totalAppearances": 23,
+      "totalAppearances": 24,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -216588,16 +216638,6 @@
           "series": "湘南",
           "raceId": "26575",
           "categoryId": "26575",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26110",
-          "categoryId": "26110",
           "categoryName": "ME3"
         }
       ]
@@ -216948,8 +216988,18 @@
       "riderId": "TCX-245-0003",
       "name": "渡邊 嵩博",
       "dataQuality": "ok",
-      "totalAppearances": 25,
+      "totalAppearances": 26,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -216998,16 +217048,6 @@
           "series": "東北",
           "raceId": "27786",
           "categoryId": "27786",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "MBS-256-003",
-          "meetName": "前橋シクロクロス 岩神緑地 第2戦",
-          "meetDate": "2026-02-15",
-          "season": "2025-26",
-          "series": "前橋",
-          "raceId": "27388",
-          "categoryId": "27388",
           "categoryName": "ME2"
         }
       ]
@@ -217132,8 +217172,18 @@
       "riderId": "TCX-245-0006",
       "name": "富樫 敦",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "CCM-267-005",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第5戦飯山Day2",
@@ -217183,16 +217233,6 @@
           "raceId": "26083",
           "categoryId": "26083",
           "categoryName": "MM3"
-        },
-        {
-          "meetId": "UCX-256-014",
-          "meetName": "2025 宇都宮シクロクロス Day1",
-          "meetDate": "2025-12-06",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25863",
-          "categoryId": "25863",
-          "categoryName": "MM50"
         }
       ]
     },
@@ -217236,8 +217276,18 @@
       "riderId": "TCX-245-0009",
       "name": "畠山 和也",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28874",
+          "categoryId": "28874",
+          "categoryName": "MM1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -217287,16 +217337,6 @@
           "raceId": "24978",
           "categoryId": "24978",
           "categoryName": "MM2"
-        },
-        {
-          "meetId": "TCX-256-001",
-          "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)",
-          "meetDate": "2025-10-26",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24574",
-          "categoryId": "24574",
-          "categoryName": "MM35"
         }
       ]
     },
@@ -217304,8 +217344,18 @@
       "riderId": "TCX-245-0011",
       "name": "遠藤 勇輝",
       "dataQuality": "ok",
-      "totalAppearances": 2,
+      "totalAppearances": 3,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "CCM-267-001",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第１戦上山田",
@@ -217418,8 +217468,18 @@
       "riderId": "TCX-245-0014",
       "name": "軽部 翔太郎",
       "dataQuality": "ok",
-      "totalAppearances": 10,
+      "totalAppearances": 11,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28875",
+          "categoryId": "28875",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -217469,16 +217529,6 @@
           "raceId": "26413",
           "categoryId": "26413",
           "categoryName": "ME2"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26110",
-          "categoryId": "26110",
-          "categoryName": "ME3"
         }
       ]
     },
@@ -217486,8 +217536,18 @@
       "riderId": "TCX-245-0015",
       "name": "清水目 聖",
       "dataQuality": "ok",
-      "totalAppearances": 8,
+      "totalAppearances": 9,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -217537,16 +217597,6 @@
           "raceId": "24974",
           "categoryId": "24974",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-256-001",
-          "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)",
-          "meetDate": "2025-10-26",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24561",
-          "categoryId": "24561",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -217590,8 +217640,18 @@
       "riderId": "TCX-245-0018",
       "name": "森脇 惟斗",
       "dataQuality": "ok",
-      "totalAppearances": 7,
+      "totalAppearances": 8,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29037",
+          "categoryId": "29037",
+          "categoryName": "CK2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -217640,16 +217700,6 @@
           "series": "東北",
           "raceId": "24571",
           "categoryId": "24571",
-          "categoryName": "CK1"
-        },
-        {
-          "meetId": "TCX-245-005",
-          "meetName": "東北CXシリーズ#5福島空港ラウンド",
-          "meetDate": "2025-03-02",
-          "season": "2024-25",
-          "series": "東北",
-          "raceId": "23994",
-          "categoryId": "23994",
           "categoryName": "CK1"
         }
       ]
@@ -217984,8 +218034,18 @@
       "riderId": "TCX-256-0006",
       "name": "黒澤 慧太",
       "dataQuality": "ok",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -218186,8 +218246,18 @@
       "riderId": "TCX-256-0015",
       "name": "大谷 拓史",
       "dataQuality": "ok",
-      "totalAppearances": 3,
+      "totalAppearances": 4,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29034",
+          "categoryId": "29034",
+          "categoryName": "ME3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218300,8 +218370,18 @@
       "riderId": "TCX-256-0019",
       "name": "後藤 剛志",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-256-005",
           "meetName": "東北CXシリーズ#5福島空港ラウンド",
@@ -218426,8 +218506,18 @@
       "riderId": "TCX-256-0026",
       "name": "畠山 翔伍",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29038",
+          "categoryId": "29038",
+          "categoryName": "CK1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218444,8 +218534,18 @@
       "riderId": "TCX-267-0001",
       "name": "半田 恭明",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218462,8 +218562,18 @@
       "riderId": "TCX-267-0002",
       "name": "遠藤 和伸",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218498,8 +218608,18 @@
       "riderId": "TCX-267-0004",
       "name": "佐藤 俊之",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28935",
+          "categoryId": "28935",
+          "categoryName": "MM3"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218534,8 +218654,18 @@
       "riderId": "TCX-267-0006",
       "name": "大谷 真穂",
       "dataQuality": "ok",
-      "totalAppearances": 1,
+      "totalAppearances": 2,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29037",
+          "categoryId": "29037",
+          "categoryName": "CK2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -218581,6 +218711,78 @@
           "raceId": "28520",
           "categoryId": "28520",
           "categoryName": "CK1"
+        }
+      ]
+    },
+    {
+      "riderId": "TCX-267-0009",
+      "name": "岩下 知裕",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        }
+      ]
+    },
+    {
+      "riderId": "TCX-267-0010",
+      "name": "鈴木 天",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        }
+      ]
+    },
+    {
+      "riderId": "TCX-267-0011",
+      "name": "近藤 亘",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        }
+      ]
+    },
+    {
+      "riderId": "TCX-267-0012",
+      "name": "井上 裕貴",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
         }
       ]
     },
@@ -219254,8 +219456,18 @@
       "riderId": "TKI-156-0041",
       "name": "松邨 浩樹",
       "dataQuality": "ok",
-      "totalAppearances": 35,
+      "totalAppearances": 36,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-001",
           "meetName": "関西シクロクロス 第1戦 桂川",
@@ -219304,16 +219516,6 @@
           "series": "信州",
           "raceId": "26907",
           "categoryId": "26907",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-006",
-          "meetName": "東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2",
-          "meetDate": "2026-01-11",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26668",
-          "categoryId": "26668",
           "categoryName": "ME1"
         }
       ]
@@ -221214,8 +221416,18 @@
       "riderId": "TKI-156-0187",
       "name": "助川 修",
       "dataQuality": "ok",
-      "totalAppearances": 19,
+      "totalAppearances": 20,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "29035",
+          "categoryId": "29035",
+          "categoryName": "MM2"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -221265,16 +221477,6 @@
           "raceId": "26768",
           "categoryId": "26768",
           "categoryName": "MM65"
-        },
-        {
-          "meetId": "TCX-256-003",
-          "meetName": "東北CXシリーズ#3いわきラウンド",
-          "meetDate": "2025-12-21",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "26111",
-          "categoryId": "26111",
-          "categoryName": "MM2"
         }
       ]
     },
@@ -225426,8 +225628,18 @@
       "riderId": "TKI-178-0026",
       "name": "吉田 真人",
       "dataQuality": "ok",
-      "totalAppearances": 44,
+      "totalAppearances": 45,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-003",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2",
@@ -225476,16 +225688,6 @@
           "series": "東海",
           "raceId": "26969",
           "categoryId": "26969",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-006",
-          "meetName": "東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2",
-          "meetDate": "2026-01-11",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26668",
-          "categoryId": "26668",
           "categoryName": "ME1"
         }
       ]
@@ -227998,8 +228200,18 @@
       "riderId": "TKI-178-0243",
       "name": "井口 裕介",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 14,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "CCM-267-002",
           "meetName": "シクロクロスミーティングシリーズ　シーズン2026-2027　第2戦高ボッチDay1",
@@ -228048,16 +228260,6 @@
           "series": "東海",
           "raceId": "26358",
           "categoryId": "26358",
-          "categoryName": "ME2"
-        },
-        {
-          "meetId": "TKI-256-001",
-          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25315",
-          "categoryId": "25315",
           "categoryName": "ME2"
         }
       ]
@@ -229140,8 +229342,18 @@
       "riderId": "TKI-189-0034",
       "name": "福島 愛都",
       "dataQuality": "ok",
-      "totalAppearances": 29,
+      "totalAppearances": 30,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -229190,16 +229402,6 @@
           "series": "東海",
           "raceId": "26649",
           "categoryId": "26649",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-004",
-          "meetName": "東海シクロクロス 第4戦 岐阜県池田町 南部公園",
-          "meetDate": "2025-12-28",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26356",
-          "categoryId": "26356",
           "categoryName": "ME1"
         }
       ]
@@ -231518,8 +231720,18 @@
       "riderId": "TKI-189-0228",
       "name": "嶋崎 善文",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TKI-256-006",
           "meetName": "東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2",
@@ -231569,16 +231781,6 @@
           "raceId": "25414",
           "categoryId": "25414",
           "categoryName": "E2"
-        },
-        {
-          "meetId": "TKI-256-001",
-          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "25315",
-          "categoryId": "25315",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -232452,8 +232654,18 @@
       "riderId": "TKI-190-0047",
       "name": "晒名 陽介",
       "dataQuality": "ok",
-      "totalAppearances": 17,
+      "totalAppearances": 18,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28934",
+          "categoryId": "28934",
+          "categoryName": "ME4"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -232503,16 +232715,6 @@
           "raceId": "24974",
           "categoryId": "24974",
           "categoryName": "ME4"
-        },
-        {
-          "meetId": "TCX-256-001",
-          "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド(JCX)(JCF公認)",
-          "meetDate": "2025-10-26",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24561",
-          "categoryId": "24561",
-          "categoryName": "ME4"
         }
       ]
     },
@@ -232520,8 +232722,18 @@
       "riderId": "TKI-190-0048",
       "name": "千田 尚孝",
       "dataQuality": "ok",
-      "totalAppearances": 37,
+      "totalAppearances": 38,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "KNS-267-003",
           "meetName": "関西シクロクロス 第3戦 二色の浜",
@@ -232570,16 +232782,6 @@
           "series": "千葉",
           "raceId": "27225",
           "categoryId": "27225",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-007",
-          "meetName": "東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26969",
-          "categoryId": "26969",
           "categoryName": "ME1"
         }
       ]
@@ -237764,8 +237966,18 @@
       "riderId": "TKI-212-0045",
       "name": "黒沢 大介",
       "dataQuality": "ok",
-      "totalAppearances": 36,
+      "totalAppearances": 37,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TKI-256-008",
           "meetName": "東海シクロクロス 第8戦 愛知県豊田市 千石公園",
@@ -237815,16 +238027,6 @@
           "raceId": "26668",
           "categoryId": "26668",
           "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-005",
-          "meetName": "東海シクロクロス 第5戦 愛知県 愛知牧場 AIBOKU CROSS DAY1",
-          "meetDate": "2026-01-10",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26649",
-          "categoryId": "26649",
-          "categoryName": "ME1"
         }
       ]
     },
@@ -237832,8 +238034,18 @@
       "riderId": "TKI-212-0046",
       "name": "嶋岡 雅浩",
       "dataQuality": "ok",
-      "totalAppearances": 51,
+      "totalAppearances": 52,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -237882,16 +238094,6 @@
           "series": "千葉",
           "raceId": "27225",
           "categoryId": "27225",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "TKI-256-007",
-          "meetName": "東海シクロクロス 第7戦 愛知県一宮市 極楽寺公園",
-          "meetDate": "2026-01-25",
-          "season": "2025-26",
-          "series": "東海",
-          "raceId": "26969",
-          "categoryId": "26969",
           "categoryName": "ME1"
         }
       ]
@@ -239984,8 +240186,18 @@
       "riderId": "TKI-212-0136",
       "name": "知名 透真",
       "dataQuality": "ok",
-      "totalAppearances": 4,
+      "totalAppearances": 5,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "TKI-256-006",
           "meetName": "東海シクロクロス 第6戦 愛知県 愛知牧場 AIBOKU CROSS DAY2",
@@ -241940,8 +242152,18 @@
       "riderId": "TKI-223-0093",
       "name": "橋川 健",
       "dataQuality": "ok",
-      "totalAppearances": 18,
+      "totalAppearances": 19,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28874",
+          "categoryId": "28874",
+          "categoryName": "MM1"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -241990,16 +242212,6 @@
           "series": "東北",
           "raceId": "25912",
           "categoryId": "25912",
-          "categoryName": "MM1"
-        },
-        {
-          "meetId": "TCX-256-002",
-          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
-          "meetDate": "2025-11-23",
-          "season": "2025-26",
-          "series": "東北",
-          "raceId": "24986",
-          "categoryId": "24986",
           "categoryName": "MM1"
         }
       ]
@@ -256250,8 +256462,18 @@
       "riderId": "TMP-000-0013",
       "name": "小林 温",
       "dataQuality": "ok",
-      "totalAppearances": 15,
+      "totalAppearances": 16,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "TCX-267-001",
           "meetName": "東北CXシリーズ#1”亘理町長杯”わたりラウンド",
@@ -256300,16 +256522,6 @@
           "series": "東北",
           "raceId": "26798",
           "categoryId": "26798",
-          "categoryName": "ME3"
-        },
-        {
-          "meetId": "UCX-256-015",
-          "meetName": "2025 宇都宮シクロクロス Day2",
-          "meetDate": "2025-12-07",
-          "season": "2025-26",
-          "series": "宇都宮",
-          "raceId": "25847",
-          "categoryId": "25847",
           "categoryName": "ME3"
         }
       ]
@@ -261556,8 +261768,18 @@
       "riderId": "XTK-000-1557",
       "name": "鶴岡 聖隆",
       "dataQuality": "ok",
-      "totalAppearances": 26,
+      "totalAppearances": 27,
       "appearances": [
+        {
+          "meetId": "TCX-267-002",
+          "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東北",
+          "raceId": "28873",
+          "categoryId": "28873",
+          "categoryName": "ME2"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -261607,16 +261829,6 @@
           "raceId": "27793",
           "categoryId": "27793",
           "categoryName": "トウホクシングルスピード選手権"
-        },
-        {
-          "meetId": "CXK-256-004",
-          "meetName": "GALFER presents 茨城シクロクロス第4戦 取手ステージ",
-          "meetDate": "2026-02-23",
-          "season": "2025-26",
-          "series": "関東",
-          "raceId": "27678",
-          "categoryId": "27678",
-          "categoryName": "ME2"
         }
       ]
     },
@@ -270626,8 +270838,18 @@
       "riderId": "XTK-223-0159",
       "name": "鳴海 颯",
       "dataQuality": "ok",
-      "totalAppearances": 38,
+      "totalAppearances": 39,
       "appearances": [
+        {
+          "meetId": "TKI-267-001",
+          "meetName": "東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ",
+          "meetDate": "2026-11-22",
+          "season": "2026-27",
+          "series": "東海",
+          "raceId": "29056",
+          "categoryId": "29056",
+          "categoryName": "ME1"
+        },
         {
           "meetId": "MDX-267-002",
           "meetName": "弱虫ペダル Presents 松伏シクロクロス2026UCI2",
@@ -270676,16 +270898,6 @@
           "series": "関東",
           "raceId": "27075",
           "categoryId": "27075",
-          "categoryName": "ME1"
-        },
-        {
-          "meetId": "CCM-256-009",
-          "meetName": "シクロクロスミーティングシリーズ　シーズン2025-2026　第9戦　清里",
-          "meetDate": "2026-01-18",
-          "season": "2025-26",
-          "series": "信州",
-          "raceId": "26907",
-          "categoryId": "26907",
           "categoryName": "ME1"
         }
       ]

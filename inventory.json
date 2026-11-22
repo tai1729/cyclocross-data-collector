@@ -3,15 +3,162 @@
   "source": "https://data.cyclocross.jp",
   "counts": {
     "seasons": 4,
-    "events": 224,
-    "races": 3743,
-    "resultRowsAvailable": 61503,
-    "lapEnabledRaces": 3603,
+    "events": 225,
+    "races": 3756,
+    "resultRowsAvailable": 61614,
+    "lapEnabledRaces": 3617,
     "resultOnlyRaces": 52,
-    "unavailableRaces": 88,
-    "indexedRiders": 5890
+    "unavailableRaces": 87,
+    "indexedRiders": 5894
   },
   "events": [
+    {
+      "meetId": "TCX-267-002",
+      "season": "2026-27",
+      "meetDate": "2026-11-22",
+      "series": "東北",
+      "meetName": "東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）",
+      "categories": [
+        {
+          "raceId": "28875",
+          "name": "ME1",
+          "order": 0,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 13,
+          "lapRecords": 156,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28873",
+          "name": "ME2",
+          "order": 1,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 12,
+          "lapRecords": 85,
+          "excludedRowsByStatus": {
+            "DNS": 5
+          }
+        },
+        {
+          "raceId": "28870",
+          "name": "WE1",
+          "order": 2,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 23,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28874",
+          "name": "MM1",
+          "order": 3,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 5,
+          "lapRecords": 36,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "29036",
+          "name": "CK3",
+          "order": 4,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 2
+        },
+        {
+          "raceId": "29037",
+          "name": "CK2",
+          "order": 5,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 2
+        },
+        {
+          "raceId": "29038",
+          "name": "CK1",
+          "order": 6,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 3
+        },
+        {
+          "raceId": "29034",
+          "name": "ME3",
+          "order": 7,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 11,
+          "lapRecords": 40
+        },
+        {
+          "raceId": "28934",
+          "name": "ME4",
+          "order": 8,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 13,
+          "lapRecords": 43,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "29035",
+          "name": "MM2",
+          "order": 9,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 4,
+          "lapRecords": 12,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
+        },
+        {
+          "raceId": "28935",
+          "name": "MM3",
+          "order": 10,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 15,
+          "lapRecords": 49,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
+        },
+        {
+          "raceId": "28872",
+          "name": "WM",
+          "order": 11,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 3
+        },
+        {
+          "raceId": "28871",
+          "name": "WU15",
+          "order": 12,
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 8
+        }
+      ]
+    },
     {
       "meetId": "TKI-267-001",
       "season": "2026-27",
@@ -23,10 +170,13 @@
           "raceId": "29056",
           "name": "ME1",
           "order": 0,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 24,
+          "lapRecords": 210,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
         },
         {
           "raceId": "29058",

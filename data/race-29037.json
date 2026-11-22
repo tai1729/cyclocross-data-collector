@@ -1,0 +1,41 @@
+{
+  "raceId": "29037",
+  "raceName": "2026-11-22 東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-22T06:01:43.628Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-267-0006",
+      "name": "大谷 真穂",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 449.4,
+          "cumulativeTimeSec": 449.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-245-0018",
+      "name": "森脇 惟斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.7,
+          "cumulativeTimeSec": 532.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

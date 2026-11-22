@@ -1,0 +1,80 @@
+{
+  "raceId": "28871",
+  "raceName": "2026-11-22 東北CXシリーズ#2ジンギスクロス（南ヶ丘牧場）（東北 CX Project）",
+  "category": "WU15",
+  "updatedAt": "2026-11-22T06:01:39.637Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 394,
+          "cumulativeTimeSec": 394,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 306.1,
+          "cumulativeTimeSec": 700.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 321.5,
+          "cumulativeTimeSec": 1021.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 321.6,
+          "cumulativeTimeSec": 1343.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0006",
+      "name": "渡辺 陽葵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 455,
+          "cumulativeTimeSec": 455,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422.6,
+          "cumulativeTimeSec": 877.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 441.3,
+          "cumulativeTimeSec": 1318.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 439.9,
+          "cumulativeTimeSec": 1758.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
