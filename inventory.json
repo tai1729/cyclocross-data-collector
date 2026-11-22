@@ -5,11 +5,11 @@
     "seasons": 4,
     "events": 224,
     "races": 3743,
-    "resultRowsAvailable": 61269,
-    "lapEnabledRaces": 3591,
+    "resultRowsAvailable": 61364,
+    "lapEnabledRaces": 3594,
     "resultOnlyRaces": 52,
-    "unavailableRaces": 100,
-    "indexedRiders": 5875
+    "unavailableRaces": 97,
+    "indexedRiders": 5890
   },
   "events": [
     {
@@ -137,10 +137,13 @@
           "raceId": "29043",
           "name": "ME4",
           "order": 12,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 40,
+          "lapRecords": 107,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
         },
         {
           "raceId": "29047",
@@ -155,19 +158,25 @@
           "raceId": "29044",
           "name": "MM3A",
           "order": 14,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 30,
+          "lapRecords": 83,
+          "excludedRowsByStatus": {
+            "DNS": 2
+          }
         },
         {
           "raceId": "29045",
           "name": "MM3B",
           "order": 15,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 25,
+          "lapRecords": 64,
+          "excludedRowsByStatus": {
+            "DNS": 7
+          }
         },
         {
           "raceId": "29049",
