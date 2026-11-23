@@ -1,0 +1,87 @@
+{
+  "raceId": "29152",
+  "raceName": "2026-11-23 関西シクロクロス 第4戦 烏丸半島(2日目)（関西クロス）",
+  "category": "A70-74",
+  "updatedAt": "2026-11-23T08:02:08.292Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0077",
+      "name": "大永 徳彦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 299.6,
+          "cumulativeTimeSec": 299.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.3,
+          "cumulativeTimeSec": 592.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 289.5,
+          "cumulativeTimeSec": 882.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 290.5,
+          "cumulativeTimeSec": 1172.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 291.2,
+          "cumulativeTimeSec": 1464.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4164",
+      "name": "小寺 郁男",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 358.9,
+          "cumulativeTimeSec": 358.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 374.9,
+          "cumulativeTimeSec": 733.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 381,
+          "cumulativeTimeSec": 1114.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 383.2,
+          "cumulativeTimeSec": 1498,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

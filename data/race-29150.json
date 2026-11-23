@@ -1,0 +1,54 @@
+{
+  "raceId": "29150",
+  "raceName": "2026-11-23 関西シクロクロス 第4戦 烏丸半島(2日目)（関西クロス）",
+  "category": "A60-64",
+  "updatedAt": "2026-11-23T08:02:06.846Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-2154",
+      "name": "大河内 二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249,
+          "cumulativeTimeSec": 249,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 237.8,
+          "cumulativeTimeSec": 486.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 242.6,
+          "cumulativeTimeSec": 729.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 243.5,
+          "cumulativeTimeSec": 972.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 246.7,
+          "cumulativeTimeSec": 1219.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

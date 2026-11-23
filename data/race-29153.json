@@ -1,0 +1,80 @@
+{
+  "raceId": "29153",
+  "raceName": "2026-11-23 関西シクロクロス 第4戦 烏丸半島(2日目)（関西クロス）",
+  "category": "A75-79",
+  "updatedAt": "2026-11-23T08:02:08.327Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-0475",
+      "name": "磯部 喜男",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 363.5,
+          "cumulativeTimeSec": 363.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 338,
+          "cumulativeTimeSec": 701.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 320.5,
+          "cumulativeTimeSec": 1022,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 301.7,
+          "cumulativeTimeSec": 1323.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0233",
+      "name": "神谷 馨",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337.3,
+          "cumulativeTimeSec": 337.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.6,
+          "cumulativeTimeSec": 664.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 351.1,
+          "cumulativeTimeSec": 1016,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 345.4,
+          "cumulativeTimeSec": 1361.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

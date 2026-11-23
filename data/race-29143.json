@@ -1,0 +1,40 @@
+{
+  "raceId": "29143",
+  "raceName": "2026-11-23 関西シクロクロス 第4戦 烏丸半島(2日目)（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-11-23T08:02:04.900Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-245-0014",
+      "name": "本多 恋乃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 695.2,
+          "cumulativeTimeSec": 695.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 708.8,
+          "cumulativeTimeSec": 1404,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 734.8,
+          "cumulativeTimeSec": 2138.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "raceId": "29149",
+  "raceName": "2026-11-23 関西シクロクロス 第4戦 烏丸半島(2日目)（関西クロス）",
+  "category": "M4",
+  "updatedAt": "2026-11-23T08:02:06.841Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-267-0075",
+      "name": "大川 孝仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 259.2,
+          "cumulativeTimeSec": 259.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 233.8,
+          "cumulativeTimeSec": 493,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 235.7,
+          "cumulativeTimeSec": 728.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 264.4,
+          "cumulativeTimeSec": 993.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 252.1,
+          "cumulativeTimeSec": 1245.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-267-0023",
+      "name": "河本 央",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 300.6,
+          "cumulativeTimeSec": 300.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.5,
+          "cumulativeTimeSec": 592.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 291.2,
+          "cumulativeTimeSec": 883.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 304,
+          "cumulativeTimeSec": 1187.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 298.5,
+          "cumulativeTimeSec": 1485.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
