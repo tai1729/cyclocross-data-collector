@@ -2,6 +2,39 @@
   "raceId": "28961",
   "raceName": "2026-11-23 東海シクロクロス JCF/JCX公認レース FUKAYA GHISALLO CUP ワイルドネイチャープラザ（東海クロス）",
   "category": "MM70",
-  "updatedAt": "2026-11-23T02:01:54.163Z",
-  "riders": []
+  "updatedAt": "2026-11-23T03:01:47.532Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-2973",
+      "name": "宮本 光則",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 727.6,
+          "cumulativeTimeSec": 727.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 752.8,
+          "cumulativeTimeSec": 1480.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 720.4,
+          "cumulativeTimeSec": 2200.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }

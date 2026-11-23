@@ -5,11 +5,11 @@
     "seasons": 4,
     "events": 228,
     "races": 3810,
-    "resultRowsAvailable": 62088,
-    "lapEnabledRaces": 3657,
+    "resultRowsAvailable": 62152,
+    "lapEnabledRaces": 3665,
     "resultOnlyRaces": 52,
-    "unavailableRaces": 101,
-    "indexedRiders": 5905
+    "unavailableRaces": 93,
+    "indexedRiders": 5906
   },
   "events": [
     {
@@ -86,73 +86,82 @@
           "raceId": "28962",
           "name": "MM35",
           "order": 7,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 10
         },
         {
           "raceId": "28963",
           "name": "MM40",
           "order": 8,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 2,
+          "lapRecords": 10,
+          "excludedRowsByStatus": {
+            "DNS": 3
+          }
         },
         {
           "raceId": "28964",
           "name": "MM45",
           "order": 9,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 9,
+          "lapRecords": 41
         },
         {
           "raceId": "28965",
           "name": "MM50",
           "order": 10,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 14,
+          "lapRecords": 53,
+          "excludedRowsByStatus": {
+            "DNS": 5
+          }
         },
         {
           "raceId": "28966",
           "name": "MM55",
           "order": 11,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 19,
+          "lapRecords": 75
         },
         {
           "raceId": "28959",
           "name": "MM60",
           "order": 12,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 14,
+          "lapRecords": 56,
+          "excludedRowsByStatus": {
+            "DNS": 1
+          }
         },
         {
           "raceId": "28960",
           "name": "MM65",
           "order": 13,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 3,
+          "lapRecords": 12
         },
         {
           "raceId": "28961",
           "name": "MM70",
           "order": 14,
-          "resultAvailability": "unavailable",
-          "lapDataAvailability": "unavailable",
-          "resultRows": 0,
-          "lapRecords": 0
+          "resultAvailability": "available",
+          "lapDataAvailability": "enabled",
+          "resultRows": 1,
+          "lapRecords": 3
         },
         {
           "raceId": "28967",

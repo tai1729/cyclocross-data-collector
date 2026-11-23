@@ -2,6 +2,95 @@
   "raceId": "28963",
   "raceName": "2026-11-23 東海シクロクロス JCF/JCX公認レース FUKAYA GHISALLO CUP ワイルドネイチャープラザ（東海クロス）",
   "category": "MM40",
-  "updatedAt": "2026-11-23T02:01:54.627Z",
-  "riders": []
+  "updatedAt": "2026-11-23T03:01:47.934Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4169",
+      "name": "斉藤 和哉",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 464,
+          "cumulativeTimeSec": 464,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 480.6,
+          "cumulativeTimeSec": 944.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 477.8,
+          "cumulativeTimeSec": 1422.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 463.5,
+          "cumulativeTimeSec": 1885.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 472.6,
+          "cumulativeTimeSec": 2358.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0117",
+      "name": "秋本 光隆",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 499.7,
+          "cumulativeTimeSec": 499.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 514,
+          "cumulativeTimeSec": 1013.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 562.6,
+          "cumulativeTimeSec": 1576.3000000000002,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 546.8,
+          "cumulativeTimeSec": 2123.1000000000004,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 535.8,
+          "cumulativeTimeSec": 2658.9000000000005,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
 }
