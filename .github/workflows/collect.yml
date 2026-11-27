@@ -51,6 +51,12 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/ races.json known_meets.json meets.json inventory.json rider-index.json discovery-failures.json site-metadata.json
-          git diff --staged --quiet || git commit -m "chore: update race data"
+          git add data/ races.json known_meets.json meets.json inventory.json rider-index.json discovery-failures.json
+          # site-metadata.json records when data last changed, so it alone never triggers a commit.
+          if git diff --staged --quiet; then
+            echo "No data changes; skipping commit."
+            exit 0
+          fi
+          git add site-metadata.json
+          git commit -m "chore: update race data"
           git push

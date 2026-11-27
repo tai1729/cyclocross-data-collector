@@ -23,6 +23,7 @@ viewer（Vercel）
 
 - 公式サイトにCSVはないため、結果ページのHTML（`table__result` / `table__laptime`）をCheerioで解析しています。
 - 収集の起動は Cloudflare Worker（`infra/cloudflare-collector-trigger/`）が担当します。GitHub Actions の `schedule` は収集には使っていません。
+- データに変化がない実行ではコミットしません。内容が同じレースは再取得してもファイル（`updatedAt` を含む）を書き換えません。collector の稼働状況は Actions の実行履歴で確認します。
 - `collect.yml` は Actions 画面から手動実行もできます。`season` を指定すると過去シーズンを再収集します。
 
 全体のアーキテクチャ図は viewer 側の [docs/ARCHITECTURE.md](https://github.com/tai1729/cyclocross-viewer/blob/main/docs/ARCHITECTURE.md) にあります。
@@ -34,7 +35,7 @@ viewer（Vercel）
 | `data/race-{raceId}.json` | カテゴリー別のレース結果とラップ（viewerが読む） | collect |
 | `meets.json` | 大会とカテゴリーの一覧（viewerが読む） | discover / collect |
 | `rider-index.json` | 選手の横断検索用インデックス（viewerが読む） | build-artifacts |
-| `site-metadata.json` | 最終収集成功日時 `updatedAt`（viewerが表示） | collect |
+| `site-metadata.json` | データが最後に変わった日時 `updatedAt`（viewerが表示） | collect |
 | `races.json` | 収集対象のレースIDと開催日 | discover |
 | `known_meets.json` | 展開済み大会スラッグ（重複防止） | discover |
 | `race_days.json` | 公式カレンダーの開催日（Workerが参照） | update-schedule |

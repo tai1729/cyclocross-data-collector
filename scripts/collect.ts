@@ -14,6 +14,7 @@ import {
   type RaceEntry,
 } from "../lib/raceConfig.js";
 import { writeSiteMetadata } from "../lib/siteMetadata.js";
+import type { RaceResult } from "../lib/types.js";
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "data");
 const MAX_CONCURRENCY = 5;
@@ -61,12 +62,46 @@ async function fetchRaceHtml(raceId: string): Promise<string> {
   return res.text();
 }
 
+function withoutUpdatedAt(value: Record<string, unknown>): Record<string, unknown> {
+  const copy = { ...value };
+  delete copy.updatedAt;
+  return copy;
+}
+
+/** 取得時刻 updatedAt を除いて、保存済みのレースと内容が同じかを判定する。 */
+export function hasSameRaceContent(storedText: string | null, race: RaceResult): boolean {
+  if (storedText === null) return false;
+  let stored: unknown;
+  try {
+    stored = JSON.parse(storedText);
+  } catch {
+    return false;
+  }
+  if (typeof stored !== "object" || stored === null || Array.isArray(stored)) return false;
+  return (
+    JSON.stringify(withoutUpdatedAt(stored as Record<string, unknown>)) ===
+    JSON.stringify(withoutUpdatedAt({ ...race }))
+  );
+}
+
+async function readStoredRaceText(outPath: string): Promise<string | null> {
+  try {
+    return await readFile(outPath, "utf-8");
+  } catch {
+    return null;
+  }
+}
+
 async function collectRace(entry: RaceEntry): Promise<void> {
   const html = await fetchRaceHtml(entry.raceId);
   const race = parseRaceHtml(entry.raceId, html);
 
   await mkdir(DATA_DIR, { recursive: true });
   const outPath = path.join(DATA_DIR, `race-${entry.raceId}.json`);
+  if (hasSameRaceContent(await readStoredRaceText(outPath), race)) {
+    console.log(`[UNCHANGED] race-${entry.raceId}.json`);
+    return;
+  }
   await writeFile(outPath, `${JSON.stringify(race, null, 2)}\n`, "utf-8");
 
   console.log(

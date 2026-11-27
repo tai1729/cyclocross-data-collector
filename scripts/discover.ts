@@ -335,6 +335,23 @@ function isForceRequested(): boolean {
   return process.argv.includes("--force");
 }
 
+function failureKey(failure: DiscoveryFailure): string {
+  const entries = Object.entries(failure)
+    .filter(([, value]) => value !== undefined)
+    .sort(([a], [b]) => (a < b ? -1 : a > b ? 1 : 0));
+  return JSON.stringify(entries);
+}
+
+/** 同じ失敗を1件にまとめ、安定した順序で返す。毎回の実行で同じ記録が積み上がるのを防ぐ。 */
+export function normalizeFailures(failures: DiscoveryFailure[]): DiscoveryFailure[] {
+  const unique = new Map<string, DiscoveryFailure>();
+  for (const failure of failures) {
+    const key = failureKey(failure);
+    if (!unique.has(key)) unique.set(key, failure);
+  }
+  return sortFailures([...unique.values()]);
+}
+
 function sortFailures(failures: DiscoveryFailure[]): DiscoveryFailure[] {
   return [...failures].sort((a, b) =>
     [a.stage, a.code, a.meetId ?? "", a.meetDate ?? "", a.message].join("\u0000")
@@ -408,7 +425,7 @@ async function main() {
   const retainedFailures = season
     ? previousFailures.filter((failure) => failure.season !== season)
     : previousFailures;
-  const sortedFailures = sortFailures([...retainedFailures, ...failures]);
+  const sortedFailures = normalizeFailures([...retainedFailures, ...failures]);
   await writeJson(DISCOVERY_FAILURES_JSON_PATH, sortedFailures);
 
   if (failures.length > 0) {
