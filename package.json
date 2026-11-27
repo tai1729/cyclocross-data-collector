@@ -1,8 +1,7 @@
 {
   "name": "cyclocross-data-collector",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Collects AJOCC cyclocross race results and lap times from data.cyclocross.jp into JSON for the AJOCC LapTime Viewer",
   "scripts": {
     "collect": "tsx scripts/collect.ts",
     "build-artifacts": "tsx scripts/buildArtifacts.ts",
