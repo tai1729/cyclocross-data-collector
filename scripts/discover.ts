@@ -311,6 +311,24 @@ function getDateRange(season: string | null): { start: string; end: string } {
   return { start: addDays(today, -DISCOVERY_WINDOW_DAYS), end: addDays(today, DISCOVERY_WINDOW_DAYS) };
 }
 
+/** 既知の大会でも、直近この日数以内に開催されたものはカテゴリーを読み直す（raceIdの振り直し対策）。 */
+export const KNOWN_MEET_RECHECK_DAYS = 14;
+
+export function selectDiscoveryCandidates(
+  candidates: MeetCandidate[],
+  knownMeets: ReadonlySet<string>,
+  options: { season: string | null; start: string; end: string; force: boolean; today: string },
+): MeetCandidate[] {
+  const recheckFrom = addDays(options.today, -KNOWN_MEET_RECHECK_DAYS);
+  return candidates.filter((candidate) => {
+    if (options.season === null && (candidate.meetDate < options.start || candidate.meetDate > options.end)) {
+      return false;
+    }
+    if (options.force || !knownMeets.has(candidate.meetId)) return true;
+    return candidate.meetDate >= recheckFrom && candidate.meetDate <= options.today;
+  });
+}
+
 function isForceRequested(): boolean {
   return process.argv.includes("--force");
 }
@@ -363,11 +381,13 @@ async function main() {
   const parsed = parseMeetCandidates(html, season);
   const failures = [...parsed.failures];
   for (const recorded of failures) recorded.sourceSeasonValue = sourceSeasonValue;
-  const candidates = parsed.candidates.filter(
-    (candidate) =>
-      (season !== null || (candidate.meetDate >= start && candidate.meetDate <= end)) &&
-      (force || !knownMeets.has(candidate.meetId)),
-  );
+  const candidates = selectDiscoveryCandidates(parsed.candidates, knownMeets, {
+    season,
+    start,
+    end,
+    force,
+    today: getJstDate(),
+  });
 
   const discoveredMeets: MeetEntry[] = [];
   await runWithConcurrency(candidates, async (candidate) => {
