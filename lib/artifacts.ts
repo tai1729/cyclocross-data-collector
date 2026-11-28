@@ -2,7 +2,7 @@ import { isCanonicalSeason, type MeetEntry } from "./raceConfig.js";
 import type { RaceResult, Rider } from "./types.js";
 
 export const ARTIFACT_VERSION = 1 as const;
-export const RIDER_INDEX_APPEARANCE_LIMIT = 6;
+export const RIDER_INDEX_APPEARANCE_LIMIT = 200;
 
 const SUPPORTED_EXCLUDED_SOURCE_STATUSES = new Set([
   "?",
