@@ -194,6 +194,32 @@ test("a StartLoop-only race has one lap", () => {
   ]);
 });
 
+test("counts any timed column without a lap number as the next lap", () => {
+  const result = parseRaceHtml(
+    "unnumbered-start",
+    raceHtml(
+      ["Start", "1周", "2周"],
+      riderRow("1", "R-1", "Leader", ["7:00.0", "7:10.0", "7:20.0"]),
+    ),
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2, 3]);
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [420, 850, 1290]);
+});
+
+test("skips an untimed column without a lap number and keeps later laps aligned", () => {
+  const result = parseRaceHtml(
+    "untimed-note",
+    raceHtml(
+      ["1周", "Note", "2周"],
+      riderRow("1", "R-1", "Leader", ["5:00.0", "", "10:10.0"]),
+    ),
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2]);
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [300, 610]);
+});
+
 test("marks non-increasing cumulative times as anomalous", () => {
   const result = parseRaceHtml(
     "3",
