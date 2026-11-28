@@ -238,6 +238,36 @@ test("skips an untimed column without a lap number and keeps later laps aligned"
   assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [300, 610]);
 });
 
+test("a negative lap label such as -1周 is an unnumbered column, not lap 1", () => {
+  const result = parseRaceHtml(
+    "minus-one",
+    raceHtml(
+      ["-1\u5468", "StartLoop", "1\u5468"],
+      riderRow("1", "R-1", "Leader", ["7:01.8", "14:03.7", "21:03.3"]),
+    ),
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2, 3]);
+  assert.equal(result.riders[0].dataQuality, "ok");
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [421.8, 843.7, 1263.3]);
+});
+
+test("reads numbered lap-time columns when most rows do not increase", () => {
+  const result = parseRaceHtml(
+    "numbered-lap-times",
+    raceHtml(
+      ["1\u5468", "2\u5468", "3\u5468"],
+      [
+        riderRow("1", "R-1", "Leader", ["5:49.3", "5:35.5", "5:25.0"]),
+        riderRow("2", "R-2", "Second", ["5:49.6", "5:35.3", "5:26.1"]),
+      ].join(""),
+    ),
+  );
+
+  assert.equal(result.riders[0].dataQuality, "ok");
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [349.3, 684.8, 1009.8]);
+});
+
 test("marks non-increasing cumulative times as anomalous", () => {
   const result = parseRaceHtml(
     "3",
@@ -612,4 +642,48 @@ test("keeps FIN/OPEN-only clock rows as an empty diagnostic result", () => {
 
   assert.deepEqual(result.riders, []);
   assert.deepEqual(result.excludedRowsByStatus, { "FIN/OPEN": 1 });
+});
+
+test("reads DNF(Lap-Out) as a DNF", () => {
+  const result = parseRaceHtml(
+    "dnf-lap-out",
+    raceHtml(
+      ["1\u5468", "2\u5468"],
+      riderRow("1", "R-1", "Leader", ["5:00.0", "10:00.0"]) + riderRow("DNF(Lap-Out)", "R-2", "Lapped", ["5:30.0", ""]),
+    ),
+  );
+
+  assert.equal(result.riders[1]?.status, "dnf");
+  assert.equal(result.excludedRowsByStatus, undefined);
+});
+
+test("leaves out OPEN entries ranked like 4/OPEN so official ranks stay unique", () => {
+  const result = parseRaceHtml(
+    "rank-open",
+    resultRaceHtml(
+      [
+        resultRow("1", "Winner", "58:14.0", "R-1"),
+        resultRow("2/OPEN", "Open Rider", "+2:52", "R-9"),
+        resultRow("2", "Second", "+5:31", "R-2"),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(result.riders.map((rider) => rider.riderId), ["R-1", "R-2"]);
+  assert.deepEqual(result.excludedRowsByStatus, { "FIN/OPEN": 1 });
+});
+
+test("keeps only the first row when the source lists a rider twice", () => {
+  const result = parseRaceHtml(
+    "duplicate-rider",
+    resultRaceHtml(
+      [
+        resultRow("1", "Winner", "58:14.0", "R-1"),
+        resultRow("2", "Twice", "+5:14", "R-2"),
+        resultRow("DNF", "Twice", "", "R-2"),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(result.riders.map((rider) => [rider.riderId, rider.status]), [["R-1", "finished"], ["R-2", "finished"]]);
 });
