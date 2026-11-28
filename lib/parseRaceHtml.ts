@@ -52,9 +52,12 @@ function parseAcceptedRank(rankText: string): {
     return null;
   }
 
-  if (label === "DNF") {
+  // 古いシーズンには "DNF(Lap-Out)" という書き方のDNFがある
+  if (label === "DNF" || /^DNF\s*\(\s*Lap-?Out\s*\)$/iu.test(label)) {
     return { status: "dnf", numericPosition: null };
   }
+  // "4/OPEN" はオープン参加。正規の順位と重なるので FIN/OPEN と同じく除外する
+  if (/^\d+\/OPEN$/u.test(label)) return null;
 
   // Only an ASCII decimal prefix is accepted. A suffix is opaque and, when
   // present, makes this an annotated rank rather than a semantic status.
@@ -69,6 +72,20 @@ function parseAcceptedRank(rankText: string): {
     numericPosition,
     officialPositionLabel: label,
   };
+}
+
+function excludedStatusKey(rankText: string): string {
+  return /^\d+\/OPEN$/u.test(rankText.trim()) ? "FIN/OPEN" : rankText;
+}
+
+/** 公式の表に同じ選手が2行あるときは、最初の行だけを残す（元データの重複）。 */
+function keepFirstRowPerRider<T extends { riderId: string }>(riders: T[]): T[] {
+  const seen = new Set<string>();
+  return riders.filter((rider) => {
+    if (seen.has(rider.riderId)) return false;
+    seen.add(rider.riderId);
+    return true;
+  });
 }
 
 function getRiderIdentity(
@@ -211,6 +228,40 @@ function detectStartLoopValueType(
 }
 
 /**
+ * 周回番号だけの表は基本は累計タイム。ただし古いシーズンには1周ごとのタイムの表もある。
+ * 完走タイムとの照合で1周ごとのタイムが多いとき、または照合できず過半数の選手の値が
+ * 増えていないときだけ、1周ごとのタイムとみなす。
+ */
+function detectNumberedValueType(
+  rows: TimingRow[],
+  totals: Map<string, number>,
+): LapTableSchema["valueType"] {
+  let cumulativeVotes = 0;
+  let lapTimeVotes = 0;
+  for (const row of rows) {
+    const total = totals.get(row.riderId);
+    if (!row.finished || total === undefined || row.values.length < 2) continue;
+    if (row.values.some((value) => value === null)) continue;
+    const values = row.values as number[];
+    const sum = values.reduce((acc, value) => acc + value, 0);
+    if (Math.abs((values.at(-1) as number) - total) <= TOTAL_MATCH_TOLERANCE_SEC) cumulativeVotes += 1;
+    else if (Math.abs(sum - total) <= TOTAL_MATCH_TOLERANCE_SEC) lapTimeVotes += 1;
+  }
+  if (cumulativeVotes !== lapTimeVotes) {
+    return cumulativeVotes > lapTimeVotes ? "cumulative" : "lap-time";
+  }
+
+  const measured = rows
+    .map((row) => row.values.filter((value): value is number => value !== null && value > 0))
+    .filter((values) => values.length >= 2);
+  const notIncreasing = measured.filter(
+    (values) => !values.every((value, index) => index === 0 || value > values[index - 1]),
+  ).length;
+  // 1人だけの表では累計タイムの異常値と見分けられないので、2人以上のときだけ判定する
+  return measured.length >= 2 && notIncreasing * 2 > measured.length ? "lap-time" : "cumulative";
+}
+
+/**
  * ラップタイムテーブルのヘッダー（例: "2周", "3周", ...）から
  * 列インデックス→周回番号のマッピングを作る。
  * レースによって開始周が1周からでない場合があるため、決め打ちにしない。
@@ -225,12 +276,13 @@ function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSch
     .toArray()
     .map((el) => $(el).text().trim());
   const lapNumberOf = (label: string): number | null => {
-    const match = label.match(/(\d+)\s*周/);
+    // "-1周" のような負の番号は周回番号として扱わない（番号の無い列と同じに数える）
+    const match = label.trim().match(/^(\d+)\s*周/);
     const lap = match ? Number(match[1]) : 0;
     return lap > 0 ? lap : null;
   };
   const hasUnnumbered = labels.some((label) => lapNumberOf(label) === null);
-  const rows = hasUnnumbered ? readTimingRows($, raceId, labels.length) : [];
+  const rows = readTimingRows($, raceId, labels.length);
 
   const lapNumbers: number[] = [];
   const columnIndexes: number[] = [];
@@ -254,12 +306,10 @@ function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSch
   return {
     lapNumbers,
     columnIndexes,
-    valueType: hasUnnumbered
-      ? detectStartLoopValueType(
-          rows.map((row) => ({ ...row, values: columnIndexes.map((index) => row.values[index] ?? null) })),
-          parseResultTotalTimes($, raceId),
-        )
-      : "cumulative",
+    valueType: (hasUnnumbered ? detectStartLoopValueType : detectNumberedValueType)(
+      rows.map((row) => ({ ...row, values: columnIndexes.map((index) => row.values[index] ?? null) })),
+      parseResultTotalTimes($, raceId),
+    ),
   };
 }
 
@@ -326,7 +376,8 @@ function parseRawRiders(
     ).trim();
     const parsedRank = parseAcceptedRank(rankText);
     if (!parsedRank) {
-      excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
+      const statusKey = excludedStatusKey(rankText);
+      excludedRowsByStatus.set(statusKey, (excludedRowsByStatus.get(statusKey) ?? 0) + 1);
       return;
     }
 
@@ -425,7 +476,8 @@ function parseResultRiders($: cheerio.CheerioAPI, raceId: string): ParsedRiders 
       const rankText = restoreSourceControls(
         (rankCell.length > 0 ? rankCell : $row.find("td").first()).text(),
       ).trim();
-      excludedRowsByStatus.set(rankText, (excludedRowsByStatus.get(rankText) ?? 0) + 1);
+      const statusKey = excludedStatusKey(rankText);
+      excludedRowsByStatus.set(statusKey, (excludedRowsByStatus.get(statusKey) ?? 0) + 1);
       return;
     }
 
@@ -660,7 +712,7 @@ export function parseRaceHtml(raceId: string, html: string): RaceResult {
           Object.keys(parsedResultRiders.excludedRowsByStatus).length > 0)
       ? parsedResultRiders
       : parsedLapRiders;
-  const rawRiders = parsed.riders;
+  const rawRiders = keepFirstRowPerRider(parsed.riders);
   backfillFinalLapFromResults($, rawRiders, lapTableSchema.lapNumbers, raceId);
   const rankAtLapByRider = buildRankAtLapMap(rawRiders);
 
