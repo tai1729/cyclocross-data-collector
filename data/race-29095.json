@@ -2,7 +2,7 @@
   "raceId": "29095",
   "raceName": "2026-11-22 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-11-28T06:12:25.876Z",
+  "updatedAt": "2026-11-28T08:24:08.586Z",
   "raceLapNumbers": [
     1,
     2
@@ -19,8 +19,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 392.7,
+          "cumulativeTimeSec": 392.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 394.8,
-          "cumulativeTimeSec": 394.8,
+          "cumulativeTimeSec": 787.5,
           "rankAtLap": 1
         }
       ],

@@ -6,8 +6,8 @@
     "events": 230,
     "races": 3853,
     "resultRowsAvailable": 62986,
-    "lapEnabledRaces": 3717,
-    "resultOnlyRaces": 52,
+    "lapEnabledRaces": 3721,
+    "resultOnlyRaces": 48,
     "unavailableRaces": 84,
     "indexedRiders": 5931
   },
@@ -1211,7 +1211,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 24,
-          "lapRecords": 210,
+          "lapRecords": 234,
           "excludedRowsByStatus": {
             "DNS": 3
           }
@@ -1223,7 +1223,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 42,
-          "lapRecords": 200,
+          "lapRecords": 242,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -1235,7 +1235,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 37,
-          "lapRecords": 107,
+          "lapRecords": 144,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -1247,7 +1247,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 40,
-          "lapRecords": 107,
+          "lapRecords": 147,
           "excludedRowsByStatus": {
             "DNS": 3
           }
@@ -1259,7 +1259,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 11,
-          "lapRecords": 52
+          "lapRecords": 63
         },
         {
           "raceId": "29110",
@@ -1268,7 +1268,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 7,
-          "lapRecords": 14
+          "lapRecords": 21
         },
         {
           "raceId": "29095",
@@ -1277,7 +1277,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
-          "lapRecords": 1,
+          "lapRecords": 2,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -1289,7 +1289,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 65,
-          "lapRecords": 311,
+          "lapRecords": 376,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -1301,7 +1301,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 69,
-          "lapRecords": 206,
+          "lapRecords": 275,
           "excludedRowsByStatus": {
             "DNS": 5
           }
@@ -1313,7 +1313,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 30,
-          "lapRecords": 83,
+          "lapRecords": 113,
           "excludedRowsByStatus": {
             "DNS": 2
           }
@@ -1325,7 +1325,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 25,
-          "lapRecords": 64,
+          "lapRecords": 89,
           "excludedRowsByStatus": {
             "DNS": 7
           }
@@ -1337,7 +1337,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
-          "lapRecords": 8
+          "lapRecords": 10
         },
         {
           "raceId": "29107",
@@ -1346,7 +1346,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
-          "lapRecords": 4
+          "lapRecords": 5
         },
         {
           "raceId": "29105",
@@ -1355,7 +1355,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 8,
-          "lapRecords": 18
+          "lapRecords": 25
         },
         {
           "raceId": "29108",
@@ -1373,7 +1373,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
-          "lapRecords": 4
+          "lapRecords": 6
         },
         {
           "raceId": "29109",
@@ -1382,7 +1382,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 2,
-          "lapRecords": 4
+          "lapRecords": 6
         },
         {
           "raceId": "29094",
@@ -1391,16 +1391,16 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 10,
-          "lapRecords": 10
+          "lapRecords": 20
         },
         {
           "raceId": "29096",
           "name": "CK2",
           "order": 18,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 9,
-          "lapRecords": 0,
+          "lapRecords": 9,
           "excludedRowsByStatus": {
             "DNS": 3
           }
@@ -1410,9 +1410,9 @@
           "name": "CK1",
           "order": 19,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 12,
-          "lapRecords": 0
+          "lapRecords": 12
         }
       ]
     },
@@ -1688,7 +1688,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 3,
-          "lapRecords": 18
+          "lapRecords": 21
         },
         {
           "raceId": "28768",
@@ -1697,7 +1697,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 6,
-          "lapRecords": 23,
+          "lapRecords": 29,
           "excludedRowsByStatus": {
             "DNS": 2
           }
@@ -1721,7 +1721,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 1,
-          "lapRecords": 3,
+          "lapRecords": 4,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -1742,7 +1742,7 @@
           "resultAvailability": "available",
           "lapDataAvailability": "enabled",
           "resultRows": 15,
-          "lapRecords": 54,
+          "lapRecords": 69,
           "excludedRowsByStatus": {
             "DNS": 2
           }
@@ -3019,9 +3019,9 @@
           "name": "CK1",
           "order": 15,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 2,
-          "lapRecords": 0,
+          "lapRecords": 2,
           "excludedRowsByStatus": {
             "DNS": 1
           }
@@ -3643,9 +3643,9 @@
           "name": "CK1",
           "order": 12,
           "resultAvailability": "available",
-          "lapDataAvailability": "result-only",
+          "lapDataAvailability": "enabled",
           "resultRows": 1,
-          "lapRecords": 0,
+          "lapRecords": 1,
           "excludedRowsByStatus": {
             "DNS": 1
           }

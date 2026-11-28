@@ -2,7 +2,10 @@
   "raceId": "28560",
   "raceName": "2026-10-25 シクロクロスミーティングシリーズ　シーズン2026-2027　第3戦高ボッチDay2（信州クロス）",
   "category": "CK1",
-  "updatedAt": "2026-11-08T14:01:27.336Z",
+  "updatedAt": "2026-11-28T08:24:04.355Z",
+  "raceLapNumbers": [
+    1
+  ],
   "excludedRowsByStatus": {
     "DNS": 1
   },
@@ -12,7 +15,14 @@
       "name": "坂本 麓太朗",
       "finalPosition": 1,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 123,
+          "cumulativeTimeSec": 123,
+          "rankAtLap": 1
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -20,7 +30,14 @@
       "name": "田中 燈",
       "finalPosition": 2,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 210,
+          "cumulativeTimeSec": 210,
+          "rankAtLap": 2
+        }
+      ],
       "dataQuality": "ok"
     }
   ]
