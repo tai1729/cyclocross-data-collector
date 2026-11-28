@@ -1,0 +1,36 @@
+{
+  "raceId": "12840",
+  "raceName": "2021-11-23 関西シクロクロス 第3戦 烏丸半島（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:45:55.008Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "KNS-212-0213",
+      "name": "宇都宮 竹蔵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 288.2,
+          "cumulativeTimeSec": 288.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 407.7,
+          "cumulativeTimeSec": 695.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

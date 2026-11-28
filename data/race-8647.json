@@ -1,0 +1,78 @@
+{
+  "raceId": "8647",
+  "raceName": "2019-10-27 東北CXシリーズ#2さがえ（UCI-C2）（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:53:49.864Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "UCX-156-0033",
+      "name": "山田 駿太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 329,
+          "cumulativeTimeSec": 329,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 301.7,
+          "cumulativeTimeSec": 630.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0032",
+      "name": "渡辺 悠真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 338.9,
+          "cumulativeTimeSec": 338.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 337.2,
+          "cumulativeTimeSec": 676.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0033",
+      "name": "鈴木 尊人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377.7,
+          "cumulativeTimeSec": 377.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 405.3,
+          "cumulativeTimeSec": 783,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

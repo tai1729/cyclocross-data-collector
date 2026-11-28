@@ -1,0 +1,89 @@
+{
+  "raceId": "13582",
+  "raceName": "2022-01-09 シクロクロス千葉#11（千葉クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:47:40.028Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-201-0011",
+      "name": "宮崎 暖大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 397.3,
+          "cumulativeTimeSec": 397.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-201-0028",
+      "name": "村田 心泰",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 440.1,
+          "cumulativeTimeSec": 440.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0025",
+      "name": "野嵜 日貴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 512,
+          "cumulativeTimeSec": 512,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0022",
+      "name": "高橋 亮太",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605.6,
+          "cumulativeTimeSec": 605.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0009",
+      "name": "山田 晴仁",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 662.4,
+          "cumulativeTimeSec": 662.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

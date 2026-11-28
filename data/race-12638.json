@@ -1,0 +1,70 @@
+{
+  "raceId": "12638",
+  "raceName": "2021-11-21 もみじシクロクロス第２戦（もみじシクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:45:36.175Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MMJ-201-0015",
+      "name": "蔵田 瑶",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 221.6,
+          "cumulativeTimeSec": 221.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 183.2,
+          "cumulativeTimeSec": 404.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 187.6,
+          "cumulativeTimeSec": 592.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0013",
+      "name": "浅野 愛",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 268.1,
+          "cumulativeTimeSec": 268.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 289.7,
+          "cumulativeTimeSec": 557.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 310.2,
+          "cumulativeTimeSec": 868,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

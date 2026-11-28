@@ -1,0 +1,55 @@
+{
+  "raceId": "8682",
+  "raceName": "2019-10-27 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:53:56.403Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0051",
+      "name": "松本 開太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1605,
+          "cumulativeTimeSec": 1605,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 882.4,
+          "cumulativeTimeSec": 2487.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1610,
+          "cumulativeTimeSec": 1610,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1015.6,
+          "cumulativeTimeSec": 2625.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

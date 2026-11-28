@@ -1,0 +1,121 @@
+{
+  "raceId": "13996",
+  "raceName": "2022-03-06 東北CXシリーズ#5福島空港ll（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:48:51.957Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0107",
+      "name": "花香 聡美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 588.1,
+          "cumulativeTimeSec": 588.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581.1,
+          "cumulativeTimeSec": 1169.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 593.1,
+          "cumulativeTimeSec": 1762.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 593.7,
+          "cumulativeTimeSec": 593.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 603.6,
+          "cumulativeTimeSec": 1197.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 624.3,
+          "cumulativeTimeSec": 1821.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-190-0006",
+      "name": "菅原 奈緒",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 623,
+          "cumulativeTimeSec": 623,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 632.8,
+          "cumulativeTimeSec": 1255.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 647.9,
+          "cumulativeTimeSec": 1903.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7554",
+      "name": "佐復 亜都奈",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 659.2,
+          "cumulativeTimeSec": 659.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 652.7,
+          "cumulativeTimeSec": 1311.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 672.1,
+          "cumulativeTimeSec": 1984,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

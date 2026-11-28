@@ -1,0 +1,40 @@
+{
+  "raceId": "11243",
+  "raceName": "2020-12-27 能登クロス（シクロクロス富山）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:52:17.143Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-201-0018",
+      "name": "小林 洋平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 156.9,
+          "cumulativeTimeSec": 156.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 154.6,
+          "cumulativeTimeSec": 311.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 156.9,
+          "cumulativeTimeSec": 468.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

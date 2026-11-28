@@ -1,0 +1,104 @@
+{
+  "raceId": "7979",
+  "raceName": "2019-03-10 茨城シクロクロス#5 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:04:58.625Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "UCX-156-0153",
+      "name": "西形 舞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586.5,
+          "cumulativeTimeSec": 586.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 639.3,
+          "cumulativeTimeSec": 1225.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 631,
+          "cumulativeTimeSec": 1856.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 630.5,
+          "cumulativeTimeSec": 2487.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KYU-267-0001",
+      "name": "美並 聡子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 638.9,
+          "cumulativeTimeSec": 638.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673.9,
+          "cumulativeTimeSec": 1312.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 681.9,
+          "cumulativeTimeSec": 1994.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-0053",
+      "name": "森 美穂子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.7,
+          "cumulativeTimeSec": 624.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 688.5,
+          "cumulativeTimeSec": 1313.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 698.7,
+          "cumulativeTimeSec": 2011.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

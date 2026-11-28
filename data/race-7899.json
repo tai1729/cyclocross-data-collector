@@ -1,0 +1,48 @@
+{
+  "raceId": "7899",
+  "raceName": "2019-02-24 中国シクロクロス第4戦広島　もみのき森林公園（中国クロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:04:34.159Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-189-0013",
+      "name": "浅野 愛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.3,
+          "cumulativeTimeSec": 424.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 501.3,
+          "cumulativeTimeSec": 925.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0027",
+      "name": "吉本 有寿",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 560.1,
+          "cumulativeTimeSec": 560.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "raceId": "15100",
+  "raceName": "2022-11-13 東海シクロクロス 第1戦 岐阜県山県市 おおが城山公園（東海クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-28T12:56:20.382Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 407.8,
+          "cumulativeTimeSec": 407.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376.3,
+          "cumulativeTimeSec": 784.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 376.1,
+          "cumulativeTimeSec": 1160.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 377.1,
+          "cumulativeTimeSec": 1537.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 376.2,
+          "cumulativeTimeSec": 1913.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0066",
+      "name": "蜂須賀 巧真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 409,
+          "cumulativeTimeSec": 409,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 384.9,
+          "cumulativeTimeSec": 793.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 393.3,
+          "cumulativeTimeSec": 1187.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 401.8,
+          "cumulativeTimeSec": 1589,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 415.2,
+          "cumulativeTimeSec": 2004.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0097",
+      "name": "佐野 凌麻",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 425.2,
+          "cumulativeTimeSec": 425.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 415.9,
+          "cumulativeTimeSec": 841.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 427.5,
+          "cumulativeTimeSec": 1268.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 427.8,
+          "cumulativeTimeSec": 1696.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 439.8,
+          "cumulativeTimeSec": 2136.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4576",
+      "name": "柿本 圭治郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 452.2,
+          "cumulativeTimeSec": 452.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 452.2,
+          "cumulativeTimeSec": 904.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 498.2,
+          "cumulativeTimeSec": 1402.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 443.2,
+          "cumulativeTimeSec": 1845.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 468.1,
+          "cumulativeTimeSec": 2313.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

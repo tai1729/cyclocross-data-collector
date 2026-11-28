@@ -1,0 +1,85 @@
+{
+  "raceId": "12843",
+  "raceName": "2021-11-23 関西シクロクロス 第3戦 烏丸半島（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:45:56.106Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0305",
+      "name": "松山 海司",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 423.7,
+          "cumulativeTimeSec": 423.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 572.7,
+          "cumulativeTimeSec": 996.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 594.7,
+          "cumulativeTimeSec": 1591.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0012",
+      "name": "村島 悠太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 663,
+          "cumulativeTimeSec": 663,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 976.6,
+          "cumulativeTimeSec": 1639.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 841.6,
+          "cumulativeTimeSec": 841.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1042.6,
+          "cumulativeTimeSec": 1884.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

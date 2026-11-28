@@ -1,0 +1,178 @@
+{
+  "raceId": "16390",
+  "raceName": "2023-01-29 東海シクロクロス 第5戦 愛知県日進市 愛知牧場 JCX（東海クロス）",
+  "category": "MM35",
+  "updatedAt": "2026-11-28T11:42:25.754Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0015",
+      "name": "川森 康裕",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461,
+          "cumulativeTimeSec": 461,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 474,
+          "cumulativeTimeSec": 935,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 478,
+          "cumulativeTimeSec": 1413,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0095",
+      "name": "青柳 貴史",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 482,
+          "cumulativeTimeSec": 482,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 501,
+          "cumulativeTimeSec": 983,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 500,
+          "cumulativeTimeSec": 1483,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2244",
+      "name": "稲垣 怜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 494,
+          "cumulativeTimeSec": 494,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522,
+          "cumulativeTimeSec": 1016,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 517,
+          "cumulativeTimeSec": 1533,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0264",
+      "name": "松田 健太",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 521,
+          "cumulativeTimeSec": 521,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 549,
+          "cumulativeTimeSec": 1070,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 549,
+          "cumulativeTimeSec": 1619,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0086",
+      "name": "櫻井 亮太",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 538,
+          "cumulativeTimeSec": 538,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 550,
+          "cumulativeTimeSec": 1088,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 559,
+          "cumulativeTimeSec": 1647,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0125",
+      "name": "田中 孝欣",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548,
+          "cumulativeTimeSec": 548,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571,
+          "cumulativeTimeSec": 1119,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 582,
+          "cumulativeTimeSec": 1701,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

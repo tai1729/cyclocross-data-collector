@@ -1,0 +1,36 @@
+{
+  "raceId": "9863",
+  "raceName": "2020-02-09 関西シクロクロス JCX 日吉（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:57:42.082Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-190-0346",
+      "name": "衣川 一宏",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 754.7,
+          "cumulativeTimeSec": 754.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.5,
+          "cumulativeTimeSec": 1225.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

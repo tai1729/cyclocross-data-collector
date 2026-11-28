@@ -1,0 +1,93 @@
+{
+  "raceId": "7889",
+  "raceName": "2019-02-24 茨城シクロクロス#4 土浦ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:04:30.793Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0022",
+      "name": "大関 宙",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406,
+          "cumulativeTimeSec": 406,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 337.7,
+          "cumulativeTimeSec": 743.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 341.3,
+          "cumulativeTimeSec": 1085,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 345.7,
+          "cumulativeTimeSec": 1430.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 344.4,
+          "cumulativeTimeSec": 1775.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1506",
+      "name": "加藤 礼慈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 404.3,
+          "cumulativeTimeSec": 404.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 367.4,
+          "cumulativeTimeSec": 771.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 359.4,
+          "cumulativeTimeSec": 1131.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 383.5,
+          "cumulativeTimeSec": 1514.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 425.1,
+          "cumulativeTimeSec": 1939.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

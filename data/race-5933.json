@@ -1,0 +1,36 @@
+{
+  "raceId": "5933",
+  "raceName": "2018-02-25 東海シクロクロス#8ワイルドネイチャープラザ（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:11:15.907Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 435.7,
+          "cumulativeTimeSec": 435.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 434,
+          "cumulativeTimeSec": 869.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "raceId": "13885",
+  "raceName": "2022-02-06 関西シクロクロス 第11戦 桂川（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:48:26.437Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3872",
+      "name": "山野井 真紀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.4,
+          "cumulativeTimeSec": 305.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 298.6,
+          "cumulativeTimeSec": 604,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 297,
+          "cumulativeTimeSec": 901,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4539",
+      "name": "佐々木 優子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 309.3,
+          "cumulativeTimeSec": 309.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.4,
+          "cumulativeTimeSec": 602.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 301.9,
+          "cumulativeTimeSec": 904.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0134",
+      "name": "老原 由恵",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 318.5,
+          "cumulativeTimeSec": 318.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 301.4,
+          "cumulativeTimeSec": 619.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 304.5,
+          "cumulativeTimeSec": 924.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0362",
+      "name": "北村 由紀乃",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 323.5,
+          "cumulativeTimeSec": 323.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 305.5,
+          "cumulativeTimeSec": 629,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 296.3,
+          "cumulativeTimeSec": 925.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0168",
+      "name": "内海 優",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.6,
+          "cumulativeTimeSec": 341.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.3,
+          "cumulativeTimeSec": 665.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 308.5,
+          "cumulativeTimeSec": 974.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3660",
+      "name": "坪香 多恵",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 368.2,
+          "cumulativeTimeSec": 368.2,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 366,
+          "cumulativeTimeSec": 734.2,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 346.5,
+          "cumulativeTimeSec": 1080.7,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

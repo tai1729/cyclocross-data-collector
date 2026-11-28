@@ -1,0 +1,94 @@
+{
+  "raceId": "6884",
+  "raceName": "2018-12-02 なかい誕生110年記念  湘南シクロクロス第1戦  中井中央公園（湘南シクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:00:50.501Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 485.9,
+          "cumulativeTimeSec": 485.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 494.8,
+          "cumulativeTimeSec": 980.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 493,
+          "cumulativeTimeSec": 1473.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0961",
+      "name": "綾野 尋",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 499.6,
+          "cumulativeTimeSec": 499.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 489.7,
+          "cumulativeTimeSec": 989.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 486.3,
+          "cumulativeTimeSec": 1475.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0095",
+      "name": "細谷 鴻羽",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535,
+          "cumulativeTimeSec": 535,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 549.2,
+          "cumulativeTimeSec": 1084.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.6,
+          "cumulativeTimeSec": 1650.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

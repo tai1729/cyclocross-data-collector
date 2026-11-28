@@ -1,0 +1,151 @@
+{
+  "raceId": "15761",
+  "raceName": "2022-12-18 もみじシクロクロス12/18（もみじシクロクロス）",
+  "category": "C3",
+  "updatedAt": "2026-11-28T11:41:03.544Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "MMJ-223-8002",
+      "name": "皿谷 宏人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 614.6,
+          "cumulativeTimeSec": 614.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 640,
+          "cumulativeTimeSec": 1254.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 647.6,
+          "cumulativeTimeSec": 1902.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0002",
+      "name": "宇田 浩",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 665.5,
+          "cumulativeTimeSec": 665.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673,
+          "cumulativeTimeSec": 1338.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 639.7,
+          "cumulativeTimeSec": 1978.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-223-8006",
+      "name": "藤井 文男",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 678.2,
+          "cumulativeTimeSec": 678.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 671.6,
+          "cumulativeTimeSec": 1349.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 669.7,
+          "cumulativeTimeSec": 2019.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0139",
+      "name": "天野 裕太",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 686.7,
+          "cumulativeTimeSec": 686.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 736.3,
+          "cumulativeTimeSec": 1423,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 692.3,
+          "cumulativeTimeSec": 2115.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0054",
+      "name": "下 裕史",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 830,
+          "cumulativeTimeSec": 830,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 757.5,
+          "cumulativeTimeSec": 1587.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 739,
+          "cumulativeTimeSec": 2326.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

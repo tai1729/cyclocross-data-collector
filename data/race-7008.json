@@ -1,0 +1,104 @@
+{
+  "raceId": "7008",
+  "raceName": "2018-12-16 東海シクロクロス#4　ワイルドネイチャープラザ（東海クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T12:01:14.686Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TYM-178-0038",
+      "name": "南 翔大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 534.5,
+          "cumulativeTimeSec": 534.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0064",
+      "name": "山中 祐輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 625.9,
+          "cumulativeTimeSec": 625.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0008",
+      "name": "平山 開登",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 650.8,
+          "cumulativeTimeSec": 650.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0095",
+      "name": "奥田 龍生",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 729.4,
+          "cumulativeTimeSec": 729.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0141",
+      "name": "坂井 哲",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 819.3,
+          "cumulativeTimeSec": 819.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0093",
+      "name": "各務 大和",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 890.6,
+          "cumulativeTimeSec": 890.6,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "raceId": "13436",
+  "raceName": "2021-12-26 東北CXシリーズ#3福島空港（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:47:14.791Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.5,
+          "cumulativeTimeSec": 305.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.6,
+          "cumulativeTimeSec": 597.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.2,
+          "cumulativeTimeSec": 400.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.8,
+          "cumulativeTimeSec": 791,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0006",
+      "name": "渡辺 陽葵",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 546.8,
+          "cumulativeTimeSec": 546.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

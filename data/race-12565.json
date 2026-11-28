@@ -1,0 +1,139 @@
+{
+  "raceId": "12565",
+  "raceName": "2021-11-14 加古川シクロクロス（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:45:22.375Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-1218",
+      "name": "鈴木 恭子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 157.8,
+          "cumulativeTimeSec": 157.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 146.1,
+          "cumulativeTimeSec": 303.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 150.7,
+          "cumulativeTimeSec": 454.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 154.8,
+          "cumulativeTimeSec": 609.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 154,
+          "cumulativeTimeSec": 763.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 156,
+          "cumulativeTimeSec": 919.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3872",
+      "name": "山野井 真紀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 156.2,
+          "cumulativeTimeSec": 156.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 169.7,
+          "cumulativeTimeSec": 325.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 174.9,
+          "cumulativeTimeSec": 500.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 182.8,
+          "cumulativeTimeSec": 683.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 171.9,
+          "cumulativeTimeSec": 855.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0253",
+      "name": "駒崎 久美子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 173.7,
+          "cumulativeTimeSec": 173.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 177.2,
+          "cumulativeTimeSec": 350.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 179.8,
+          "cumulativeTimeSec": 530.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 180.9,
+          "cumulativeTimeSec": 711.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 182.1,
+          "cumulativeTimeSec": 893.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

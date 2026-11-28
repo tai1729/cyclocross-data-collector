@@ -1,0 +1,141 @@
+{
+  "raceId": "10929",
+  "raceName": "2020-11-28 飯山ナイター（信州クロス）",
+  "category": "ナイターオープン",
+  "updatedAt": "2026-11-28T11:51:19.734Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 4
+  },
+  "riders": [
+    {
+      "riderId": "GPM-000-1813",
+      "name": "中曽 佑一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 738.6,
+          "cumulativeTimeSec": 738.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 721.7,
+          "cumulativeTimeSec": 1460.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0839",
+      "name": "伊井 賢一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 739.8,
+          "cumulativeTimeSec": 739.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 733.4,
+          "cumulativeTimeSec": 1473.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-3039",
+      "name": "望月 美徳",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 807.5,
+          "cumulativeTimeSec": 807.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 796.8,
+          "cumulativeTimeSec": 1604.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0041",
+      "name": "中村 顕生",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 903.3,
+          "cumulativeTimeSec": 903.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 866.9,
+          "cumulativeTimeSec": 1770.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4734",
+      "name": "乾 清一",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 936,
+          "cumulativeTimeSec": 936,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 892.1,
+          "cumulativeTimeSec": 1828.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0006",
+      "name": "長野 安那",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1069.9,
+          "cumulativeTimeSec": 1069.9,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 986.5,
+          "cumulativeTimeSec": 2056.4,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

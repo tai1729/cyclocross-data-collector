@@ -1,0 +1,124 @@
+{
+  "raceId": "5697",
+  "raceName": "2018-02-12 関西シクロクロス 柏原シクロクロス（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T12:10:40.006Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0301",
+      "name": "原田 志織",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 413,
+          "cumulativeTimeSec": 413,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 428.4,
+          "cumulativeTimeSec": 841.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.4,
+          "cumulativeTimeSec": 1273.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0270",
+      "name": "長谷川 光里",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 460.8,
+          "cumulativeTimeSec": 460.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 482.5,
+          "cumulativeTimeSec": 943.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 458.6,
+          "cumulativeTimeSec": 1401.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-1653",
+      "name": "角屋 由香里",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 482.7,
+          "cumulativeTimeSec": 482.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 456.3,
+          "cumulativeTimeSec": 939,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 470,
+          "cumulativeTimeSec": 1409,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0060",
+      "name": "柿本 寛子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 457.6,
+          "cumulativeTimeSec": 457.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.3,
+          "cumulativeTimeSec": 940.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 509,
+          "cumulativeTimeSec": 1449.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

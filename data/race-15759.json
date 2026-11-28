@@ -1,0 +1,151 @@
+{
+  "raceId": "15759",
+  "raceName": "2022-12-18 もみじシクロクロス12/18（もみじシクロクロス）",
+  "category": "C4",
+  "updatedAt": "2026-11-28T11:41:02.238Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MMJ-223-8014",
+      "name": "白石 広大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.6,
+          "cumulativeTimeSec": 701.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 741.8,
+          "cumulativeTimeSec": 1443.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 683.7,
+          "cumulativeTimeSec": 2127.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0009",
+      "name": "五十川 凛",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1260,
+          "cumulativeTimeSec": 1260,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 248.3,
+          "cumulativeTimeSec": 1508.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 773.5,
+          "cumulativeTimeSec": 2281.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0079",
+      "name": "井上 裕樹",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 770.5,
+          "cumulativeTimeSec": 770.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 812.9,
+          "cumulativeTimeSec": 1583.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 718.1,
+          "cumulativeTimeSec": 2301.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0062",
+      "name": "大林 敦",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 826.6,
+          "cumulativeTimeSec": 826.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 735,
+          "cumulativeTimeSec": 1561.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 780.3,
+          "cumulativeTimeSec": 2341.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0010",
+      "name": "高山 優太郎",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1290,
+          "cumulativeTimeSec": 1290,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 348.1,
+          "cumulativeTimeSec": 1638.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 888.9,
+          "cumulativeTimeSec": 2527,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

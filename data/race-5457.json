@@ -1,0 +1,615 @@
+{
+  "raceId": "5457",
+  "raceName": "2018-01-21 関西シクロクロス 第9戦 日吉（関西クロス）",
+  "category": "C4A",
+  "updatedAt": "2026-11-28T12:09:34.041Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "promotionZoneRank": 2,
+  "excludedRowsByStatus": {
+    "DNS": 19
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0288",
+      "name": "吉田 健太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1073.9,
+          "cumulativeTimeSec": 1073.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 470.5,
+          "cumulativeTimeSec": 1544.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0008",
+      "name": "尾久土 俊輔",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1073.3,
+          "cumulativeTimeSec": 1073.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 474.9,
+          "cumulativeTimeSec": 1548.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0016",
+      "name": "中者 竜三",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1074.7,
+          "cumulativeTimeSec": 1074.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 474.9,
+          "cumulativeTimeSec": 1549.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0051",
+      "name": "橋本 泰生",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1082.8,
+          "cumulativeTimeSec": 1082.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 484.3,
+          "cumulativeTimeSec": 1567.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0123",
+      "name": "柿原 和貴",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1091.4,
+          "cumulativeTimeSec": 1091.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 480.4,
+          "cumulativeTimeSec": 1571.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0218",
+      "name": "宮 裕之",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1124,
+          "cumulativeTimeSec": 1124,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 458.8,
+          "cumulativeTimeSec": 1582.8,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4070",
+      "name": "仲道 裕彦",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1122.5,
+          "cumulativeTimeSec": 1122.5,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 461.9,
+          "cumulativeTimeSec": 1584.4,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3889",
+      "name": "張間 純一",
+      "finalPosition": 8,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1123,
+          "cumulativeTimeSec": 1123,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 469.1,
+          "cumulativeTimeSec": 1592.1,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3190",
+      "name": "竹辻 伸浩",
+      "finalPosition": 9,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1126,
+          "cumulativeTimeSec": 1126,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 477.6,
+          "cumulativeTimeSec": 1603.6,
+          "rankAtLap": 9
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0011",
+      "name": "末富 拓",
+      "finalPosition": 10,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1127,
+          "cumulativeTimeSec": 1127,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 484.2,
+          "cumulativeTimeSec": 1611.2,
+          "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0019",
+      "name": "PATRICK McLane",
+      "finalPosition": 11,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1125,
+          "cumulativeTimeSec": 1125,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 491.6,
+          "cumulativeTimeSec": 1616.6,
+          "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4833",
+      "name": "池上 勝彦",
+      "finalPosition": 12,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1128,
+          "cumulativeTimeSec": 1128,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 501.6,
+          "cumulativeTimeSec": 1629.6,
+          "rankAtLap": 12
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0262",
+      "name": "井上 宏隆",
+      "finalPosition": 13,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1138.4,
+          "cumulativeTimeSec": 1138.4,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 500.5,
+          "cumulativeTimeSec": 1638.9,
+          "rankAtLap": 13
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4122",
+      "name": "土谷 亮",
+      "finalPosition": 14,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1140.3,
+          "cumulativeTimeSec": 1140.3,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 500.1,
+          "cumulativeTimeSec": 1640.4,
+          "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-1882",
+      "name": "伊藤 政利",
+      "finalPosition": 15,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1159.6,
+          "cumulativeTimeSec": 1159.6,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 507.1,
+          "cumulativeTimeSec": 1666.7,
+          "rankAtLap": 15
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0041",
+      "name": "齋藤 有輝",
+      "finalPosition": 16,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1174.3,
+          "cumulativeTimeSec": 1174.3,
+          "rankAtLap": 18
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.1,
+          "cumulativeTimeSec": 1685.4,
+          "rankAtLap": 16
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0029",
+      "name": "寺本 達哉",
+      "finalPosition": 17,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1172,
+          "cumulativeTimeSec": 1172,
+          "rankAtLap": 17
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 519.4,
+          "cumulativeTimeSec": 1691.4,
+          "rankAtLap": 17
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0274",
+      "name": "高城 哲也",
+      "finalPosition": 18,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1165.2,
+          "cumulativeTimeSec": 1165.2,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 528.8,
+          "cumulativeTimeSec": 1694,
+          "rankAtLap": 18
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0115",
+      "name": "佐々木 徹",
+      "finalPosition": 19,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1177,
+          "cumulativeTimeSec": 1177,
+          "rankAtLap": 19
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 527.3,
+          "cumulativeTimeSec": 1704.3,
+          "rankAtLap": 19
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0198",
+      "name": "濱地 祐輔",
+      "finalPosition": 20,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1209.8,
+          "cumulativeTimeSec": 1209.8,
+          "rankAtLap": 21
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 529.1,
+          "cumulativeTimeSec": 1738.9,
+          "rankAtLap": 20
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0094",
+      "name": "梅澤 楽音",
+      "finalPosition": 21,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1206,
+          "cumulativeTimeSec": 1206,
+          "rankAtLap": 20
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 564.2,
+          "cumulativeTimeSec": 1770.2,
+          "rankAtLap": 21
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0123",
+      "name": "上野 哲平",
+      "finalPosition": 22,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1235.2,
+          "cumulativeTimeSec": 1235.2,
+          "rankAtLap": 22
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 542,
+          "cumulativeTimeSec": 1777.2,
+          "rankAtLap": 22
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2909",
+      "name": "尾田 大助",
+      "finalPosition": 23,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1239.7,
+          "cumulativeTimeSec": 1239.7,
+          "rankAtLap": 23
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 551.4,
+          "cumulativeTimeSec": 1791.1,
+          "rankAtLap": 23
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2799",
+      "name": "石原 一弘",
+      "finalPosition": 24,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1254.4,
+          "cumulativeTimeSec": 1254.4,
+          "rankAtLap": 24
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 550.7,
+          "cumulativeTimeSec": 1805.1,
+          "rankAtLap": 24
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0208",
+      "name": "西川 正大",
+      "finalPosition": 25,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1267.7,
+          "cumulativeTimeSec": 1267.7,
+          "rankAtLap": 26
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 551.7,
+          "cumulativeTimeSec": 1819.4,
+          "rankAtLap": 25
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4399",
+      "name": "上野 佳秀",
+      "finalPosition": 26,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1260.7,
+          "cumulativeTimeSec": 1260.7,
+          "rankAtLap": 25
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 567,
+          "cumulativeTimeSec": 1827.7,
+          "rankAtLap": 26
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0645",
+      "name": "田中 真彦",
+      "finalPosition": 27,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1280.4,
+          "cumulativeTimeSec": 1280.4,
+          "rankAtLap": 27
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 586.9,
+          "cumulativeTimeSec": 1867.3,
+          "rankAtLap": 27
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0037",
+      "name": "佐藤 亨",
+      "finalPosition": 28,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1353,
+          "cumulativeTimeSec": 1353,
+          "rankAtLap": 28
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0018",
+      "name": "橋本 裕太",
+      "finalPosition": 29,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0005",
+      "name": "吉盛 信行",
+      "finalPosition": 30,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

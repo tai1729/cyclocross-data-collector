@@ -1,0 +1,182 @@
+{
+  "raceId": "6629",
+  "raceName": "2018-11-11 中国シクロクロス第3戦広島　砂谷牧場（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:59:55.437Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-178-0074",
+      "name": "北野 寿枝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 408.2,
+          "cumulativeTimeSec": 408.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 399.8,
+          "cumulativeTimeSec": 808,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 434.3,
+          "cumulativeTimeSec": 1242.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 423.6,
+          "cumulativeTimeSec": 1665.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0130",
+      "name": "河村 幸子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.9,
+          "cumulativeTimeSec": 406.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.7,
+          "cumulativeTimeSec": 824.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.5,
+          "cumulativeTimeSec": 1257.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 431.5,
+          "cumulativeTimeSec": 1688.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0087",
+      "name": "岩原 愛",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.1,
+          "cumulativeTimeSec": 416.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 430.7,
+          "cumulativeTimeSec": 846.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 437.4,
+          "cumulativeTimeSec": 1284.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 431,
+          "cumulativeTimeSec": 1715.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0069",
+      "name": "福田 順子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 451.8,
+          "cumulativeTimeSec": 451.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 501,
+          "cumulativeTimeSec": 952.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506.9,
+          "cumulativeTimeSec": 1459.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 485.6,
+          "cumulativeTimeSec": 1945.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0026",
+      "name": "友野 菜未子",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 450.4,
+          "cumulativeTimeSec": 450.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 472.7,
+          "cumulativeTimeSec": 923.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 507.8,
+          "cumulativeTimeSec": 1430.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 565.1,
+          "cumulativeTimeSec": 1996,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

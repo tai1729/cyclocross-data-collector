@@ -1,0 +1,174 @@
+{
+  "raceId": "8117",
+  "raceName": "2019-09-29 INAGI CROSS-3（シクロクロス東京）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:53:16.899Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MBS-189-0052",
+      "name": "関谷 加津子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.7,
+          "cumulativeTimeSec": 301.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 310.9,
+          "cumulativeTimeSec": 612.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 304.9,
+          "cumulativeTimeSec": 917.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 312,
+          "cumulativeTimeSec": 1229.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 316.8,
+          "cumulativeTimeSec": 1546.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0046",
+      "name": "島田 優美子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 298.1,
+          "cumulativeTimeSec": 298.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 306.8,
+          "cumulativeTimeSec": 604.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 313.6,
+          "cumulativeTimeSec": 918.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 314.3,
+          "cumulativeTimeSec": 1232.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 314.8,
+          "cumulativeTimeSec": 1547.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0031",
+      "name": "鮎澤 加奈子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 313.5,
+          "cumulativeTimeSec": 313.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 363.6,
+          "cumulativeTimeSec": 677.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 352.4,
+          "cumulativeTimeSec": 1029.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 348.6,
+          "cumulativeTimeSec": 1378.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 411.9,
+          "cumulativeTimeSec": 1790,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1190",
+      "name": "藤原 幸子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 369.6,
+          "cumulativeTimeSec": 369.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 361.8,
+          "cumulativeTimeSec": 731.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 364.2,
+          "cumulativeTimeSec": 1095.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 376.5,
+          "cumulativeTimeSec": 1472.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 439.9,
+          "cumulativeTimeSec": 1912,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "raceId": "9577",
+  "raceName": "2020-01-19 東北CXシリーズ#5ざおうさまカップ（UCI-C2）（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:56:44.559Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0011",
+      "name": "佐々木 琉名",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 409.6,
+          "cumulativeTimeSec": 409.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 399.3,
+          "cumulativeTimeSec": 808.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0078",
+      "name": "我妻 美音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 431.5,
+          "cumulativeTimeSec": 431.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 402,
+          "cumulativeTimeSec": 833.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0038",
+      "name": "半澤 宗幸",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 458.8,
+          "cumulativeTimeSec": 458.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 453.4,
+          "cumulativeTimeSec": 912.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

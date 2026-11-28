@@ -1,0 +1,174 @@
+{
+  "raceId": "11136",
+  "raceName": "2020-12-20 もみじシクロクロス第６戦（もみじシクロクロス）",
+  "category": "CM1",
+  "updatedAt": "2026-11-28T11:51:51.870Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0411",
+      "name": "神野 勝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 507.3,
+          "cumulativeTimeSec": 507.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 527.6,
+          "cumulativeTimeSec": 1034.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 520.1,
+          "cumulativeTimeSec": 1555,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 515.9,
+          "cumulativeTimeSec": 2070.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 528.8,
+          "cumulativeTimeSec": 2599.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0014",
+      "name": "中村 和広",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 528.7,
+          "cumulativeTimeSec": 528.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 529.5,
+          "cumulativeTimeSec": 1058.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 519.8,
+          "cumulativeTimeSec": 1578,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 531,
+          "cumulativeTimeSec": 2109,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 519.7,
+          "cumulativeTimeSec": 2628.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0176",
+      "name": "松岡 宏昌",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530,
+          "cumulativeTimeSec": 530,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 534,
+          "cumulativeTimeSec": 1064,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 528,
+          "cumulativeTimeSec": 1592,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 542.7,
+          "cumulativeTimeSec": 2134.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 557.6,
+          "cumulativeTimeSec": 2692.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0149",
+      "name": "波多 大祐",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.5,
+          "cumulativeTimeSec": 532.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 529.1,
+          "cumulativeTimeSec": 1061.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 548.9,
+          "cumulativeTimeSec": 1610.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 562.8,
+          "cumulativeTimeSec": 2173.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 524,
+          "cumulativeTimeSec": 2697.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

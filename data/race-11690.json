@@ -1,0 +1,94 @@
+{
+  "raceId": "11690",
+  "raceName": "2021-10-03 茨城シクロクロス#2取手ステージ(JCX#1)（秩父・茨城クロス（関東クロス））",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:44:19.593Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-156-0018",
+      "name": "唐見 実世子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 502.9,
+          "cumulativeTimeSec": 502.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.3,
+          "cumulativeTimeSec": 986.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 479.1,
+          "cumulativeTimeSec": 1465.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0334",
+      "name": "安藤 沙弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 514.2,
+          "cumulativeTimeSec": 514.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 502.1,
+          "cumulativeTimeSec": 1016.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 503.6,
+          "cumulativeTimeSec": 1519.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1948",
+      "name": "青木 寿美恵",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.6,
+          "cumulativeTimeSec": 550.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 535.3,
+          "cumulativeTimeSec": 1085.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 531.9,
+          "cumulativeTimeSec": 1617.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

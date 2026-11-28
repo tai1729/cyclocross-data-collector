@@ -1,0 +1,83 @@
+{
+  "raceId": "9511",
+  "raceName": "2020-01-12 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:56:21.142Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 451.9,
+          "cumulativeTimeSec": 451.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 445.6,
+          "cumulativeTimeSec": 897.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 439.3,
+          "cumulativeTimeSec": 1336.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 456,
+          "cumulativeTimeSec": 1792.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0095",
+      "name": "荒川 翔太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 498.5,
+          "cumulativeTimeSec": 498.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 529.6,
+          "cumulativeTimeSec": 1028.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506.5,
+          "cumulativeTimeSec": 1534.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 513.1,
+          "cumulativeTimeSec": 2047.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

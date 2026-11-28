@@ -1,0 +1,176 @@
+{
+  "raceId": "9253",
+  "raceName": "2019-12-15 関西シクロクロス 第5戦 マイアミ（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:55:29.453Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1,
+    "FIN/OPEN": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-189-0084",
+      "name": "大谷 玄真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 862.7,
+          "cumulativeTimeSec": 862.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.1,
+          "cumulativeTimeSec": 1308.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 449,
+          "cumulativeTimeSec": 1757.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 433.9,
+          "cumulativeTimeSec": 2191.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 431.5,
+          "cumulativeTimeSec": 2623.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2505",
+      "name": "副島 達海",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 878,
+          "cumulativeTimeSec": 878,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 433.7,
+          "cumulativeTimeSec": 1311.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 421.6,
+          "cumulativeTimeSec": 1733.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 448.4,
+          "cumulativeTimeSec": 2181.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 455.4,
+          "cumulativeTimeSec": 2637.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0066",
+      "name": "沖本 拓己",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 908.7,
+          "cumulativeTimeSec": 908.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 462.1,
+          "cumulativeTimeSec": 1370.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 471.2,
+          "cumulativeTimeSec": 1842,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 480.6,
+          "cumulativeTimeSec": 2322.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 479.6,
+          "cumulativeTimeSec": 2802.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0067",
+      "name": "田口 詞也",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 970.4,
+          "cumulativeTimeSec": 970.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 463.3,
+          "cumulativeTimeSec": 1433.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 478.3,
+          "cumulativeTimeSec": 1912,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 461.7,
+          "cumulativeTimeSec": 2373.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 474.8,
+          "cumulativeTimeSec": 2848.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

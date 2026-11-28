@@ -1,0 +1,54 @@
+{
+  "raceId": "8833",
+  "raceName": "2019-11-10 シクロクロスミーティングシリーズ　シーズン2019-2020 第4戦　飯山day2 JCX#3（信州クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:54:18.915Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.1,
+          "cumulativeTimeSec": 653.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 625.3,
+          "cumulativeTimeSec": 1278.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-178-0014",
+      "name": "谷川 稀生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 718.1,
+          "cumulativeTimeSec": 718.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 810,
+          "cumulativeTimeSec": 1528.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

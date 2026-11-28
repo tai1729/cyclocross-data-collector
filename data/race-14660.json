@@ -1,0 +1,54 @@
+{
+  "raceId": "14660",
+  "raceName": "2022-10-30 東北CXシリーズ#1亘理（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:38:54.150Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 212.6,
+          "cumulativeTimeSec": 212.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 198.1,
+          "cumulativeTimeSec": 410.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0018",
+      "name": "村上 鳳冴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 260.2,
+          "cumulativeTimeSec": 260.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250.9,
+          "cumulativeTimeSec": 511.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

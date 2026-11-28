@@ -1,0 +1,88 @@
+{
+  "raceId": "8958",
+  "raceName": "2019-11-16 茨城シクロクロス#3 茨城町涸沼自然公園ステージday1（秩父・茨城クロス（関東クロス））",
+  "category": "Category Challenge",
+  "updatedAt": "2026-11-28T11:54:23.772Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0030",
+      "name": "井上 皓平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 225.8,
+          "cumulativeTimeSec": 225.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 217.3,
+          "cumulativeTimeSec": 443.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 225.5,
+          "cumulativeTimeSec": 668.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0020",
+      "name": "細沼 義彰",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 275,
+          "cumulativeTimeSec": 275,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 275.7,
+          "cumulativeTimeSec": 550.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 259.5,
+          "cumulativeTimeSec": 810.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-189-0034",
+      "name": "細沼 寧子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 384.1,
+          "cumulativeTimeSec": 384.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 357,
+          "cumulativeTimeSec": 741.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

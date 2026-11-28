@@ -1,0 +1,54 @@
+{
+  "raceId": "8323",
+  "raceName": "2019-10-20 シクロクロスミーティングシリーズ　シーズン2019-2020 第2戦　富士山（信州クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:53:39.841Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7063",
+      "name": "鈴木 来人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.4,
+          "cumulativeTimeSec": 493.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526.1,
+          "cumulativeTimeSec": 1019.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 527,
+          "cumulativeTimeSec": 1546.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 540.5,
+          "cumulativeTimeSec": 2087,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 550.5,
+          "cumulativeTimeSec": 2637.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

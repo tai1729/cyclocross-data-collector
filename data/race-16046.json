@@ -1,0 +1,43 @@
+{
+  "raceId": "16046",
+  "raceName": "2023-01-15 山口シクロクロス第2戦豊浦ステージ（山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:41:45.904Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-223-0007",
+      "name": "渡邊 由惟",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 215.8,
+          "cumulativeTimeSec": 215.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 237.7,
+          "cumulativeTimeSec": 453.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 260.9,
+          "cumulativeTimeSec": 714.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

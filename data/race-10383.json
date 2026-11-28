@@ -1,0 +1,128 @@
+{
+  "raceId": "10383",
+  "raceName": "2020-10-11 シクロクロスミーティングシリーズ　シーズン2020-2021 第１戦　白樺湖（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:49:52.599Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-178-0012",
+      "name": "松崎 光優",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.7,
+          "cumulativeTimeSec": 550.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.9,
+          "cumulativeTimeSec": 1122.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 591.1,
+          "cumulativeTimeSec": 1713.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 612.6,
+          "cumulativeTimeSec": 2326.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.3,
+          "cumulativeTimeSec": 606.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 611.9,
+          "cumulativeTimeSec": 1218.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 612,
+          "cumulativeTimeSec": 1830.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 593.1,
+          "cumulativeTimeSec": 2423.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0069",
+      "name": "安藤 静流",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 711.7,
+          "cumulativeTimeSec": 711.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 753.2,
+          "cumulativeTimeSec": 1464.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 739.1,
+          "cumulativeTimeSec": 2204,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-189-0022",
+      "name": "荒井 朋子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 848.6,
+          "cumulativeTimeSec": 848.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1074.3,
+          "cumulativeTimeSec": 1922.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

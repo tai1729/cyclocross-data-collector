@@ -1,0 +1,94 @@
+{
+  "raceId": "14647",
+  "raceName": "2022-10-23 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:38:48.740Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-189-0030",
+      "name": "高橋 麻由美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522.2,
+          "cumulativeTimeSec": 522.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 494.3,
+          "cumulativeTimeSec": 1016.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 518.4,
+          "cumulativeTimeSec": 1534.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0109",
+      "name": "西本 妙子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.7,
+          "cumulativeTimeSec": 530.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 512.4,
+          "cumulativeTimeSec": 1043.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506.5,
+          "cumulativeTimeSec": 1549.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0106",
+      "name": "宮林 佑妃",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 518.9,
+          "cumulativeTimeSec": 518.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 520.1,
+          "cumulativeTimeSec": 1039,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 501.6,
+          "cumulativeTimeSec": 1540.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

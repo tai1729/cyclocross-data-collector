@@ -1,0 +1,64 @@
+{
+  "raceId": "6452",
+  "raceName": "2018-11-04 東海シクロクロス#1　平田リバーサイドプラザ（東海クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:59:33.061Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-178-0064",
+      "name": "山中 祐輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 817.2,
+          "cumulativeTimeSec": 817.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0159",
+      "name": "天池 泰一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 872.6,
+          "cumulativeTimeSec": 872.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0008",
+      "name": "平山 開登",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 874.7,
+          "cumulativeTimeSec": 874.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0031",
+      "name": "星野 紘輝",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

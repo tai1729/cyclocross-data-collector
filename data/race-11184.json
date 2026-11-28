@@ -1,0 +1,99 @@
+{
+  "raceId": "11184",
+  "raceName": "2020-12-20 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:52:02.208Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-201-0011",
+      "name": "小野寺 早紀",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 409.7,
+          "cumulativeTimeSec": 409.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 394,
+          "cumulativeTimeSec": 803.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0102",
+      "name": "吉田 朱里",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 446.1,
+          "cumulativeTimeSec": 446.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 414.1,
+          "cumulativeTimeSec": 860.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0156",
+      "name": "大橋 恭子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.8,
+          "cumulativeTimeSec": 493.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 999.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0073",
+      "name": "寺澤 阿弥",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 531.2,
+          "cumulativeTimeSec": 531.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 525.5,
+          "cumulativeTimeSec": 1056.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

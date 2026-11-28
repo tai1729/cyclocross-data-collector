@@ -1,0 +1,40 @@
+{
+  "raceId": "9232",
+  "raceName": "2019-12-15 九州シクロクロス 第1戦 平尾台ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:55:20.906Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-190-0042",
+      "name": "藤田 紗綾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 247.4,
+          "cumulativeTimeSec": 247.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 279.9,
+          "cumulativeTimeSec": 527.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 290.4,
+          "cumulativeTimeSec": 817.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

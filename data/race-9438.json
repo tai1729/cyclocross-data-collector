@@ -1,0 +1,67 @@
+{
+  "raceId": "9438",
+  "raceName": "2020-01-13 湘南シクロクロス2019-20 第2戦 開成水辺スポーツ公園（湘南シクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:56:30.446Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 454.9,
+          "cumulativeTimeSec": 454.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.9,
+          "cumulativeTimeSec": 925.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 464.1,
+          "cumulativeTimeSec": 1389.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-189-0019",
+      "name": "村井 佑圭",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 475.3,
+          "cumulativeTimeSec": 475.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 476.4,
+          "cumulativeTimeSec": 951.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 486.2,
+          "cumulativeTimeSec": 1437.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

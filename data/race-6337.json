@@ -1,0 +1,125 @@
+{
+  "raceId": "6337",
+  "raceName": "2018-10-21 シクロクロスミーティングシリーズ　シーズン2018-2019 第2戦　富士山 (JCX #3)（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:59:12.328Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1,
+    "FIN": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-156-0085",
+      "name": "武藤 優奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 666.2,
+          "cumulativeTimeSec": 666.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 647.9,
+          "cumulativeTimeSec": 1314.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 658.2,
+          "cumulativeTimeSec": 1972.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 732,
+          "cumulativeTimeSec": 732,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 682.8,
+          "cumulativeTimeSec": 1414.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 693.1,
+          "cumulativeTimeSec": 2107.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-189-0005",
+      "name": "足立 リカ",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 737.3,
+          "cumulativeTimeSec": 737.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 693.1,
+          "cumulativeTimeSec": 1430.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 716.8,
+          "cumulativeTimeSec": 2147.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0073",
+      "name": "松井 真由子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 757.4,
+          "cumulativeTimeSec": 757.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 760.8,
+          "cumulativeTimeSec": 1518.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 641.8,
+          "cumulativeTimeSec": 2160,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

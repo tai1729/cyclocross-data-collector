@@ -1,0 +1,67 @@
+{
+  "raceId": "15173",
+  "raceName": "2022-11-20 茨城シクロクロス 第3戦 常陸大宮 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:39:47.513Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 725.3,
+          "cumulativeTimeSec": 725.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 492.3,
+          "cumulativeTimeSec": 1217.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 490.2,
+          "cumulativeTimeSec": 1707.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KYU-267-0001",
+      "name": "美並 聡子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 860.5,
+          "cumulativeTimeSec": 860.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 584.5,
+          "cumulativeTimeSec": 1445,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 581.5,
+          "cumulativeTimeSec": 2026.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

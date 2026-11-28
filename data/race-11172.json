@@ -1,0 +1,94 @@
+{
+  "raceId": "11172",
+  "raceName": "2020-12-20 関西シクロクロス 第7戦 信太山（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:51:58.927Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4598",
+      "name": "藤原 琢磨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 734.1,
+          "cumulativeTimeSec": 734.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.5,
+          "cumulativeTimeSec": 1137.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 400.5,
+          "cumulativeTimeSec": 1538.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0101",
+      "name": "安藤 優作",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 767.9,
+          "cumulativeTimeSec": 767.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 430.6,
+          "cumulativeTimeSec": 1198.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 418.1,
+          "cumulativeTimeSec": 1616.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4848",
+      "name": "高井 鉄生",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 769.3,
+          "cumulativeTimeSec": 769.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 431.6,
+          "cumulativeTimeSec": 1200.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 428.8,
+          "cumulativeTimeSec": 1629.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

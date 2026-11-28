@@ -1,0 +1,74 @@
+{
+  "raceId": "8639",
+  "raceName": "2019-10-27 前橋シクロクロス#2 岩神緑地 DAY2（前橋シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:53:47.146Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-178-0014",
+      "name": "赤荻 亘紀",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 508.6,
+          "cumulativeTimeSec": 508.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.4,
+          "cumulativeTimeSec": 967,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 471.3,
+          "cumulativeTimeSec": 1438.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 463.7,
+          "cumulativeTimeSec": 1902,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0060",
+      "name": "山田 愛太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 508.3,
+          "cumulativeTimeSec": 508.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 474.4,
+          "cumulativeTimeSec": 982.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1256.5,
+          "cumulativeTimeSec": 2239.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

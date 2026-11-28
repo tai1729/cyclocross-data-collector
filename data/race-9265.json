@@ -1,0 +1,210 @@
+{
+  "raceId": "9265",
+  "raceName": "2019-12-15 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:55:34.496Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNF/OPEN": 1,
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3921",
+      "name": "赤松 綾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 539.9,
+          "cumulativeTimeSec": 539.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 532.8,
+          "cumulativeTimeSec": 1072.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 512.4,
+          "cumulativeTimeSec": 1585.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 534.4,
+          "cumulativeTimeSec": 2119.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0037",
+      "name": "望月 美和子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 588.1,
+          "cumulativeTimeSec": 588.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 594.5,
+          "cumulativeTimeSec": 1182.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 590.7,
+          "cumulativeTimeSec": 1773.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 582,
+          "cumulativeTimeSec": 2355.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0131",
+      "name": "松田 珠弥",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 606.3,
+          "cumulativeTimeSec": 606.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 587,
+          "cumulativeTimeSec": 1193.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 622.5,
+          "cumulativeTimeSec": 1815.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 593.2,
+          "cumulativeTimeSec": 2409,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0089",
+      "name": "児玉 和代",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 591,
+          "cumulativeTimeSec": 591,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 644.3,
+          "cumulativeTimeSec": 1235.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 668.3,
+          "cumulativeTimeSec": 1903.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 647.6,
+          "cumulativeTimeSec": 2551.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0073",
+      "name": "村松 里菜",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 662.4,
+          "cumulativeTimeSec": 662.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 676.9,
+          "cumulativeTimeSec": 1339.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 674.4,
+          "cumulativeTimeSec": 2013.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 762.4,
+          "cumulativeTimeSec": 2776.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0119",
+      "name": "原田 悦子",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 748.5,
+          "cumulativeTimeSec": 748.5,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 725.6,
+          "cumulativeTimeSec": 1474.1,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 722.5,
+          "cumulativeTimeSec": 2196.6,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "raceId": "10531",
+  "raceName": "2020-10-25 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:50:06.312Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-156-0027",
+      "name": "田中 遼介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.3,
+          "cumulativeTimeSec": 301.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.5,
+          "cumulativeTimeSec": 628.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 331.4,
+          "cumulativeTimeSec": 960.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0240",
+      "name": "谷田 颯太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 315.5,
+          "cumulativeTimeSec": 315.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 345.4,
+          "cumulativeTimeSec": 660.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 358.9,
+          "cumulativeTimeSec": 1019.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4817",
+      "name": "松原 治希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 330,
+          "cumulativeTimeSec": 330,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 383.8,
+          "cumulativeTimeSec": 713.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 359.2,
+          "cumulativeTimeSec": 1073,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0277",
+      "name": "堂上 駿介",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 384.5,
+          "cumulativeTimeSec": 384.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.7,
+          "cumulativeTimeSec": 802.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 433.7,
+          "cumulativeTimeSec": 1235.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0045",
+      "name": "大石 沙奈",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 387.2,
+          "cumulativeTimeSec": 387.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 416,
+          "cumulativeTimeSec": 803.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 445.7,
+          "cumulativeTimeSec": 1248.9,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0034",
+      "name": "石渡 寛太",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 423,
+          "cumulativeTimeSec": 423,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 463.6,
+          "cumulativeTimeSec": 886.6,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 453.1,
+          "cumulativeTimeSec": 1339.7,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0035",
+      "name": "小賀野 美瑠",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 434.5,
+          "cumulativeTimeSec": 434.5,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.6,
+          "cumulativeTimeSec": 943.1,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 476.9,
+          "cumulativeTimeSec": 1420,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

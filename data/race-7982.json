@@ -1,0 +1,88 @@
+{
+  "raceId": "7982",
+  "raceName": "2019-03-10 茨城シクロクロス#5 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:05:00.206Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-178-0066",
+      "name": "栗原 裕美子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.1,
+          "cumulativeTimeSec": 653.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 691.7,
+          "cumulativeTimeSec": 1344.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 685.3,
+          "cumulativeTimeSec": 2030.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-189-0037",
+      "name": "青山 麻衣子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 709.9,
+          "cumulativeTimeSec": 709.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 791.8,
+          "cumulativeTimeSec": 1501.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 776.7,
+          "cumulativeTimeSec": 2278.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-189-0026",
+      "name": "齋藤 美里",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 786,
+          "cumulativeTimeSec": 786,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 855.7,
+          "cumulativeTimeSec": 1641.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "raceId": "9519",
+  "raceName": "2020-01-12 第3戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:56:23.229Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0009",
+      "name": "美輪 空人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 234.4,
+          "cumulativeTimeSec": 234.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 273.4,
+          "cumulativeTimeSec": 507.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 220.1,
+          "cumulativeTimeSec": 727.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0009",
+      "name": "尾崎 愛周",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 324.5,
+          "cumulativeTimeSec": 324.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.9,
+          "cumulativeTimeSec": 616.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 288.8,
+          "cumulativeTimeSec": 905.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-190-0041",
+      "name": "馬場 俊丞",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 321.8,
+          "cumulativeTimeSec": 321.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.7,
+          "cumulativeTimeSec": 624.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 298.4,
+          "cumulativeTimeSec": 922.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0013",
+      "name": "浅野 愛",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 418.4,
+          "cumulativeTimeSec": 418.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 386.2,
+          "cumulativeTimeSec": 804.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

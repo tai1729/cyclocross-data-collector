@@ -1,0 +1,67 @@
+{
+  "raceId": "5402",
+  "raceName": "2018-01-14 シクロクロスミーティングシリーズ　シーズン2017-2018 第9戦　清里（信州クロス）",
+  "category": "CK1+2 キッズ",
+  "updatedAt": "2026-11-28T12:09:18.496Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 88,
+          "cumulativeTimeSec": 88,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 92,
+          "cumulativeTimeSec": 180,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 93,
+          "cumulativeTimeSec": 273,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7201",
+      "name": "矢野 柊",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 107,
+          "cumulativeTimeSec": 107,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 121,
+          "cumulativeTimeSec": 228,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 124,
+          "cumulativeTimeSec": 352,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "10620",
+  "raceName": "2020-11-08 もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "CM2",
+  "updatedAt": "2026-11-28T11:50:33.062Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-189-0023",
+      "name": "上川 孝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 387.3,
+          "cumulativeTimeSec": 387.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 725.9,
+          "cumulativeTimeSec": 1113.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 817.5,
+          "cumulativeTimeSec": 1930.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0283",
+      "name": "佐桑 秀樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 393.3,
+          "cumulativeTimeSec": 393.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 763.5,
+          "cumulativeTimeSec": 1156.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 833,
+          "cumulativeTimeSec": 1989.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "raceId": "13732",
+  "raceName": "2022-01-30 関西シクロクロス 第10戦 マイアミ（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:48:14.035Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0186",
+      "name": "金澤 拓世",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1007,
+          "cumulativeTimeSec": 1007,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 471.9,
+          "cumulativeTimeSec": 1478.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 455.4,
+          "cumulativeTimeSec": 1934.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0271",
+      "name": "阪根 康太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1002.1,
+          "cumulativeTimeSec": 1002.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 494,
+          "cumulativeTimeSec": 1496.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 530.9,
+          "cumulativeTimeSec": 2027,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4817",
+      "name": "松原 治希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1067.6,
+          "cumulativeTimeSec": 1067.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 503.5,
+          "cumulativeTimeSec": 1571.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 501.3,
+          "cumulativeTimeSec": 2072.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1086.4,
+          "cumulativeTimeSec": 1086.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 520.5,
+          "cumulativeTimeSec": 1606.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 529.6,
+          "cumulativeTimeSec": 2136.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0277",
+      "name": "堂上 駿介",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1090.5,
+          "cumulativeTimeSec": 1090.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 575.5,
+          "cumulativeTimeSec": 1666,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 602,
+          "cumulativeTimeSec": 2268,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

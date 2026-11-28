@@ -1,0 +1,107 @@
+{
+  "raceId": "15298",
+  "raceName": "2022-11-27 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:39:57.637Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-156-0045",
+      "name": "鬼形 珀亜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.5,
+          "cumulativeTimeSec": 467.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 485.8,
+          "cumulativeTimeSec": 953.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.6,
+          "cumulativeTimeSec": 1438.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 483.6,
+          "cumulativeTimeSec": 1922.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-190-0028",
+      "name": "金井 新汰",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 504.5,
+          "cumulativeTimeSec": 504.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 500.3,
+          "cumulativeTimeSec": 1004.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.9,
+          "cumulativeTimeSec": 1516.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 532.2,
+          "cumulativeTimeSec": 2048.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-190-0032",
+      "name": "荒木 陽向",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 539.9,
+          "cumulativeTimeSec": 539.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 577.7,
+          "cumulativeTimeSec": 1117.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.5,
+          "cumulativeTimeSec": 1684.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

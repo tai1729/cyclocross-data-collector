@@ -1,0 +1,162 @@
+{
+  "raceId": "7912",
+  "raceName": "2019-02-24 東海シクロクロス#8　ワイルドネイチャープラザ（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T12:04:38.773Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TKI-178-0158",
+      "name": "松井 颯良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 279.9,
+          "cumulativeTimeSec": 279.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 261.7,
+          "cumulativeTimeSec": 541.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1510",
+      "name": "野嵜 然新",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 298.9,
+          "cumulativeTimeSec": 298.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 292.9,
+          "cumulativeTimeSec": 591.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0128",
+      "name": "廣田 樹一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 311.6,
+          "cumulativeTimeSec": 311.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 287.3,
+          "cumulativeTimeSec": 598.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 307.7,
+          "cumulativeTimeSec": 307.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.2,
+          "cumulativeTimeSec": 600.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0139",
+      "name": "白澤 奏士",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 359.1,
+          "cumulativeTimeSec": 359.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.4,
+          "cumulativeTimeSec": 727.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 422.8,
+          "cumulativeTimeSec": 422.8,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 386.2,
+          "cumulativeTimeSec": 809,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0102",
+      "name": "吉田 朱里",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 449.2,
+          "cumulativeTimeSec": 449.2,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.2,
+          "cumulativeTimeSec": 953.4,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

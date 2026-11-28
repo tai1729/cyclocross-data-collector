@@ -1,0 +1,69 @@
+{
+  "raceId": "4836",
+  "raceName": "2017-12-17 2017～2018山口シクロクロス　第1戦リフレッシュパーク豊浦（山口シクロクロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:07:38.421Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 298.7,
+          "cumulativeTimeSec": 298.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 288,
+          "cumulativeTimeSec": 586.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0004",
+      "name": "黒澤 おりん",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 297.8,
+          "cumulativeTimeSec": 297.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 296.3,
+          "cumulativeTimeSec": 594.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0002",
+      "name": "内野 円仁",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.1,
+          "cumulativeTimeSec": 532.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

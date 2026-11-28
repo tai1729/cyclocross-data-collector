@@ -1,0 +1,80 @@
+{
+  "raceId": "14771",
+  "raceName": "2022-11-06 関西シクロクロス 第3戦 美山（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-11-28T11:39:08.945Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0132",
+      "name": "山口 成美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 536.1,
+          "cumulativeTimeSec": 536.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 442.2,
+          "cumulativeTimeSec": 978.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 443.2,
+          "cumulativeTimeSec": 1421.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 453.8,
+          "cumulativeTimeSec": 1875.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0355",
+      "name": "寺本 彩玖子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.8,
+          "cumulativeTimeSec": 542.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.2,
+          "cumulativeTimeSec": 991,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.6,
+          "cumulativeTimeSec": 1476.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 491.3,
+          "cumulativeTimeSec": 1967.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

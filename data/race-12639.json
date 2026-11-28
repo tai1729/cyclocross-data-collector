@@ -1,0 +1,40 @@
+{
+  "raceId": "12639",
+  "raceName": "2021-11-21 もみじシクロクロス第２戦（もみじシクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:45:36.042Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-190-0038",
+      "name": "小林 遙斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.1,
+          "cumulativeTimeSec": 243.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 251.1,
+          "cumulativeTimeSec": 494.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 254.1,
+          "cumulativeTimeSec": 748.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

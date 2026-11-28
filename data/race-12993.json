@@ -1,0 +1,124 @@
+{
+  "raceId": "12993",
+  "raceName": "2021-11-28 関西シクロクロス 第4戦 堺浜（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:46:07.167Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0225",
+      "name": "藤本 昌弘",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 413.5,
+          "cumulativeTimeSec": 413.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 334,
+          "cumulativeTimeSec": 747.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 327,
+          "cumulativeTimeSec": 1074.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0176",
+      "name": "野澤 毅留",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 410.2,
+          "cumulativeTimeSec": 410.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 346.5,
+          "cumulativeTimeSec": 756.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 343.1,
+          "cumulativeTimeSec": 1099.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0400",
+      "name": "熊本 彰廣",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 433.9,
+          "cumulativeTimeSec": 433.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 343.5,
+          "cumulativeTimeSec": 777.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 342.4,
+          "cumulativeTimeSec": 1119.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0099",
+      "name": "黒田 敏伸",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 481.9,
+          "cumulativeTimeSec": 481.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.8,
+          "cumulativeTimeSec": 872.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 416.1,
+          "cumulativeTimeSec": 1288.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

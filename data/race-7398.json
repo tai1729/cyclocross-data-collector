@@ -1,0 +1,117 @@
+{
+  "raceId": "7398",
+  "raceName": "2019-01-20 東北CXシリーズ#4ざおうさまカップ（UCI-C2）（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T12:03:32.198Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 283.9,
+          "cumulativeTimeSec": 283.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 282.4,
+          "cumulativeTimeSec": 566.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0035",
+      "name": "成田 光志",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 295.8,
+          "cumulativeTimeSec": 295.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 295.6,
+          "cumulativeTimeSec": 591.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0015",
+      "name": "山田 禅人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305,
+          "cumulativeTimeSec": 305,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 325.8,
+          "cumulativeTimeSec": 630.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0032",
+      "name": "渡辺 悠真",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.5,
+          "cumulativeTimeSec": 350.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 334.3,
+          "cumulativeTimeSec": 684.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0032",
+      "name": "森 海人",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 440.2,
+          "cumulativeTimeSec": 440.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 405.5,
+          "cumulativeTimeSec": 845.7,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

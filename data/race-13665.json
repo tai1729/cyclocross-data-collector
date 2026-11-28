@@ -1,0 +1,70 @@
+{
+  "raceId": "13665",
+  "raceName": "2022-01-16 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:47:58.380Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.9,
+          "cumulativeTimeSec": 624.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 585.6,
+          "cumulativeTimeSec": 1210.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 576.4,
+          "cumulativeTimeSec": 1786.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0083",
+      "name": "杉浦 孝介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.5,
+          "cumulativeTimeSec": 670.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 635.7,
+          "cumulativeTimeSec": 1306.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 658,
+          "cumulativeTimeSec": 1964.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

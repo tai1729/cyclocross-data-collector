@@ -1,0 +1,97 @@
+{
+  "raceId": "5018",
+  "raceName": "2017-12-17 関西シクロクロス 第5戦 マイアミ（関西クロス）",
+  "category": "CM4",
+  "updatedAt": "2026-11-28T12:08:04.800Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-0539",
+      "name": "角屋 裕",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 360.7,
+          "cumulativeTimeSec": 360.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 344.1,
+          "cumulativeTimeSec": 704.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 354.7,
+          "cumulativeTimeSec": 1059.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0113",
+      "name": "山本 健一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 385.2,
+          "cumulativeTimeSec": 385.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.6,
+          "cumulativeTimeSec": 770.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 398,
+          "cumulativeTimeSec": 1168.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0189",
+      "name": "西 忠夫",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 395,
+          "cumulativeTimeSec": 395,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 414.7,
+          "cumulativeTimeSec": 809.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 412.6,
+          "cumulativeTimeSec": 1222.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

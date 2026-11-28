@@ -1,0 +1,94 @@
+{
+  "raceId": "14028",
+  "raceName": "2022-03-06 中国シクロクロス岡山　＃3葡萄浪漫館（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:48:54.801Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-201-0003",
+      "name": "神原 梨奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 545.7,
+          "cumulativeTimeSec": 545.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.1,
+          "cumulativeTimeSec": 1040.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 515.5,
+          "cumulativeTimeSec": 1556.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4096",
+      "name": "大浦 玲音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 570,
+          "cumulativeTimeSec": 570,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 568.9,
+          "cumulativeTimeSec": 1138.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.8,
+          "cumulativeTimeSec": 1694.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0026",
+      "name": "桂正 沙代子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 639.8,
+          "cumulativeTimeSec": 639.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600.1,
+          "cumulativeTimeSec": 1239.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 625.8,
+          "cumulativeTimeSec": 1865.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

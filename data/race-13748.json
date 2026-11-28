@@ -1,0 +1,80 @@
+{
+  "raceId": "13748",
+  "raceName": "2022-01-30 東海シクロクロス#6　大野極楽寺公園（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:48:18.806Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 438.2,
+          "cumulativeTimeSec": 438.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 438.5,
+          "cumulativeTimeSec": 876.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 443.8,
+          "cumulativeTimeSec": 1320.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 430,
+          "cumulativeTimeSec": 1750.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0142",
+      "name": "加藤 碧",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 496.4,
+          "cumulativeTimeSec": 496.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 496.2,
+          "cumulativeTimeSec": 992.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506,
+          "cumulativeTimeSec": 1498.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 495.9,
+          "cumulativeTimeSec": 1994.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

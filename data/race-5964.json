@@ -1,0 +1,40 @@
+{
+  "raceId": "5964",
+  "raceName": "2018-03-04 東北CXシリーズ#6SUGO（東北 CX Project）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T12:11:26.404Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-3012",
+      "name": "積田 連",
+      "finalPosition": 1,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 347.4,
+          "cumulativeTimeSec": 347.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 352.7,
+          "cumulativeTimeSec": 700.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 393.4,
+          "cumulativeTimeSec": 1093.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "raceId": "5239",
+  "raceName": "2018-01-07 2017～2018山口シクロクロス　第2戦下関深坂自然の森（山口シクロクロス）",
+  "category": "C1",
+  "updatedAt": "2026-11-28T12:08:49.393Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0617",
+      "name": "萬谷 和也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 610.9,
+          "cumulativeTimeSec": 610.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 602.5,
+          "cumulativeTimeSec": 1213.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 598.9,
+          "cumulativeTimeSec": 1812.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 608.2,
+          "cumulativeTimeSec": 2420.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 607.3,
+          "cumulativeTimeSec": 3027.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 624,
+          "cumulativeTimeSec": 3651.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0508",
+      "name": "柴田 健太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 611.9,
+          "cumulativeTimeSec": 611.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 602.5,
+          "cumulativeTimeSec": 1214.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 599.3,
+          "cumulativeTimeSec": 1813.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 608.5,
+          "cumulativeTimeSec": 2422.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 718.7,
+          "cumulativeTimeSec": 3140.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 611.9,
+          "cumulativeTimeSec": 3752.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

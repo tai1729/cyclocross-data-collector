@@ -1,0 +1,36 @@
+{
+  "raceId": "11592",
+  "raceName": "2021-03-14 阿波シクロクロス（四国クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:52:42.922Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0186",
+      "name": "金澤 拓世",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 419.2,
+          "cumulativeTimeSec": 419.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 442.2,
+          "cumulativeTimeSec": 861.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

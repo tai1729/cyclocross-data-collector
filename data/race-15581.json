@@ -1,0 +1,54 @@
+{
+  "raceId": "15581",
+  "raceName": "2022-12-11 野田シクロクロス#1（千葉クロス）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:40:38.673Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-223-0073",
+      "name": "大石 奈津子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 845.3,
+          "cumulativeTimeSec": 845.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 984.6,
+          "cumulativeTimeSec": 1829.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9001",
+      "name": "小幡 智恵子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1028,
+          "cumulativeTimeSec": 1028,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1094.8,
+          "cumulativeTimeSec": 2122.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "raceId": "10865",
+  "raceName": "2020-11-22 関西シクロクロス UCI マキノ(1日目)（関西クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-11-28T11:50:57.137Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0104",
+      "name": "西原 夕華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 619.7,
+          "cumulativeTimeSec": 619.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 521.4,
+          "cumulativeTimeSec": 1141.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 502.3,
+          "cumulativeTimeSec": 1643.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

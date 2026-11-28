@@ -1,0 +1,96 @@
+{
+  "raceId": "8200",
+  "raceName": "2019-10-06 湘南シクロクロス2019-20 第1戦 湘南国際村（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:53:25.358Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-189-0008",
+      "name": "平山 開登",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.8,
+          "cumulativeTimeSec": 305.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 321.9,
+          "cumulativeTimeSec": 627.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0159",
+      "name": "天池 泰一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 307.9,
+          "cumulativeTimeSec": 307.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 370.8,
+          "cumulativeTimeSec": 678.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0081",
+      "name": "平光 樟太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 339.5,
+          "cumulativeTimeSec": 339.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 411.5,
+          "cumulativeTimeSec": 751,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0008",
+      "name": "金子 岳広",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 333.6,
+          "cumulativeTimeSec": 333.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.7,
+          "cumulativeTimeSec": 792.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

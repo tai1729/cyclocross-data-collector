@@ -1,0 +1,68 @@
+{
+  "raceId": "12434",
+  "raceName": "2021-10-31 シクロクロスミーティングシリーズ　シーズン2021-2022 第4戦　飯山day2（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:44:57.614Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 348.7,
+          "cumulativeTimeSec": 348.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 315.3,
+          "cumulativeTimeSec": 664,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 328.8,
+          "cumulativeTimeSec": 992.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0024",
+      "name": "田切 琉美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 398.2,
+          "cumulativeTimeSec": 398.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 402.6,
+          "cumulativeTimeSec": 800.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 399.3,
+          "cumulativeTimeSec": 1200.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "raceId": "9522",
+  "raceName": "2020-01-12 第3戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:56:25.303Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-178-0010",
+      "name": "永田 靖子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 528.5,
+          "cumulativeTimeSec": 528.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 521.9,
+          "cumulativeTimeSec": 1050.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 523.5,
+          "cumulativeTimeSec": 1573.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 543.2,
+          "cumulativeTimeSec": 2117.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0226",
+      "name": "油谷 悦子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.6,
+          "cumulativeTimeSec": 671.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 654.3,
+          "cumulativeTimeSec": 1325.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 727.6,
+          "cumulativeTimeSec": 2053.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-190-0043",
+      "name": "坂本 陽",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 647.5,
+          "cumulativeTimeSec": 647.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 747.3,
+          "cumulativeTimeSec": 1394.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 728.1,
+          "cumulativeTimeSec": 2122.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

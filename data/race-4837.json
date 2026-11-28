@@ -1,0 +1,99 @@
+{
+  "raceId": "4837",
+  "raceName": "2017-12-17 2017～2018山口シクロクロス　第1戦リフレッシュパーク豊浦（山口シクロクロス）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:07:38.691Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-178-0003",
+      "name": "井上 悠喜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 266,
+          "cumulativeTimeSec": 266,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.2,
+          "cumulativeTimeSec": 533.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-4016",
+      "name": "西山 佳秀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 267.4,
+          "cumulativeTimeSec": 267.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 270.6,
+          "cumulativeTimeSec": 538,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 287.7,
+          "cumulativeTimeSec": 287.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 300.3,
+          "cumulativeTimeSec": 588,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0008",
+      "name": "永田 啓恵",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 303.3,
+          "cumulativeTimeSec": 303.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 287.3,
+          "cumulativeTimeSec": 590.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

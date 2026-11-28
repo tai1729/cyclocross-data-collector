@@ -1,0 +1,54 @@
+{
+  "raceId": "4957",
+  "raceName": "2017-12-17 東海シクロクロス#4ワイルドネイチャープラザ（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:07:49.701Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 436.6,
+          "cumulativeTimeSec": 436.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 360.5,
+          "cumulativeTimeSec": 797.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0095",
+      "name": "荒川 翔太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 463.6,
+          "cumulativeTimeSec": 463.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 513.7,
+          "cumulativeTimeSec": 977.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

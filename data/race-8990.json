@@ -1,0 +1,67 @@
+{
+  "raceId": "8990",
+  "raceName": "2019-11-16 茨城シクロクロス#3 茨城町涸沼自然公園ステージday1（秩父・茨城クロス（関東クロス））",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:54:26.686Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 841.1,
+          "cumulativeTimeSec": 841.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 609.4,
+          "cumulativeTimeSec": 1450.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 618,
+          "cumulativeTimeSec": 2068.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0082",
+      "name": "伊橋 孝亮",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1039.7,
+          "cumulativeTimeSec": 1039.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 862.3,
+          "cumulativeTimeSec": 1902,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 811.5,
+          "cumulativeTimeSec": 2713.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

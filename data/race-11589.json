@@ -1,0 +1,116 @@
+{
+  "raceId": "11589",
+  "raceName": "2021-03-14 阿波シクロクロス（四国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:52:41.114Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 454.2,
+          "cumulativeTimeSec": 454.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 451.7,
+          "cumulativeTimeSec": 905.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.3,
+          "cumulativeTimeSec": 1363.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 467.5,
+          "cumulativeTimeSec": 1830.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0054",
+      "name": "福島 翼",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 487.2,
+          "cumulativeTimeSec": 487.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 479.5,
+          "cumulativeTimeSec": 966.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 491.2,
+          "cumulativeTimeSec": 1457.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 449.9,
+          "cumulativeTimeSec": 1907.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4439",
+      "name": "自檀地 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.9,
+          "cumulativeTimeSec": 467.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 476.9,
+          "cumulativeTimeSec": 944.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506.1,
+          "cumulativeTimeSec": 1450.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 495.5,
+          "cumulativeTimeSec": 1946.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

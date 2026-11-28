@@ -1,0 +1,106 @@
+{
+  "raceId": "12558",
+  "raceName": "2021-11-14 加古川シクロクロス（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:45:18.675Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-178-0186",
+      "name": "金澤 拓世",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 289.1,
+          "cumulativeTimeSec": 289.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.5,
+          "cumulativeTimeSec": 580.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 290.4,
+          "cumulativeTimeSec": 871,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 298.4,
+          "cumulativeTimeSec": 1169.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 298.9,
+          "cumulativeTimeSec": 1468.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 293.9,
+          "cumulativeTimeSec": 1762.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 295.7,
+          "cumulativeTimeSec": 295.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.7,
+          "cumulativeTimeSec": 598.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 306.3,
+          "cumulativeTimeSec": 904.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 305.3,
+          "cumulativeTimeSec": 1210,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 301.5,
+          "cumulativeTimeSec": 1511.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 298.6,
+          "cumulativeTimeSec": 1810.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

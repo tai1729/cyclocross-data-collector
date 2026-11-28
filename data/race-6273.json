@@ -1,0 +1,67 @@
+{
+  "raceId": "6273",
+  "raceName": "2018-10-14 シクロクロスミーティングシリーズ　シーズン2018-2019 第１戦　白樺湖（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:59:00.115Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-156-0085",
+      "name": "武藤 優奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 469.1,
+          "cumulativeTimeSec": 469.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 472.1,
+          "cumulativeTimeSec": 941.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.2,
+          "cumulativeTimeSec": 1400.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 531.8,
+          "cumulativeTimeSec": 531.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 514.3,
+          "cumulativeTimeSec": 1046.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 525.4,
+          "cumulativeTimeSec": 1571.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

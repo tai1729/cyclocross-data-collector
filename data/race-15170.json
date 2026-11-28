@@ -1,0 +1,67 @@
+{
+  "raceId": "15170",
+  "raceName": "2022-11-20 茨城シクロクロス 第3戦 常陸大宮 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM35",
+  "updatedAt": "2026-11-28T11:39:46.721Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0003",
+      "name": "今西 大地",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 691.5,
+          "cumulativeTimeSec": 691.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 481.6,
+          "cumulativeTimeSec": 1173.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 486.5,
+          "cumulativeTimeSec": 1659.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0080",
+      "name": "根本 和典",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 818.5,
+          "cumulativeTimeSec": 818.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 590.5,
+          "cumulativeTimeSec": 1409,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 589.7,
+          "cumulativeTimeSec": 1998.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

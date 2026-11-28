@@ -1,0 +1,112 @@
+{
+  "raceId": "13116",
+  "raceName": "2021-12-05  関西シクロクロス 第5戦 マキノ（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:46:30.281Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-190-0068",
+      "name": "野添 晴菜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 321.4,
+          "cumulativeTimeSec": 321.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 306,
+          "cumulativeTimeSec": 627.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 317.3,
+          "cumulativeTimeSec": 944.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3660",
+      "name": "坪香 多恵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 398.6,
+          "cumulativeTimeSec": 398.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.6,
+          "cumulativeTimeSec": 792.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 391.9,
+          "cumulativeTimeSec": 1184.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0134",
+      "name": "老原 由恵",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 396.1,
+          "cumulativeTimeSec": 396.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 406.3,
+          "cumulativeTimeSec": 802.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0032",
+      "name": "村尾 尚美",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 406.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 398.4,
+          "cumulativeTimeSec": 804.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

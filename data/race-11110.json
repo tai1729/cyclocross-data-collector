@@ -1,0 +1,104 @@
+{
+  "raceId": "11110",
+  "raceName": "2020-12-13 関西シクロクロス 第6戦 美山（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:51:45.995Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-190-0094",
+      "name": "井上 美幸",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 429.1,
+          "cumulativeTimeSec": 429.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 310.9,
+          "cumulativeTimeSec": 740,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 301.6,
+          "cumulativeTimeSec": 1041.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 300.8,
+          "cumulativeTimeSec": 1342.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0134",
+      "name": "老原 由恵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 427.3,
+          "cumulativeTimeSec": 427.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 316.8,
+          "cumulativeTimeSec": 744.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 311.9,
+          "cumulativeTimeSec": 1056,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0172",
+      "name": "黒田 里香",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 455.4,
+          "cumulativeTimeSec": 455.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 307.6,
+          "cumulativeTimeSec": 763,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 326.4,
+          "cumulativeTimeSec": 1089.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

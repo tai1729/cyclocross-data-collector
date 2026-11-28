@@ -1,0 +1,85 @@
+{
+  "raceId": "6744",
+  "raceName": "2018-11-25 東北CXシリーズ#2猪苗代（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T12:00:27.437Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "MBS-178-0050",
+      "name": "冨山 暖",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 314.3,
+          "cumulativeTimeSec": 314.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 309.1,
+          "cumulativeTimeSec": 623.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 291.3,
+          "cumulativeTimeSec": 914.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0010",
+      "name": "佐藤 真実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 386.6,
+          "cumulativeTimeSec": 386.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 375.1,
+          "cumulativeTimeSec": 761.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0026",
+      "name": "金澤 美桜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.9,
+          "cumulativeTimeSec": 400.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 406.2,
+          "cumulativeTimeSec": 807.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

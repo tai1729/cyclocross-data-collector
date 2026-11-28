@@ -1,0 +1,54 @@
+{
+  "raceId": "11072",
+  "raceName": "2020-12-13 第1戦リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:51:38.023Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0009",
+      "name": "美輪 空人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 149.8,
+          "cumulativeTimeSec": 149.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 149.5,
+          "cumulativeTimeSec": 299.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0002",
+      "name": "内野 円仁",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 194.3,
+          "cumulativeTimeSec": 194.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 189,
+          "cumulativeTimeSec": 383.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

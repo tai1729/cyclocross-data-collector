@@ -1,0 +1,151 @@
+{
+  "raceId": "7303",
+  "raceName": "2019-01-13 湘南シクロクロス第2戦 開成水辺スポーツ公園（湘南シクロクロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:03:02.608Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-189-0055",
+      "name": "太田 まどか",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 457.7,
+          "cumulativeTimeSec": 457.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 467.6,
+          "cumulativeTimeSec": 925.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 464,
+          "cumulativeTimeSec": 1389.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0413",
+      "name": "根本 静",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 479.1,
+          "cumulativeTimeSec": 479.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 478.9,
+          "cumulativeTimeSec": 958,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 489.1,
+          "cumulativeTimeSec": 1447.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-178-0031",
+      "name": "姫井 友子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 477.8,
+          "cumulativeTimeSec": 477.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 488.5,
+          "cumulativeTimeSec": 966.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 486.8,
+          "cumulativeTimeSec": 1453.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0042",
+      "name": "河村 ゆき子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 505.4,
+          "cumulativeTimeSec": 505.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 528.7,
+          "cumulativeTimeSec": 1034.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 525,
+          "cumulativeTimeSec": 1559.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0002",
+      "name": "大釜 萌",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535.7,
+          "cumulativeTimeSec": 535.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555.8,
+          "cumulativeTimeSec": 1091.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.9,
+          "cumulativeTimeSec": 1647.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "raceId": "14663",
+  "raceName": "2022-10-30 東北CXシリーズ#1亘理（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:38:54.222Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 576.4,
+          "cumulativeTimeSec": 576.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 590.4,
+          "cumulativeTimeSec": 1166.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 597.3,
+          "cumulativeTimeSec": 1764.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1608",
+      "name": "菊地 英",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 581.5,
+          "cumulativeTimeSec": 581.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 629.4,
+          "cumulativeTimeSec": 1210.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 626.9,
+          "cumulativeTimeSec": 1837.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-212-0044",
+      "name": "松井 紀子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 641.7,
+          "cumulativeTimeSec": 641.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 626.3,
+          "cumulativeTimeSec": 1268,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 635.4,
+          "cumulativeTimeSec": 1903.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "7920",
+  "raceName": "2019-02-24 東海シクロクロス#8　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:04:40.803Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 609,
+          "cumulativeTimeSec": 609,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1228,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 586.8,
+          "cumulativeTimeSec": 1814.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0192",
+      "name": "鈴木 渉之助",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 742.1,
+          "cumulativeTimeSec": 742.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 730.8,
+          "cumulativeTimeSec": 1472.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 771.7,
+          "cumulativeTimeSec": 2244.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

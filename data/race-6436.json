@@ -1,0 +1,67 @@
+{
+  "raceId": "6436",
+  "raceName": "2018-11-04 シクロクロスミーティングシリーズ　シーズン2018-2019 第4戦　飯山day2（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:59:28.930Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCT-000-0146",
+      "name": "清水 朱実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 572.7,
+          "cumulativeTimeSec": 572.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 649.2,
+          "cumulativeTimeSec": 1221.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 625.7,
+          "cumulativeTimeSec": 1847.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 625.2,
+          "cumulativeTimeSec": 625.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 650.3,
+          "cumulativeTimeSec": 1275.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 643.8,
+          "cumulativeTimeSec": 1919.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "raceId": "10732",
+  "raceName": "2020-11-08 東海シクロクロス#1　平田リバーサイドプラザ（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:50:47.694Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 407.6,
+          "cumulativeTimeSec": 407.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 354.8,
+          "cumulativeTimeSec": 762.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 349.1,
+          "cumulativeTimeSec": 1111.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 353.3,
+          "cumulativeTimeSec": 1464.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.3,
+          "cumulativeTimeSec": 406.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 353.7,
+          "cumulativeTimeSec": 760,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 353.1,
+          "cumulativeTimeSec": 1113.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 363.3,
+          "cumulativeTimeSec": 1476.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 417.4,
+          "cumulativeTimeSec": 417.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 364.1,
+          "cumulativeTimeSec": 781.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 364,
+          "cumulativeTimeSec": 1145.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 364.9,
+          "cumulativeTimeSec": 1510.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0022",
+      "name": "佐久間 一稀",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 477.4,
+          "cumulativeTimeSec": 477.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

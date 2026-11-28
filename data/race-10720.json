@@ -1,0 +1,75 @@
+{
+  "raceId": "10720",
+  "raceName": "2020-11-08 東海シクロクロス#1　平田リバーサイドプラザ（東海クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:50:43.245Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-201-0020",
+      "name": "平野 友恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 459.7,
+          "cumulativeTimeSec": 459.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 859.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0021",
+      "name": "藤原 里絵子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 519.7,
+          "cumulativeTimeSec": 519.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 443.4,
+          "cumulativeTimeSec": 963.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-201-0019",
+      "name": "大野 琴美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.4,
+          "cumulativeTimeSec": 525.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 478.8,
+          "cumulativeTimeSec": 1004.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

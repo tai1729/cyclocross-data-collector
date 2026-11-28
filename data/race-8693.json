@@ -1,0 +1,114 @@
+{
+  "raceId": "8693",
+  "raceName": "2019-10-27 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:54:00.370Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-2505",
+      "name": "副島 達海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1020.4,
+          "cumulativeTimeSec": 1020.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 529.9,
+          "cumulativeTimeSec": 1550.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 549.4,
+          "cumulativeTimeSec": 2099.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 562.5,
+          "cumulativeTimeSec": 2662.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0084",
+      "name": "大谷 玄真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1080,
+          "cumulativeTimeSec": 1080,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 579.8,
+          "cumulativeTimeSec": 1659.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 557.1,
+          "cumulativeTimeSec": 2216.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 539.7,
+          "cumulativeTimeSec": 2756.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0067",
+      "name": "田口 詞也",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1162.1,
+          "cumulativeTimeSec": 1162.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 564.9,
+          "cumulativeTimeSec": 1727,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 562.8,
+          "cumulativeTimeSec": 2289.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 573,
+          "cumulativeTimeSec": 2862.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

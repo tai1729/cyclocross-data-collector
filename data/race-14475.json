@@ -1,0 +1,118 @@
+{
+  "raceId": "14475",
+  "raceName": "2022-10-10 茨城シクロクロス 第2戦 土浦ステージ Supported by SPECIALIZED （秩父・茨城クロス（関東クロス））",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:38:28.110Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-201-0016",
+      "name": "馬島 史弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 312,
+          "cumulativeTimeSec": 312,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 275.8,
+          "cumulativeTimeSec": 587.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 268.2,
+          "cumulativeTimeSec": 856,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-178-0059",
+      "name": "皆木 海音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 318,
+          "cumulativeTimeSec": 318,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.8,
+          "cumulativeTimeSec": 609.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 287.7,
+          "cumulativeTimeSec": 897.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0032",
+      "name": "宗像 葵",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 447.9,
+          "cumulativeTimeSec": 447.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.9,
+          "cumulativeTimeSec": 838.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 390.5,
+          "cumulativeTimeSec": 1229.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0003",
+      "name": "八色 航",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 468.8,
+          "cumulativeTimeSec": 468.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 388.8,
+          "cumulativeTimeSec": 857.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

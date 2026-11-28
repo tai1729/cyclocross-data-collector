@@ -1,0 +1,54 @@
+{
+  "raceId": "10131",
+  "raceName": "2020-02-24 関西シクロクロス ROSEゴルフクラブ 信楽（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:58:24.349Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0381",
+      "name": "伊藤 慎一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.5,
+          "cumulativeTimeSec": 341.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 380.4,
+          "cumulativeTimeSec": 721.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3912",
+      "name": "松岡 伸二",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 412.5,
+          "cumulativeTimeSec": 412.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 477.9,
+          "cumulativeTimeSec": 890.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

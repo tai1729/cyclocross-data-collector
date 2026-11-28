@@ -1,0 +1,57 @@
+{
+  "raceId": "7130",
+  "raceName": "2018-12-23 第1戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:01:55.909Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-189-0006",
+      "name": "坂口 竣亮",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 181.7,
+          "cumulativeTimeSec": 181.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 197.8,
+          "cumulativeTimeSec": 379.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 260.7,
+          "cumulativeTimeSec": 260.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.3,
+          "cumulativeTimeSec": 528,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

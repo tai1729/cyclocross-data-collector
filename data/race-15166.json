@@ -1,0 +1,40 @@
+{
+  "raceId": "15166",
+  "raceName": "2022-11-20 関西シクロクロス UCI 琵琶湖グランプリ（関西クロス）",
+  "category": "W19-34",
+  "updatedAt": "2026-11-28T11:39:44.371Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-190-0068",
+      "name": "野添 晴菜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 771.8,
+          "cumulativeTimeSec": 771.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 770.2,
+          "cumulativeTimeSec": 1542,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 757.2,
+          "cumulativeTimeSec": 2299.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

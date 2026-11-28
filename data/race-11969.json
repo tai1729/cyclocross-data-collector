@@ -1,0 +1,96 @@
+{
+  "raceId": "11969",
+  "raceName": "2021-10-31 東北CXシリーズ#1亘理（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:44:42.124Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-189-0014",
+      "name": "飯島 大也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 236.6,
+          "cumulativeTimeSec": 236.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 231.1,
+          "cumulativeTimeSec": 467.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0034",
+      "name": "鈴木 智大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 262.3,
+          "cumulativeTimeSec": 262.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 271.9,
+          "cumulativeTimeSec": 534.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0004",
+      "name": "鈴木 悠仁",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 370.3,
+          "cumulativeTimeSec": 370.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 378.3,
+          "cumulativeTimeSec": 748.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0010",
+      "name": "佐藤 真実",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 430,
+          "cumulativeTimeSec": 430,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 353.5,
+          "cumulativeTimeSec": 783.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raceId": "4513",
+  "raceName": "2017-11-11 シクロクロスミーティングシリーズ　シーズン2017-2018 第3戦　飯山ナイター（信州クロス）",
+  "category": "CL2 カテゴリーL2",
+  "updatedAt": "2026-11-28T12:06:13.659Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-156-0060",
+      "name": "Ford Caitlin",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.9,
+          "cumulativeTimeSec": 671.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 832.6,
+          "cumulativeTimeSec": 1504.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-9015",
+      "name": "矢野 麻利",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 913.6,
+          "cumulativeTimeSec": 913.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 960.3,
+          "cumulativeTimeSec": 1873.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

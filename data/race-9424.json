@@ -1,0 +1,50 @@
+{
+  "raceId": "9424",
+  "raceName": "2020-01-05 第2戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:56:08.018Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-189-0006",
+      "name": "坂口 竣亮",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 427.6,
+          "cumulativeTimeSec": 427.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.3,
+          "cumulativeTimeSec": 875.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 450.2,
+          "cumulativeTimeSec": 1326.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 442.2,
+          "cumulativeTimeSec": 1768.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

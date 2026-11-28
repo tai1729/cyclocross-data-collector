@@ -1,0 +1,120 @@
+{
+  "raceId": "10785",
+  "raceName": "2020-11-22 東北CXシリーズ#1磐梯高原南ヶ丘牧場 （東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:50:52.969Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "UCX-190-0019",
+      "name": "宇賀神 遼成",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 252.8,
+          "cumulativeTimeSec": 252.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 246.3,
+          "cumulativeTimeSec": 499.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0033",
+      "name": "鈴木 尊人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 276.7,
+          "cumulativeTimeSec": 276.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 268.9,
+          "cumulativeTimeSec": 545.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-201-0017",
+      "name": "進藤 慶",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 291.9,
+          "cumulativeTimeSec": 291.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 277.8,
+          "cumulativeTimeSec": 569.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0021",
+      "name": "坂田 由智",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 313.4,
+          "cumulativeTimeSec": 313.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 318.6,
+          "cumulativeTimeSec": 632,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-190-0022",
+      "name": "若松 小鹿",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 384.2,
+          "cumulativeTimeSec": 384.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 365.3,
+          "cumulativeTimeSec": 749.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

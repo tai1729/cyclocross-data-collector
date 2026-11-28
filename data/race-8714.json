@@ -1,0 +1,117 @@
+{
+  "raceId": "8714",
+  "raceName": "2019-11-10 東北CXシリーズ#3磐梯高原南ヶ丘牧場（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:54:07.410Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-156-0035",
+      "name": "成田 光志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 218.9,
+          "cumulativeTimeSec": 218.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 208,
+          "cumulativeTimeSec": 426.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0032",
+      "name": "渡辺 悠真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 247.4,
+          "cumulativeTimeSec": 247.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 238.9,
+          "cumulativeTimeSec": 486.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1611",
+      "name": "菊地 慶次郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 260.3,
+          "cumulativeTimeSec": 260.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250.8,
+          "cumulativeTimeSec": 511.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0031",
+      "name": "小林 悟也",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 261.4,
+          "cumulativeTimeSec": 261.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 272.1,
+          "cumulativeTimeSec": 533.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0021",
+      "name": "坂田 由智",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.4,
+          "cumulativeTimeSec": 350.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 323,
+          "cumulativeTimeSec": 673.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

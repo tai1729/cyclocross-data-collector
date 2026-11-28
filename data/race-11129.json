@@ -1,0 +1,97 @@
+{
+  "raceId": "11129",
+  "raceName": "2020-12-20 もみじシクロクロス第６戦（もみじシクロクロス）",
+  "category": "C4",
+  "updatedAt": "2026-11-28T11:51:49.738Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "MMJ-201-0009",
+      "name": "五十川 凛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522.4,
+          "cumulativeTimeSec": 522.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 554.6,
+          "cumulativeTimeSec": 1077,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 593,
+          "cumulativeTimeSec": 1670,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0018",
+      "name": "新井 敬太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 585.7,
+          "cumulativeTimeSec": 585.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 584.5,
+          "cumulativeTimeSec": 1170.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 674.7,
+          "cumulativeTimeSec": 1844.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0010",
+      "name": "高山 優太郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 711.7,
+          "cumulativeTimeSec": 711.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 695,
+          "cumulativeTimeSec": 1406.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 746.2,
+          "cumulativeTimeSec": 2152.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

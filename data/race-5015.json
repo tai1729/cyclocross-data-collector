@@ -1,0 +1,70 @@
+{
+  "raceId": "5015",
+  "raceName": "2017-12-17 関西シクロクロス 第5戦 マイアミ（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:08:04.394Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3258",
+      "name": "田村 元",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 352.5,
+          "cumulativeTimeSec": 352.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 359.7,
+          "cumulativeTimeSec": 712.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 371.1,
+          "cumulativeTimeSec": 1083.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7592",
+      "name": "馬野 真澄",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 399.4,
+          "cumulativeTimeSec": 399.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 397.3,
+          "cumulativeTimeSec": 796.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.5,
+          "cumulativeTimeSec": 1211.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

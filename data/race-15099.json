@@ -1,0 +1,96 @@
+{
+  "raceId": "15099",
+  "raceName": "2022-11-13 東海シクロクロス 第1戦 岐阜県山県市 おおが城山公園（東海クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T12:56:19.229Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-212-0008",
+      "name": "大石 哲平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 391,
+          "cumulativeTimeSec": 391,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 376,
+          "cumulativeTimeSec": 767,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 378,
+          "cumulativeTimeSec": 1145,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 375,
+          "cumulativeTimeSec": 1520,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 375,
+          "cumulativeTimeSec": 1895,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 403,
+          "cumulativeTimeSec": 403,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 419,
+          "cumulativeTimeSec": 822,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 387,
+          "cumulativeTimeSec": 1209,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 376,
+          "cumulativeTimeSec": 1585,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 381,
+          "cumulativeTimeSec": 1966,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

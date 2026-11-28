@@ -1,0 +1,173 @@
+{
+  "raceId": "12339",
+  "raceName": "2021-10-31 関西シクロクロス 第1戦 富田林（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:44:50.340Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0100",
+      "name": "篠崎 英樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 237.3,
+          "cumulativeTimeSec": 237.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 269,
+          "cumulativeTimeSec": 506.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 269.7,
+          "cumulativeTimeSec": 776,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 264.7,
+          "cumulativeTimeSec": 1040.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0103",
+      "name": "吉岡 篤志",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 264.9,
+          "cumulativeTimeSec": 264.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 286.4,
+          "cumulativeTimeSec": 551.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 272.9,
+          "cumulativeTimeSec": 824.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 236.3,
+          "cumulativeTimeSec": 1060.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0101",
+      "name": "田中 秀樹",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 259.4,
+          "cumulativeTimeSec": 259.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 274.6,
+          "cumulativeTimeSec": 534,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 281.4,
+          "cumulativeTimeSec": 815.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 310.2,
+          "cumulativeTimeSec": 1125.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0102",
+      "name": "津守 一明",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 266.1,
+          "cumulativeTimeSec": 266.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 299.8,
+          "cumulativeTimeSec": 565.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 320.5,
+          "cumulativeTimeSec": 886.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 317.2,
+          "cumulativeTimeSec": 1203.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0099",
+      "name": "黒田 敏伸",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 267.1,
+          "cumulativeTimeSec": 267.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 313.7,
+          "cumulativeTimeSec": 580.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 403.3,
+          "cumulativeTimeSec": 984.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

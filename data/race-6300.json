@@ -1,0 +1,80 @@
+{
+  "raceId": "6300",
+  "raceName": "2018-10-14 前橋シクロクロス#1 岩神緑地（前橋シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:59:04.898Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1221",
+      "name": "高橋 翔",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 431.1,
+          "cumulativeTimeSec": 431.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.3,
+          "cumulativeTimeSec": 821.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 390.3,
+          "cumulativeTimeSec": 1211.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 394.5,
+          "cumulativeTimeSec": 1606.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1506",
+      "name": "加藤 礼慈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 480.2,
+          "cumulativeTimeSec": 480.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 471,
+          "cumulativeTimeSec": 951.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 481.8,
+          "cumulativeTimeSec": 1433,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 483.7,
+          "cumulativeTimeSec": 1916.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

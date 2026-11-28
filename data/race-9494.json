@@ -1,0 +1,124 @@
+{
+  "raceId": "9494",
+  "raceName": "2020-01-11 東海シクロクロス#4　愛知牧場（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:56:14.331Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 574.7,
+          "cumulativeTimeSec": 574.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 566.1,
+          "cumulativeTimeSec": 1140.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.3,
+          "cumulativeTimeSec": 1696.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-178-0014",
+      "name": "谷川 稀生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 643.7,
+          "cumulativeTimeSec": 643.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 612.1,
+          "cumulativeTimeSec": 1255.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 628.7,
+          "cumulativeTimeSec": 1884.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0137",
+      "name": "浅野 諒",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 713.1,
+          "cumulativeTimeSec": 713.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 813.3,
+          "cumulativeTimeSec": 1526.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 796.4,
+          "cumulativeTimeSec": 2322.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0185",
+      "name": "星野 翠騎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 789.8,
+          "cumulativeTimeSec": 789.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 829.3,
+          "cumulativeTimeSec": 1619.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 824.3,
+          "cumulativeTimeSec": 2443.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

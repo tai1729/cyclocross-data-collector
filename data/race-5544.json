@@ -1,0 +1,54 @@
+{
+  "raceId": "5544",
+  "raceName": "2018-01-28 シクロクロス四国17-18第1戦 高知ヤシィシクロクロスカップ（四国クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:10:04.715Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-167-0052",
+      "name": "谷村 友維",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 379.2,
+          "cumulativeTimeSec": 379.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.3,
+          "cumulativeTimeSec": 752.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0447",
+      "name": "桂木 壮潤",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 435.7,
+          "cumulativeTimeSec": 435.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 425.9,
+          "cumulativeTimeSec": 861.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "raceId": "8648",
+  "raceName": "2019-10-27 東北CXシリーズ#2さがえ（UCI-C2）（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:53:50.417Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-189-0038",
+      "name": "半澤 宗幸",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 605.4,
+          "cumulativeTimeSec": 605.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 264.3,
+          "cumulativeTimeSec": 869.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

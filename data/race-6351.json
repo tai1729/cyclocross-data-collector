@@ -1,0 +1,54 @@
+{
+  "raceId": "6351",
+  "raceName": "2018-10-28 東北CXシリーズ#1さがえ（UCI-C2）（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:59:17.139Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-156-0035",
+      "name": "成田 光志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 308,
+          "cumulativeTimeSec": 308,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 290.5,
+          "cumulativeTimeSec": 598.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0015",
+      "name": "山田 禅人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 320.9,
+          "cumulativeTimeSec": 320.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 295.2,
+          "cumulativeTimeSec": 616.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

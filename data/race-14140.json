@@ -1,0 +1,40 @@
+{
+  "raceId": "14140",
+  "raceName": "2022-03-20 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:49:10.671Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7161",
+      "name": "福本 あおい",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 653.5,
+          "cumulativeTimeSec": 653.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 687.7,
+          "cumulativeTimeSec": 1341.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 563,
+          "cumulativeTimeSec": 1904.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "raceId": "17154",
+  "raceName": "2023-03-05 山口シクロクロス第4戦豊浦ステージ（山口シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:43:46.550Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0087",
+      "name": "白井 彩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535.5,
+          "cumulativeTimeSec": 535.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551.3,
+          "cumulativeTimeSec": 1086.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 541,
+          "cumulativeTimeSec": 1627.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 550.6,
+          "cumulativeTimeSec": 2178.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-189-0007",
+      "name": "角島 紀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 568.1,
+          "cumulativeTimeSec": 568.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 586.7,
+          "cumulativeTimeSec": 1154.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 582.5,
+          "cumulativeTimeSec": 1737.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 577.7,
+          "cumulativeTimeSec": 2315,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-212-0002",
+      "name": "古田 晴美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 604.8,
+          "cumulativeTimeSec": 604.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 591.5,
+          "cumulativeTimeSec": 1196.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 616.5,
+          "cumulativeTimeSec": 1812.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 618.2,
+          "cumulativeTimeSec": 2431,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "raceId": "9027",
+  "raceName": "2019-11-24 関西シクロクロス 第3戦 美山（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:54:50.715Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0127",
+      "name": "足立 格",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 355.5,
+          "cumulativeTimeSec": 355.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 263,
+          "cumulativeTimeSec": 618.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 265,
+          "cumulativeTimeSec": 883.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3912",
+      "name": "松岡 伸二",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 453.9,
+          "cumulativeTimeSec": 453.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 335.5,
+          "cumulativeTimeSec": 789.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

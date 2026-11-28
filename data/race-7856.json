@@ -1,0 +1,78 @@
+{
+  "raceId": "7856",
+  "raceName": "2019-02-17 第12回さぬきシクロクロス善通寺大会（四国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:04:22.060Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0523",
+      "name": "村上 裕二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 705.6,
+          "cumulativeTimeSec": 705.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 348,
+          "cumulativeTimeSec": 1053.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 342.6,
+          "cumulativeTimeSec": 1396.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 348.3,
+          "cumulativeTimeSec": 1744.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-167-0052",
+      "name": "谷村 友維",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 894,
+          "cumulativeTimeSec": 894,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539,
+          "cumulativeTimeSec": 1433,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 471.6,
+          "cumulativeTimeSec": 1904.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

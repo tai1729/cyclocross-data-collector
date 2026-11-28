@@ -1,0 +1,141 @@
+{
+  "raceId": "11021",
+  "raceName": "2020-12-06 九州シクロクロス 第1戦 平尾台ステージ（九州シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:51:30.576Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "QCX-190-0098",
+      "name": "有松 鈴々菜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 223.1,
+          "cumulativeTimeSec": 223.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 224.3,
+          "cumulativeTimeSec": 447.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0058",
+      "name": "北津留 新羽",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 225.8,
+          "cumulativeTimeSec": 225.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 238,
+          "cumulativeTimeSec": 463.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0034",
+      "name": "茅島 廉太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 276.2,
+          "cumulativeTimeSec": 276.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 288.4,
+          "cumulativeTimeSec": 564.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0013",
+      "name": "松永 涼介",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305.6,
+          "cumulativeTimeSec": 305.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 321.7,
+          "cumulativeTimeSec": 627.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0038",
+      "name": "時長 漣",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 316,
+          "cumulativeTimeSec": 316,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 350.8,
+          "cumulativeTimeSec": 666.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0009",
+      "name": "尾崎 愛周",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 320.6,
+          "cumulativeTimeSec": 320.6,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 441.5,
+          "cumulativeTimeSec": 762.1,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

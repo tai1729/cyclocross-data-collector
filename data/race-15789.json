@@ -1,0 +1,74 @@
+{
+  "raceId": "15789",
+  "raceName": "2022-12-25 東北CXシリーズ#3福島空港（東北 CX Project）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:41:11.084Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-000-0111",
+      "name": "須藤 むつみ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 666.3,
+          "cumulativeTimeSec": 666.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 678.7,
+          "cumulativeTimeSec": 1345,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 685,
+          "cumulativeTimeSec": 2030,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 694.9,
+          "cumulativeTimeSec": 2724.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0011",
+      "name": "小田 恵利花",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 731.5,
+          "cumulativeTimeSec": 731.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 794.2,
+          "cumulativeTimeSec": 1525.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1209.8,
+          "cumulativeTimeSec": 2735.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

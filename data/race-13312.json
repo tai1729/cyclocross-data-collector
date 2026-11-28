@@ -1,0 +1,54 @@
+{
+  "raceId": "13312",
+  "raceName": "2021-12-12 山口シクロクロス第1戦豊浦ステージ（山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:46:51.368Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0024",
+      "name": "森村 望",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 180.9,
+          "cumulativeTimeSec": 180.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 181.5,
+          "cumulativeTimeSec": 362.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-212-0001",
+      "name": "飛瀬 日夏莉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 212.1,
+          "cumulativeTimeSec": 212.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 207.8,
+          "cumulativeTimeSec": 419.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "raceId": "5489",
+  "raceName": "2018-01-21 東海シクロクロス#7愛知牧場（東海クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T12:09:47.646Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1007",
+      "name": "小島 大輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535.6,
+          "cumulativeTimeSec": 535.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 529,
+          "cumulativeTimeSec": 1064.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 539,
+          "cumulativeTimeSec": 1603.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 548.4,
+          "cumulativeTimeSec": 2152,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-167-0029",
+      "name": "片桐 翼",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 538.3,
+          "cumulativeTimeSec": 538.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 540.2,
+          "cumulativeTimeSec": 1078.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 559,
+          "cumulativeTimeSec": 1637.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 561.7,
+          "cumulativeTimeSec": 2199.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1999",
+      "name": "重田 恵杜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586.8,
+          "cumulativeTimeSec": 586.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 600.7,
+          "cumulativeTimeSec": 1187.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 597,
+          "cumulativeTimeSec": 1784.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 599.1,
+          "cumulativeTimeSec": 2383.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

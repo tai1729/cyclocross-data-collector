@@ -1,0 +1,54 @@
+{
+  "raceId": "8292",
+  "raceName": "2019-10-20 中国シクロクロス第1戦広島もみのき森林公園（中国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:53:32.932Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 309.8,
+          "cumulativeTimeSec": 309.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 326.4,
+          "cumulativeTimeSec": 636.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4905",
+      "name": "栄 悠之介",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 308.2,
+          "cumulativeTimeSec": 308.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 334.3,
+          "cumulativeTimeSec": 642.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

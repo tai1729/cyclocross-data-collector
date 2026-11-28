@@ -1,0 +1,67 @@
+{
+  "raceId": "5447",
+  "raceName": "2018-01-20 東海シクロクロス#6愛知牧場（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:09:25.524Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 681.1,
+          "cumulativeTimeSec": 681.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673,
+          "cumulativeTimeSec": 1354.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 693.4,
+          "cumulativeTimeSec": 2047.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0209",
+      "name": "川瀬 隼人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.9,
+          "cumulativeTimeSec": 701.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 788.4,
+          "cumulativeTimeSec": 1490.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 743.1,
+          "cumulativeTimeSec": 2233.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

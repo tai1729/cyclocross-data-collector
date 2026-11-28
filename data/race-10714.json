@@ -1,0 +1,41 @@
+{
+  "raceId": "10714",
+  "raceName": "2020-11-08 関西シクロクロス 第3戦 烏丸半島（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:50:41.125Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-0184",
+      "name": "福田 晃道",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 540,
+          "cumulativeTimeSec": 540,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0115",
+      "name": "金杉 英和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 583.9,
+          "cumulativeTimeSec": 583.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

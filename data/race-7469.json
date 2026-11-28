@@ -1,0 +1,74 @@
+{
+  "raceId": "7469",
+  "raceName": "2019-01-20 第6回高知シクロクロス ヤシィシクロクロスカップ（四国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:03:41.974Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-000-0239",
+      "name": "橋本 青空",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 507.8,
+          "cumulativeTimeSec": 507.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468,
+          "cumulativeTimeSec": 975.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 476.1,
+          "cumulativeTimeSec": 1451.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 483.9,
+          "cumulativeTimeSec": 1935.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7592",
+      "name": "馬野 真澄",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 603.7,
+          "cumulativeTimeSec": 603.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 640,
+          "cumulativeTimeSec": 1243.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 683.9,
+          "cumulativeTimeSec": 1927.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

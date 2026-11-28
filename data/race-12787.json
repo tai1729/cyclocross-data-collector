@@ -1,0 +1,40 @@
+{
+  "raceId": "12787",
+  "raceName": "2021-11-21 関西シクロクロス UCI 琵琶湖グランプリ（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:45:40.992Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0277",
+      "name": "堂上 駿介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 671.5,
+          "cumulativeTimeSec": 671.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 660.4,
+          "cumulativeTimeSec": 1331.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 657,
+          "cumulativeTimeSec": 1988.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

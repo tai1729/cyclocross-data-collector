@@ -1,0 +1,121 @@
+{
+  "raceId": "13301",
+  "raceName": "2021-12-05 GP日本金属化工所 シクロクロスミーティングシリーズ　シーズン2021-2022 第7戦　上山田（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:46:44.114Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-201-0009",
+      "name": "富樫 悠太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 221.6,
+          "cumulativeTimeSec": 221.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 212.3,
+          "cumulativeTimeSec": 433.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 217.1,
+          "cumulativeTimeSec": 651,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0035",
+      "name": "藤本 音羽",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 233.1,
+          "cumulativeTimeSec": 233.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 231.4,
+          "cumulativeTimeSec": 464.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 237.4,
+          "cumulativeTimeSec": 701.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0024",
+      "name": "田切 琉聖",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249.7,
+          "cumulativeTimeSec": 249.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.9,
+          "cumulativeTimeSec": 504.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 262.1,
+          "cumulativeTimeSec": 766.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0043",
+      "name": "湯原 和",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.5,
+          "cumulativeTimeSec": 284.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.4,
+          "cumulativeTimeSec": 577.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 299.6,
+          "cumulativeTimeSec": 877.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

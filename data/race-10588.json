@@ -1,0 +1,149 @@
+{
+  "raceId": "10588",
+  "raceName": "2020-11-01 関西シクロクロス 第2戦 富田林（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:50:19.932Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-178-0158",
+      "name": "松井 颯良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 450.1,
+          "cumulativeTimeSec": 450.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.9,
+          "cumulativeTimeSec": 909,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 461.4,
+          "cumulativeTimeSec": 1370.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 449.4,
+          "cumulativeTimeSec": 1819.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0305",
+      "name": "松山 海司",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 452.9,
+          "cumulativeTimeSec": 452.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 457.4,
+          "cumulativeTimeSec": 910.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 461.5,
+          "cumulativeTimeSec": 1371.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 450.3,
+          "cumulativeTimeSec": 1822.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4598",
+      "name": "藤原 琢磨",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.5,
+          "cumulativeTimeSec": 467.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 478,
+          "cumulativeTimeSec": 945.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 474,
+          "cumulativeTimeSec": 1419.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 469.5,
+          "cumulativeTimeSec": 1889,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0101",
+      "name": "安藤 優作",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 466.3,
+          "cumulativeTimeSec": 466.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.2,
+          "cumulativeTimeSec": 961.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 492.8,
+          "cumulativeTimeSec": 1454.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 492.1,
+          "cumulativeTimeSec": 1946.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

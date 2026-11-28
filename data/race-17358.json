@@ -1,0 +1,40 @@
+{
+  "raceId": "17358",
+  "raceName": "2023-03-26 もみじシクロクロス3/26（もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:44:02.169Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0013",
+      "name": "藤井 亜紀",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 564.3,
+          "cumulativeTimeSec": 564.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581.3,
+          "cumulativeTimeSec": 1145.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 568.9,
+          "cumulativeTimeSec": 1714.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

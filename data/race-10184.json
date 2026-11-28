@@ -1,0 +1,36 @@
+{
+  "raceId": "10184",
+  "raceName": "2020-03-01 中国シクロクロス第6戦　岡山　葡萄浪漫館（中国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:58:26.702Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CCH-189-0027",
+      "name": "吉本 有寿",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 420.3,
+          "cumulativeTimeSec": 420.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 298.3,
+          "cumulativeTimeSec": 718.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

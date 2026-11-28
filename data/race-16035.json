@@ -1,0 +1,162 @@
+{
+  "raceId": "16035",
+  "raceName": "2023-01-08 シクロクロス千葉#12（千葉クロス）",
+  "category": "MM35",
+  "updatedAt": "2026-11-28T11:41:36.477Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-212-0003",
+      "name": "今西 大地",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 380.5,
+          "cumulativeTimeSec": 380.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 375,
+          "cumulativeTimeSec": 755.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 389.1,
+          "cumulativeTimeSec": 1144.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 395,
+          "cumulativeTimeSec": 1539.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 383.6,
+          "cumulativeTimeSec": 1923.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0045",
+      "name": "大内 理雄",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 401.2,
+          "cumulativeTimeSec": 401.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 396.3,
+          "cumulativeTimeSec": 797.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 398.4,
+          "cumulativeTimeSec": 1195.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 400.3,
+          "cumulativeTimeSec": 1596.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 394.7,
+          "cumulativeTimeSec": 1990.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0033",
+      "name": "植田 圭一郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 425.9,
+          "cumulativeTimeSec": 425.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417,
+          "cumulativeTimeSec": 842.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 422.3,
+          "cumulativeTimeSec": 1265.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 422.9,
+          "cumulativeTimeSec": 1688.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-223-0054",
+      "name": "内田 紘貴",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 493.3,
+          "cumulativeTimeSec": 493.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 478,
+          "cumulativeTimeSec": 971.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 480.9,
+          "cumulativeTimeSec": 1452.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 467.2,
+          "cumulativeTimeSec": 1919.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

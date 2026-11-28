@@ -1,0 +1,36 @@
+{
+  "raceId": "4252",
+  "raceName": "2017-10-29 関西シクロクロス 第1戦 りんくう（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:05:45.213Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3258",
+      "name": "田村 元",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 470,
+          "cumulativeTimeSec": 470,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.2,
+          "cumulativeTimeSec": 978.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "raceId": "9869",
+  "raceName": "2020-02-09 第4戦リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:57:44.045Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-190-0044",
+      "name": "松本 鷹斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 216.8,
+          "cumulativeTimeSec": 216.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 203.2,
+          "cumulativeTimeSec": 420,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 196.6,
+          "cumulativeTimeSec": 616.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-190-0042",
+      "name": "馬場 遥史",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 286.5,
+          "cumulativeTimeSec": 286.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 265.7,
+          "cumulativeTimeSec": 552.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

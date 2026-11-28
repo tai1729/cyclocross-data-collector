@@ -1,0 +1,83 @@
+{
+  "raceId": "9669",
+  "raceName": "2020-01-26 九州シクロクロス 第2戦 小竹ステージ（九州シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:56:59.687Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "QCX-190-0089",
+      "name": "小野 康晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 163.5,
+          "cumulativeTimeSec": 163.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 187.1,
+          "cumulativeTimeSec": 350.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 187.4,
+          "cumulativeTimeSec": 538,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 200.1,
+          "cumulativeTimeSec": 738.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0049",
+      "name": "俣野 優真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 169.3,
+          "cumulativeTimeSec": 169.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 182.8,
+          "cumulativeTimeSec": 352.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 204.1,
+          "cumulativeTimeSec": 556.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 189.6,
+          "cumulativeTimeSec": 745.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

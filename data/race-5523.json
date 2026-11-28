@@ -1,0 +1,36 @@
+{
+  "raceId": "5523",
+  "raceName": "2018-01-28 くろんど池シクロクロス（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:09:55.738Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3258",
+      "name": "田村 元",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 433.7,
+          "cumulativeTimeSec": 433.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 434.5,
+          "cumulativeTimeSec": 868.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

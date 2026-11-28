@@ -1,0 +1,110 @@
+{
+  "raceId": "7248",
+  "raceName": "2019-01-06 第3戦　深坂自然の森ステージ（山口シクロクロス）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:02:25.255Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-178-0003",
+      "name": "井上 悠喜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 197.3,
+          "cumulativeTimeSec": 197.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 164.6,
+          "cumulativeTimeSec": 361.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 162.6,
+          "cumulativeTimeSec": 524.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 162.5,
+          "cumulativeTimeSec": 687,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0042",
+      "name": "井上 颯",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 236,
+          "cumulativeTimeSec": 236,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 207.8,
+          "cumulativeTimeSec": 443.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 209.8,
+          "cumulativeTimeSec": 653.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 218.2,
+          "cumulativeTimeSec": 871.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.2,
+          "cumulativeTimeSec": 243.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 419.5,
+          "cumulativeTimeSec": 662.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 210.9,
+          "cumulativeTimeSec": 873.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

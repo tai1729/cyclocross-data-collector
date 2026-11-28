@@ -1,0 +1,75 @@
+{
+  "raceId": "9255",
+  "raceName": "2019-12-15 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:55:30.482Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.8,
+          "cumulativeTimeSec": 461.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 427.2,
+          "cumulativeTimeSec": 889,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0141",
+      "name": "山中 碧仁",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 513.6,
+          "cumulativeTimeSec": 513.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 488.2,
+          "cumulativeTimeSec": 1001.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-9375",
+      "name": "筧 名月",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 565.6,
+          "cumulativeTimeSec": 565.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 593.3,
+          "cumulativeTimeSec": 1158.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

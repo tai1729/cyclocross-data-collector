@@ -1,0 +1,50 @@
+{
+  "raceId": "11194",
+  "raceName": "2020-12-20 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:52:05.630Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-178-0067",
+      "name": "奥村 康生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 482.2,
+          "cumulativeTimeSec": 482.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 485.9,
+          "cumulativeTimeSec": 968.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 499.5,
+          "cumulativeTimeSec": 1467.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 492.6,
+          "cumulativeTimeSec": 1960.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

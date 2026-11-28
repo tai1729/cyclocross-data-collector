@@ -1,0 +1,40 @@
+{
+  "raceId": "15156",
+  "raceName": "2022-11-20 関西シクロクロス UCI 琵琶湖グランプリ（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T11:39:41.106Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 580.6,
+          "cumulativeTimeSec": 580.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 621.9,
+          "cumulativeTimeSec": 1202.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1821.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

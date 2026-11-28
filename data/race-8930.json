@@ -1,0 +1,43 @@
+{
+  "raceId": "8930",
+  "raceName": "2019-11-17 関西シクロクロス UCI マキノ（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:54:27.565Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0134",
+      "name": "老原 由恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 431.5,
+          "cumulativeTimeSec": 431.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 443.7,
+          "cumulativeTimeSec": 875.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 429.8,
+          "cumulativeTimeSec": 1305,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

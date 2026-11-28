@@ -1,0 +1,70 @@
+{
+  "raceId": "13452",
+  "raceName": "2021-12-26 関西シクロクロス 第7戦 くろんど（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:47:21.018Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0225",
+      "name": "藤本 昌弘",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 335.2,
+          "cumulativeTimeSec": 335.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.8,
+          "cumulativeTimeSec": 660,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 344.7,
+          "cumulativeTimeSec": 1004.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0005",
+      "name": "上山 孝太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 380,
+          "cumulativeTimeSec": 380,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 361.7,
+          "cumulativeTimeSec": 741.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 371.7,
+          "cumulativeTimeSec": 1113.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

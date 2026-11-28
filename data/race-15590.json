@@ -1,0 +1,96 @@
+{
+  "raceId": "15590",
+  "raceName": "2022-12-11 野田シクロクロス#1（千葉クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:40:42.017Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-223-0012",
+      "name": "清水 陽智",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 210.9,
+          "cumulativeTimeSec": 210.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 169.7,
+          "cumulativeTimeSec": 380.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0096",
+      "name": "稲 彰太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 229.3,
+          "cumulativeTimeSec": 229.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 174.6,
+          "cumulativeTimeSec": 403.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0025",
+      "name": "野嵜 日貴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 249.1,
+          "cumulativeTimeSec": 249.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 174.6,
+          "cumulativeTimeSec": 423.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0009",
+      "name": "山田 晴仁",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 267.2,
+          "cumulativeTimeSec": 267.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 226.6,
+          "cumulativeTimeSec": 493.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

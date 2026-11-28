@@ -1,0 +1,182 @@
+{
+  "raceId": "15723",
+  "raceName": "2022-12-18 もみじシクロクロス12/18（もみじシクロクロス）",
+  "category": "CM1",
+  "updatedAt": "2026-11-28T11:40:50.527Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-189-0032",
+      "name": "檜垣 良一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 710.5,
+          "cumulativeTimeSec": 710.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 758.5,
+          "cumulativeTimeSec": 1469,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 749.3,
+          "cumulativeTimeSec": 2218.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 788.2,
+          "cumulativeTimeSec": 3006.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0149",
+      "name": "波多 大祐",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 719.7,
+          "cumulativeTimeSec": 719.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 786.2,
+          "cumulativeTimeSec": 1505.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 803.6,
+          "cumulativeTimeSec": 2309.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 767.4,
+          "cumulativeTimeSec": 3076.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2605",
+      "name": "辻 潤",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 726.6,
+          "cumulativeTimeSec": 726.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 796.3,
+          "cumulativeTimeSec": 1522.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 784.6,
+          "cumulativeTimeSec": 2307.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 807.2,
+          "cumulativeTimeSec": 3114.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0282",
+      "name": "浅田 知寿",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 741,
+          "cumulativeTimeSec": 741,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 800.2,
+          "cumulativeTimeSec": 1541.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1053.8,
+          "cumulativeTimeSec": 2595,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 541.8,
+          "cumulativeTimeSec": 3136.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0827",
+      "name": "宮田 敬一",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 814.5,
+          "cumulativeTimeSec": 814.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 873.7,
+          "cumulativeTimeSec": 1688.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 915,
+          "cumulativeTimeSec": 2603.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 967.3,
+          "cumulativeTimeSec": 3570.5,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

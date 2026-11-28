@@ -1,0 +1,116 @@
+{
+  "raceId": "12805",
+  "raceName": "2021-11-21 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:45:47.708Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-156-0054",
+      "name": "高橋 壮",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 429.9,
+          "cumulativeTimeSec": 429.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 423.9,
+          "cumulativeTimeSec": 853.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 422.8,
+          "cumulativeTimeSec": 1276.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 424.6,
+          "cumulativeTimeSec": 1701.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-212-0024",
+      "name": "田島 綾人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 447,
+          "cumulativeTimeSec": 447,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 433.9,
+          "cumulativeTimeSec": 880.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 453.1,
+          "cumulativeTimeSec": 1334,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 446,
+          "cumulativeTimeSec": 1780,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-167-0010",
+      "name": "石田 晴眞",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 495.4,
+          "cumulativeTimeSec": 495.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 475.2,
+          "cumulativeTimeSec": 970.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 468.7,
+          "cumulativeTimeSec": 1439.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 482.1,
+          "cumulativeTimeSec": 1921.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

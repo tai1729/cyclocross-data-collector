@@ -1,0 +1,97 @@
+{
+  "raceId": "7966",
+  "raceName": "2019-03-03 CYCLOCROSS CHIBA2018-19#7（千葉クロス）",
+  "category": "CM2",
+  "updatedAt": "2026-11-28T12:04:54.210Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-7125",
+      "name": "横山 聡",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 421.9,
+          "cumulativeTimeSec": 421.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.3,
+          "cumulativeTimeSec": 825.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.3,
+          "cumulativeTimeSec": 1239.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0927",
+      "name": "一柳 達也",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.1,
+          "cumulativeTimeSec": 424.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 418.2,
+          "cumulativeTimeSec": 842.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 438.8,
+          "cumulativeTimeSec": 1281.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0022",
+      "name": "中島 達雄",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 422.3,
+          "cumulativeTimeSec": 422.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.2,
+          "cumulativeTimeSec": 839.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.1,
+          "cumulativeTimeSec": 1296.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

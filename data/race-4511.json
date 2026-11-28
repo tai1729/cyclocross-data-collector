@@ -1,0 +1,102 @@
+{
+  "raceId": "4511",
+  "raceName": "2017-11-12 シクロクロスミーティングシリーズ　シーズン2017-2018 第4戦　飯山　（信州クロス）",
+  "category": "CJ ジュニア",
+  "updatedAt": "2026-11-28T12:06:41.231Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-000-0812",
+      "name": "村上 功太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 677.2,
+          "cumulativeTimeSec": 677.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 614.4,
+          "cumulativeTimeSec": 1291.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 622.3,
+          "cumulativeTimeSec": 1913.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 635.3,
+          "cumulativeTimeSec": 2549.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1007",
+      "name": "小島 大輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 662.7,
+          "cumulativeTimeSec": 662.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 697.7,
+          "cumulativeTimeSec": 1360.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 686.3,
+          "cumulativeTimeSec": 2046.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 744.4,
+          "cumulativeTimeSec": 2791.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0004",
+      "name": "橋本 嶺登",
+      "finalPosition": 3,
+      "status": "annotated-rank",
+      "officialPositionLabel": "3 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 698.8,
+          "cumulativeTimeSec": 698.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 792.8,
+          "cumulativeTimeSec": 1491.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "raceId": "13318",
+  "raceName": "2021-12-12 山口シクロクロス第1戦豊浦ステージ（山口シクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:46:53.122Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-201-0017",
+      "name": "吉中 美空",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.2,
+          "cumulativeTimeSec": 341.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 319.8,
+          "cumulativeTimeSec": 661,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 333.1,
+          "cumulativeTimeSec": 994.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 326.5,
+          "cumulativeTimeSec": 1320.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 337,
+          "cumulativeTimeSec": 1657.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 313.5,
+          "cumulativeTimeSec": 1971.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 379.5,
+          "cumulativeTimeSec": 379.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 358.8,
+          "cumulativeTimeSec": 738.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 362.3,
+          "cumulativeTimeSec": 1100.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 370.2,
+          "cumulativeTimeSec": 1470.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 372,
+          "cumulativeTimeSec": 1842.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 454.3,
+          "cumulativeTimeSec": 2297.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "raceId": "10909",
+  "raceName": "2020-11-23 関西シクロクロス 第4戦 マキノ(2日目)（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:51:16.143Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0144",
+      "name": "高坂 秀明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.2,
+          "cumulativeTimeSec": 416.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 402.8,
+          "cumulativeTimeSec": 819,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 403.9,
+          "cumulativeTimeSec": 1222.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

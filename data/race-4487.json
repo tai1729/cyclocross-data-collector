@@ -1,0 +1,120 @@
+{
+  "raceId": "4487",
+  "raceName": "2017-11-12 東海シクロクロス#2各務ヶ原アウトドアフィールド（東海クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T12:06:30.784Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4598",
+      "name": "藤原 琢磨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 189.1,
+          "cumulativeTimeSec": 189.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 249.1,
+          "cumulativeTimeSec": 438.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0067",
+      "name": "奥村 康生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 209.3,
+          "cumulativeTimeSec": 209.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 241.4,
+          "cumulativeTimeSec": 450.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0180",
+      "name": "大石 昂弥",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 207.9,
+          "cumulativeTimeSec": 207.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 253.1,
+          "cumulativeTimeSec": 461,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0163",
+      "name": "豊嶋 大志",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 219.6,
+          "cumulativeTimeSec": 219.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.9,
+          "cumulativeTimeSec": 487.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0066",
+      "name": "岩田 瑠輝歩",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 248.2,
+          "cumulativeTimeSec": 248.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 316.6,
+          "cumulativeTimeSec": 564.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

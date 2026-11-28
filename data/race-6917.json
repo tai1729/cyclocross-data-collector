@@ -1,0 +1,67 @@
+{
+  "raceId": "6917",
+  "raceName": "2018-12-08 第24回シクロクロス全日本選手権大会day1（全日本選手権）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T12:01:02.123Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-156-0089",
+      "name": "児玉 和代",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 557.6,
+          "cumulativeTimeSec": 557.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 575.5,
+          "cumulativeTimeSec": 1133.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 591.3,
+          "cumulativeTimeSec": 1724.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCT-000-0146",
+      "name": "清水 朱実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 638,
+          "cumulativeTimeSec": 638,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 613.2,
+          "cumulativeTimeSec": 1251.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 609.2,
+          "cumulativeTimeSec": 1860.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

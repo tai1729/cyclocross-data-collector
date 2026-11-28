@@ -1,0 +1,33 @@
+{
+  "raceId": "10848",
+  "raceName": "2020-11-23 中国シクロクロス広島　第１戦　もみのき森林公園（中国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:51:07.512Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-201-0001",
+      "name": "山田 鈴奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 486.1,
+          "cumulativeTimeSec": 486.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 578,
+          "cumulativeTimeSec": 1064.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

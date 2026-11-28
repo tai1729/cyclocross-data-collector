@@ -1,0 +1,68 @@
+{
+  "raceId": "9535",
+  "raceName": "2020-01-13 関西シクロクロス くろんど（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:56:34.746Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 986.4,
+          "cumulativeTimeSec": 986.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.6,
+          "cumulativeTimeSec": 1444,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 471.6,
+          "cumulativeTimeSec": 1915.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0051",
+      "name": "松本 開太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1135,
+          "cumulativeTimeSec": 1135,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 574.1,
+          "cumulativeTimeSec": 1709.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 614.6,
+          "cumulativeTimeSec": 2323.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

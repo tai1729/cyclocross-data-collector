@@ -1,0 +1,124 @@
+{
+  "raceId": "9854",
+  "raceName": "2020-02-09 関西シクロクロス JCX 日吉（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:57:38.592Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 758.6,
+          "cumulativeTimeSec": 758.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 495.6,
+          "cumulativeTimeSec": 1254.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 499.9,
+          "cumulativeTimeSec": 1754.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4332",
+      "name": "河村 元",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 754.1,
+          "cumulativeTimeSec": 754.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 512.2,
+          "cumulativeTimeSec": 1266.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.4,
+          "cumulativeTimeSec": 1790.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4439",
+      "name": "自檀地 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 788.5,
+          "cumulativeTimeSec": 788.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.7,
+          "cumulativeTimeSec": 1319.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 537.9,
+          "cumulativeTimeSec": 1857.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 822.2,
+          "cumulativeTimeSec": 822.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 570.7,
+          "cumulativeTimeSec": 1392.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 565,
+          "cumulativeTimeSec": 1957.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

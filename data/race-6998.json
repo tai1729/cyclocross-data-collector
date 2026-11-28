@@ -1,0 +1,83 @@
+{
+  "raceId": "6998",
+  "raceName": "2018-12-16 関西シクロクロス 第4戦 信太山（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T12:01:09.881Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-189-0153",
+      "name": "角屋 育実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 233.5,
+          "cumulativeTimeSec": 233.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 207,
+          "cumulativeTimeSec": 440.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 200,
+          "cumulativeTimeSec": 640.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 208.8,
+          "cumulativeTimeSec": 849.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0539",
+      "name": "角屋 裕",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 234.7,
+          "cumulativeTimeSec": 234.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 206.7,
+          "cumulativeTimeSec": 441.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 204.4,
+          "cumulativeTimeSec": 645.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 211.4,
+          "cumulativeTimeSec": 857.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

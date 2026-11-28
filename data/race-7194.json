@@ -1,0 +1,70 @@
+{
+  "raceId": "7194",
+  "raceName": "2019-01-06 関西シクロクロス 第5戦 希望が丘（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T12:02:12.922Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-189-0191",
+      "name": "浦勇 樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 323.5,
+          "cumulativeTimeSec": 323.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 256.8,
+          "cumulativeTimeSec": 580.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 254.6,
+          "cumulativeTimeSec": 834.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0189",
+      "name": "五十嵐 久和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 360.9,
+          "cumulativeTimeSec": 360.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.4,
+          "cumulativeTimeSec": 729.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 372.8,
+          "cumulativeTimeSec": 1102.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

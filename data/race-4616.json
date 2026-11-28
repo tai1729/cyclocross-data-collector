@@ -1,0 +1,176 @@
+{
+  "raceId": "4616",
+  "raceName": "2017-11-26 中国シクロクロス第4戦共催　国営備北丘陵公園（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:07:01.846Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-167-0087",
+      "name": "白井 彩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 495.4,
+          "cumulativeTimeSec": 495.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.1,
+          "cumulativeTimeSec": 968.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 509.3,
+          "cumulativeTimeSec": 1477.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 497.6,
+          "cumulativeTimeSec": 1975.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0130",
+      "name": "河村 幸子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 534.3,
+          "cumulativeTimeSec": 534.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.6,
+          "cumulativeTimeSec": 1064.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 532.7,
+          "cumulativeTimeSec": 1597.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 527.3,
+          "cumulativeTimeSec": 2124.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0087",
+      "name": "土路生 愛",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 596.7,
+          "cumulativeTimeSec": 596.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 610.3,
+          "cumulativeTimeSec": 1207,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 644.6,
+          "cumulativeTimeSec": 1851.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 660.2,
+          "cumulativeTimeSec": 2511.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0053",
+      "name": "小林 綾子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 646.8,
+          "cumulativeTimeSec": 646.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 639.3,
+          "cumulativeTimeSec": 1286.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 676.2,
+          "cumulativeTimeSec": 1962.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 667.7,
+          "cumulativeTimeSec": 2630,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0141",
+      "name": "高島 志織",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 642.4,
+          "cumulativeTimeSec": 642.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 715.5,
+          "cumulativeTimeSec": 1357.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 802.7,
+          "cumulativeTimeSec": 2160.6,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

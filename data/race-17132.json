@@ -1,0 +1,149 @@
+{
+  "raceId": "17132",
+  "raceName": "2023-03-05 伊豆の国シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:43:43.460Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-223-0039",
+      "name": "椿井 和佳奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 418.4,
+          "cumulativeTimeSec": 418.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 407.4,
+          "cumulativeTimeSec": 825.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 415.2,
+          "cumulativeTimeSec": 1241,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 1647.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-212-0079",
+      "name": "山﨑 諒子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 462.3,
+          "cumulativeTimeSec": 462.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 462.6,
+          "cumulativeTimeSec": 924.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 467.2,
+          "cumulativeTimeSec": 1392.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 455.7,
+          "cumulativeTimeSec": 1847.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-223-0107",
+      "name": "大津 裕美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 473.2,
+          "cumulativeTimeSec": 473.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.3,
+          "cumulativeTimeSec": 946.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.7,
+          "cumulativeTimeSec": 1406.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 454.6,
+          "cumulativeTimeSec": 1860.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-223-0106",
+      "name": "宮林 佑妃",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 490.6,
+          "cumulativeTimeSec": 490.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.1,
+          "cumulativeTimeSec": 963.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 470.5,
+          "cumulativeTimeSec": 1434.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 464.7,
+          "cumulativeTimeSec": 1898.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

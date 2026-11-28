@@ -1,0 +1,48 @@
+{
+  "raceId": "10329",
+  "raceName": "2020-10-04 五條吉野川シクロクロス（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:49:44.244Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0132",
+      "name": "山口 成美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 370,
+          "cumulativeTimeSec": 370,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 194,
+          "cumulativeTimeSec": 564,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 209.4,
+          "cumulativeTimeSec": 773.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 196.2,
+          "cumulativeTimeSec": 969.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

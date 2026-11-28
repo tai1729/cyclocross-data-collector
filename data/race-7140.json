@@ -1,0 +1,121 @@
+{
+  "raceId": "7140",
+  "raceName": "2018-12-24 第2戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:01:59.583Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-178-0276",
+      "name": "宮本 翼輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 183.5,
+          "cumulativeTimeSec": 183.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 178.8,
+          "cumulativeTimeSec": 362.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 178.1,
+          "cumulativeTimeSec": 540.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-4016",
+      "name": "西山 佳秀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 204.6,
+          "cumulativeTimeSec": 204.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 190.5,
+          "cumulativeTimeSec": 395.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 188.8,
+          "cumulativeTimeSec": 583.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 212.1,
+          "cumulativeTimeSec": 212.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 222.1,
+          "cumulativeTimeSec": 434.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 217.2,
+          "cumulativeTimeSec": 651.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0044",
+      "name": "平井 寿明",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 208.6,
+          "cumulativeTimeSec": 208.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 226.8,
+          "cumulativeTimeSec": 435.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 228.5,
+          "cumulativeTimeSec": 663.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

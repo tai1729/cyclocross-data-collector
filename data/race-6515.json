@@ -1,0 +1,121 @@
+{
+  "raceId": "6515",
+  "raceName": "2018-11-11 シクロクロス富山＃１三峯グリーンランド（シクロクロス富山）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:59:51.191Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCT-000-0146",
+      "name": "清水 朱実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582,
+          "cumulativeTimeSec": 582,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 614.1,
+          "cumulativeTimeSec": 1196.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 620.6,
+          "cumulativeTimeSec": 1816.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0063",
+      "name": "高橋 絵美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 634.1,
+          "cumulativeTimeSec": 634.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 630.6,
+          "cumulativeTimeSec": 1264.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 639.5,
+          "cumulativeTimeSec": 1904.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-178-0013",
+      "name": "畑中 しのぶ",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 649.2,
+          "cumulativeTimeSec": 649.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 680.4,
+          "cumulativeTimeSec": 1329.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 686.5,
+          "cumulativeTimeSec": 2016.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-189-0007",
+      "name": "REYNOLDS STEPHANIE",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 680.6,
+          "cumulativeTimeSec": 680.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 702.9,
+          "cumulativeTimeSec": 1383.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 676,
+          "cumulativeTimeSec": 2059.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

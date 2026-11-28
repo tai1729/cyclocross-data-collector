@@ -1,0 +1,75 @@
+{
+  "raceId": "7327",
+  "raceName": "2019-01-13 東海シクロクロス#6　愛知牧場（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:03:03.930Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 165.2,
+          "cumulativeTimeSec": 165.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 353.8,
+          "cumulativeTimeSec": 519,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0207",
+      "name": "三輪 修麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 215.7,
+          "cumulativeTimeSec": 215.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 621.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4002",
+      "name": "谷畑 希一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 219.3,
+          "cumulativeTimeSec": 219.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.1,
+          "cumulativeTimeSec": 622.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

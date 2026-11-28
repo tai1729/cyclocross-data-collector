@@ -1,0 +1,77 @@
+{
+  "raceId": "7466",
+  "raceName": "2019-01-20 第6回高知シクロクロス ヤシィシクロクロスカップ（四国クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:03:40.606Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0125",
+      "name": "市川 寿美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.1,
+          "cumulativeTimeSec": 548.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 558.2,
+          "cumulativeTimeSec": 1106.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 561.8,
+          "cumulativeTimeSec": 1668.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 562.7,
+          "cumulativeTimeSec": 2230.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0202",
+      "name": "小椋 多恵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 598.9,
+          "cumulativeTimeSec": 598.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 634.7,
+          "cumulativeTimeSec": 1233.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 652.6,
+          "cumulativeTimeSec": 1886.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

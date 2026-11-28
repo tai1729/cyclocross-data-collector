@@ -1,0 +1,40 @@
+{
+  "raceId": "10619",
+  "raceName": "2020-11-08 もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "C3",
+  "updatedAt": "2026-11-28T11:50:32.993Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0108",
+      "name": "山本 和弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.5,
+          "cumulativeTimeSec": 400.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 825.7,
+          "cumulativeTimeSec": 1226.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 930.8,
+          "cumulativeTimeSec": 2157,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

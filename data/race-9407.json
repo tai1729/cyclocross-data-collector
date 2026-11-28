@@ -1,0 +1,59 @@
+{
+  "raceId": "9407",
+  "raceName": "2020-01-05 関西シクロクロス 第6戦 希望が丘（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:56:01.555Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0114",
+      "name": "上田 蓮大郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1136.7,
+          "cumulativeTimeSec": 1136.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 584.5,
+          "cumulativeTimeSec": 1721.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 619.3,
+          "cumulativeTimeSec": 2340.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0192",
+      "name": "鈴木 渉之助",
+      "finalPosition": 2,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1233.2,
+          "cumulativeTimeSec": 1233.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "raceId": "5435",
+  "raceName": "2018-01-20 東海シクロクロス#6愛知牧場（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:09:20.494Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 364.3,
+          "cumulativeTimeSec": 364.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 371.2,
+          "cumulativeTimeSec": 735.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0095",
+      "name": "荒川 翔太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 426,
+          "cumulativeTimeSec": 426,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 473.7,
+          "cumulativeTimeSec": 899.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

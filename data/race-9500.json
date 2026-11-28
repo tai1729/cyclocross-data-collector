@@ -1,0 +1,162 @@
+{
+  "raceId": "9500",
+  "raceName": "2020-01-12 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:56:17.452Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 332.4,
+          "cumulativeTimeSec": 332.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 301,
+          "cumulativeTimeSec": 633.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0305",
+      "name": "松山 海司",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 334.5,
+          "cumulativeTimeSec": 334.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.5,
+          "cumulativeTimeSec": 637,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0053",
+      "name": "中仙道 侑毅",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 335.6,
+          "cumulativeTimeSec": 335.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 304.2,
+          "cumulativeTimeSec": 639.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0033",
+      "name": "山田 駿太郎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337,
+          "cumulativeTimeSec": 337,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 313.2,
+          "cumulativeTimeSec": 650.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0141",
+      "name": "山中 碧仁",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 338.2,
+          "cumulativeTimeSec": 338.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 351.9,
+          "cumulativeTimeSec": 690.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0017",
+      "name": "野村 慧晴",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.8,
+          "cumulativeTimeSec": 389.8,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.5,
+          "cumulativeTimeSec": 780.3,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0178",
+      "name": "永尾 太一",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 393.8,
+          "cumulativeTimeSec": 393.8,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 414.2,
+          "cumulativeTimeSec": 808,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

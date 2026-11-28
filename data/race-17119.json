@@ -1,0 +1,80 @@
+{
+  "raceId": "17119",
+  "raceName": "2023-03-05 伊豆の国シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:43:39.965Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-212-0008",
+      "name": "稲葉 立",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 224.4,
+          "cumulativeTimeSec": 224.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 230.1,
+          "cumulativeTimeSec": 454.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 232.7,
+          "cumulativeTimeSec": 687.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 242.9,
+          "cumulativeTimeSec": 930.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-223-0038",
+      "name": "大庭 平藏",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 269.8,
+          "cumulativeTimeSec": 269.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 284.8,
+          "cumulativeTimeSec": 554.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 286.2,
+          "cumulativeTimeSec": 840.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 281.3,
+          "cumulativeTimeSec": 1122.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

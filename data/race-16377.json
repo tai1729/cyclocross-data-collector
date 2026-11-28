@@ -1,0 +1,151 @@
+{
+  "raceId": "16377",
+  "raceName": "2023-01-29 Continental presents 茨城シクロクロス 第4戦 大洗サンビーチステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:42:20.598Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CXK-189-0014",
+      "name": "飯島 大也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 322.8,
+          "cumulativeTimeSec": 322.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 309.1,
+          "cumulativeTimeSec": 631.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 307.7,
+          "cumulativeTimeSec": 939.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0101",
+      "name": "山口 虎太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 369.5,
+          "cumulativeTimeSec": 369.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 357.7,
+          "cumulativeTimeSec": 727.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 363.4,
+          "cumulativeTimeSec": 1090.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-223-0056",
+      "name": "布施 諒太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 390.9,
+          "cumulativeTimeSec": 390.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 389.7,
+          "cumulativeTimeSec": 780.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 386.6,
+          "cumulativeTimeSec": 1167.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-190-0022",
+      "name": "柏崎 薙虎",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 446.7,
+          "cumulativeTimeSec": 446.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429.1,
+          "cumulativeTimeSec": 875.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 419.1,
+          "cumulativeTimeSec": 1294.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0032",
+      "name": "宗像 葵",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 460.7,
+          "cumulativeTimeSec": 460.7,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.1,
+          "cumulativeTimeSec": 918.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.3,
+          "cumulativeTimeSec": 1378.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

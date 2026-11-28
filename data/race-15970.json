@@ -1,0 +1,146 @@
+{
+  "raceId": "15970",
+  "raceName": "2023-01-08 関西シクロクロス 第8戦 希望が丘（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T11:41:31.442Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0305",
+      "name": "松山 海司",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 857,
+          "cumulativeTimeSec": 857,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 413.5,
+          "cumulativeTimeSec": 1270.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 418.4,
+          "cumulativeTimeSec": 1688.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0008",
+      "name": "中平 泰棋",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 928.7,
+          "cumulativeTimeSec": 928.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 460.2,
+          "cumulativeTimeSec": 1388.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 463.1,
+          "cumulativeTimeSec": 1852,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 984.1,
+          "cumulativeTimeSec": 984.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 482.4,
+          "cumulativeTimeSec": 1466.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 487,
+          "cumulativeTimeSec": 1953.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0012",
+      "name": "村島 悠太",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1023.2,
+          "cumulativeTimeSec": 1023.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 518,
+          "cumulativeTimeSec": 1541.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 502.7,
+          "cumulativeTimeSec": 2043.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0271",
+      "name": "阪根 康太",
+      "finalPosition": 5,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 934.2,
+          "cumulativeTimeSec": 934.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 489.9,
+          "cumulativeTimeSec": 1424.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

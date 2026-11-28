@@ -1,0 +1,94 @@
+{
+  "raceId": "14699",
+  "raceName": "2022-10-30 関西シクロクロス 第2戦 富田林（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:39:00.418Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0258",
+      "name": "池田 明州哩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 312.3,
+          "cumulativeTimeSec": 312.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 296,
+          "cumulativeTimeSec": 608.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 300.8,
+          "cumulativeTimeSec": 909.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0088",
+      "name": "早川 亮",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 325.6,
+          "cumulativeTimeSec": 325.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.8,
+          "cumulativeTimeSec": 628.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 298.4,
+          "cumulativeTimeSec": 926.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0243",
+      "name": "福場 秀和",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 336.7,
+          "cumulativeTimeSec": 336.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 341.1,
+          "cumulativeTimeSec": 677.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 326.6,
+          "cumulativeTimeSec": 1004.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

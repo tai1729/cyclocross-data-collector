@@ -1,0 +1,95 @@
+{
+  "raceId": "5870",
+  "raceName": "2018-02-25 阿波シクロクロス（四国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:11:11.804Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7161",
+      "name": "石本 あおい",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 920.3,
+          "cumulativeTimeSec": 920.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 433.9,
+          "cumulativeTimeSec": 1354.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 436.4,
+          "cumulativeTimeSec": 1790.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4605",
+      "name": "山脇 輝枝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 933.9,
+          "cumulativeTimeSec": 933.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 435.2,
+          "cumulativeTimeSec": 1369.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 436.2,
+          "cumulativeTimeSec": 1805.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0542",
+      "name": "伊藤 満子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 969,
+          "cumulativeTimeSec": 969,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.9,
+          "cumulativeTimeSec": 1428.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 469.9,
+          "cumulativeTimeSec": 1898.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

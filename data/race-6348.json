@@ -1,0 +1,40 @@
+{
+  "raceId": "6348",
+  "raceName": "2018-10-28 東北CXシリーズ#1さがえ（UCI-C2）（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:59:16.082Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1191",
+      "name": "鈴木 成美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 676.9,
+          "cumulativeTimeSec": 676.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 653,
+          "cumulativeTimeSec": 1329.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 663.9,
+          "cumulativeTimeSec": 1993.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

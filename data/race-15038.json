@@ -1,0 +1,87 @@
+{
+  "raceId": "15038",
+  "raceName": "2022-11-20 もみじシクロクロス11/20（もみじシクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-28T11:39:37.830Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0015",
+      "name": "蔵田 瑶",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 458.7,
+          "cumulativeTimeSec": 458.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 472.3,
+          "cumulativeTimeSec": 931,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 479.3,
+          "cumulativeTimeSec": 1410.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 494.4,
+          "cumulativeTimeSec": 1904.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 486.8,
+          "cumulativeTimeSec": 2391.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.7,
+          "cumulativeTimeSec": 517.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 535.1,
+          "cumulativeTimeSec": 1052.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 546.7,
+          "cumulativeTimeSec": 1599.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 616,
+          "cumulativeTimeSec": 2215.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

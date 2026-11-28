@@ -1,0 +1,79 @@
+{
+  "raceId": "12346",
+  "raceName": "2021-10-31 関西シクロクロス 第1戦 富田林（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:44:52.432Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0006",
+      "name": "川畑 有矢",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 892.1,
+          "cumulativeTimeSec": 892.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 417.9,
+          "cumulativeTimeSec": 1310,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 420.5,
+          "cumulativeTimeSec": 1730.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 432.8,
+          "cumulativeTimeSec": 2163.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 427,
+          "cumulativeTimeSec": 2590.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4820",
+      "name": "山本 秀人",
+      "finalPosition": 2,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 915.2,
+          "cumulativeTimeSec": 915.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 482.8,
+          "cumulativeTimeSec": 1398,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

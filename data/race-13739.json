@@ -1,0 +1,78 @@
+{
+  "raceId": "13739",
+  "raceName": "2022-01-30 東海シクロクロス#6　大野極楽寺公園（東海クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:48:16.865Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TKI-190-0033",
+      "name": "奥村 仁美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 419.8,
+          "cumulativeTimeSec": 419.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 433.5,
+          "cumulativeTimeSec": 853.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0029",
+      "name": "玉田 智子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 426.2,
+          "cumulativeTimeSec": 426.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 432.8,
+          "cumulativeTimeSec": 859,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0121",
+      "name": "嶺山 万紀子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 607.8,
+          "cumulativeTimeSec": 607.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 537.1,
+          "cumulativeTimeSec": 1144.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

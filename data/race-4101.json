@@ -1,0 +1,47 @@
+{
+  "raceId": "4101",
+  "raceName": "2017-10-15 前橋シクロクロス#1 岩神緑地（前橋シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:05:31.732Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-0961",
+      "name": "綾野 尋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 354.2,
+          "cumulativeTimeSec": 354.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 352.1,
+          "cumulativeTimeSec": 706.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 357.4,
+          "cumulativeTimeSec": 1063.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 363.8,
+          "cumulativeTimeSec": 1427.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

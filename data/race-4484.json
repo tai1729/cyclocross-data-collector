@@ -1,0 +1,43 @@
+{
+  "raceId": "4484",
+  "raceName": "2017-11-12 東海シクロクロス#2各務ヶ原アウトドアフィールド（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:06:28.891Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 186,
+          "cumulativeTimeSec": 186,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 203.1,
+          "cumulativeTimeSec": 389.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 197.3,
+          "cumulativeTimeSec": 586.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

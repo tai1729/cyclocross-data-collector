@@ -1,0 +1,89 @@
+{
+  "raceId": "9165",
+  "raceName": "2019-12-01 シクロクロスミーティングシリーズ　シーズン2019-2020 第7戦　南信州  （信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:55:06.573Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-189-0016",
+      "name": "水谷 彩奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 879.8,
+          "cumulativeTimeSec": 879.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 509.6,
+          "cumulativeTimeSec": 1389.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 517.1,
+          "cumulativeTimeSec": 1906.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0012",
+      "name": "松崎 光優",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 901.2,
+          "cumulativeTimeSec": 901.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 520,
+          "cumulativeTimeSec": 1421.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 500,
+          "cumulativeTimeSec": 1921.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0014",
+      "name": "佐野 佳奈子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1075.4,
+          "cumulativeTimeSec": 1075.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 610.8,
+          "cumulativeTimeSec": 1686.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

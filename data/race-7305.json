@@ -1,0 +1,36 @@
+{
+  "raceId": "7305",
+  "raceName": "2019-01-12 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:02:40.795Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 352,
+          "cumulativeTimeSec": 352,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 348.8,
+          "cumulativeTimeSec": 700.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

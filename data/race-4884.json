@@ -1,0 +1,36 @@
+{
+  "raceId": "4884",
+  "raceName": "2017-12-17 シクロクロス富山#2（シクロクロス富山）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:07:45.381Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TYM-178-0014",
+      "name": "谷川 稀生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 229.2,
+          "cumulativeTimeSec": 229.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 223.9,
+          "cumulativeTimeSec": 453.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

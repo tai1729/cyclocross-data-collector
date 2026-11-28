@@ -1,0 +1,96 @@
+{
+  "raceId": "11614",
+  "raceName": "2021-03-21 茨城シクロクロス#3 土浦ステージ in りんりんポート土浦(新日程)（秩父・茨城クロス（関東クロス））",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:52:51.042Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-189-0042",
+      "name": "松村 拓弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 246.4,
+          "cumulativeTimeSec": 246.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 229.2,
+          "cumulativeTimeSec": 475.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0103",
+      "name": "成瀬 謙汰",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 300.3,
+          "cumulativeTimeSec": 300.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 283.7,
+          "cumulativeTimeSec": 584,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0123",
+      "name": "萩谷 翔星",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.1,
+          "cumulativeTimeSec": 301.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 283,
+          "cumulativeTimeSec": 584.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0093",
+      "name": "佐藤 玄武",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 297.8,
+          "cumulativeTimeSec": 297.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 292.4,
+          "cumulativeTimeSec": 590.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

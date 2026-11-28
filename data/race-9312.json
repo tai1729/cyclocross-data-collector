@@ -1,0 +1,124 @@
+{
+  "raceId": "9312",
+  "raceName": "2019-12-21 中国シクロクロス第2戦　広島　中央森林公園Day1（中国クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:55:43.747Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0815",
+      "name": "田中 楓月",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 213.1,
+          "cumulativeTimeSec": 213.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 211,
+          "cumulativeTimeSec": 424.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 207.9,
+          "cumulativeTimeSec": 632,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0120",
+      "name": "山田 理史",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 237.7,
+          "cumulativeTimeSec": 237.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 238.5,
+          "cumulativeTimeSec": 476.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 229.2,
+          "cumulativeTimeSec": 705.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 234.7,
+          "cumulativeTimeSec": 234.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 236.8,
+          "cumulativeTimeSec": 471.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 235.4,
+          "cumulativeTimeSec": 706.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0047",
+      "name": "藤田 耀也",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 250.8,
+          "cumulativeTimeSec": 250.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 269.9,
+          "cumulativeTimeSec": 520.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 256.7,
+          "cumulativeTimeSec": 777.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

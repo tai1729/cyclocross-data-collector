@@ -1,0 +1,132 @@
+{
+  "raceId": "5878",
+  "raceName": "2018-02-25 阿波シクロクロス（四国クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:11:14.986Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-000-0119",
+      "name": "原田 悦子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 835.5,
+          "cumulativeTimeSec": 835.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.5,
+          "cumulativeTimeSec": 1253,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 422.2,
+          "cumulativeTimeSec": 1675.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 422.1,
+          "cumulativeTimeSec": 2097.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 420.8,
+          "cumulativeTimeSec": 2518.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3312",
+      "name": "藤野 直美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 879.1,
+          "cumulativeTimeSec": 879.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 433.4,
+          "cumulativeTimeSec": 1312.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.6,
+          "cumulativeTimeSec": 1772.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 473,
+          "cumulativeTimeSec": 2245.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 472.8,
+          "cumulativeTimeSec": 2717.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-1262",
+      "name": "三井 由香",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 895.3,
+          "cumulativeTimeSec": 895.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.6,
+          "cumulativeTimeSec": 1343.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 451.7,
+          "cumulativeTimeSec": 1795.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 470.3,
+          "cumulativeTimeSec": 2265.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 478.8,
+          "cumulativeTimeSec": 2744.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

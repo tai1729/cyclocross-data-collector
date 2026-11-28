@@ -1,0 +1,151 @@
+{
+  "raceId": "9810",
+  "raceName": "2020-02-02 湘南シクロクロス2019-20 第3戦 中井中央公園（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:57:37.096Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "FIN/OPEN": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-190-0032",
+      "name": "渡井 健太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.2,
+          "cumulativeTimeSec": 284.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 295.3,
+          "cumulativeTimeSec": 579.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 288.8,
+          "cumulativeTimeSec": 868.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0030",
+      "name": "平井 嘉信",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 351.8,
+          "cumulativeTimeSec": 351.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 394.9,
+          "cumulativeTimeSec": 746.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 388.8,
+          "cumulativeTimeSec": 1135.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0182",
+      "name": "生田 晴琉",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 365.1,
+          "cumulativeTimeSec": 365.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.2,
+          "cumulativeTimeSec": 758.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 391.7,
+          "cumulativeTimeSec": 1150,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-190-0065",
+      "name": "小宮山 伝丈",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.3,
+          "cumulativeTimeSec": 416.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 453.3,
+          "cumulativeTimeSec": 869.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 475.6,
+          "cumulativeTimeSec": 1345.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0001",
+      "name": "金井 剛毅",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 455,
+          "cumulativeTimeSec": 455,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 535.1,
+          "cumulativeTimeSec": 990.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.1,
+          "cumulativeTimeSec": 1556.2,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

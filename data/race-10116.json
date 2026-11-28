@@ -1,0 +1,36 @@
+{
+  "raceId": "10116",
+  "raceName": "2020-02-23 シクロクロスミーティングシリーズ　シーズン2019-2020  第9戦　清里 萌木の村（信州クロス）",
+  "category": "Kindergarten",
+  "updatedAt": "2026-11-28T11:58:11.980Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "FIN": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCM-190-0015",
+      "name": "安藤 秀晃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 266.9,
+          "cumulativeTimeSec": 266.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 198.6,
+          "cumulativeTimeSec": 465.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

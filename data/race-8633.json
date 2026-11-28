@@ -1,0 +1,57 @@
+{
+  "raceId": "8633",
+  "raceName": "2019-10-27 前橋シクロクロス#2 岩神緑地 DAY2（前橋シクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:53:45.093Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-156-0011",
+      "name": "小田 恵利花",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 519.9,
+          "cumulativeTimeSec": 519.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 541.8,
+          "cumulativeTimeSec": 1061.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 534.9,
+          "cumulativeTimeSec": 1596.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 563.5,
+          "cumulativeTimeSec": 2160.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 535.3,
+          "cumulativeTimeSec": 2695.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

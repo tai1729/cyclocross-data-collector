@@ -1,0 +1,103 @@
+{
+  "raceId": "8609",
+  "raceName": "2019-10-26  前橋シクロクロス#1 岩神緑地 DAY1（前橋シクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:53:41.291Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "SHN-167-0048",
+      "name": "渡部 春雅",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 395.3,
+          "cumulativeTimeSec": 395.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 397,
+          "cumulativeTimeSec": 792.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 407,
+          "cumulativeTimeSec": 1199.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 401.7,
+          "cumulativeTimeSec": 1601,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 398.7,
+          "cumulativeTimeSec": 1999.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 390.6,
+          "cumulativeTimeSec": 2390.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0153",
+      "name": "西形 舞",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 434.1,
+          "cumulativeTimeSec": 434.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 416.4,
+          "cumulativeTimeSec": 850.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 416.9,
+          "cumulativeTimeSec": 1267.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 417.9,
+          "cumulativeTimeSec": 1685.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 436.5,
+          "cumulativeTimeSec": 2121.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

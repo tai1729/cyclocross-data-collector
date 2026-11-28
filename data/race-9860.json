@@ -1,0 +1,165 @@
+{
+  "raceId": "9860",
+  "raceName": "2020-02-09 関西シクロクロス JCX 日吉（関西クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:57:40.449Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 5
+  },
+  "riders": [
+    {
+      "riderId": "TKI-189-0217",
+      "name": "瀬戸山 紀介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 295.6,
+          "cumulativeTimeSec": 295.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 246.4,
+          "cumulativeTimeSec": 542,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0008",
+      "name": "平山 開登",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 333.8,
+          "cumulativeTimeSec": 333.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 261.7,
+          "cumulativeTimeSec": 595.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0279",
+      "name": "佐藤 那音",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 339.4,
+          "cumulativeTimeSec": 339.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 275.5,
+          "cumulativeTimeSec": 614.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0010",
+      "name": "高井 好誠",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 336.1,
+          "cumulativeTimeSec": 336.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 294.5,
+          "cumulativeTimeSec": 630.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-5013",
+      "name": "小室 惺",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 343,
+          "cumulativeTimeSec": 343,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.4,
+          "cumulativeTimeSec": 634.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0023",
+      "name": "阪根 全哉",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 428.5,
+          "cumulativeTimeSec": 428.5,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0084",
+      "name": "鎌谷 晴",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 460.9,
+          "cumulativeTimeSec": 460.9,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0079",
+      "name": "張間 木乃",
+      "finalPosition": 8,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 683.3,
+          "cumulativeTimeSec": 683.3,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

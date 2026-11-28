@@ -1,0 +1,135 @@
+{
+  "raceId": "5528",
+  "raceName": "2018-01-28 くろんど池シクロクロス（関西クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:09:57.707Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0264",
+      "name": "喜多 智美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1186.2,
+          "cumulativeTimeSec": 1186.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2036",
+      "name": "清水 友恵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1198.5,
+          "cumulativeTimeSec": 1198.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0021",
+      "name": "上出 貴子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1217.1,
+          "cumulativeTimeSec": 1217.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7161",
+      "name": "石本 あおい",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1232.9,
+          "cumulativeTimeSec": 1232.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0119",
+      "name": "末廣 裕子",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1266.2,
+          "cumulativeTimeSec": 1266.2,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4917",
+      "name": "石川 かおり",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1267.5,
+          "cumulativeTimeSec": 1267.5,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0073",
+      "name": "井上 真由子",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1285.3,
+          "cumulativeTimeSec": 1285.3,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0231",
+      "name": "樋口 由乃",
+      "finalPosition": 8,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1410.5,
+          "cumulativeTimeSec": 1410.5,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "16406",
+  "raceName": "2023-01-29 もみじシクロクロス1/29（もみじシクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:42:34.036Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-190-0038",
+      "name": "小林 遙斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 246.4,
+          "cumulativeTimeSec": 246.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 259.9,
+          "cumulativeTimeSec": 506.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 286.9,
+          "cumulativeTimeSec": 793.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

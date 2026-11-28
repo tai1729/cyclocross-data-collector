@@ -1,0 +1,33 @@
+{
+  "raceId": "10615",
+  "raceName": "2020-11-08 もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:50:31.454Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-190-0016",
+      "name": "佐藤 尊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 371.9,
+          "cumulativeTimeSec": 371.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 467.5,
+          "cumulativeTimeSec": 839.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

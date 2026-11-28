@@ -1,0 +1,43 @@
+{
+  "raceId": "9310",
+  "raceName": "2019-12-21 中国シクロクロス第2戦　広島　中央森林公園Day1（中国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:55:43.497Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-190-0016",
+      "name": "佐藤 尊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 264.7,
+          "cumulativeTimeSec": 264.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 273.8,
+          "cumulativeTimeSec": 538.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 247.9,
+          "cumulativeTimeSec": 786.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

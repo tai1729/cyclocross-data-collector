@@ -1,0 +1,57 @@
+{
+  "raceId": "16490",
+  "raceName": "2023-02-05 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:42:37.000Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-201-0028",
+      "name": "村田 心泰",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 285.3,
+          "cumulativeTimeSec": 285.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.5,
+          "cumulativeTimeSec": 578.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-212-0008",
+      "name": "稲葉 立",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 285.6,
+          "cumulativeTimeSec": 285.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 293.6,
+          "cumulativeTimeSec": 579.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

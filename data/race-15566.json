@@ -1,0 +1,109 @@
+{
+  "raceId": "15566",
+  "raceName": "2022-12-04 シクロクロスミーティングシリーズ　シーズン2022-2023 第7戦　GP日本金属化工所上山田（信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:40:35.458Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0007",
+      "name": "綱嶋 一信",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 213.4,
+          "cumulativeTimeSec": 213.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 214.8,
+          "cumulativeTimeSec": 428.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 209.1,
+          "cumulativeTimeSec": 637.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 218.6,
+          "cumulativeTimeSec": 855.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 217,
+          "cumulativeTimeSec": 1072.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0033",
+      "name": "花島 正樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.1,
+          "cumulativeTimeSec": 235.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 258.1,
+          "cumulativeTimeSec": 493.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 274.7,
+          "cumulativeTimeSec": 767.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 280.3,
+          "cumulativeTimeSec": 1048.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0014",
+      "name": "菱岡 和登",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 542.7,
+          "cumulativeTimeSec": 542.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 666.4,
+          "cumulativeTimeSec": 1209.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

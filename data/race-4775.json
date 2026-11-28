@@ -1,0 +1,124 @@
+{
+  "raceId": "4775",
+  "raceName": "2017-12-03 関西シクロクロス 第4戦 美山（関西クロス）",
+  "category": "CM4",
+  "updatedAt": "2026-11-28T12:07:16.481Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0113",
+      "name": "山本 健一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 381.4,
+          "cumulativeTimeSec": 381.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 370.7,
+          "cumulativeTimeSec": 752.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 399.8,
+          "cumulativeTimeSec": 1151.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0539",
+      "name": "角屋 裕",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 397.3,
+          "cumulativeTimeSec": 397.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 405.2,
+          "cumulativeTimeSec": 802.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 401.4,
+          "cumulativeTimeSec": 1203.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0111",
+      "name": "中村 雅行",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 429,
+          "cumulativeTimeSec": 429,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 404.9,
+          "cumulativeTimeSec": 833.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 395.3,
+          "cumulativeTimeSec": 1229.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3912",
+      "name": "松岡 伸二",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 469.7,
+          "cumulativeTimeSec": 469.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.8,
+          "cumulativeTimeSec": 938.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 472.5,
+          "cumulativeTimeSec": 1411,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

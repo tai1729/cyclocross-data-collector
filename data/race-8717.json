@@ -1,0 +1,54 @@
+{
+  "raceId": "8717",
+  "raceName": "2019-11-10 東北CXシリーズ#3磐梯高原南ヶ丘牧場（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:54:08.471Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-1608",
+      "name": "菊地 英",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.5,
+          "cumulativeTimeSec": 624.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 619.2,
+          "cumulativeTimeSec": 1243.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0101",
+      "name": "高橋 純子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 878.8,
+          "cumulativeTimeSec": 878.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 840.2,
+          "cumulativeTimeSec": 1719,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "raceId": "9781",
+  "raceName": "2020-02-02 東海シクロクロス#7　梅林公園（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:57:26.349Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-156-0172",
+      "name": "日吉 彩華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 248.4,
+          "cumulativeTimeSec": 248.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 241.6,
+          "cumulativeTimeSec": 490,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0141",
+      "name": "山中 碧仁",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 268.3,
+          "cumulativeTimeSec": 268.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 274.3,
+          "cumulativeTimeSec": 542.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

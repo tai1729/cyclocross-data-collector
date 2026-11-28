@@ -1,0 +1,54 @@
+{
+  "raceId": "4385",
+  "raceName": "2017-11-12 シクロクロス富山#1（シクロクロス富山）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:06:21.206Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-178-0016",
+      "name": "森 大志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 167.1,
+          "cumulativeTimeSec": 167.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 159.2,
+          "cumulativeTimeSec": 326.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0099",
+      "name": "石川 竜大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 187,
+          "cumulativeTimeSec": 187,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 182.6,
+          "cumulativeTimeSec": 369.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

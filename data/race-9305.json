@@ -1,0 +1,93 @@
+{
+  "raceId": "9305",
+  "raceName": "2019-12-22 東北CXシリーズ#4福島空港（東北 CX Project）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:55:49.000Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-000-0111",
+      "name": "須藤 むつみ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 523.1,
+          "cumulativeTimeSec": 523.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 517.2,
+          "cumulativeTimeSec": 1040.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 525.5,
+          "cumulativeTimeSec": 1565.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 521.3,
+          "cumulativeTimeSec": 2087.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 517.5,
+          "cumulativeTimeSec": 2604.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0868",
+      "name": "齋藤 磨実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 534,
+          "cumulativeTimeSec": 534,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 517.9,
+          "cumulativeTimeSec": 1051.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 521,
+          "cumulativeTimeSec": 1572.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 524.3,
+          "cumulativeTimeSec": 2097.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 526.8,
+          "cumulativeTimeSec": 2624,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

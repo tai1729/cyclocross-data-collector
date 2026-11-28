@@ -1,0 +1,80 @@
+{
+  "raceId": "9964",
+  "raceName": "2020-02-16 第13回さぬきシクロクロス善通寺大会（四国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:57:58.156Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.8,
+          "cumulativeTimeSec": 424.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 409.9,
+          "cumulativeTimeSec": 834.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 416.4,
+          "cumulativeTimeSec": 1251.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 419.9,
+          "cumulativeTimeSec": 1671,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0110",
+      "name": "川元 大輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 574.6,
+          "cumulativeTimeSec": 574.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 528.5,
+          "cumulativeTimeSec": 1103.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 523.5,
+          "cumulativeTimeSec": 1626.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 581,
+          "cumulativeTimeSec": 2207.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

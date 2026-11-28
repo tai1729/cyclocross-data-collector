@@ -1,0 +1,642 @@
+{
+  "raceId": "5949",
+  "raceName": "2018-02-25 東海シクロクロス#8ワイルドネイチャープラザ（東海クロス）",
+  "category": "CM1",
+  "updatedAt": "2026-11-28T12:11:22.966Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 5
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-0001",
+      "name": "三船 雅彦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 473.7,
+          "cumulativeTimeSec": 473.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 510.2,
+          "cumulativeTimeSec": 983.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 511.2,
+          "cumulativeTimeSec": 1495.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 498.2,
+          "cumulativeTimeSec": 1993.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 524,
+          "cumulativeTimeSec": 2517.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0692",
+      "name": "國分 圭二",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 485.9,
+          "cumulativeTimeSec": 485.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 515.2,
+          "cumulativeTimeSec": 1001.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 508.2,
+          "cumulativeTimeSec": 1509.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 505,
+          "cumulativeTimeSec": 2014.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 518.7,
+          "cumulativeTimeSec": 2533,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3290",
+      "name": "中野 政彦",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 518.9,
+          "cumulativeTimeSec": 518.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.2,
+          "cumulativeTimeSec": 1027.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 517.9,
+          "cumulativeTimeSec": 1545,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 519.3,
+          "cumulativeTimeSec": 2064.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 509.7,
+          "cumulativeTimeSec": 2574,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1854",
+      "name": "羽鳥 和重",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 516,
+          "cumulativeTimeSec": 516,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 527.8,
+          "cumulativeTimeSec": 1043.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 531.5,
+          "cumulativeTimeSec": 1575.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 527.5,
+          "cumulativeTimeSec": 2102.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 520,
+          "cumulativeTimeSec": 2622.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-5262",
+      "name": "赤塚 剛司",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 551,
+          "cumulativeTimeSec": 551,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.8,
+          "cumulativeTimeSec": 1073.8,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 523.8,
+          "cumulativeTimeSec": 1597.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 533.7,
+          "cumulativeTimeSec": 2131.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 522.6,
+          "cumulativeTimeSec": 2653.9,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4938",
+      "name": "児玉 利文",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 521.4,
+          "cumulativeTimeSec": 521.4,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 551,
+          "cumulativeTimeSec": 1072.4,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 557.1,
+          "cumulativeTimeSec": 1629.5,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 526.7,
+          "cumulativeTimeSec": 2156.2,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 550.2,
+          "cumulativeTimeSec": 2706.4,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0148",
+      "name": "天池 貴志",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 552.5,
+          "cumulativeTimeSec": 552.5,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 576.5,
+          "cumulativeTimeSec": 1129,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 541.4,
+          "cumulativeTimeSec": 1670.4,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 538.8,
+          "cumulativeTimeSec": 2209.2,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 527.9,
+          "cumulativeTimeSec": 2737.1,
+          "rankAtLap": 7
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0062",
+      "name": "花木 雅俊",
+      "finalPosition": 8,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 549.3,
+          "cumulativeTimeSec": 549.3,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 565.7,
+          "cumulativeTimeSec": 1115,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 574.1,
+          "cumulativeTimeSec": 1689.1,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 531,
+          "cumulativeTimeSec": 2220.1,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 540.8,
+          "cumulativeTimeSec": 2760.9,
+          "rankAtLap": 8
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0210",
+      "name": "山田 浩志",
+      "finalPosition": 9,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 526.6,
+          "cumulativeTimeSec": 526.6,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 541,
+          "cumulativeTimeSec": 1067.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.5,
+          "cumulativeTimeSec": 1628.1,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 545.8,
+          "cumulativeTimeSec": 2173.9,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 636.3,
+          "cumulativeTimeSec": 2810.2,
+          "rankAtLap": 9
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2818",
+      "name": "馬野 大嗣",
+      "finalPosition": 10,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 553.7,
+          "cumulativeTimeSec": 553.7,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 555.6,
+          "cumulativeTimeSec": 1109.3,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571.4,
+          "cumulativeTimeSec": 1680.7,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 592.2,
+          "cumulativeTimeSec": 2272.9,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 565,
+          "cumulativeTimeSec": 2837.9,
+          "rankAtLap": 10
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-1244",
+      "name": "服部 一宏",
+      "finalPosition": 11,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 571.2,
+          "cumulativeTimeSec": 571.2,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 565.2,
+          "cumulativeTimeSec": 1136.4,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 558.1,
+          "cumulativeTimeSec": 1694.5,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 566.7,
+          "cumulativeTimeSec": 2261.2,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 583.3,
+          "cumulativeTimeSec": 2844.5,
+          "rankAtLap": 11
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCT-000-0662",
+      "name": "前瀬 和顕",
+      "finalPosition": 12,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 556.7,
+          "cumulativeTimeSec": 556.7,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 594.9,
+          "cumulativeTimeSec": 1151.6,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 589,
+          "cumulativeTimeSec": 1740.6,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 575,
+          "cumulativeTimeSec": 2315.6,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 565.9,
+          "cumulativeTimeSec": 2881.5,
+          "rankAtLap": 12
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2177",
+      "name": "服部 享英",
+      "finalPosition": 13,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 591.1,
+          "cumulativeTimeSec": 591.1,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 558.1,
+          "cumulativeTimeSec": 1149.2,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 569.4,
+          "cumulativeTimeSec": 1718.6,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 585.2,
+          "cumulativeTimeSec": 2303.8,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 580.3,
+          "cumulativeTimeSec": 2884.1,
+          "rankAtLap": 13
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4764",
+      "name": "向井 義人",
+      "finalPosition": 14,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 573.8,
+          "cumulativeTimeSec": 573.8,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 570.6,
+          "cumulativeTimeSec": 1144.4,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 583.4,
+          "cumulativeTimeSec": 1727.8,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 602.9,
+          "cumulativeTimeSec": 2330.7,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 649.4,
+          "cumulativeTimeSec": 2980.1,
+          "rankAtLap": 14
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0123",
+      "name": "野田 明宏",
+      "finalPosition": 15,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 561,
+          "cumulativeTimeSec": 561,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 599.1,
+          "cumulativeTimeSec": 1160.1,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 603.8,
+          "cumulativeTimeSec": 1763.9,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 618.3,
+          "cumulativeTimeSec": 2382.2,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 599.8,
+          "cumulativeTimeSec": 2982,
+          "rankAtLap": 15
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3268",
+      "name": "服部 和成",
+      "finalPosition": 16,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 581.6,
+          "cumulativeTimeSec": 581.6,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 639.1,
+          "cumulativeTimeSec": 1220.7,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 595,
+          "cumulativeTimeSec": 1815.7,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 585.1,
+          "cumulativeTimeSec": 2400.8,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 583.1,
+          "cumulativeTimeSec": 2983.9,
+          "rankAtLap": 16
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

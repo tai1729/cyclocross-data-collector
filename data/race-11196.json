@@ -1,0 +1,121 @@
+{
+  "raceId": "11196",
+  "raceName": "2020-12-20 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:52:06.557Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 432.7,
+          "cumulativeTimeSec": 432.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.4,
+          "cumulativeTimeSec": 850.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 413.4,
+          "cumulativeTimeSec": 1263.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 419.9,
+          "cumulativeTimeSec": 1683.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 431.4,
+          "cumulativeTimeSec": 431.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422.6,
+          "cumulativeTimeSec": 854,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 420.8,
+          "cumulativeTimeSec": 1274.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 428.2,
+          "cumulativeTimeSec": 1703,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0093",
+      "name": "深谷 豪汰",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 498.1,
+          "cumulativeTimeSec": 498.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 509.8,
+          "cumulativeTimeSec": 1007.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 513.6,
+          "cumulativeTimeSec": 1521.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 506.9,
+          "cumulativeTimeSec": 2028.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0137",
+      "name": "浅野 諒",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

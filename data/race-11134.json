@@ -1,0 +1,54 @@
+{
+  "raceId": "11134",
+  "raceName": "2020-12-20 もみじシクロクロス第６戦（もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:51:51.744Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0082",
+      "name": "西内 綾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 753.2,
+          "cumulativeTimeSec": 753.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 904.2,
+          "cumulativeTimeSec": 1657.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0013",
+      "name": "藤井 亜紀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 891.6,
+          "cumulativeTimeSec": 891.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 917.4,
+          "cumulativeTimeSec": 1809,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

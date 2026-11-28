@@ -1,0 +1,91 @@
+{
+  "raceId": "7953",
+  "raceName": "2019-03-03 中国シクロクロス第5戦岡山　葡萄浪漫館（中国クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T12:04:49.765Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-156-0027",
+      "name": "田中 遼介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 185.7,
+          "cumulativeTimeSec": 185.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 139.9,
+          "cumulativeTimeSec": 325.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 139.9,
+          "cumulativeTimeSec": 465.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0240",
+      "name": "谷田 颯太朗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 190.1,
+          "cumulativeTimeSec": 190.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 140.3,
+          "cumulativeTimeSec": 330.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 151.9,
+          "cumulativeTimeSec": 482.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0116",
+      "name": "沼 良亮",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 251.5,
+          "cumulativeTimeSec": 251.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 210.1,
+          "cumulativeTimeSec": 461.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "raceId": "5568",
+  "raceName": "2018-02-04 前橋シクロクロス#2 岩神緑地（前橋シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T12:10:09.670Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-000-1221",
+      "name": "高橋 翔",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 300.4,
+          "cumulativeTimeSec": 300.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 290.7,
+          "cumulativeTimeSec": 591.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0335",
+      "name": "秋元 碧",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 348.1,
+          "cumulativeTimeSec": 348.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 317.7,
+          "cumulativeTimeSec": 665.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-167-0009",
+      "name": "石田 航太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 354.7,
+          "cumulativeTimeSec": 354.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 317.1,
+          "cumulativeTimeSec": 671.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0014",
+      "name": "赤荻 亘紀",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 372.4,
+          "cumulativeTimeSec": 372.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 367.1,
+          "cumulativeTimeSec": 739.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1506",
+      "name": "加藤 礼慈",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 415.9,
+          "cumulativeTimeSec": 415.9,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 386.7,
+          "cumulativeTimeSec": 802.6,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

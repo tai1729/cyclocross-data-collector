@@ -1,0 +1,54 @@
+{
+  "raceId": "13680",
+  "raceName": "2022-01-23 東北CXシリーズ#4ざおうさまカップ（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:48:02.377Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-201-0016",
+      "name": "馬島 史弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 377.7,
+          "cumulativeTimeSec": 377.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.1,
+          "cumulativeTimeSec": 770.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0038",
+      "name": "半澤 宗幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 510.8,
+          "cumulativeTimeSec": 510.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 436.8,
+          "cumulativeTimeSec": 947.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

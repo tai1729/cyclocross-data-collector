@@ -1,0 +1,67 @@
+{
+  "raceId": "11133",
+  "raceName": "2020-12-20 もみじシクロクロス第６戦（もみじシクロクロス）",
+  "category": "CM2",
+  "updatedAt": "2026-11-28T11:51:50.484Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0283",
+      "name": "佐桑 秀樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.3,
+          "cumulativeTimeSec": 550.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 571.7,
+          "cumulativeTimeSec": 1122,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 570.5,
+          "cumulativeTimeSec": 1692.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0032",
+      "name": "中島 敏夫",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 620.9,
+          "cumulativeTimeSec": 620.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 629,
+          "cumulativeTimeSec": 1249.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 623.9,
+          "cumulativeTimeSec": 1873.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

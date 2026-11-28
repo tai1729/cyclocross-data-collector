@@ -1,0 +1,106 @@
+{
+  "raceId": "5197",
+  "raceName": "2018-01-07 シクロクロス富山#3（シクロクロス富山）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:08:29.987Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-2152",
+      "name": "上田 順子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337.6,
+          "cumulativeTimeSec": 337.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 341,
+          "cumulativeTimeSec": 678.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 333.1,
+          "cumulativeTimeSec": 1011.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 326.9,
+          "cumulativeTimeSec": 1338.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 330.7,
+          "cumulativeTimeSec": 1669.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 335.4,
+          "cumulativeTimeSec": 2004.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0131",
+      "name": "松田 珠弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 354.9,
+          "cumulativeTimeSec": 354.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 333.7,
+          "cumulativeTimeSec": 688.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 341.6,
+          "cumulativeTimeSec": 1030.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 330.9,
+          "cumulativeTimeSec": 1361.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 332.1,
+          "cumulativeTimeSec": 1693.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 343.6,
+          "cumulativeTimeSec": 2036.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

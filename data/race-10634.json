@@ -1,0 +1,50 @@
+{
+  "raceId": "10634",
+  "raceName": "2020-11-01 Champion System Japan幕張クロス#7（千葉クロス）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:50:28.373Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "GPM-000-1948",
+      "name": "青木 寿美恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 601.8,
+          "cumulativeTimeSec": 601.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557.3,
+          "cumulativeTimeSec": 1159.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.5,
+          "cumulativeTimeSec": 1714.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 554.5,
+          "cumulativeTimeSec": 2269.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

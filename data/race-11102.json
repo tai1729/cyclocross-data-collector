@@ -1,0 +1,113 @@
+{
+  "raceId": "11102",
+  "raceName": "2020-12-13 関西シクロクロス 第6戦 美山（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:51:41.754Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0101",
+      "name": "安藤 優作",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 545.5,
+          "cumulativeTimeSec": 545.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 460.4,
+          "cumulativeTimeSec": 1005.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 450.9,
+          "cumulativeTimeSec": 1456.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 453.9,
+          "cumulativeTimeSec": 1910.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4848",
+      "name": "高井 鉄生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 561.1,
+          "cumulativeTimeSec": 561.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.9,
+          "cumulativeTimeSec": 1030,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.9,
+          "cumulativeTimeSec": 1487.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 463.8,
+          "cumulativeTimeSec": 1951.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0815",
+      "name": "田中 楓月",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 571.2,
+          "cumulativeTimeSec": 571.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 507.9,
+          "cumulativeTimeSec": 1079.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 495.5,
+          "cumulativeTimeSec": 1574.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 498.6,
+          "cumulativeTimeSec": 2073.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

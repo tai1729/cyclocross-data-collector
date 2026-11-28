@@ -1,0 +1,78 @@
+{
+  "raceId": "13050",
+  "raceName": "2021-12-05 東北CXシリーズ#2磐梯高原南ヶ丘牧場（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:46:25.645Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-212-0020",
+      "name": "大関 奏音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 710.8,
+          "cumulativeTimeSec": 710.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 722.2,
+          "cumulativeTimeSec": 1433,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7554",
+      "name": "佐復 亜都奈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 832.9,
+          "cumulativeTimeSec": 832.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 787.8,
+          "cumulativeTimeSec": 1620.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 999,
+          "cumulativeTimeSec": 999,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 972.1,
+          "cumulativeTimeSec": 1971.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

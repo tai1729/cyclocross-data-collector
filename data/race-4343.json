@@ -1,0 +1,169 @@
+{
+  "raceId": "4343",
+  "raceName": "2017-11-05 関西シクロクロス 第2戦 紀の川（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:06:08.579Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0523",
+      "name": "村上 裕二郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1110.4,
+          "cumulativeTimeSec": 1110.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 271,
+          "cumulativeTimeSec": 1381.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 272,
+          "cumulativeTimeSec": 1653.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2505",
+      "name": "副島 達海",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1142.2,
+          "cumulativeTimeSec": 1142.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 267.5,
+          "cumulativeTimeSec": 1409.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 282,
+          "cumulativeTimeSec": 1691.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0009",
+      "name": "白川 隆太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1205.9,
+          "cumulativeTimeSec": 1205.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 296.7,
+          "cumulativeTimeSec": 1502.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 299.2,
+          "cumulativeTimeSec": 1801.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0306",
+      "name": "山本 大督",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1267.1,
+          "cumulativeTimeSec": 1267.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 327.1,
+          "cumulativeTimeSec": 1594.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 321.2,
+          "cumulativeTimeSec": 1915.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1296.8,
+          "cumulativeTimeSec": 1296.8,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 357.5,
+          "cumulativeTimeSec": 1654.3,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0065",
+      "name": "上田 柊大郎",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 1355.3,
+          "cumulativeTimeSec": 1355.3,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 337.1,
+          "cumulativeTimeSec": 1692.4,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

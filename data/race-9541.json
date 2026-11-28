@@ -1,0 +1,40 @@
+{
+  "raceId": "9541",
+  "raceName": "2020-01-13 関西シクロクロス くろんど（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:56:36.289Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0139",
+      "name": "中務 陽介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 371.2,
+          "cumulativeTimeSec": 371.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 355.7,
+          "cumulativeTimeSec": 726.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 356.5,
+          "cumulativeTimeSec": 1083.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

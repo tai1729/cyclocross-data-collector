@@ -1,0 +1,121 @@
+{
+  "raceId": "11169",
+  "raceName": "2020-12-20 関西シクロクロス 第7戦 信太山（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:51:57.535Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-201-0022",
+      "name": "大谷 白琥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 719.3,
+          "cumulativeTimeSec": 719.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 395.1,
+          "cumulativeTimeSec": 1114.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 1520.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4439",
+      "name": "自檀地 一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 737.5,
+          "cumulativeTimeSec": 737.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.2,
+          "cumulativeTimeSec": 1140.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 415,
+          "cumulativeTimeSec": 1555.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4649",
+      "name": "上田 真太郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 765.2,
+          "cumulativeTimeSec": 765.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412.3,
+          "cumulativeTimeSec": 1177.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 431.8,
+          "cumulativeTimeSec": 1609.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0358",
+      "name": "寺本 恒輝",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 779.8,
+          "cumulativeTimeSec": 779.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 455.8,
+          "cumulativeTimeSec": 1235.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 425.7,
+          "cumulativeTimeSec": 1661.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

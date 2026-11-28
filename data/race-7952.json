@@ -1,0 +1,91 @@
+{
+  "raceId": "7952",
+  "raceName": "2019-03-03 中国シクロクロス第5戦岡山　葡萄浪漫館（中国クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T12:04:49.628Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0184",
+      "name": "伊藤 隆聖",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 173.7,
+          "cumulativeTimeSec": 173.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 132.2,
+          "cumulativeTimeSec": 305.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 136,
+          "cumulativeTimeSec": 441.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0192",
+      "name": "伊藤 輝聖",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 244.4,
+          "cumulativeTimeSec": 244.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 190,
+          "cumulativeTimeSec": 434.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 201.9,
+          "cumulativeTimeSec": 636.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0127",
+      "name": "山下 幸季",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 297.6,
+          "cumulativeTimeSec": 297.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 227.1,
+          "cumulativeTimeSec": 524.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

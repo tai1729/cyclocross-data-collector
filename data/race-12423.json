@@ -1,0 +1,116 @@
+{
+  "raceId": "12423",
+  "raceName": "2021-10-31 シクロクロスミーティングシリーズ　シーズン2021-2022 第4戦　飯山day2（信州クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:44:53.240Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-189-0010",
+      "name": "水谷 悠平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 972.6,
+          "cumulativeTimeSec": 972.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 501.2,
+          "cumulativeTimeSec": 1473.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 509.8,
+          "cumulativeTimeSec": 1983.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0033",
+      "name": "佐藤 悠陽",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 996,
+          "cumulativeTimeSec": 996,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 506.2,
+          "cumulativeTimeSec": 1502.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 500,
+          "cumulativeTimeSec": 2002.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0018",
+      "name": "小林 洋平",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1032,
+          "cumulativeTimeSec": 1032,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 536.9,
+          "cumulativeTimeSec": 1568.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 541.4,
+          "cumulativeTimeSec": 2110.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0093",
+      "name": "佐藤 玄武",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1157.9,
+          "cumulativeTimeSec": 1157.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 595.6,
+          "cumulativeTimeSec": 1753.5,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

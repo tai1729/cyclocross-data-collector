@@ -1,0 +1,43 @@
+{
+  "raceId": "9944",
+  "raceName": "2020-02-16 九州シクロクロス 第3戦 芦屋ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:57:52.028Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "QCX-190-0103",
+      "name": "今倉 隼",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 209.2,
+          "cumulativeTimeSec": 209.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.5,
+          "cumulativeTimeSec": 463.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 255.8,
+          "cumulativeTimeSec": 719.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

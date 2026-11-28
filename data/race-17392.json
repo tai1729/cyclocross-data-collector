@@ -1,0 +1,91 @@
+{
+  "raceId": "17392",
+  "raceName": "2023-03-26 茨城シクロクロス 第6戦 茨城町 涸沼自然公園 野鳥の森ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:44:06.309Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 217.4,
+          "cumulativeTimeSec": 217.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 722.5,
+          "cumulativeTimeSec": 939.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 712.4,
+          "cumulativeTimeSec": 1652.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1902",
+      "name": "綾野 桂子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.6,
+          "cumulativeTimeSec": 243.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 825.3,
+          "cumulativeTimeSec": 1068.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 819.8,
+          "cumulativeTimeSec": 1888.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9001",
+      "name": "小幡 智恵子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 275.4,
+          "cumulativeTimeSec": 275.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1683.1,
+          "cumulativeTimeSec": 1958.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

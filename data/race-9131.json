@@ -1,0 +1,132 @@
+{
+  "raceId": "9131",
+  "raceName": "2019-12-01 関西シクロクロス 第4戦 信太山（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:54:59.597Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0084",
+      "name": "大谷 玄真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 759.6,
+          "cumulativeTimeSec": 759.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 399.4,
+          "cumulativeTimeSec": 1159,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 396.4,
+          "cumulativeTimeSec": 1555.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 407,
+          "cumulativeTimeSec": 1962.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 398.2,
+          "cumulativeTimeSec": 2360.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0065",
+      "name": "上田 柊大郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 783.2,
+          "cumulativeTimeSec": 783.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 426.4,
+          "cumulativeTimeSec": 1209.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 431.4,
+          "cumulativeTimeSec": 1641,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 435.2,
+          "cumulativeTimeSec": 2076.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 434.5,
+          "cumulativeTimeSec": 2510.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0067",
+      "name": "田口 詞也",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 796.4,
+          "cumulativeTimeSec": 796.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 462.2,
+          "cumulativeTimeSec": 1258.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.3,
+          "cumulativeTimeSec": 1690.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 427.2,
+          "cumulativeTimeSec": 2118.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 436.9,
+          "cumulativeTimeSec": 2555,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

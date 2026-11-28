@@ -1,0 +1,107 @@
+{
+  "raceId": "14059",
+  "raceName": "2022-03-13 伊豆の国シクロクロス　Supported by湘南CX（湘南シクロクロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:48:58.108Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0073",
+      "name": "渡邊 太智",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 419,
+          "cumulativeTimeSec": 419,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422,
+          "cumulativeTimeSec": 841,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 448.8,
+          "cumulativeTimeSec": 1289.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 412.3,
+          "cumulativeTimeSec": 1702.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0037",
+      "name": "鷹取 礼",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 426.7,
+          "cumulativeTimeSec": 426.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 461.7,
+          "cumulativeTimeSec": 888.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 460.3,
+          "cumulativeTimeSec": 1348.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 465.7,
+          "cumulativeTimeSec": 1814.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0017",
+      "name": "野村 慧晴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 396.1,
+          "cumulativeTimeSec": 396.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 561.1,
+          "cumulativeTimeSec": 957.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 541.1,
+          "cumulativeTimeSec": 1498.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

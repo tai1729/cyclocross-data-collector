@@ -1,0 +1,93 @@
+{
+  "raceId": "8842",
+  "raceName": "2019-11-10 シクロクロスミーティングシリーズ　シーズン2019-2020 第4戦　飯山day2 JCX#3（信州クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:54:22.788Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-167-0023",
+      "name": "松本 一成",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 556.6,
+          "cumulativeTimeSec": 556.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.6,
+          "cumulativeTimeSec": 1040.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 482.4,
+          "cumulativeTimeSec": 1522.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 477.7,
+          "cumulativeTimeSec": 2000.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 469.6,
+          "cumulativeTimeSec": 2469.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7063",
+      "name": "鈴木 来人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.1,
+          "cumulativeTimeSec": 525.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 471.1,
+          "cumulativeTimeSec": 996.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 494.1,
+          "cumulativeTimeSec": 1490.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 492.3,
+          "cumulativeTimeSec": 1982.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 492.7,
+          "cumulativeTimeSec": 2475.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

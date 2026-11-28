@@ -1,0 +1,79 @@
+{
+  "raceId": "8677",
+  "raceName": "2019-10-27 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:53:54.675Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0358",
+      "name": "寺本 恒輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1228.2,
+          "cumulativeTimeSec": 1228.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 606.4,
+          "cumulativeTimeSec": 1834.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4332",
+      "name": "河村 元",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1205.2,
+          "cumulativeTimeSec": 1205.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 738.5,
+          "cumulativeTimeSec": 1943.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4439",
+      "name": "自檀地 一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1311.8,
+          "cumulativeTimeSec": 1311.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 779.5,
+          "cumulativeTimeSec": 2091.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

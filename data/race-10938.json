@@ -1,0 +1,75 @@
+{
+  "raceId": "10938",
+  "raceName": "2020-11-29 第26回シクロクロス全日本選手権2020day2（全日本選手権）",
+  "category": "Ｕ17女子",
+  "updatedAt": "2026-11-28T11:51:22.993Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-189-0016",
+      "name": "水谷 彩奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 770.8,
+          "cumulativeTimeSec": 770.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 824.7,
+          "cumulativeTimeSec": 1595.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0175",
+      "name": "日吉 愛華",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 768.8,
+          "cumulativeTimeSec": 768.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 889.1,
+          "cumulativeTimeSec": 1657.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0012",
+      "name": "松崎 光優",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 891.4,
+          "cumulativeTimeSec": 891.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 912.1,
+          "cumulativeTimeSec": 1803.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

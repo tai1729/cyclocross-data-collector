@@ -1,0 +1,135 @@
+{
+  "raceId": "7554",
+  "raceName": "2019-01-27 茨城シクロクロス#3 城里町ふれあいの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "Category Challenge",
+  "updatedAt": "2026-11-28T12:03:57.670Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-189-0058",
+      "name": "丸山 孝行",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 156.2,
+          "cumulativeTimeSec": 156.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 168,
+          "cumulativeTimeSec": 324.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 159.8,
+          "cumulativeTimeSec": 484,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 157.2,
+          "cumulativeTimeSec": 641.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 146.9,
+          "cumulativeTimeSec": 788.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0057",
+      "name": "中山 成文",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 146.1,
+          "cumulativeTimeSec": 146.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 159.1,
+          "cumulativeTimeSec": 305.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 159.8,
+          "cumulativeTimeSec": 465,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 160.4,
+          "cumulativeTimeSec": 625.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 163.1,
+          "cumulativeTimeSec": 788.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0059",
+      "name": "大嶽 剛",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 159.2,
+          "cumulativeTimeSec": 159.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 172.8,
+          "cumulativeTimeSec": 332,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 167,
+          "cumulativeTimeSec": 499,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 164.1,
+          "cumulativeTimeSec": 663.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 170.4,
+          "cumulativeTimeSec": 833.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

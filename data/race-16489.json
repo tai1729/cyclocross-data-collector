@@ -1,0 +1,121 @@
+{
+  "raceId": "16489",
+  "raceName": "2023-02-05 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:42:36.627Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-190-0032",
+      "name": "渡井 健太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 256,
+          "cumulativeTimeSec": 256,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.1,
+          "cumulativeTimeSec": 523.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 265.6,
+          "cumulativeTimeSec": 788.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0005",
+      "name": "吉田 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 261.6,
+          "cumulativeTimeSec": 261.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 283.4,
+          "cumulativeTimeSec": 545,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 277.2,
+          "cumulativeTimeSec": 822.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0040",
+      "name": "河本 昇大",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.6,
+          "cumulativeTimeSec": 284.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 314.7,
+          "cumulativeTimeSec": 599.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 321.9,
+          "cumulativeTimeSec": 921.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-223-0023",
+      "name": "亀井 祐孝",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 296.8,
+          "cumulativeTimeSec": 296.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 325.5,
+          "cumulativeTimeSec": 622.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 323.8,
+          "cumulativeTimeSec": 946.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

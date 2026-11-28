@@ -1,0 +1,94 @@
+{
+  "raceId": "9420",
+  "raceName": "2020-01-05 第2戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:56:06.781Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0005",
+      "name": "坂口 奈津実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 233.1,
+          "cumulativeTimeSec": 233.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 226.1,
+          "cumulativeTimeSec": 459.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 209.1,
+          "cumulativeTimeSec": 668.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-189-0009",
+      "name": "美輪 空人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 236.6,
+          "cumulativeTimeSec": 236.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 225,
+          "cumulativeTimeSec": 461.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 215.7,
+          "cumulativeTimeSec": 677.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 296.3,
+          "cumulativeTimeSec": 296.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 298.2,
+          "cumulativeTimeSec": 594.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 291.3,
+          "cumulativeTimeSec": 885.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

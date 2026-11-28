@@ -1,0 +1,122 @@
+{
+  "raceId": "7135",
+  "raceName": "2018-12-23 第1戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CM1",
+  "updatedAt": "2026-11-28T12:01:57.254Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0411",
+      "name": "神野 勝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 378,
+          "cumulativeTimeSec": 378,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 406.7,
+          "cumulativeTimeSec": 784.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 410.2,
+          "cumulativeTimeSec": 1194.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 416.1,
+          "cumulativeTimeSec": 1611,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 424.4,
+          "cumulativeTimeSec": 2035.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 484,
+          "cumulativeTimeSec": 2519.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 445.1,
+          "cumulativeTimeSec": 2964.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0149",
+      "name": "波多 大祐",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 428,
+          "cumulativeTimeSec": 428,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458,
+          "cumulativeTimeSec": 886,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 458.5,
+          "cumulativeTimeSec": 1344.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 469.7,
+          "cumulativeTimeSec": 1814.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 457.1,
+          "cumulativeTimeSec": 2271.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 483.2,
+          "cumulativeTimeSec": 2754.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 485.5,
+          "cumulativeTimeSec": 3240,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "raceId": "10888",
+  "raceName": "2020-11-22 東海シクロクロス#2　おおが城山公園（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:51:04.568Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-178-0017",
+      "name": "野村 慧晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 358.3,
+          "cumulativeTimeSec": 358.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 354.5,
+          "cumulativeTimeSec": 712.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 351.9,
+          "cumulativeTimeSec": 1064.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 357.5,
+          "cumulativeTimeSec": 1422.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 362.8,
+          "cumulativeTimeSec": 1785,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0067",
+      "name": "奥村 康生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 382.9,
+          "cumulativeTimeSec": 382.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 353.4,
+          "cumulativeTimeSec": 736.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 360,
+          "cumulativeTimeSec": 1096.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 355.8,
+          "cumulativeTimeSec": 1452.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 357.7,
+          "cumulativeTimeSec": 1809.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "raceId": "10788",
+  "raceName": "2020-11-22 東北CXシリーズ#1磐梯高原南ヶ丘牧場 （東北 CX Project）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:50:54.270Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-000-0111",
+      "name": "須藤 むつみ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 649,
+          "cumulativeTimeSec": 649,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 614.3,
+          "cumulativeTimeSec": 1263.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 647.2,
+          "cumulativeTimeSec": 1910.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 650.6,
+          "cumulativeTimeSec": 2561.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0019",
+      "name": "竹村 舞葉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 712.4,
+          "cumulativeTimeSec": 712.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673.3,
+          "cumulativeTimeSec": 1385.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 674.9,
+          "cumulativeTimeSec": 2060.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 669.5,
+          "cumulativeTimeSec": 2730.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0200",
+      "name": "野口 祈",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 779.9,
+          "cumulativeTimeSec": 779.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 699.5,
+          "cumulativeTimeSec": 1479.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 720.1,
+          "cumulativeTimeSec": 2199.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 741.4,
+          "cumulativeTimeSec": 2940.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

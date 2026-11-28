@@ -1,0 +1,58 @@
+{
+  "raceId": "13653",
+  "raceName": "2022-01-16  関西シクロクロス 第9戦 みなと堺（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:47:54.832Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0114",
+      "name": "上田 蓮大郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 973.5,
+          "cumulativeTimeSec": 973.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 408.7,
+          "cumulativeTimeSec": 1382.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 402.2,
+          "cumulativeTimeSec": 1784.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 401.4,
+          "cumulativeTimeSec": 2185.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 410.7,
+          "cumulativeTimeSec": 2596.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

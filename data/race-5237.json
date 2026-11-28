@@ -1,0 +1,43 @@
+{
+  "raceId": "5237",
+  "raceName": "2018-01-07 2017～2018山口シクロクロス　第2戦下関深坂自然の森（山口シクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:08:48.053Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-167-0087",
+      "name": "白井 彩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 786.4,
+          "cumulativeTimeSec": 786.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 803.2,
+          "cumulativeTimeSec": 1589.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 755,
+          "cumulativeTimeSec": 2344.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

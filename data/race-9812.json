@@ -1,0 +1,97 @@
+{
+  "raceId": "9812",
+  "raceName": "2020-02-02 湘南シクロクロス2019-20 第3戦 中井中央公園（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:57:37.317Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-167-0053",
+      "name": "中仙道 侑毅",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 254.7,
+          "cumulativeTimeSec": 254.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 262.1,
+          "cumulativeTimeSec": 516.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 262.9,
+          "cumulativeTimeSec": 779.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0017",
+      "name": "野村 慧晴",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 255,
+          "cumulativeTimeSec": 255,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 262,
+          "cumulativeTimeSec": 517,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 279.9,
+          "cumulativeTimeSec": 796.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0082",
+      "name": "青山 哲宗",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 284.4,
+          "cumulativeTimeSec": 284.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 297.1,
+          "cumulativeTimeSec": 581.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 297.1,
+          "cumulativeTimeSec": 878.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

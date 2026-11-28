@@ -1,0 +1,94 @@
+{
+  "raceId": "7109",
+  "raceName": "2018-12-23 シクロクロスミーティングシリーズ　シーズン2018-2019 第8戦　南信州（信州クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:01:46.756Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-156-0085",
+      "name": "武藤 優奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.7,
+          "cumulativeTimeSec": 470.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 530.3,
+          "cumulativeTimeSec": 1001,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 554.5,
+          "cumulativeTimeSec": 1555.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 567.3,
+          "cumulativeTimeSec": 2122.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 566.5,
+          "cumulativeTimeSec": 2689.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0835",
+      "name": "綿貫 通穂",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 549.7,
+          "cumulativeTimeSec": 549.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 627,
+          "cumulativeTimeSec": 1176.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 619,
+          "cumulativeTimeSec": 1795.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 619.4,
+          "cumulativeTimeSec": 2415.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 618.8,
+          "cumulativeTimeSec": 3033.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

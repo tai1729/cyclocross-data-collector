@@ -1,0 +1,124 @@
+{
+  "raceId": "15996",
+  "raceName": "2023-01-09 シクロクロスミーティングシリーズ　シーズン2022-2023 第9戦　清里（信州クロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-28T11:41:41.449Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-167-0008",
+      "name": "安藤 誠一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 529,
+          "cumulativeTimeSec": 529,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 517.1,
+          "cumulativeTimeSec": 1046.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 514.3,
+          "cumulativeTimeSec": 1560.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0031",
+      "name": "鈴木 名人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.8,
+          "cumulativeTimeSec": 530.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 561,
+          "cumulativeTimeSec": 1091.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 574.6,
+          "cumulativeTimeSec": 1666.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-190-0080",
+      "name": "中村 偉織",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 567.1,
+          "cumulativeTimeSec": 567.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 564.6,
+          "cumulativeTimeSec": 1131.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 563.8,
+          "cumulativeTimeSec": 1695.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0025",
+      "name": "伊与久 真澄",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 657.6,
+          "cumulativeTimeSec": 657.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 725.1,
+          "cumulativeTimeSec": 1382.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 597.3,
+          "cumulativeTimeSec": 1980,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

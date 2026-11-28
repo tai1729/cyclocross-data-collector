@@ -1,0 +1,54 @@
+{
+  "raceId": "6880",
+  "raceName": "2018-12-02 なかい誕生110年記念  湘南シクロクロス第1戦  中井中央公園（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T12:00:49.534Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-156-0069",
+      "name": "石川 太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 335.1,
+          "cumulativeTimeSec": 335.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 350.4,
+          "cumulativeTimeSec": 685.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0089",
+      "name": "伊勢田 宇未",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 349,
+          "cumulativeTimeSec": 349,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.1,
+          "cumulativeTimeSec": 722.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

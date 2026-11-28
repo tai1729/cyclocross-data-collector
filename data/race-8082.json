@@ -1,0 +1,67 @@
+{
+  "raceId": "8082",
+  "raceName": "2019-09-22 茨城シクロクロス#1 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:53:10.650Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 560.1,
+          "cumulativeTimeSec": 560.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 670.8,
+          "cumulativeTimeSec": 1230.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 685.8,
+          "cumulativeTimeSec": 1916.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0082",
+      "name": "伊橋 孝亮",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 726.1,
+          "cumulativeTimeSec": 726.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 930.8,
+          "cumulativeTimeSec": 1656.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1022.1,
+          "cumulativeTimeSec": 2679,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

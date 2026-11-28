@@ -1,0 +1,57 @@
+{
+  "raceId": "9663",
+  "raceName": "2020-01-26 阿波シクロクロス（四国クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:56:57.711Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-190-0294",
+      "name": "久賀 壮大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 590.1,
+          "cumulativeTimeSec": 590.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 628.3,
+          "cumulativeTimeSec": 1218.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 629.9,
+          "cumulativeTimeSec": 1848.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 638.1,
+          "cumulativeTimeSec": 2486.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 658.4,
+          "cumulativeTimeSec": 3144.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

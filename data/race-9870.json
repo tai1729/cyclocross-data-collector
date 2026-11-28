@@ -1,0 +1,70 @@
+{
+  "raceId": "9870",
+  "raceName": "2020-02-09 第4戦リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:57:43.794Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-190-0041",
+      "name": "馬場 俊丞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 215.1,
+          "cumulativeTimeSec": 215.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 202.7,
+          "cumulativeTimeSec": 417.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 193.7,
+          "cumulativeTimeSec": 611.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0009",
+      "name": "尾崎 愛周",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 216.3,
+          "cumulativeTimeSec": 216.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 206.4,
+          "cumulativeTimeSec": 422.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 208.9,
+          "cumulativeTimeSec": 631.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

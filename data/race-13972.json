@@ -1,0 +1,54 @@
+{
+  "raceId": "13972",
+  "raceName": "2022-02-27 中国シクロクロス広島　＃2中央森林公園（中国クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:48:48.516Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7161",
+      "name": "福本 あおい",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 469.3,
+          "cumulativeTimeSec": 469.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.1,
+          "cumulativeTimeSec": 952.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 482.3,
+          "cumulativeTimeSec": 1434.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 491,
+          "cumulativeTimeSec": 1925.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 480.9,
+          "cumulativeTimeSec": 2406.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

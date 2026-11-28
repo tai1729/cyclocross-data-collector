@@ -1,0 +1,87 @@
+{
+  "raceId": "4089",
+  "raceName": "2017-10-15 シクロクロスミーティングシリーズ　シーズン2017-2018 第１戦　白樺湖（信州クロス）",
+  "category": "CL1 カテゴリーL1",
+  "updatedAt": "2026-11-28T12:05:27.332Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-6897",
+      "name": "宮内 佐季子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 636.7,
+          "cumulativeTimeSec": 636.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 620.8,
+          "cumulativeTimeSec": 1257.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 628.2,
+          "cumulativeTimeSec": 1885.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 625.9,
+          "cumulativeTimeSec": 2511.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 647.2,
+          "cumulativeTimeSec": 3158.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0111",
+      "name": "須藤 むつみ",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 661.3,
+          "cumulativeTimeSec": 661.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 678.3,
+          "cumulativeTimeSec": 1339.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 719.2,
+          "cumulativeTimeSec": 2058.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 715.7,
+          "cumulativeTimeSec": 2774.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

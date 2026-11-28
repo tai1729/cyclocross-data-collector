@@ -1,0 +1,94 @@
+{
+  "raceId": "15169",
+  "raceName": "2022-11-20 茨城シクロクロス 第3戦 常陸大宮 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MM60",
+  "updatedAt": "2026-11-28T11:39:46.272Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-1953",
+      "name": "濱野 貞義",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 752.6,
+          "cumulativeTimeSec": 752.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 527.4,
+          "cumulativeTimeSec": 1280,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 542.7,
+          "cumulativeTimeSec": 1822.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-156-0061",
+      "name": "倉田 喜代司",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 758.7,
+          "cumulativeTimeSec": 758.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 543.8,
+          "cumulativeTimeSec": 1302.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544.7,
+          "cumulativeTimeSec": 1847.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1024",
+      "name": "小川 光一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 862.8,
+          "cumulativeTimeSec": 862.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 590.4,
+          "cumulativeTimeSec": 1453.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 567.8,
+          "cumulativeTimeSec": 2021,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "raceId": "9172",
+  "raceName": "2019-12-01 シクロクロスミーティングシリーズ　シーズン2019-2020 第7戦　南信州  （信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:55:08.524Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-189-0010",
+      "name": "水谷 悠平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350,
+          "cumulativeTimeSec": 350,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 300,
+          "cumulativeTimeSec": 650,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0049",
+      "name": "木下 逞生空",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 400,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 320,
+          "cumulativeTimeSec": 720,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0027",
+      "name": "谷口 龍希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 500,
+          "cumulativeTimeSec": 500,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 300,
+          "cumulativeTimeSec": 800,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

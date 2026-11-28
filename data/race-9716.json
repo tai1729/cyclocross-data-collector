@@ -1,0 +1,87 @@
+{
+  "raceId": "9716",
+  "raceName": "2020-01-26 茨城シクロクロス#4 城里町ふれあいの里ステージ\t （秩父・茨城クロス（関東クロス））",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:57:11.132Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 117,
+          "cumulativeTimeSec": 117,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 446,
+          "cumulativeTimeSec": 563,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 450.3,
+          "cumulativeTimeSec": 1013.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 444.3,
+          "cumulativeTimeSec": 1457.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 470,
+          "cumulativeTimeSec": 1927.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0082",
+      "name": "伊橋 孝亮",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 157.7,
+          "cumulativeTimeSec": 157.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 592.4,
+          "cumulativeTimeSec": 750.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 612.5,
+          "cumulativeTimeSec": 1362.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 647.5,
+          "cumulativeTimeSec": 2010.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

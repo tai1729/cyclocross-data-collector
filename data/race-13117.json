@@ -1,0 +1,43 @@
+{
+  "raceId": "13117",
+  "raceName": "2021-12-05  関西シクロクロス 第5戦 マキノ（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:46:30.784Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-212-0243",
+      "name": "福場 秀和",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 413.1,
+          "cumulativeTimeSec": 413.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 372.3,
+          "cumulativeTimeSec": 785.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 393.1,
+          "cumulativeTimeSec": 1178.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

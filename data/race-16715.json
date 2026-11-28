@@ -1,0 +1,83 @@
+{
+  "raceId": "16715",
+  "raceName": "2023-02-05 関西シクロクロス 第10戦 桂川（関西クロス）",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T11:42:51.749Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 586.1,
+          "cumulativeTimeSec": 586.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 405.8,
+          "cumulativeTimeSec": 991.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 401.8,
+          "cumulativeTimeSec": 1393.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 398.9,
+          "cumulativeTimeSec": 1792.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0166",
+      "name": "樋口 颯真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 623.6,
+          "cumulativeTimeSec": 623.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.4,
+          "cumulativeTimeSec": 1071,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.5,
+          "cumulativeTimeSec": 1517.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 517.6,
+          "cumulativeTimeSec": 2035.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

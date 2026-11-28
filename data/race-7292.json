@@ -1,0 +1,36 @@
+{
+  "raceId": "7292",
+  "raceName": "2019-01-13 湘南シクロクロス第2戦 開成水辺スポーツ公園（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T12:02:56.193Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-189-0041",
+      "name": "岩崎 琢磨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 582.9,
+          "cumulativeTimeSec": 582.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 596.2,
+          "cumulativeTimeSec": 1179.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

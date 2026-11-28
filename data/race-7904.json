@@ -1,0 +1,40 @@
+{
+  "raceId": "7904",
+  "raceName": "2019-02-24 中国シクロクロス第4戦広島　もみのき森林公園（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:04:35.889Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-178-0087",
+      "name": "岩原 愛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 611,
+          "cumulativeTimeSec": 611,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 653.7,
+          "cumulativeTimeSec": 1264.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 592.7,
+          "cumulativeTimeSec": 1857.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

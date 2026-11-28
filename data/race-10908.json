@@ -1,0 +1,97 @@
+{
+  "raceId": "10908",
+  "raceName": "2020-11-23 関西シクロクロス 第4戦 マキノ(2日目)（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:51:15.573Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0132",
+      "name": "山口 成美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 343.8,
+          "cumulativeTimeSec": 343.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 356.4,
+          "cumulativeTimeSec": 700.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 343.2,
+          "cumulativeTimeSec": 1043.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4539",
+      "name": "佐々木 優子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.8,
+          "cumulativeTimeSec": 400.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 378.8,
+          "cumulativeTimeSec": 779.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 381.7,
+          "cumulativeTimeSec": 1161.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0072",
+      "name": "柴田 千尋",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 398.9,
+          "cumulativeTimeSec": 398.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412.4,
+          "cumulativeTimeSec": 811.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 388.1,
+          "cumulativeTimeSec": 1199.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

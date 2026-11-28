@@ -1,0 +1,36 @@
+{
+  "raceId": "11128",
+  "raceName": "2020-12-20 もみじシクロクロス第６戦（もみじシクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:51:48.272Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-190-0038",
+      "name": "小林 遙斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 629.7,
+          "cumulativeTimeSec": 629.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 435.1,
+          "cumulativeTimeSec": 1064.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

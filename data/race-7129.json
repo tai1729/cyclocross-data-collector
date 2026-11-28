@@ -1,0 +1,62 @@
+{
+  "raceId": "7129",
+  "raceName": "2018-12-23 第1戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:01:54.042Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0005",
+      "name": "坂口 奈津実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 221.9,
+          "cumulativeTimeSec": 221.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 237.8,
+          "cumulativeTimeSec": 459.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 277.8,
+          "cumulativeTimeSec": 277.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 300.1,
+          "cumulativeTimeSec": 577.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0003",
+      "name": "井上 悠喜",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

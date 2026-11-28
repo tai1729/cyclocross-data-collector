@@ -1,0 +1,94 @@
+{
+  "raceId": "6103",
+  "raceName": "2018-09-23 茨城シクロクロス#1 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "Category Junior",
+  "updatedAt": "2026-11-28T11:58:38.242Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1442",
+      "name": "上野 悠佑太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 549.7,
+          "cumulativeTimeSec": 549.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 622.9,
+          "cumulativeTimeSec": 1172.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 623.7,
+          "cumulativeTimeSec": 1796.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1861",
+      "name": "中島 渉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.3,
+          "cumulativeTimeSec": 550.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 634.3,
+          "cumulativeTimeSec": 1184.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 670.3,
+          "cumulativeTimeSec": 1854.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1232",
+      "name": "後藤 大地",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 555.9,
+          "cumulativeTimeSec": 555.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 683.2,
+          "cumulativeTimeSec": 1239.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 681.9,
+          "cumulativeTimeSec": 1921,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "raceId": "7870",
+  "raceName": "2019-02-17 湘南シクロクロス第3戦 開成水辺スポーツ公園（湘南シクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:04:26.421Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 422.2,
+          "cumulativeTimeSec": 422.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 384.4,
+          "cumulativeTimeSec": 806.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 389.1,
+          "cumulativeTimeSec": 1195.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 388,
+          "cumulativeTimeSec": 1583.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1204",
+      "name": "落合 康生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 435.6,
+          "cumulativeTimeSec": 435.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 402.5,
+          "cumulativeTimeSec": 838.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 407.4,
+          "cumulativeTimeSec": 1245.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 407.8,
+          "cumulativeTimeSec": 1653.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0071",
+      "name": "宮下 環",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 462.4,
+          "cumulativeTimeSec": 462.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

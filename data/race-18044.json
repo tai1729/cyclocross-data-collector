@@ -1,0 +1,67 @@
+{
+  "raceId": "18044",
+  "raceName": "2023-02-11 CYCLOCROSS TOKYO 2023 Day1（シクロクロス東京）",
+  "category": "WU15",
+  "updatedAt": "2026-11-28T11:43:00.653Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-156-0033",
+      "name": "小林 碧",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 288,
+          "cumulativeTimeSec": 288,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412,
+          "cumulativeTimeSec": 700,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 404,
+          "cumulativeTimeSec": 1104,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0005",
+      "name": "綱嶋 凛々音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 289,
+          "cumulativeTimeSec": 289,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 466,
+          "cumulativeTimeSec": 755,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 431,
+          "cumulativeTimeSec": 1186,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

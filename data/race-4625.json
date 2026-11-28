@@ -1,0 +1,115 @@
+{
+  "raceId": "4625",
+  "raceName": "2017-11-19 関西シクロクロス 第3戦 UCI マキノ（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T12:06:48.500Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 7
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4543",
+      "name": "武友 未奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 90,
+          "cumulativeTimeSec": 90,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 32.3,
+          "cumulativeTimeSec": 122.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0235",
+      "name": "中川 圭子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 87.8,
+          "cumulativeTimeSec": 87.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 38.3,
+          "cumulativeTimeSec": 126.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0080",
+      "name": "川島 奈菜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 91.5,
+          "cumulativeTimeSec": 91.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 35.9,
+          "cumulativeTimeSec": 127.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0089",
+      "name": "中野 舞子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 95.8,
+          "cumulativeTimeSec": 95.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 36,
+          "cumulativeTimeSec": 131.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0060",
+      "name": "柿本 寛子",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 106.1,
+          "cumulativeTimeSec": 106.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

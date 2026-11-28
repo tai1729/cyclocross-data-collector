@@ -1,0 +1,75 @@
+{
+  "raceId": "12579",
+  "raceName": "2021-11-14 東海シクロクロス#1　おおが城山公園（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:45:23.972Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-167-0066",
+      "name": "蜂須賀 巧真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 458,
+          "cumulativeTimeSec": 458,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 499.1,
+          "cumulativeTimeSec": 957.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0202",
+      "name": "山本 太智",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 525.8,
+          "cumulativeTimeSec": 525.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 511.4,
+          "cumulativeTimeSec": 1037.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0063",
+      "name": "星野 紗輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 552.9,
+          "cumulativeTimeSec": 552.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 564.2,
+          "cumulativeTimeSec": 1117.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

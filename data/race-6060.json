@@ -1,0 +1,96 @@
+{
+  "raceId": "6060",
+  "raceName": "2018-03-11  茨城シクロクロス#5　城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:11:37.136Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 811.5,
+          "cumulativeTimeSec": 811.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 717.3,
+          "cumulativeTimeSec": 1528.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0018",
+      "name": "池田 千夏",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 768.5,
+          "cumulativeTimeSec": 768.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 777,
+          "cumulativeTimeSec": 1545.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0413",
+      "name": "根本 静",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 781.6,
+          "cumulativeTimeSec": 781.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 774.5,
+          "cumulativeTimeSec": 1556.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0066",
+      "name": "福田 こずえ",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 821.3,
+          "cumulativeTimeSec": 821.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 831,
+          "cumulativeTimeSec": 1652.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

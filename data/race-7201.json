@@ -1,0 +1,94 @@
+{
+  "raceId": "7201",
+  "raceName": "2019-01-06 シクロクロス富山＃３ヒスイ海岸オートキャンプ場（シクロクロス富山）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:02:17.633Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-178-0016",
+      "name": "森 大志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 171.1,
+          "cumulativeTimeSec": 171.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 161.6,
+          "cumulativeTimeSec": 332.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 160.5,
+          "cumulativeTimeSec": 493.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7201",
+      "name": "矢野 柊",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 198.3,
+          "cumulativeTimeSec": 198.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 196.6,
+          "cumulativeTimeSec": 394.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 213.1,
+          "cumulativeTimeSec": 608,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0015",
+      "name": "榛澤 有輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 210.1,
+          "cumulativeTimeSec": 210.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 190.3,
+          "cumulativeTimeSec": 400.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 216.8,
+          "cumulativeTimeSec": 617.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

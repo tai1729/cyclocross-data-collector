@@ -1,0 +1,93 @@
+{
+  "raceId": "10858",
+  "raceName": "2020-11-23 中国シクロクロス広島　第１戦　もみのき森林公園（中国クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:51:11.144Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-178-0074",
+      "name": "北野 寿枝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 452.8,
+          "cumulativeTimeSec": 452.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 465.2,
+          "cumulativeTimeSec": 918,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 451,
+          "cumulativeTimeSec": 1369,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 466.4,
+          "cumulativeTimeSec": 1835.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 469.8,
+          "cumulativeTimeSec": 2305.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0119",
+      "name": "原田 悦子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 508.8,
+          "cumulativeTimeSec": 508.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 530.3,
+          "cumulativeTimeSec": 1039.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 522.4,
+          "cumulativeTimeSec": 1561.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 529.4,
+          "cumulativeTimeSec": 2090.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 569.6,
+          "cumulativeTimeSec": 2660.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "raceId": "15045",
+  "raceName": "2022-11-20 もみじシクロクロス11/20（もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:39:39.656Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-223-0109",
+      "name": "大西 彩結",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 336,
+          "cumulativeTimeSec": 336,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 353.2,
+          "cumulativeTimeSec": 689.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

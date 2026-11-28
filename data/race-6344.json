@@ -1,0 +1,139 @@
+{
+  "raceId": "6344",
+  "raceName": "2018-10-21 シクロクロスミーティングシリーズ　シーズン2018-2019 第2戦　富士山 (JCX #3)（信州クロス）",
+  "category": "Category Junior",
+  "updatedAt": "2026-11-28T11:59:15.189Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1007",
+      "name": "小島 大輝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 478,
+          "cumulativeTimeSec": 478,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 437.7,
+          "cumulativeTimeSec": 915.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.7,
+          "cumulativeTimeSec": 1362.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 452.1,
+          "cumulativeTimeSec": 1814.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 462,
+          "cumulativeTimeSec": 2276.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 461.4,
+          "cumulativeTimeSec": 2737.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1861",
+      "name": "中島 渉",
+      "finalPosition": 2,
+      "status": "annotated-rank",
+      "officialPositionLabel": "2 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 497.9,
+          "cumulativeTimeSec": 497.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 477.3,
+          "cumulativeTimeSec": 975.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 495.5,
+          "cumulativeTimeSec": 1470.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 507,
+          "cumulativeTimeSec": 1977.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1442",
+      "name": "上野 悠佑太",
+      "finalPosition": 3,
+      "status": "annotated-rank",
+      "officialPositionLabel": "3 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1015.9,
+          "cumulativeTimeSec": 1015.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 533.5,
+          "cumulativeTimeSec": 1549.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1232",
+      "name": "後藤 大地",
+      "finalPosition": 4,
+      "status": "annotated-rank",
+      "officialPositionLabel": "4 (80%Out)",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 565.8,
+          "cumulativeTimeSec": 565.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 541.6,
+          "cumulativeTimeSec": 1107.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

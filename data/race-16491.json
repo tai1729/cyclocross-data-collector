@@ -1,0 +1,33 @@
+{
+  "raceId": "16491",
+  "raceName": "2023-02-05 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:42:37.399Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-212-0020",
+      "name": "澁川 到吾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.3,
+          "cumulativeTimeSec": 424.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 444.7,
+          "cumulativeTimeSec": 869,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

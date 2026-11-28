@@ -1,0 +1,106 @@
+{
+  "raceId": "13485",
+  "raceName": "2021-12-26 シクロクロスミーティングシリーズ　シーズン2021-2022 第8戦　南信州 S1NEO CUP（信州クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:47:26.766Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-000-1204",
+      "name": "落合 康生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 426.2,
+          "cumulativeTimeSec": 426.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 420.4,
+          "cumulativeTimeSec": 846.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 424,
+          "cumulativeTimeSec": 1270.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 427.8,
+          "cumulativeTimeSec": 1698.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 420.5,
+          "cumulativeTimeSec": 2118.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 420.8,
+          "cumulativeTimeSec": 2539.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-189-0071",
+      "name": "宮下 環",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.5,
+          "cumulativeTimeSec": 424.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 428.4,
+          "cumulativeTimeSec": 852.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 429,
+          "cumulativeTimeSec": 1281.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 428.1,
+          "cumulativeTimeSec": 1710,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 419.6,
+          "cumulativeTimeSec": 2129.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 427.7,
+          "cumulativeTimeSec": 2557.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

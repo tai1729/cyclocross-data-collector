@@ -1,0 +1,151 @@
+{
+  "raceId": "13628",
+  "raceName": "2022-01-15 東海シクロクロス#4　愛知牧場（東海クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:47:44.289Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 8
+  },
+  "riders": [
+    {
+      "riderId": "TKI-167-0169",
+      "name": "岩田 貴子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 780.4,
+          "cumulativeTimeSec": 780.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 773.9,
+          "cumulativeTimeSec": 1554.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 775,
+          "cumulativeTimeSec": 2329.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0008",
+      "name": "出見 京子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 807.8,
+          "cumulativeTimeSec": 807.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 799.1,
+          "cumulativeTimeSec": 1606.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 791.2,
+          "cumulativeTimeSec": 2398.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0091",
+      "name": "惠 亜矢",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 812.7,
+          "cumulativeTimeSec": 812.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 805.4,
+          "cumulativeTimeSec": 1618.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 792.3,
+          "cumulativeTimeSec": 2410.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0019",
+      "name": "大類 亜美里",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 835.4,
+          "cumulativeTimeSec": 835.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 861.1,
+          "cumulativeTimeSec": 1696.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 831.1,
+          "cumulativeTimeSec": 2527.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0026",
+      "name": "桂正 沙代子",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 860.2,
+          "cumulativeTimeSec": 860.2,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 917.1,
+          "cumulativeTimeSec": 1777.3,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 943.8,
+          "cumulativeTimeSec": 2721.1,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

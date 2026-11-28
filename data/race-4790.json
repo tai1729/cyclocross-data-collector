@@ -1,0 +1,82 @@
+{
+  "raceId": "4790",
+  "raceName": "2017-12-03 関西シクロクロス 第4戦 美山（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T12:07:22.852Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3262",
+      "name": "妻木 祥太郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1143,
+          "cumulativeTimeSec": 1143,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.4,
+          "cumulativeTimeSec": 1528.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 384.5,
+          "cumulativeTimeSec": 1912.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 372.4,
+          "cumulativeTimeSec": 2285.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0154",
+      "name": "堀川 滉太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 1248.3,
+          "cumulativeTimeSec": 1248.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 469.4,
+          "cumulativeTimeSec": 1717.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 460.8,
+          "cumulativeTimeSec": 2178.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0340",
+      "name": "杉山 竜大",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

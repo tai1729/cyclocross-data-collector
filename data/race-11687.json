@@ -1,0 +1,97 @@
+{
+  "raceId": "11687",
+  "raceName": "2021-10-03 茨城シクロクロス#2取手ステージ(JCX#1)（秩父・茨城クロス（関東クロス））",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:44:18.314Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 435.3,
+          "cumulativeTimeSec": 435.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.5,
+          "cumulativeTimeSec": 883.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 457.1,
+          "cumulativeTimeSec": 1340.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1510",
+      "name": "野嵜 然新",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 449,
+          "cumulativeTimeSec": 449,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 494.2,
+          "cumulativeTimeSec": 943.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 471.2,
+          "cumulativeTimeSec": 1414.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0001",
+      "name": "室伏 碧透",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 482.7,
+          "cumulativeTimeSec": 482.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 500.8,
+          "cumulativeTimeSec": 983.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 527.4,
+          "cumulativeTimeSec": 1510.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

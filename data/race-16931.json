@@ -1,0 +1,121 @@
+{
+  "raceId": "16931",
+  "raceName": "2023-02-12 山口シクロクロス第3戦豊浦ステージ  （山口シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:43:13.537Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-189-0007",
+      "name": "角島 紀子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 624.3,
+          "cumulativeTimeSec": 624.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 638.3,
+          "cumulativeTimeSec": 1262.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 646.2,
+          "cumulativeTimeSec": 1908.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2939",
+      "name": "保崎 実智子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 630.8,
+          "cumulativeTimeSec": 630.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 639.5,
+          "cumulativeTimeSec": 1270.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 678.8,
+          "cumulativeTimeSec": 1949.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0054",
+      "name": "井上 万里江",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 666.3,
+          "cumulativeTimeSec": 666.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 670.1,
+          "cumulativeTimeSec": 1336.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 673.9,
+          "cumulativeTimeSec": 2010.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-212-0002",
+      "name": "古田 晴美",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 683,
+          "cumulativeTimeSec": 683,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 708.1,
+          "cumulativeTimeSec": 1391.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 715.2,
+          "cumulativeTimeSec": 2106.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

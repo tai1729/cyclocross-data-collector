@@ -1,0 +1,67 @@
+{
+  "raceId": "9263",
+  "raceName": "2019-12-15 東海シクロクロス#3　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:55:33.128Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.2,
+          "cumulativeTimeSec": 532.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 516.4,
+          "cumulativeTimeSec": 1048.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 528.5,
+          "cumulativeTimeSec": 1577.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-190-0093",
+      "name": "深谷 豪汰",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 562.5,
+          "cumulativeTimeSec": 562.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 591.1,
+          "cumulativeTimeSec": 1153.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 618.9,
+          "cumulativeTimeSec": 1772.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

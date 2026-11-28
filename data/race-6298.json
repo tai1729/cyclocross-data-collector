@@ -1,0 +1,75 @@
+{
+  "raceId": "6298",
+  "raceName": "2018-10-14 前橋シクロクロス#1 岩神緑地（前橋シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:59:03.878Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-156-0036",
+      "name": "飯塚 嵐",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 229.1,
+          "cumulativeTimeSec": 229.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 210.4,
+          "cumulativeTimeSec": 439.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-189-0010",
+      "name": "水谷 悠平",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 262,
+          "cumulativeTimeSec": 262,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 250.7,
+          "cumulativeTimeSec": 512.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-178-0074",
+      "name": "松原 義仁",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 282.2,
+          "cumulativeTimeSec": 282.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.1,
+          "cumulativeTimeSec": 536.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

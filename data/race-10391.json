@@ -1,0 +1,57 @@
+{
+  "raceId": "10391",
+  "raceName": "2020-10-11 シクロクロスミーティングシリーズ　シーズン2020-2021 第１戦　白樺湖（信州クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:49:55.636Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520.3,
+          "cumulativeTimeSec": 520.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 570.7,
+          "cumulativeTimeSec": 1091,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 543.3,
+          "cumulativeTimeSec": 1634.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 538.4,
+          "cumulativeTimeSec": 2172.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 573.3,
+          "cumulativeTimeSec": 2746,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

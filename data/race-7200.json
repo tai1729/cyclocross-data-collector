@@ -1,0 +1,40 @@
+{
+  "raceId": "7200",
+  "raceName": "2019-01-06 シクロクロス富山＃３ヒスイ海岸オートキャンプ場（シクロクロス富山）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:02:18.140Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MBS-189-0010",
+      "name": "水谷 悠平",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 172.1,
+          "cumulativeTimeSec": 172.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 173.3,
+          "cumulativeTimeSec": 345.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 153,
+          "cumulativeTimeSec": 498.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

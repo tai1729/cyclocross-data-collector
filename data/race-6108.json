@@ -1,0 +1,54 @@
+{
+  "raceId": "6108",
+  "raceName": "2018-09-23 茨城シクロクロス#1 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:58:41.040Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-0961",
+      "name": "綾野 尋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 546.3,
+          "cumulativeTimeSec": 546.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 616.8,
+          "cumulativeTimeSec": 1163.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1607",
+      "name": "菊地 壮太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 630.7,
+          "cumulativeTimeSec": 630.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 722.9,
+          "cumulativeTimeSec": 1353.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

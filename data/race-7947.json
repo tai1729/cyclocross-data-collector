@@ -1,0 +1,67 @@
+{
+  "raceId": "7947",
+  "raceName": "2019-03-03 東北CXシリーズ#5福島空港II（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:04:47.933Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-1608",
+      "name": "菊地 英",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 518.7,
+          "cumulativeTimeSec": 518.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526.4,
+          "cumulativeTimeSec": 1045.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 531.4,
+          "cumulativeTimeSec": 1576.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0063",
+      "name": "高橋 絵美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 559.8,
+          "cumulativeTimeSec": 559.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 552,
+          "cumulativeTimeSec": 1111.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 566.7,
+          "cumulativeTimeSec": 1678.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "raceId": "14375",
+  "raceName": "2022-10-02 INAGI CROSS-8（シクロクロス東京）",
+  "category": "MM35",
+  "updatedAt": "2026-11-28T11:38:15.988Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-189-0016",
+      "name": "松尾 遊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 320.8,
+          "cumulativeTimeSec": 320.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 330.9,
+          "cumulativeTimeSec": 651.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 328.4,
+          "cumulativeTimeSec": 980.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 332.7,
+          "cumulativeTimeSec": 1312.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 343,
+          "cumulativeTimeSec": 1655.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-189-0135",
+      "name": "三木 拓真",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 346.5,
+          "cumulativeTimeSec": 346.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 345.2,
+          "cumulativeTimeSec": 691.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 350.3,
+          "cumulativeTimeSec": 1042,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 413.4,
+          "cumulativeTimeSec": 1455.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 364.8,
+          "cumulativeTimeSec": 1820.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0080",
+      "name": "根本 和典",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 379.8,
+          "cumulativeTimeSec": 379.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.4,
+          "cumulativeTimeSec": 773.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 431.7,
+          "cumulativeTimeSec": 1204.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 417.1,
+          "cumulativeTimeSec": 1622,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 419.6,
+          "cumulativeTimeSec": 2041.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

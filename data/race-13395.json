@@ -1,0 +1,67 @@
+{
+  "raceId": "13395",
+  "raceName": "2021-12-19 もみじシクロクロス第３戦（もみじシクロクロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:47:12.672Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-201-0017",
+      "name": "吉中 美空",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 487.5,
+          "cumulativeTimeSec": 487.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 524.9,
+          "cumulativeTimeSec": 1012.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 509,
+          "cumulativeTimeSec": 1521.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0008",
+      "name": "中平 泰棋",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 520,
+          "cumulativeTimeSec": 520,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 564.2,
+          "cumulativeTimeSec": 1084.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 580.7,
+          "cumulativeTimeSec": 1664.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

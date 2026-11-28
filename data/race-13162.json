@@ -1,0 +1,80 @@
+{
+  "raceId": "13162",
+  "raceName": "2021-12-05 東海シクロクロス#2 新城ふれあいパークほうらい（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:46:38.243Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 465.3,
+          "cumulativeTimeSec": 465.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 439.4,
+          "cumulativeTimeSec": 904.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 437.8,
+          "cumulativeTimeSec": 1342.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 454.6,
+          "cumulativeTimeSec": 1797.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0059",
+      "name": "夏目 宗哉",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 540.5,
+          "cumulativeTimeSec": 540.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 542.1,
+          "cumulativeTimeSec": 1082.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 535.7,
+          "cumulativeTimeSec": 1618.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 559.9,
+          "cumulativeTimeSec": 2178.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

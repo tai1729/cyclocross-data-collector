@@ -1,0 +1,80 @@
+{
+  "raceId": "5719",
+  "raceName": "2018-02-11 中国シクロクロス第5戦岡山　葡萄浪漫館（中国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:10:33.406Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-156-0020",
+      "name": "髙田 玲",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 473.4,
+          "cumulativeTimeSec": 473.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 428.4,
+          "cumulativeTimeSec": 901.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 420.2,
+          "cumulativeTimeSec": 1322,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 430.2,
+          "cumulativeTimeSec": 1752.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0040",
+      "name": "三浦 大知",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 563.7,
+          "cumulativeTimeSec": 563.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 549.9,
+          "cumulativeTimeSec": 1113.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 555.7,
+          "cumulativeTimeSec": 1669.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 552.2,
+          "cumulativeTimeSec": 2221.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

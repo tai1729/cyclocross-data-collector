@@ -1,0 +1,40 @@
+{
+  "raceId": "15748",
+  "raceName": "2022-12-18 関西シクロクロス 第6戦 信太山（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:40:58.785Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0243",
+      "name": "福場 秀和",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 175.3,
+          "cumulativeTimeSec": 175.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.3,
+          "cumulativeTimeSec": 499.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 320,
+          "cumulativeTimeSec": 819.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

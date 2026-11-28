@@ -1,0 +1,43 @@
+{
+  "raceId": "12795",
+  "raceName": "2021-11-21 関西シクロクロス UCI 琵琶湖グランプリ（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:45:44.851Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-212-0005",
+      "name": "西野 博満",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 316.7,
+          "cumulativeTimeSec": 316.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.7,
+          "cumulativeTimeSec": 710.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 370,
+          "cumulativeTimeSec": 1080.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

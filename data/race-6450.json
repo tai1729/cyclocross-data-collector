@@ -1,0 +1,74 @@
+{
+  "raceId": "6450",
+  "raceName": "2018-11-04 東海シクロクロス#1　平田リバーサイドプラザ（東海クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:59:31.029Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-156-0128",
+      "name": "廣田 樹一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 734.3,
+          "cumulativeTimeSec": 734.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 735,
+          "cumulativeTimeSec": 735,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0034",
+      "name": "福島 愛都",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 735.8,
+          "cumulativeTimeSec": 735.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0141",
+      "name": "山中 碧仁",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 736.6,
+          "cumulativeTimeSec": 736.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

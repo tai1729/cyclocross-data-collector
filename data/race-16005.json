@@ -1,0 +1,135 @@
+{
+  "raceId": "16005",
+  "raceName": "2023-01-09 シクロクロスミーティングシリーズ　シーズン2022-2023 第9戦　清里（信州クロス）",
+  "category": "MM40+MM45",
+  "updatedAt": "2026-11-28T11:41:44.256Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-7549",
+      "name": "横山 徹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 445.9,
+          "cumulativeTimeSec": 445.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 586.9,
+          "cumulativeTimeSec": 1032.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 602.7,
+          "cumulativeTimeSec": 1635.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 601,
+          "cumulativeTimeSec": 2236.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 605.1,
+          "cumulativeTimeSec": 2841.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0047",
+      "name": "澤木 大輔",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.4,
+          "cumulativeTimeSec": 461.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 605.4,
+          "cumulativeTimeSec": 1066.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 604.8,
+          "cumulativeTimeSec": 1671.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 621.1,
+          "cumulativeTimeSec": 2292.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 595.8,
+          "cumulativeTimeSec": 2888.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-3011",
+      "name": "中村 秀典",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 464.2,
+          "cumulativeTimeSec": 464.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 604.9,
+          "cumulativeTimeSec": 1069.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 625.2,
+          "cumulativeTimeSec": 1694.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 636.4,
+          "cumulativeTimeSec": 2330.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 632,
+          "cumulativeTimeSec": 2962.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

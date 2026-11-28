@@ -1,0 +1,67 @@
+{
+  "raceId": "16929",
+  "raceName": "2023-02-12 山口シクロクロス第3戦豊浦ステージ  （山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:43:13.129Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-201-0048",
+      "name": "濱崎 七海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 160.5,
+          "cumulativeTimeSec": 160.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 154.6,
+          "cumulativeTimeSec": 315.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 165.2,
+          "cumulativeTimeSec": 480.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-223-0009",
+      "name": "伊藤 壱",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 237.9,
+          "cumulativeTimeSec": 237.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.2,
+          "cumulativeTimeSec": 473.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 278.5,
+          "cumulativeTimeSec": 751.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

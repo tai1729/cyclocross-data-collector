@@ -1,0 +1,154 @@
+{
+  "raceId": "11530",
+  "raceName": "2021-02-21 関西シクロクロス 第12戦 堺浜（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:52:35.678Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0215",
+      "name": "岡田 宝",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 403.7,
+          "cumulativeTimeSec": 403.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.7,
+          "cumulativeTimeSec": 797.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 395.3,
+          "cumulativeTimeSec": 1192.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 394.1,
+          "cumulativeTimeSec": 1586.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 413,
+          "cumulativeTimeSec": 1999.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 413.4,
+          "cumulativeTimeSec": 2413.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0006",
+      "name": "川畑 有矢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 405,
+          "cumulativeTimeSec": 405,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.3,
+          "cumulativeTimeSec": 798.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 395.4,
+          "cumulativeTimeSec": 1193.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 394.2,
+          "cumulativeTimeSec": 1587.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 413,
+          "cumulativeTimeSec": 2000.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 413.6,
+          "cumulativeTimeSec": 2414.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0172",
+      "name": "重原 優希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 406.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 396.2,
+          "cumulativeTimeSec": 802.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 410.1,
+          "cumulativeTimeSec": 1212.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 475.7,
+          "cumulativeTimeSec": 1688.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 469.8,
+          "cumulativeTimeSec": 2157.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 459,
+          "cumulativeTimeSec": 2616.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

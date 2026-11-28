@@ -1,0 +1,75 @@
+{
+  "raceId": "11537",
+  "raceName": "2021-03-07 東北CXシリーズ#4亘理（東北 CX Project）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:52:37.737Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-201-0016",
+      "name": "馬島 史弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 233.4,
+          "cumulativeTimeSec": 233.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.7,
+          "cumulativeTimeSec": 469.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0034",
+      "name": "鈴木 智大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 263.3,
+          "cumulativeTimeSec": 263.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.1,
+          "cumulativeTimeSec": 530.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-201-0038",
+      "name": "岩根 健人",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 319.5,
+          "cumulativeTimeSec": 319.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 318.5,
+          "cumulativeTimeSec": 638,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

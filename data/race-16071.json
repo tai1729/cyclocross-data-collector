@@ -1,0 +1,94 @@
+{
+  "raceId": "16071",
+  "raceName": "2023-01-22 東北CXシリーズ#4ざおうさまカップ(JCX)（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:41:52.112Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.2,
+          "cumulativeTimeSec": 550.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 539,
+          "cumulativeTimeSec": 1089.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.8,
+          "cumulativeTimeSec": 1650,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0015",
+      "name": "清水 知佳",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 579,
+          "cumulativeTimeSec": 579,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 533.5,
+          "cumulativeTimeSec": 1112.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 546.3,
+          "cumulativeTimeSec": 1658.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-223-0019",
+      "name": "開沼 美結",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 580.9,
+          "cumulativeTimeSec": 580.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 532.4,
+          "cumulativeTimeSec": 1113.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 547.5,
+          "cumulativeTimeSec": 1660.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "raceId": "5033",
+  "raceName": "2017-12-17 関西シクロクロス 第5戦 マイアミ（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T12:08:11.843Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0158",
+      "name": "久保 一真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 966.8,
+          "cumulativeTimeSec": 966.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 454.4,
+          "cumulativeTimeSec": 1421.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 443,
+          "cumulativeTimeSec": 1864.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 443.5,
+          "cumulativeTimeSec": 2307.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0340",
+      "name": "杉山 竜大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 979.3,
+          "cumulativeTimeSec": 979.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 458.6,
+          "cumulativeTimeSec": 1437.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 482.4,
+          "cumulativeTimeSec": 1920.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 458,
+          "cumulativeTimeSec": 2378.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4566",
+      "name": "天野 壮悠",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1024.2,
+          "cumulativeTimeSec": 1024.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 507.8,
+          "cumulativeTimeSec": 1532,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 490.4,
+          "cumulativeTimeSec": 2022.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 502.5,
+          "cumulativeTimeSec": 2524.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

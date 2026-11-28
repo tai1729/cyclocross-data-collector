@@ -1,0 +1,75 @@
+{
+  "raceId": "6893",
+  "raceName": "2018-12-02 東海シクロクロス#3　ふれあいパークほうらい（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:00:53.718Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 366.3,
+          "cumulativeTimeSec": 366.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 361.4,
+          "cumulativeTimeSec": 727.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0176",
+      "name": "鈴木 六太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 390.3,
+          "cumulativeTimeSec": 390.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 387.1,
+          "cumulativeTimeSec": 777.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0207",
+      "name": "三輪 修麻",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 402.6,
+          "cumulativeTimeSec": 402.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.6,
+          "cumulativeTimeSec": 788.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

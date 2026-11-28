@@ -1,0 +1,80 @@
+{
+  "raceId": "6250",
+  "raceName": "2018-10-14 中国シクロクロス第2戦JCX第2戦広島　中央森林公園Day2（中国クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:58:57.476Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0067",
+      "name": "田口 詞也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 442.9,
+          "cumulativeTimeSec": 442.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 446.3,
+          "cumulativeTimeSec": 889.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 451.2,
+          "cumulativeTimeSec": 1340.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 457.7,
+          "cumulativeTimeSec": 1798.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 434.7,
+          "cumulativeTimeSec": 434.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 483.2,
+          "cumulativeTimeSec": 917.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 512,
+          "cumulativeTimeSec": 1429.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 506.4,
+          "cumulativeTimeSec": 1936.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

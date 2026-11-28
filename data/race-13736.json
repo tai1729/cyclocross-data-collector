@@ -1,0 +1,54 @@
+{
+  "raceId": "13736",
+  "raceName": "2022-01-30 関西シクロクロス 第10戦 マイアミ（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:48:15.662Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0114",
+      "name": "上田 蓮大郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 672.4,
+          "cumulativeTimeSec": 672.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 554.7,
+          "cumulativeTimeSec": 1227.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 535.1,
+          "cumulativeTimeSec": 1762.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 538.6,
+          "cumulativeTimeSec": 2300.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 532.5,
+          "cumulativeTimeSec": 2833.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

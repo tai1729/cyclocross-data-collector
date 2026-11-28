@@ -1,0 +1,75 @@
+{
+  "raceId": "15184",
+  "raceName": "2022-11-20 茨城シクロクロス 第3戦 常陸大宮 辰ノ口親水公園ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:39:51.897Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 329.4,
+          "cumulativeTimeSec": 329.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.7,
+          "cumulativeTimeSec": 657.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0029",
+      "name": "ヒラノブラウン 杏樹",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 423.3,
+          "cumulativeTimeSec": 423.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 420.8,
+          "cumulativeTimeSec": 844.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-212-0034",
+      "name": "武田 祐一郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 427.1,
+          "cumulativeTimeSec": 427.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.4,
+          "cumulativeTimeSec": 874.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

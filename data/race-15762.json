@@ -1,0 +1,40 @@
+{
+  "raceId": "15762",
+  "raceName": "2022-12-18 もみじシクロクロス12/18（もみじシクロクロス）",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T11:41:03.751Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0008",
+      "name": "中平 泰棋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.6,
+          "cumulativeTimeSec": 701.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 741.8,
+          "cumulativeTimeSec": 1443.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 683.7,
+          "cumulativeTimeSec": 2127.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

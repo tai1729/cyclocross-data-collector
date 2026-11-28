@@ -1,0 +1,48 @@
+{
+  "raceId": "11538",
+  "raceName": "2021-03-07 東北CXシリーズ#4亘理（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:52:37.753Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-201-0022",
+      "name": "渡辺 遥真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 345.4,
+          "cumulativeTimeSec": 345.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 339.4,
+          "cumulativeTimeSec": 684.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0001",
+      "name": "佐々木 玲名",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 487.7,
+          "cumulativeTimeSec": 487.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

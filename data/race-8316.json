@@ -1,0 +1,61 @@
+{
+  "raceId": "8316",
+  "raceName": "2019-10-20 シクロクロスミーティングシリーズ　シーズン2019-2020 第2戦　富士山（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:53:38.000Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 694.8,
+          "cumulativeTimeSec": 694.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 692.7,
+          "cumulativeTimeSec": 1387.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 682.2,
+          "cumulativeTimeSec": 2069.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0014",
+      "name": "佐野 佳奈子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 898.3,
+          "cumulativeTimeSec": 898.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1008.8,
+          "cumulativeTimeSec": 1907.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "raceId": "10781",
+  "raceName": "2020-11-22 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "C2",
+  "updatedAt": "2026-11-28T11:50:51.972Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-189-0314",
+      "name": "三島 晴樹",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 385.1,
+          "cumulativeTimeSec": 385.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 423.1,
+          "cumulativeTimeSec": 808.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.1,
+          "cumulativeTimeSec": 1222.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 421,
+          "cumulativeTimeSec": 1643.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 417.2,
+          "cumulativeTimeSec": 2060.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 409.9,
+          "cumulativeTimeSec": 2470.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0093",
+      "name": "板井 爽平",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 403.1,
+          "cumulativeTimeSec": 403.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 457.2,
+          "cumulativeTimeSec": 860.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 459.9,
+          "cumulativeTimeSec": 1320.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 458.3,
+          "cumulativeTimeSec": 1778.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 479.7,
+          "cumulativeTimeSec": 2258.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 498.6,
+          "cumulativeTimeSec": 2756.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

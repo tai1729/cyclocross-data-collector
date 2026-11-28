@@ -1,0 +1,57 @@
+{
+  "raceId": "5543",
+  "raceName": "2018-01-28 シクロクロス四国17-18第1戦 高知ヤシィシクロクロスカップ（四国クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T12:10:04.861Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCS-178-0031",
+      "name": "川村 奈々",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 465.3,
+          "cumulativeTimeSec": 465.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 525.4,
+          "cumulativeTimeSec": 990.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-178-0033",
+      "name": "片山 佳織",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 542.7,
+          "cumulativeTimeSec": 542.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 552.9,
+          "cumulativeTimeSec": 1095.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

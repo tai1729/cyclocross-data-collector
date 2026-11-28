@@ -1,0 +1,54 @@
+{
+  "raceId": "7911",
+  "raceName": "2019-02-24 東海シクロクロス#8　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:04:38.561Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 261.8,
+          "cumulativeTimeSec": 261.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.2,
+          "cumulativeTimeSec": 529,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0207",
+      "name": "三輪 修麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 320.5,
+          "cumulativeTimeSec": 320.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.5,
+          "cumulativeTimeSec": 623,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

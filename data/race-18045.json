@@ -1,0 +1,94 @@
+{
+  "raceId": "18045",
+  "raceName": "2023-02-11 CYCLOCROSS TOKYO 2023 Day1（シクロクロス東京）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:43:00.835Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-2025",
+      "name": "林口 ゆきえ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 286,
+          "cumulativeTimeSec": 286,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 421,
+          "cumulativeTimeSec": 707,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 1107,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0131",
+      "name": "松田 珠弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 315,
+          "cumulativeTimeSec": 315,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458,
+          "cumulativeTimeSec": 773,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 468,
+          "cumulativeTimeSec": 1241,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KYU-267-0001",
+      "name": "美並 聡子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 316,
+          "cumulativeTimeSec": 316,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 498,
+          "cumulativeTimeSec": 814,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 495,
+          "cumulativeTimeSec": 1309,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

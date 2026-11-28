@@ -1,0 +1,54 @@
+{
+  "raceId": "9791",
+  "raceName": "2020-02-02 東海シクロクロス#7　梅林公園（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:57:29.796Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 342.7,
+          "cumulativeTimeSec": 342.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 338.5,
+          "cumulativeTimeSec": 681.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 338.7,
+          "cumulativeTimeSec": 1019.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 340.6,
+          "cumulativeTimeSec": 1360.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 336,
+          "cumulativeTimeSec": 1696.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

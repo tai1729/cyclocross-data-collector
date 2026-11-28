@@ -1,0 +1,82 @@
+{
+  "raceId": "5542",
+  "raceName": "2018-01-28 シクロクロス四国17-18第1戦 高知ヤシィシクロクロスカップ（四国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:10:03.765Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-000-0222",
+      "name": "熊本 有加",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 502.5,
+          "cumulativeTimeSec": 502.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 501.3,
+          "cumulativeTimeSec": 1003.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 518,
+          "cumulativeTimeSec": 1521.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 2045,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-000-0125",
+      "name": "市川 寿美",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 556.1,
+          "cumulativeTimeSec": 556.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 573.7,
+          "cumulativeTimeSec": 1129.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 596.8,
+          "cumulativeTimeSec": 1726.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0061",
+      "name": "中川 左裕里",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

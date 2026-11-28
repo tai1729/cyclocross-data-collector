@@ -1,0 +1,117 @@
+{
+  "raceId": "3952",
+  "raceName": "2017-09-24 茨城シクロクロス#1　城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:05:13.902Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TCX-000-4045",
+      "name": "森 知多",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 443.8,
+          "cumulativeTimeSec": 443.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 471.1,
+          "cumulativeTimeSec": 914.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 468.5,
+          "cumulativeTimeSec": 1383.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 475.2,
+          "cumulativeTimeSec": 1858.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 484.1,
+          "cumulativeTimeSec": 2342.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7554",
+      "name": "佐復 亜都奈",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 482.3,
+          "cumulativeTimeSec": 482.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 518.6,
+          "cumulativeTimeSec": 1000.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 515.1,
+          "cumulativeTimeSec": 1516,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 550.2,
+          "cumulativeTimeSec": 2066.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0043",
+      "name": "竹内 みどり",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.3,
+          "cumulativeTimeSec": 548.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1091.9,
+          "cumulativeTimeSec": 1640.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 702.3,
+          "cumulativeTimeSec": 2342.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

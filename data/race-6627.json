@@ -1,0 +1,93 @@
+{
+  "raceId": "6627",
+  "raceName": "2018-11-11 中国シクロクロス第3戦広島　砂谷牧場（中国クロス）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T11:59:55.297Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-000-0120",
+      "name": "山田 理史",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 98.2,
+          "cumulativeTimeSec": 98.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 99.2,
+          "cumulativeTimeSec": 197.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 97.5,
+          "cumulativeTimeSec": 294.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 99.3,
+          "cumulativeTimeSec": 394.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 95.7,
+          "cumulativeTimeSec": 489.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 116,
+          "cumulativeTimeSec": 116,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 120.6,
+          "cumulativeTimeSec": 236.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 119.9,
+          "cumulativeTimeSec": 356.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 120,
+          "cumulativeTimeSec": 476.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 123.5,
+          "cumulativeTimeSec": 600,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

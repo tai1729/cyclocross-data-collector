@@ -1,0 +1,41 @@
+{
+  "raceId": "10616",
+  "raceName": "2020-11-08 もみじシクロクロス第４戦（もみじシクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:50:31.624Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0014",
+      "name": "葉色 慧飛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 545.9,
+          "cumulativeTimeSec": 545.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 508.9,
+          "cumulativeTimeSec": 1054.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0003",
+      "name": "穐丸 虎士郎",
+      "finalPosition": 2,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

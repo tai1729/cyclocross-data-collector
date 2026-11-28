@@ -1,0 +1,88 @@
+{
+  "raceId": "15998",
+  "raceName": "2023-01-09 シクロクロスミーティングシリーズ　シーズン2022-2023 第9戦　清里（信州クロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:41:42.484Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0005",
+      "name": "綱嶋 凛々音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 530.5,
+          "cumulativeTimeSec": 530.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 538.5,
+          "cumulativeTimeSec": 1069,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 538.2,
+          "cumulativeTimeSec": 1607.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-212-0007",
+      "name": "原 睦",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 681,
+          "cumulativeTimeSec": 681,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 672.6,
+          "cumulativeTimeSec": 1353.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 658.5,
+          "cumulativeTimeSec": 2012.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0024",
+      "name": "藤田 麻美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 842.1,
+          "cumulativeTimeSec": 842.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 950.3,
+          "cumulativeTimeSec": 1792.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

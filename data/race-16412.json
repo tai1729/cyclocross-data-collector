@@ -1,0 +1,40 @@
+{
+  "raceId": "16412",
+  "raceName": "2023-01-29 もみじシクロクロス1/29（もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:42:36.853Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4096",
+      "name": "大浦 玲音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 858.5,
+          "cumulativeTimeSec": 858.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 999.7,
+          "cumulativeTimeSec": 1858.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 981.2,
+          "cumulativeTimeSec": 2839.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

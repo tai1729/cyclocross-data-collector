@@ -1,0 +1,101 @@
+{
+  "raceId": "14133",
+  "raceName": "2022-03-20 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:49:06.863Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-212-0003",
+      "name": "魚谷 健仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 149.6,
+          "cumulativeTimeSec": 149.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 153,
+          "cumulativeTimeSec": 302.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 163.5,
+          "cumulativeTimeSec": 466.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 152.4,
+          "cumulativeTimeSec": 618.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0002",
+      "name": "吉本 昇矢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 204.8,
+          "cumulativeTimeSec": 204.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 221.8,
+          "cumulativeTimeSec": 426.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 210.8,
+          "cumulativeTimeSec": 637.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-212-0004",
+      "name": "魚谷 彬仁",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 207,
+          "cumulativeTimeSec": 207,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.1,
+          "cumulativeTimeSec": 442.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 247.4,
+          "cumulativeTimeSec": 689.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

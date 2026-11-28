@@ -1,0 +1,94 @@
+{
+  "raceId": "5627",
+  "raceName": "2018-02-04 関西シクロクロス 第10戦 桂川（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:10:14.256Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0171",
+      "name": "重原 尚希",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 311.6,
+          "cumulativeTimeSec": 311.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 315.4,
+          "cumulativeTimeSec": 627,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 323.9,
+          "cumulativeTimeSec": 950.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3258",
+      "name": "田村 元",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 375.7,
+          "cumulativeTimeSec": 375.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 381.2,
+          "cumulativeTimeSec": 756.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 380.7,
+          "cumulativeTimeSec": 1137.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7592",
+      "name": "馬野 真澄",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 432.6,
+          "cumulativeTimeSec": 432.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.4,
+          "cumulativeTimeSec": 891,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 446.9,
+          "cumulativeTimeSec": 1337.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

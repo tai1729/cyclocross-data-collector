@@ -1,0 +1,67 @@
+{
+  "raceId": "13667",
+  "raceName": "2022-01-16 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:47:58.523Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-178-0067",
+      "name": "奥村 康生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 562.5,
+          "cumulativeTimeSec": 562.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 547.5,
+          "cumulativeTimeSec": 1110,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 562.2,
+          "cumulativeTimeSec": 1672.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-212-0019",
+      "name": "相田 洸太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 561.1,
+          "cumulativeTimeSec": 561.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 561,
+          "cumulativeTimeSec": 1122.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571,
+          "cumulativeTimeSec": 1693.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "raceId": "5011",
+  "raceName": "2017-12-17 シクロクロスミーティングシリーズ　シーズン2017-2018 第8戦　南信州（信州クロス）",
+  "category": "CJ ジュニア",
+  "updatedAt": "2026-11-28T12:08:02.421Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-156-0004",
+      "name": "橋本 嶺登",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 120,
+          "cumulativeTimeSec": 120,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 568.4,
+          "cumulativeTimeSec": 688.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 393.1,
+          "cumulativeTimeSec": 1081.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 381.1,
+          "cumulativeTimeSec": 1462.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 367,
+          "cumulativeTimeSec": 1829.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 376.5,
+          "cumulativeTimeSec": 2206.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 8,
+          "lapTimeSec": 370.1,
+          "cumulativeTimeSec": 2576.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

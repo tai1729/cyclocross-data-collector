@@ -1,0 +1,64 @@
+{
+  "raceId": "12556",
+  "raceName": "2021-11-14 加古川シクロクロス（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:45:18.601Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-4598",
+      "name": "藤原 琢磨",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 230.8,
+          "cumulativeTimeSec": 230.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 297.5,
+          "cumulativeTimeSec": 528.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 297.2,
+          "cumulativeTimeSec": 825.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 295,
+          "cumulativeTimeSec": 1120.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 299.7,
+          "cumulativeTimeSec": 1420.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 292.5,
+          "cumulativeTimeSec": 1712.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

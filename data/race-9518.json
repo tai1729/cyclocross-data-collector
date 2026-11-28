@@ -1,0 +1,54 @@
+{
+  "raceId": "9518",
+  "raceName": "2020-01-12 第3戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:56:23.083Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-190-0042",
+      "name": "馬場 遥史",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 303.2,
+          "cumulativeTimeSec": 303.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.4,
+          "cumulativeTimeSec": 688.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0042",
+      "name": "藤田 紗綾",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 433.8,
+          "cumulativeTimeSec": 433.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 397.3,
+          "cumulativeTimeSec": 831.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

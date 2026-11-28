@@ -1,0 +1,83 @@
+{
+  "raceId": "9858",
+  "raceName": "2020-02-09 関西シクロクロス JCX 日吉（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:57:40.264Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-178-0180",
+      "name": "柚木 伸元",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 692.4,
+          "cumulativeTimeSec": 692.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 447.9,
+          "cumulativeTimeSec": 1140.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 442.2,
+          "cumulativeTimeSec": 1582.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 442.6,
+          "cumulativeTimeSec": 2025.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 728,
+          "cumulativeTimeSec": 728,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 486.3,
+          "cumulativeTimeSec": 1214.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 501,
+          "cumulativeTimeSec": 1715.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 488.9,
+          "cumulativeTimeSec": 2204.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raceId": "9668",
+  "raceName": "2020-01-26 九州シクロクロス 第2戦 小竹ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:56:59.702Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-190-0042",
+      "name": "藤田 紗綾",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 269.3,
+          "cumulativeTimeSec": 269.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.2,
+          "cumulativeTimeSec": 571.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0062",
+      "name": "峠 珀音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 300.6,
+          "cumulativeTimeSec": 300.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 348.7,
+          "cumulativeTimeSec": 649.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

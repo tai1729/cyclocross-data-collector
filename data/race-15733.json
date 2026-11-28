@@ -1,0 +1,113 @@
+{
+  "raceId": "15733",
+  "raceName": "2022-12-18 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:40:52.784Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0007",
+      "name": "平川 千晃",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 170.5,
+          "cumulativeTimeSec": 170.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 175.4,
+          "cumulativeTimeSec": 345.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 175.9,
+          "cumulativeTimeSec": 521.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 153.2,
+          "cumulativeTimeSec": 675,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-223-0014",
+      "name": "主計 林太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 182.4,
+          "cumulativeTimeSec": 182.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 185.1,
+          "cumulativeTimeSec": 367.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 178.2,
+          "cumulativeTimeSec": 545.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 167.5,
+          "cumulativeTimeSec": 713.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-212-0001",
+      "name": "飛瀬 日夏莉",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 171.8,
+          "cumulativeTimeSec": 171.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 185.8,
+          "cumulativeTimeSec": 357.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 186.7,
+          "cumulativeTimeSec": 544.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 198.7,
+          "cumulativeTimeSec": 743,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

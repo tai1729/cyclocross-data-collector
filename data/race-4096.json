@@ -1,0 +1,145 @@
+{
+  "raceId": "4096",
+  "raceName": "2017-10-15 前橋シクロクロス#1 岩神緑地（前橋シクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:05:29.409Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-156-0153",
+      "name": "西形 舞",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400.9,
+          "cumulativeTimeSec": 400.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 367.6,
+          "cumulativeTimeSec": 768.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 369.2,
+          "cumulativeTimeSec": 1137.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 373,
+          "cumulativeTimeSec": 1510.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 381.6,
+          "cumulativeTimeSec": 1892.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 391.3,
+          "cumulativeTimeSec": 2283.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0220",
+      "name": "高橋 織江",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 402.3,
+          "cumulativeTimeSec": 402.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 377.4,
+          "cumulativeTimeSec": 779.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 384.9,
+          "cumulativeTimeSec": 1164.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 393.1,
+          "cumulativeTimeSec": 1557.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 397,
+          "cumulativeTimeSec": 1954.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 391.4,
+          "cumulativeTimeSec": 2346.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0835",
+      "name": "綿貫 通穂",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 428.2,
+          "cumulativeTimeSec": 428.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 432.4,
+          "cumulativeTimeSec": 860.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 440.6,
+          "cumulativeTimeSec": 1301.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 441.6,
+          "cumulativeTimeSec": 1742.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 469.4,
+          "cumulativeTimeSec": 2212.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

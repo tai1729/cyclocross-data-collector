@@ -1,0 +1,121 @@
+{
+  "raceId": "8934",
+  "raceName": "2019-11-17 関西シクロクロス UCI マキノ（関西クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:54:28.533Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-178-0018",
+      "name": "横井 源一郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 178.9,
+          "cumulativeTimeSec": 178.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 160.7,
+          "cumulativeTimeSec": 339.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 168.7,
+          "cumulativeTimeSec": 508.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4659",
+      "name": "辻 航大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 245.1,
+          "cumulativeTimeSec": 245.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 228.8,
+          "cumulativeTimeSec": 473.9,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 224.4,
+          "cumulativeTimeSec": 698.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0098",
+      "name": "中井 柚希",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.3,
+          "cumulativeTimeSec": 243.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 216,
+          "cumulativeTimeSec": 459.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 247.3,
+          "cumulativeTimeSec": 706.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0035",
+      "name": "小賀野 美瑠",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 221.1,
+          "cumulativeTimeSec": 221.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 232.1,
+          "cumulativeTimeSec": 453.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 257,
+          "cumulativeTimeSec": 710.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

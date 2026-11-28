@@ -1,0 +1,71 @@
+{
+  "raceId": "13893",
+  "raceName": "2022-02-06 関西シクロクロス 第11戦 桂川（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:48:30.209Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-167-0114",
+      "name": "上田 蓮大郎",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 527.7,
+          "cumulativeTimeSec": 527.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422.9,
+          "cumulativeTimeSec": 950.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 429.4,
+          "cumulativeTimeSec": 1380,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 431.4,
+          "cumulativeTimeSec": 1811.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 432.4,
+          "cumulativeTimeSec": 2243.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 431.6,
+          "cumulativeTimeSec": 2675.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 418.7,
+          "cumulativeTimeSec": 3094.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

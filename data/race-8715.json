@@ -1,0 +1,78 @@
+{
+  "raceId": "8715",
+  "raceName": "2019-11-10 東北CXシリーズ#3磐梯高原南ヶ丘牧場（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:54:07.737Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-189-0014",
+      "name": "飯島 大也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 254.1,
+          "cumulativeTimeSec": 254.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.6,
+          "cumulativeTimeSec": 489.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0010",
+      "name": "佐藤 真実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 456.8,
+          "cumulativeTimeSec": 456.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0072",
+      "name": "水上 寛大",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 522.6,
+          "cumulativeTimeSec": 522.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-190-0001",
+      "name": "佐々木 玲名",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 644.7,
+          "cumulativeTimeSec": 644.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

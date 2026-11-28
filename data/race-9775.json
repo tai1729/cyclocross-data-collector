@@ -1,0 +1,97 @@
+{
+  "raceId": "9775",
+  "raceName": "2020-02-02 関西シクロクロス 第8戦 桂川（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:57:24.024Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-190-0325",
+      "name": "枡谷 厚志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 367.1,
+          "cumulativeTimeSec": 367.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 359,
+          "cumulativeTimeSec": 726.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 359.9,
+          "cumulativeTimeSec": 1086,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0332",
+      "name": "山口 道夫",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337.1,
+          "cumulativeTimeSec": 337.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 381.2,
+          "cumulativeTimeSec": 718.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 379.2,
+          "cumulativeTimeSec": 1097.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-189-0274",
+      "name": "岡田 玲",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.2,
+          "cumulativeTimeSec": 350.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 385.2,
+          "cumulativeTimeSec": 735.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 417.7,
+          "cumulativeTimeSec": 1153.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

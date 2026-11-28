@@ -1,0 +1,54 @@
+{
+  "raceId": "8688",
+  "raceName": "2019-10-27 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:53:58.913Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4706",
+      "name": "木下 貴之",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.3,
+          "cumulativeTimeSec": 548.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 480.5,
+          "cumulativeTimeSec": 1028.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3065",
+      "name": "箕形 彰芳",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 550.2,
+          "cumulativeTimeSec": 550.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 493.8,
+          "cumulativeTimeSec": 1044,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

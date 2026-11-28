@@ -1,0 +1,40 @@
+{
+  "raceId": "6648",
+  "raceName": "2018-11-11 関西シクロクロス 第3戦 マイアミ（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T12:00:05.982Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3900",
+      "name": "小林 芳浩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 355.7,
+          "cumulativeTimeSec": 355.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 352.4,
+          "cumulativeTimeSec": 708.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 348,
+          "cumulativeTimeSec": 1056.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "raceId": "7535",
+  "raceName": "2019-01-27 東海シクロクロス#7　大野極楽寺公園（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:03:51.655Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 394.7,
+          "cumulativeTimeSec": 394.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 409.6,
+          "cumulativeTimeSec": 804.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 383.6,
+          "cumulativeTimeSec": 1187.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 399.2,
+          "cumulativeTimeSec": 1587.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0192",
+      "name": "鈴木 渉之助",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 469.9,
+          "cumulativeTimeSec": 469.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 444.6,
+          "cumulativeTimeSec": 914.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 441.4,
+          "cumulativeTimeSec": 1355.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 442.1,
+          "cumulativeTimeSec": 1798,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

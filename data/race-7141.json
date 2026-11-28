@@ -1,0 +1,149 @@
+{
+  "raceId": "7141",
+  "raceName": "2018-12-24 第2戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CM2+3",
+  "updatedAt": "2026-11-28T12:01:59.902Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-167-0014",
+      "name": "中村 和広",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 421.1,
+          "cumulativeTimeSec": 421.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 403.1,
+          "cumulativeTimeSec": 824.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414,
+          "cumulativeTimeSec": 1238.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 419.6,
+          "cumulativeTimeSec": 1657.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4574",
+      "name": "小田 秀明",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 443.4,
+          "cumulativeTimeSec": 443.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422.9,
+          "cumulativeTimeSec": 866.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 420.5,
+          "cumulativeTimeSec": 1286.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 435.9,
+          "cumulativeTimeSec": 1722.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0069",
+      "name": "内野 善文",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 425.8,
+          "cumulativeTimeSec": 425.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 429.9,
+          "cumulativeTimeSec": 855.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 444.6,
+          "cumulativeTimeSec": 1300.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 440,
+          "cumulativeTimeSec": 1740.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0958",
+      "name": "古谷 広志",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 451.7,
+          "cumulativeTimeSec": 451.7,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 460.6,
+          "cumulativeTimeSec": 912.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 473.5,
+          "cumulativeTimeSec": 1385.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 491.8,
+          "cumulativeTimeSec": 1877.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "raceId": "16403",
+  "raceName": "2023-01-29 もみじシクロクロス1/29（もみじシクロクロス）",
+  "category": "C3",
+  "updatedAt": "2026-11-28T11:42:33.421Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-178-0054",
+      "name": "下 裕史",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 649.6,
+          "cumulativeTimeSec": 649.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 669.2,
+          "cumulativeTimeSec": 1318.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 676.8,
+          "cumulativeTimeSec": 1995.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

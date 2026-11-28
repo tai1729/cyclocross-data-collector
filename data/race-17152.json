@@ -1,0 +1,40 @@
+{
+  "raceId": "17152",
+  "raceName": "2023-03-05 山口シクロクロス第4戦豊浦ステージ（山口シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:43:45.078Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-223-0009",
+      "name": "伊藤 壱",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 180.4,
+          "cumulativeTimeSec": 180.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 189.4,
+          "cumulativeTimeSec": 369.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 189.8,
+          "cumulativeTimeSec": 559.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

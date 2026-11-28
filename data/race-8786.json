@@ -1,0 +1,67 @@
+{
+  "raceId": "8786",
+  "raceName": "2019-11-10 第1戦リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:54:16.183Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-178-0003",
+      "name": "井上 悠喜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 167.6,
+          "cumulativeTimeSec": 167.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 148.5,
+          "cumulativeTimeSec": 316.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 150,
+          "cumulativeTimeSec": 466.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 179.9,
+          "cumulativeTimeSec": 179.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 179.3,
+          "cumulativeTimeSec": 359.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 179.5,
+          "cumulativeTimeSec": 538.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

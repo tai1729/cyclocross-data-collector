@@ -1,0 +1,70 @@
+{
+  "raceId": "7128",
+  "raceName": "2018-12-23 第1戦　リフレッシュパーク豊浦ステージ（山口シクロクロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:01:53.428Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-178-0041",
+      "name": "佐藤 晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 251,
+          "cumulativeTimeSec": 251,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 253.4,
+          "cumulativeTimeSec": 504.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0027",
+      "name": "吉本 有寿",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 500.7,
+          "cumulativeTimeSec": 500.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 502.9,
+          "cumulativeTimeSec": 1003.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0002",
+      "name": "内野 円仁",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-189-0004",
+      "name": "杉山 浩崇",
+      "finalPosition": 4,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

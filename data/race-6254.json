@@ -1,0 +1,135 @@
+{
+  "raceId": "6254",
+  "raceName": "2018-10-14 中国シクロクロス第2戦JCX第2戦広島　中央森林公園Day2（中国クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:58:58.929Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0120",
+      "name": "鵜飼 知春",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 453.6,
+          "cumulativeTimeSec": 453.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 464.6,
+          "cumulativeTimeSec": 918.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 472.1,
+          "cumulativeTimeSec": 1390.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 499.7,
+          "cumulativeTimeSec": 1890,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 481.3,
+          "cumulativeTimeSec": 2371.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3315",
+      "name": "水谷 有紀子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 464.3,
+          "cumulativeTimeSec": 464.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 481,
+          "cumulativeTimeSec": 945.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 488.3,
+          "cumulativeTimeSec": 1433.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 483.7,
+          "cumulativeTimeSec": 1917.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 475.7,
+          "cumulativeTimeSec": 2393,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0058",
+      "name": "阪口 知世",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 480.9,
+          "cumulativeTimeSec": 480.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.3,
+          "cumulativeTimeSec": 968.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 485.7,
+          "cumulativeTimeSec": 1453.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 503.4,
+          "cumulativeTimeSec": 1957.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 515.9,
+          "cumulativeTimeSec": 2473.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

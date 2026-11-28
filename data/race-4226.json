@@ -1,0 +1,75 @@
+{
+  "raceId": "4226",
+  "raceName": "2017-10-29 東北CXシリーズ#1さがえ（UCI-C2）（東北 CX Project）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:05:43.234Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "UCX-156-0035",
+      "name": "成田　 光志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 438.7,
+          "cumulativeTimeSec": 438.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 444.4,
+          "cumulativeTimeSec": 883.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0033",
+      "name": "山田 駿太郎",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 471,
+          "cumulativeTimeSec": 471,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 448.3,
+          "cumulativeTimeSec": 919.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0010",
+      "name": "千葉 明",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 790,
+          "cumulativeTimeSec": 790,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.1,
+          "cumulativeTimeSec": 1260.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

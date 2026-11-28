@@ -1,0 +1,78 @@
+{
+  "raceId": "5456",
+  "raceName": "2018-01-21 関西シクロクロス 第9戦 日吉（関西クロス）",
+  "category": "CM4",
+  "updatedAt": "2026-11-28T12:09:33.956Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-178-0111",
+      "name": "中村 雅行",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 556.2,
+          "cumulativeTimeSec": 556.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 418.9,
+          "cumulativeTimeSec": 975.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0348",
+      "name": "渋谷 晃也",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 559.2,
+          "cumulativeTimeSec": 559.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 497.8,
+          "cumulativeTimeSec": 1057,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0113",
+      "name": "山本 健一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 601.5,
+          "cumulativeTimeSec": 601.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 461.6,
+          "cumulativeTimeSec": 1063.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

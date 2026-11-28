@@ -1,0 +1,106 @@
+{
+  "raceId": "9516",
+  "raceName": "2020-01-12 東海シクロクロス#5　愛知牧場（東海クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:56:22.691Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-000-7063",
+      "name": "鈴木 来人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 420.9,
+          "cumulativeTimeSec": 420.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 420.9,
+          "cumulativeTimeSec": 841.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 1241.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 410.4,
+          "cumulativeTimeSec": 1652.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 419.7,
+          "cumulativeTimeSec": 2071.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 416.3,
+          "cumulativeTimeSec": 2488.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 457,
+          "cumulativeTimeSec": 457,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.7,
+          "cumulativeTimeSec": 944.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 484.8,
+          "cumulativeTimeSec": 1429.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 489.7,
+          "cumulativeTimeSec": 1919.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 474.4,
+          "cumulativeTimeSec": 2393.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 491.3,
+          "cumulativeTimeSec": 2884.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

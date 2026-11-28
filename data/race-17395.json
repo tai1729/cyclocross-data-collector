@@ -1,0 +1,67 @@
+{
+  "raceId": "17395",
+  "raceName": "2023-03-26 茨城シクロクロス 第6戦 茨城町 涸沼自然公園 野鳥の森ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU15",
+  "updatedAt": "2026-11-28T11:44:07.269Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-167-0055",
+      "name": "三上 将醐",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 198.6,
+          "cumulativeTimeSec": 198.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 670.9,
+          "cumulativeTimeSec": 869.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 671.3,
+          "cumulativeTimeSec": 1540.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-212-0032",
+      "name": "諏訪 琉生",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 200,
+          "cumulativeTimeSec": 200,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 784.3,
+          "cumulativeTimeSec": 984.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 833.7,
+          "cumulativeTimeSec": 1818,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

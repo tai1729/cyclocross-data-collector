@@ -1,0 +1,40 @@
+{
+  "raceId": "7097",
+  "raceName": "2018-12-23 関西シクロクロス JCX 日吉（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T12:01:42.491Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-3912",
+      "name": "松岡 伸二",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 574.5,
+          "cumulativeTimeSec": 574.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 368.3,
+          "cumulativeTimeSec": 942.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 342.6,
+          "cumulativeTimeSec": 1285.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

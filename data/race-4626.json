@@ -1,0 +1,58 @@
+{
+  "raceId": "4626",
+  "raceName": "2017-11-19 関西シクロクロス 第3戦 UCI マキノ（関西クロス）",
+  "category": "CM4",
+  "updatedAt": "2026-11-28T12:06:48.474Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-156-0348",
+      "name": "渋谷 晃也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 81.2,
+          "cumulativeTimeSec": 81.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 29.9,
+          "cumulativeTimeSec": 111.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0113",
+      "name": "山本 健一",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 86.5,
+          "cumulativeTimeSec": 86.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 34.6,
+          "cumulativeTimeSec": 121.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

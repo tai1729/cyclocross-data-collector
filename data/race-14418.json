@@ -1,0 +1,40 @@
+{
+  "raceId": "14418",
+  "raceName": "2022-10-02 シクロクロスミーティングシリーズ　シーズン2022-2023 第1戦　白樺湖 （信州クロス）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:38:19.724Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCT-000-0146",
+      "name": "清水 朱実",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 609.5,
+          "cumulativeTimeSec": 609.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 659.7,
+          "cumulativeTimeSec": 1269.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 640.2,
+          "cumulativeTimeSec": 1909.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

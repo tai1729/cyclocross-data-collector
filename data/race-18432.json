@@ -2,7 +2,7 @@
   "raceId": "18432",
   "raceName": "2023-11-19 Nobeyama Cross day2（信州クロス）",
   "category": "ME2",
-  "updatedAt": "2026-09-15T00:05:18.729Z",
+  "updatedAt": "2026-11-28T12:56:30.301Z",
   "raceLapNumbers": [
     1,
     2,
@@ -14,7 +14,8 @@
   "promotionZoneRank": 2,
   "excludedRowsByStatus": {
     "DNS": 8,
-    "DNS/OPEN": 1
+    "DNS/OPEN": 1,
+    "FIN/OPEN": 1
   },
   "riders": [
     {
@@ -54,15 +55,6 @@
       "name": "藤田 拓海",
       "finalPosition": 5,
       "status": "finished",
-      "laps": [],
-      "dataQuality": "ok"
-    },
-    {
-      "riderId": "CCM-167-0060",
-      "name": "奥田 勇",
-      "finalPosition": 6,
-      "status": "annotated-rank",
-      "officialPositionLabel": "6/OPEN",
       "laps": [],
       "dataQuality": "ok"
     },

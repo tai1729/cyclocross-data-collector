@@ -1,0 +1,115 @@
+{
+  "raceId": "17284",
+  "raceName": "2023-03-12 阿波シクロクロス（四国クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:43:57.301Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-212-0237",
+      "name": "野口 杏",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 337.1,
+          "cumulativeTimeSec": 337.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 331,
+          "cumulativeTimeSec": 668.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 317.1,
+          "cumulativeTimeSec": 985.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4750",
+      "name": "白澤 乃依",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 319.9,
+          "cumulativeTimeSec": 319.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 338.3,
+          "cumulativeTimeSec": 658.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 328.3,
+          "cumulativeTimeSec": 986.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-223-0004",
+      "name": "島 沙耶加",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 411.3,
+          "cumulativeTimeSec": 411.3,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 309.8,
+          "cumulativeTimeSec": 721.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 299.8,
+          "cumulativeTimeSec": 1020.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0314",
+      "name": "米田 祐",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 396.4,
+          "cumulativeTimeSec": 396.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 389.5,
+          "cumulativeTimeSec": 785.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "16503",
+  "raceName": "2023-02-05 湘南シクロクロス　中井大会（湘南シクロクロス）",
+  "category": "WE2+3",
+  "updatedAt": "2026-11-28T11:42:41.131Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "XTK-212-0079",
+      "name": "山﨑 諒子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 603.4,
+          "cumulativeTimeSec": 603.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 651.7,
+          "cumulativeTimeSec": 1255.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 675.4,
+          "cumulativeTimeSec": 1930.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "16910",
+  "raceName": "2023-02-12 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:43:08.563Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-223-0296",
+      "name": "荒木 喬介",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 441.4,
+          "cumulativeTimeSec": 441.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412.8,
+          "cumulativeTimeSec": 854.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 417.3,
+          "cumulativeTimeSec": 1271.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0243",
+      "name": "福場 秀和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 461.7,
+          "cumulativeTimeSec": 461.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 458.4,
+          "cumulativeTimeSec": 920.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 454.6,
+          "cumulativeTimeSec": 1374.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

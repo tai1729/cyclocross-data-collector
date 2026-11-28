@@ -1,0 +1,54 @@
+{
+  "raceId": "7526",
+  "raceName": "2019-01-27 東海シクロクロス#7　大野極楽寺公園（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:03:49.193Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 309.4,
+          "cumulativeTimeSec": 309.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 308.6,
+          "cumulativeTimeSec": 618,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0207",
+      "name": "三輪 修麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 335,
+          "cumulativeTimeSec": 335,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.5,
+          "cumulativeTimeSec": 659.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

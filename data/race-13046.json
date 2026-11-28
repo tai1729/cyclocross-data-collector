@@ -1,0 +1,72 @@
+{
+  "raceId": "13046",
+  "raceName": "2021-12-05 東北CXシリーズ#2磐梯高原南ヶ丘牧場（東北 CX Project）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:46:24.129Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-201-0016",
+      "name": "馬島 史弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 364.2,
+          "cumulativeTimeSec": 364.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 338.2,
+          "cumulativeTimeSec": 702.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0038",
+      "name": "半澤 宗幸",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 444.4,
+          "cumulativeTimeSec": 444.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 424.5,
+          "cumulativeTimeSec": 868.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-201-0019",
+      "name": "遠藤 宗介",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 681.9,
+          "cumulativeTimeSec": 681.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

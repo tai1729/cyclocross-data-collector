@@ -1,0 +1,141 @@
+{
+  "raceId": "11613",
+  "raceName": "2021-03-14 シクロクロス千葉#9(延期後日程)（千葉クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:52:50.556Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "FIN/OPEN": 1
+  },
+  "riders": [
+    {
+      "riderId": "MBS-189-0042",
+      "name": "松村 拓弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 229.9,
+          "cumulativeTimeSec": 229.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 236.1,
+          "cumulativeTimeSec": 466,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-167-0053",
+      "name": "中仙道 侑毅",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 238.1,
+          "cumulativeTimeSec": 238.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 244.9,
+          "cumulativeTimeSec": 483,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-167-0031",
+      "name": "野嵜 一晴",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 269.5,
+          "cumulativeTimeSec": 269.5,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 261.5,
+          "cumulativeTimeSec": 531,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0073",
+      "name": "渡邊 太智",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 266.4,
+          "cumulativeTimeSec": 266.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 275.5,
+          "cumulativeTimeSec": 541.9,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0072",
+      "name": "渡辺 大五郎",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 270.1,
+          "cumulativeTimeSec": 270.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 283.7,
+          "cumulativeTimeSec": 553.8,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0037",
+      "name": "鷹取 礼",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 290.4,
+          "cumulativeTimeSec": 290.4,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 302.4,
+          "cumulativeTimeSec": 592.8,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

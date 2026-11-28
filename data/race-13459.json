@@ -1,0 +1,106 @@
+{
+  "raceId": "13459",
+  "raceName": "2021-12-26 関西シクロクロス 第7戦 くろんど（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:47:22.483Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-000-1505",
+      "name": "長島 慧明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 399.1,
+          "cumulativeTimeSec": 399.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 418,
+          "cumulativeTimeSec": 817.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 407.5,
+          "cumulativeTimeSec": 1224.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 410.3,
+          "cumulativeTimeSec": 1634.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 407.9,
+          "cumulativeTimeSec": 2042.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 412.4,
+          "cumulativeTimeSec": 2455.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0006",
+      "name": "川畑 有矢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 440.5,
+          "cumulativeTimeSec": 440.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 426.3,
+          "cumulativeTimeSec": 866.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 421.2,
+          "cumulativeTimeSec": 1288,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 425.5,
+          "cumulativeTimeSec": 1713.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 423.5,
+          "cumulativeTimeSec": 2137,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 440.3,
+          "cumulativeTimeSec": 2577.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "raceId": "10544",
+  "raceName": "2020-10-25 もみじシクロクロス第３戦（もみじシクロクロス）",
+  "category": "CM3",
+  "updatedAt": "2026-11-28T11:50:10.487Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-000-0764",
+      "name": "野原 克哉",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 391.4,
+          "cumulativeTimeSec": 391.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 490.9,
+          "cumulativeTimeSec": 882.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 507.8,
+          "cumulativeTimeSec": 1390.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 539.2,
+          "cumulativeTimeSec": 1929.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 538.1,
+          "cumulativeTimeSec": 2467.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

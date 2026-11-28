@@ -1,0 +1,67 @@
+{
+  "raceId": "13391",
+  "raceName": "2021-12-19 もみじシクロクロス第３戦（もみじシクロクロス）",
+  "category": "C3",
+  "updatedAt": "2026-11-28T11:47:11.420Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-189-0002",
+      "name": "宇田 浩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 512.4,
+          "cumulativeTimeSec": 512.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 539.5,
+          "cumulativeTimeSec": 1051.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 510.1,
+          "cumulativeTimeSec": 1562,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-000-0083",
+      "name": "福家 拓",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 553.1,
+          "cumulativeTimeSec": 553.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 617.4,
+          "cumulativeTimeSec": 1170.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 613.6,
+          "cumulativeTimeSec": 1784.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

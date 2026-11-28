@@ -1,0 +1,40 @@
+{
+  "raceId": "10533",
+  "raceName": "2020-10-25 関西シクロクロス 第1戦 紀の川（関西クロス）",
+  "category": "Category Challenge",
+  "updatedAt": "2026-11-28T11:50:06.880Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4706",
+      "name": "木下 貴之",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 400,
+          "cumulativeTimeSec": 400,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 474.4,
+          "cumulativeTimeSec": 874.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 470.4,
+          "cumulativeTimeSec": 1344.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

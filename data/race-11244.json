@@ -1,0 +1,43 @@
+{
+  "raceId": "11244",
+  "raceName": "2020-12-27 能登クロス（シクロクロス富山）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:52:17.063Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TYM-178-0038",
+      "name": "南 翔大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 158.2,
+          "cumulativeTimeSec": 158.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 154.5,
+          "cumulativeTimeSec": 312.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 165.7,
+          "cumulativeTimeSec": 478.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

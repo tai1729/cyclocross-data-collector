@@ -1,0 +1,64 @@
+{
+  "raceId": "7256",
+  "raceName": "2019-01-06 第3戦　深坂自然の森ステージ（山口シクロクロス）",
+  "category": "Category Junior",
+  "updatedAt": "2026-11-28T12:02:30.244Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS/OPEN": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-156-4005",
+      "name": "岡山 優太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 341.8,
+          "cumulativeTimeSec": 341.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 348.6,
+          "cumulativeTimeSec": 690.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 353.6,
+          "cumulativeTimeSec": 1044,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 358.4,
+          "cumulativeTimeSec": 1402.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 365.2,
+          "cumulativeTimeSec": 1767.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 365.7,
+          "cumulativeTimeSec": 2133.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

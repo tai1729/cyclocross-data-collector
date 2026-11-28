@@ -1,0 +1,141 @@
+{
+  "raceId": "7473",
+  "raceName": "2019-01-20 第6回高知シクロクロス ヤシィシクロクロスカップ（四国クロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:03:43.196Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCS-189-0014",
+      "name": "新居 蒼大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 235.8,
+          "cumulativeTimeSec": 235.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.6,
+          "cumulativeTimeSec": 471.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-189-0011",
+      "name": "小田 宙夢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 238.5,
+          "cumulativeTimeSec": 238.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 254.6,
+          "cumulativeTimeSec": 493.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-189-0008",
+      "name": "門松 俊太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 269.4,
+          "cumulativeTimeSec": 269.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 269.7,
+          "cumulativeTimeSec": 539.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-189-0012",
+      "name": "佐用 寧生",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 292.6,
+          "cumulativeTimeSec": 292.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 265.7,
+          "cumulativeTimeSec": 558.3,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-189-0010",
+      "name": "大本 祐也",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 285.4,
+          "cumulativeTimeSec": 285.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 285,
+          "cumulativeTimeSec": 570.4,
+          "rankAtLap": 5
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCS-189-0013",
+      "name": "安岡 莉子",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 297.1,
+          "cumulativeTimeSec": 297.1,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 276.5,
+          "cumulativeTimeSec": 573.6,
+          "rankAtLap": 6
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

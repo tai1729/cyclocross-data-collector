@@ -1,0 +1,102 @@
+{
+  "raceId": "6278",
+  "raceName": "2018-10-14 シクロクロスミーティングシリーズ　シーズン2018-2019 第１戦　白樺湖（信州クロス）",
+  "category": "Category Kids1+2",
+  "updatedAt": "2026-11-28T11:59:01.828Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 162,
+          "cumulativeTimeSec": 162,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 161.2,
+          "cumulativeTimeSec": 323.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 165.6,
+          "cumulativeTimeSec": 488.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 150.4,
+          "cumulativeTimeSec": 639.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0020",
+      "name": "近藤 虎流",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 235.6,
+          "cumulativeTimeSec": 235.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 231.6,
+          "cumulativeTimeSec": 467.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 224.4,
+          "cumulativeTimeSec": 691.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0015",
+      "name": "榛澤 有輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 233.1,
+          "cumulativeTimeSec": 233.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 240.9,
+          "cumulativeTimeSec": 474,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 241.8,
+          "cumulativeTimeSec": 715.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

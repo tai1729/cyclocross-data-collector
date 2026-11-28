@@ -1,0 +1,70 @@
+{
+  "raceId": "14639",
+  "raceName": "2022-10-23 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:38:46.914Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-190-0032",
+      "name": "渡井 健太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 303.4,
+          "cumulativeTimeSec": 303.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 301.4,
+          "cumulativeTimeSec": 604.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 298,
+          "cumulativeTimeSec": 902.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0005",
+      "name": "吉田 直人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 331.7,
+          "cumulativeTimeSec": 331.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 319.1,
+          "cumulativeTimeSec": 650.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 317.2,
+          "cumulativeTimeSec": 968,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

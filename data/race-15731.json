@@ -1,0 +1,135 @@
+{
+  "raceId": "15731",
+  "raceName": "2022-12-18 九州シクロクロス 第1戦 芦屋ステージ（九州シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:40:52.584Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "QCX-223-0001",
+      "name": "今泉 蒼人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 102.8,
+          "cumulativeTimeSec": 102.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 115.2,
+          "cumulativeTimeSec": 218,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 116.9,
+          "cumulativeTimeSec": 334.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 116.2,
+          "cumulativeTimeSec": 451.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 125.2,
+          "cumulativeTimeSec": 576.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-223-0015",
+      "name": "小河 奨悟",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 111.5,
+          "cumulativeTimeSec": 111.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 122.1,
+          "cumulativeTimeSec": 233.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 126.4,
+          "cumulativeTimeSec": 360,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 121.7,
+          "cumulativeTimeSec": 481.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 123.1,
+          "cumulativeTimeSec": 604.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-201-0031",
+      "name": "北原 鉄平",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 109.8,
+          "cumulativeTimeSec": 109.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 131,
+          "cumulativeTimeSec": 240.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 131.2,
+          "cumulativeTimeSec": 372,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 128.2,
+          "cumulativeTimeSec": 500.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 124.8,
+          "cumulativeTimeSec": 625,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

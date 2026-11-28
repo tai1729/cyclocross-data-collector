@@ -1,0 +1,80 @@
+{
+  "raceId": "9145",
+  "raceName": "2019-12-01 東海シクロクロス#2　ふれあいパークほうらい（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:55:05.088Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 408.9,
+          "cumulativeTimeSec": 408.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 396,
+          "cumulativeTimeSec": 804.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 395,
+          "cumulativeTimeSec": 1199.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 400.4,
+          "cumulativeTimeSec": 1600.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-189-0237",
+      "name": "平山 雷斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 428.2,
+          "cumulativeTimeSec": 428.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 436.3,
+          "cumulativeTimeSec": 864.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 420.1,
+          "cumulativeTimeSec": 1284.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 421.9,
+          "cumulativeTimeSec": 1706.5,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

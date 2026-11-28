@@ -1,0 +1,67 @@
+{
+  "raceId": "13006",
+  "raceName": "2021-11-28 中国シクロクロス広島　＃1もみのき森林公園（中国クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:46:11.493Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-201-0003",
+      "name": "神原 梨奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 585.1,
+          "cumulativeTimeSec": 585.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 558.8,
+          "cumulativeTimeSec": 1143.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 560.4,
+          "cumulativeTimeSec": 1704.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0026",
+      "name": "友野 菜未子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 735.3,
+          "cumulativeTimeSec": 735.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 821.3,
+          "cumulativeTimeSec": 1556.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 815.4,
+          "cumulativeTimeSec": 2372,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

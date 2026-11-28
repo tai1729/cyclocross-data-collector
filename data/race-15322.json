@@ -1,0 +1,82 @@
+{
+  "raceId": "15322",
+  "raceName": "2022-11-27 関西シクロクロス 第4戦 烏丸半島（関西クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-11-28T11:40:07.435Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-167-0104",
+      "name": "西原 夕華",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 614.6,
+          "cumulativeTimeSec": 614.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 620.4,
+          "cumulativeTimeSec": 1235,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 664.5,
+          "cumulativeTimeSec": 1899.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0355",
+      "name": "寺本 彩玖子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 718.3,
+          "cumulativeTimeSec": 718.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 761,
+          "cumulativeTimeSec": 1479.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-167-0132",
+      "name": "山口 成美",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 668.6,
+          "cumulativeTimeSec": 668.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1311.5,
+          "cumulativeTimeSec": 1980.1,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

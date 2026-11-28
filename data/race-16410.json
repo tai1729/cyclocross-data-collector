@@ -1,0 +1,40 @@
+{
+  "raceId": "16410",
+  "raceName": "2023-01-29 もみじシクロクロス1/29（もみじシクロクロス）",
+  "category": "MU15",
+  "updatedAt": "2026-11-28T11:42:35.873Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0015",
+      "name": "蔵田 瑶",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 650,
+          "cumulativeTimeSec": 650,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 682,
+          "cumulativeTimeSec": 1332,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 847.3,
+          "cumulativeTimeSec": 2179.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "raceId": "17151",
+  "raceName": "2023-03-05 山口シクロクロス第4戦豊浦ステージ（山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:43:45.260Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-223-0016",
+      "name": "中山 瑛太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 149.9,
+          "cumulativeTimeSec": 149.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 142.8,
+          "cumulativeTimeSec": 292.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 140.8,
+          "cumulativeTimeSec": 433.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

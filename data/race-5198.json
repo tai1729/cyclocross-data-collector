@@ -1,0 +1,75 @@
+{
+  "raceId": "5198",
+  "raceName": "2018-01-07 シクロクロス富山#3（シクロクロス富山）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:08:30.716Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-178-0016",
+      "name": "森 大志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 197.3,
+          "cumulativeTimeSec": 197.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 225.4,
+          "cumulativeTimeSec": 422.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-178-0038",
+      "name": "南 翔大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 232.3,
+          "cumulativeTimeSec": 232.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 214.8,
+          "cumulativeTimeSec": 447.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0015",
+      "name": "榛澤 有輝",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 254.6,
+          "cumulativeTimeSec": 254.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 251.6,
+          "cumulativeTimeSec": 506.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

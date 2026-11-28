@@ -1,0 +1,96 @@
+{
+  "raceId": "10878",
+  "raceName": "2020-11-22 東海シクロクロス#2　おおが城山公園（東海クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:51:01.105Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "TKI-201-0019",
+      "name": "大野 琴美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.7,
+          "cumulativeTimeSec": 389.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 373.4,
+          "cumulativeTimeSec": 763.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-167-0077",
+      "name": "美濃羽 ひかり",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 418.5,
+          "cumulativeTimeSec": 418.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 394.5,
+          "cumulativeTimeSec": 813,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3281",
+      "name": "大橋 真基",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 421.8,
+          "cumulativeTimeSec": 421.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 400.7,
+          "cumulativeTimeSec": 822.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0102",
+      "name": "吉田 朱里",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 424.1,
+          "cumulativeTimeSec": 424.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 411.1,
+          "cumulativeTimeSec": 835.2,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

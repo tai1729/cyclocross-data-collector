@@ -1,0 +1,124 @@
+{
+  "raceId": "10941",
+  "raceName": "2020-11-29 第26回シクロクロス全日本選手権2020day2（全日本選手権）",
+  "category": "女子ジュニア",
+  "updatedAt": "2026-11-28T11:51:23.575Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "SHN-167-0048",
+      "name": "渡部 春雅",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 712.5,
+          "cumulativeTimeSec": 712.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 734,
+          "cumulativeTimeSec": 1446.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 751.2,
+          "cumulativeTimeSec": 2197.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0957",
+      "name": "中島 瞳",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 742,
+          "cumulativeTimeSec": 742,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 749.3,
+          "cumulativeTimeSec": 1491.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 763.7,
+          "cumulativeTimeSec": 2255,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-2325",
+      "name": "大蔵 こころ",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 798.3,
+          "cumulativeTimeSec": 798.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 795,
+          "cumulativeTimeSec": 1593.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 765.6,
+          "cumulativeTimeSec": 2358.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-190-0005",
+      "name": "船橋 星来",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 899.1,
+          "cumulativeTimeSec": 899.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 902.5,
+          "cumulativeTimeSec": 1801.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 869.8,
+          "cumulativeTimeSec": 2671.4,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

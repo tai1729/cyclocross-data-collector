@@ -1,0 +1,80 @@
+{
+  "raceId": "9423",
+  "raceName": "2020-01-05 第2戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:56:07.904Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-178-0010",
+      "name": "永田 靖子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 495,
+          "cumulativeTimeSec": 495,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 493.8,
+          "cumulativeTimeSec": 988.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 498,
+          "cumulativeTimeSec": 1486.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 508.2,
+          "cumulativeTimeSec": 1995,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0052",
+      "name": "板井 志歩",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 579.8,
+          "cumulativeTimeSec": 579.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 581.2,
+          "cumulativeTimeSec": 1161,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 582.6,
+          "cumulativeTimeSec": 1743.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 566.8,
+          "cumulativeTimeSec": 2310.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

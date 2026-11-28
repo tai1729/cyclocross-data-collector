@@ -1,0 +1,143 @@
+{
+  "raceId": "17387",
+  "raceName": "2023-03-26 茨城シクロクロス 第6戦 茨城町 涸沼自然公園 野鳥の森ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "MU17",
+  "updatedAt": "2026-11-28T11:44:04.761Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MBS-189-0042",
+      "name": "松村 拓弥",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 181.7,
+          "cumulativeTimeSec": 181.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 556.4,
+          "cumulativeTimeSec": 738.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 551.6,
+          "cumulativeTimeSec": 1289.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 584.7,
+          "cumulativeTimeSec": 1874.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-156-0044",
+      "name": "佐竹 清亮",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 179.9,
+          "cumulativeTimeSec": 179.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 550.6,
+          "cumulativeTimeSec": 730.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 573,
+          "cumulativeTimeSec": 1303.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 637.2,
+          "cumulativeTimeSec": 1940.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-201-0111",
+      "name": "新藤 想真",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 182.5,
+          "cumulativeTimeSec": 182.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 591.6,
+          "cumulativeTimeSec": 774.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 619.4,
+          "cumulativeTimeSec": 1393.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 604,
+          "cumulativeTimeSec": 1997.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0093",
+      "name": "中島 真治",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 298.2,
+          "cumulativeTimeSec": 298.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 956.9,
+          "cumulativeTimeSec": 1255.1,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1187.7,
+          "cumulativeTimeSec": 2442.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "9282",
+  "raceName": "2019-12-15 シクロクロス富山２０１９－２０　朝日ヒスイ海岸オートキャンプ場　（シクロクロス富山）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:55:40.527Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-178-0016",
+      "name": "森 大志",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 179.1,
+          "cumulativeTimeSec": 179.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 157.1,
+          "cumulativeTimeSec": 336.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 149.8,
+          "cumulativeTimeSec": 486,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0015",
+      "name": "榛澤 有輝",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 195.4,
+          "cumulativeTimeSec": 195.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 191.5,
+          "cumulativeTimeSec": 386.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 207.5,
+          "cumulativeTimeSec": 594.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

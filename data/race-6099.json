@@ -1,0 +1,115 @@
+{
+  "raceId": "6099",
+  "raceName": "2018-09-23 茨城シクロクロス#1 城里町うぐいすの里ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:58:37.718Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "GPM-000-0957",
+      "name": "中島 瞳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 680.8,
+          "cumulativeTimeSec": 680.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 771,
+          "cumulativeTimeSec": 1451.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 787.4,
+          "cumulativeTimeSec": 2239.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-156-0096",
+      "name": "高津 裕子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 768.2,
+          "cumulativeTimeSec": 768.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 858.6,
+          "cumulativeTimeSec": 1626.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 850.9,
+          "cumulativeTimeSec": 2477.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0140",
+      "name": "西倉 陽子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 821.4,
+          "cumulativeTimeSec": 821.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 917.3,
+          "cumulativeTimeSec": 1738.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 1007.9,
+          "cumulativeTimeSec": 2746.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-189-0016",
+      "name": "北川 恵子",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 994.2,
+          "cumulativeTimeSec": 994.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1130.6,
+          "cumulativeTimeSec": 2124.8,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

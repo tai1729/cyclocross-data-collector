@@ -1,0 +1,74 @@
+{
+  "raceId": "14146",
+  "raceName": "2022-03-27 茨城シクロクロス#6茨城町涸沼自然公園野鳥の森ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:49:13.246Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CHB-201-0111",
+      "name": "新藤 想真",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 165.2,
+          "cumulativeTimeSec": 165.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 517,
+          "cumulativeTimeSec": 682.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 520.2,
+          "cumulativeTimeSec": 1202.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 525.6,
+          "cumulativeTimeSec": 1728,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0113",
+      "name": "成瀬 怜",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 218.5,
+          "cumulativeTimeSec": 218.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 735.4,
+          "cumulativeTimeSec": 953.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 725.1,
+          "cumulativeTimeSec": 1679,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

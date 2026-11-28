@@ -1,0 +1,90 @@
+{
+  "raceId": "4841",
+  "raceName": "2017-12-17 2017～2018山口シクロクロス　第1戦リフレッシュパーク豊浦（山口シクロクロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:07:40.485Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCH-167-0087",
+      "name": "白井 彩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 413.3,
+          "cumulativeTimeSec": 413.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 416.2,
+          "cumulativeTimeSec": 829.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 411.3,
+          "cumulativeTimeSec": 1240.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 423,
+          "cumulativeTimeSec": 1663.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 426.1,
+          "cumulativeTimeSec": 2089.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0010",
+      "name": "永田 靖子",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 514.7,
+          "cumulativeTimeSec": 514.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 494.8,
+          "cumulativeTimeSec": 1009.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 509.5,
+          "cumulativeTimeSec": 1519,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 526.3,
+          "cumulativeTimeSec": 2045.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

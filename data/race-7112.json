@@ -1,0 +1,42 @@
+{
+  "raceId": "7112",
+  "raceName": "2018-12-23 シクロクロスミーティングシリーズ　シーズン2018-2019 第8戦　南信州（信州クロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:01:49.064Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-156-0020",
+      "name": "近藤 虎流",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 422.3,
+          "cumulativeTimeSec": 422.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-189-0033",
+      "name": "佐々木 よしの",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 579.2,
+          "cumulativeTimeSec": 579.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

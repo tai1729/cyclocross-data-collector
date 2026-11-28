@@ -1,0 +1,37 @@
+{
+  "raceId": "4624",
+  "raceName": "2017-11-19 関西シクロクロス 第3戦 UCI マキノ（関西クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:06:47.439Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3258",
+      "name": "田村 元",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 88.8,
+          "cumulativeTimeSec": 88.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 35.7,
+          "cumulativeTimeSec": 124.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

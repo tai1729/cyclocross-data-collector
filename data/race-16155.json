@@ -1,0 +1,110 @@
+{
+  "raceId": "16155",
+  "raceName": "2023-01-22 関西シクロクロス 第9戦 堺浜（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:42:02.052Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-212-0099",
+      "name": "黒田 敏伸",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 350.1,
+          "cumulativeTimeSec": 350.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 252.8,
+          "cumulativeTimeSec": 602.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 253.9,
+          "cumulativeTimeSec": 856.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 241.9,
+          "cumulativeTimeSec": 1098.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-0884",
+      "name": "景山 昭宏",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 372.5,
+          "cumulativeTimeSec": 372.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 246.6,
+          "cumulativeTimeSec": 619.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 246.9,
+          "cumulativeTimeSec": 866,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 233.6,
+          "cumulativeTimeSec": 1099.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0255",
+      "name": "堀川 雄一郎",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 450.4,
+          "cumulativeTimeSec": 450.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 331.8,
+          "cumulativeTimeSec": 782.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 337.4,
+          "cumulativeTimeSec": 1119.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

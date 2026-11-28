@@ -1,0 +1,95 @@
+{
+  "raceId": "14515",
+  "raceName": "2022-10-16 シクロクロスミーティングシリーズ　シーズン2022-2023 第2戦　富士山  （信州クロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:38:35.050Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-190-0032",
+      "name": "渡井 健太",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 183.1,
+          "cumulativeTimeSec": 183.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 181.9,
+          "cumulativeTimeSec": 365,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 182.1,
+          "cumulativeTimeSec": 547.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-0039",
+      "name": "田辺 晴人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 202.9,
+          "cumulativeTimeSec": 202.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 208.7,
+          "cumulativeTimeSec": 411.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 208.1,
+          "cumulativeTimeSec": 619.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-212-0006",
+      "name": "綱嶋 勇音",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 212.5,
+          "cumulativeTimeSec": 212.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 213.1,
+          "cumulativeTimeSec": 425.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 198.3,
+          "cumulativeTimeSec": 623.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

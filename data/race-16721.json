@@ -1,0 +1,64 @@
+{
+  "raceId": "16721",
+  "raceName": "2023-02-05 関西シクロクロス 第10戦 桂川（関西クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:42:53.589Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "TKI-189-0034",
+      "name": "福島 愛都",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 505.3,
+          "cumulativeTimeSec": 505.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 392.1,
+          "cumulativeTimeSec": 897.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 392.7,
+          "cumulativeTimeSec": 1290.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 406.6,
+          "cumulativeTimeSec": 1696.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 400.6,
+          "cumulativeTimeSec": 2097.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 390,
+          "cumulativeTimeSec": 2487.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

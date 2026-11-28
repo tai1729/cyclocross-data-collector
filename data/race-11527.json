@@ -1,0 +1,90 @@
+{
+  "raceId": "11527",
+  "raceName": "2021-02-21 関西シクロクロス 第12戦 堺浜（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:52:34.731Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0097",
+      "name": "澤田 義人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 195.8,
+          "cumulativeTimeSec": 195.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 184.4,
+          "cumulativeTimeSec": 380.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 194.7,
+          "cumulativeTimeSec": 574.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 199.3,
+          "cumulativeTimeSec": 774.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 196.9,
+          "cumulativeTimeSec": 971.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0225",
+      "name": "藤本 昌弘",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 234.3,
+          "cumulativeTimeSec": 234.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 216.6,
+          "cumulativeTimeSec": 450.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 216.4,
+          "cumulativeTimeSec": 667.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 205.6,
+          "cumulativeTimeSec": 872.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

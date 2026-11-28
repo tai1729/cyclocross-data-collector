@@ -1,0 +1,55 @@
+{
+  "raceId": "12433",
+  "raceName": "2021-10-31 シクロクロスミーティングシリーズ　シーズン2021-2022 第4戦　飯山day2（信州クロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:44:57.434Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-189-0025",
+      "name": "野嵜 日貴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 479.1,
+          "cumulativeTimeSec": 479.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 486.1,
+          "cumulativeTimeSec": 965.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0009",
+      "name": "山田 晴仁",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 749.7,
+          "cumulativeTimeSec": 749.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 668.2,
+          "cumulativeTimeSec": 1417.9,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

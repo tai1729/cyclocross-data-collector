@@ -1,0 +1,568 @@
+{
+  "raceId": "9290",
+  "raceName": "2019-12-14 2019宇都宮シクロクロス Day1（宇都宮クロス）",
+  "category": "UCI-Men Elite1",
+  "updatedAt": "2026-11-28T11:55:17.959Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 5
+  },
+  "riders": [
+    {
+      "riderId": "CCM-178-0051",
+      "name": "HEKELE Emil",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1959",
+      "name": "織田 聖",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCT-000-1002",
+      "name": "小坂 光",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-190-0010",
+      "name": "Walkerden Ben",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-190-0011",
+      "name": "Smith Nicholas",
+      "finalPosition": 5,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-190-0009",
+      "name": "Sharratt Brendon",
+      "finalPosition": 6,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7123",
+      "name": "兼子 博昭",
+      "finalPosition": 7,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-190-0013",
+      "name": "KNIGHT Griffin",
+      "finalPosition": 8,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-3012",
+      "name": "積田 連",
+      "finalPosition": 9,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1938",
+      "name": "中里 仁",
+      "finalPosition": 10,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3117",
+      "name": "島田 真琴",
+      "finalPosition": 11,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1986",
+      "name": "重田 兼吾",
+      "finalPosition": 12,
+      "status": "annotated-rank",
+      "officialPositionLabel": "12 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-156-0046",
+      "name": "加藤 健悟",
+      "finalPosition": 13,
+      "status": "annotated-rank",
+      "officialPositionLabel": "13 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0162",
+      "name": "戸谷 亮司",
+      "finalPosition": 14,
+      "status": "annotated-rank",
+      "officialPositionLabel": "14 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1012",
+      "name": "後藤 啓",
+      "finalPosition": 15,
+      "status": "annotated-rank",
+      "officialPositionLabel": "15 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0069",
+      "name": "高木 三千成",
+      "finalPosition": 16,
+      "status": "annotated-rank",
+      "officialPositionLabel": "16 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0042",
+      "name": "松田 賢太郎",
+      "finalPosition": 17,
+      "status": "annotated-rank",
+      "officialPositionLabel": "17 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1984",
+      "name": "安藤 光平",
+      "finalPosition": 18,
+      "status": "annotated-rank",
+      "officialPositionLabel": "18 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-6713",
+      "name": "向山 浩司",
+      "finalPosition": 19,
+      "status": "annotated-rank",
+      "officialPositionLabel": "19 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-2467",
+      "name": "畑中 勇介",
+      "finalPosition": 20,
+      "status": "annotated-rank",
+      "officialPositionLabel": "20 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-167-0023",
+      "name": "渡辺 歩",
+      "finalPosition": 21,
+      "status": "annotated-rank",
+      "officialPositionLabel": "21 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-2073",
+      "name": "青木 誠",
+      "finalPosition": 22,
+      "status": "annotated-rank",
+      "officialPositionLabel": "22 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-167-0105",
+      "name": "折橋 孝治",
+      "finalPosition": 23,
+      "status": "annotated-rank",
+      "officialPositionLabel": "23 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-178-0038",
+      "name": "石井 祥平",
+      "finalPosition": 24,
+      "status": "annotated-rank",
+      "officialPositionLabel": "24 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0065",
+      "name": "平井 光介",
+      "finalPosition": 25,
+      "status": "annotated-rank",
+      "officialPositionLabel": "25 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-178-0013",
+      "name": "tysome john",
+      "finalPosition": 26,
+      "status": "annotated-rank",
+      "officialPositionLabel": "26 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0963",
+      "name": "佐復 真人",
+      "finalPosition": 27,
+      "status": "annotated-rank",
+      "officialPositionLabel": "27 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-190-0016",
+      "name": "小林 慶次",
+      "finalPosition": 28,
+      "status": "annotated-rank",
+      "officialPositionLabel": "28 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-178-0064",
+      "name": "舟山 祥弘",
+      "finalPosition": 29,
+      "status": "annotated-rank",
+      "officialPositionLabel": "29 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-190-9020",
+      "name": "TAYLOR Daniel",
+      "finalPosition": 30,
+      "status": "annotated-rank",
+      "officialPositionLabel": "30 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1001",
+      "name": "佐藤 利英",
+      "finalPosition": 31,
+      "status": "annotated-rank",
+      "officialPositionLabel": "31 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-178-0057",
+      "name": "小林 成輔",
+      "finalPosition": 32,
+      "status": "annotated-rank",
+      "officialPositionLabel": "32 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0949",
+      "name": "馬場 勝尚",
+      "finalPosition": 33,
+      "status": "annotated-rank",
+      "officialPositionLabel": "33 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0374",
+      "name": "野中 秀樹",
+      "finalPosition": 34,
+      "status": "annotated-rank",
+      "officialPositionLabel": "34 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0024",
+      "name": "田邊 昌宏",
+      "finalPosition": 35,
+      "status": "annotated-rank",
+      "officialPositionLabel": "35 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0114",
+      "name": "蠣崎 優仁",
+      "finalPosition": 36,
+      "status": "annotated-rank",
+      "officialPositionLabel": "36 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "UCX-156-0028",
+      "name": "佐藤 文明",
+      "finalPosition": 37,
+      "status": "annotated-rank",
+      "officialPositionLabel": "37 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-167-0029",
+      "name": "鈴木 将",
+      "finalPosition": 38,
+      "status": "annotated-rank",
+      "officialPositionLabel": "38 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-178-0081",
+      "name": "尾形 尚紀",
+      "finalPosition": 39,
+      "status": "annotated-rank",
+      "officialPositionLabel": "39 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-000-0025",
+      "name": "鈴木 禄徳",
+      "finalPosition": 40,
+      "status": "annotated-rank",
+      "officialPositionLabel": "40 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1999",
+      "name": "重田 恵杜",
+      "finalPosition": 41,
+      "status": "annotated-rank",
+      "officialPositionLabel": "41 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0027",
+      "name": "國井 豊",
+      "finalPosition": 42,
+      "status": "annotated-rank",
+      "officialPositionLabel": "42 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0839",
+      "name": "伊井 賢一",
+      "finalPosition": 43,
+      "status": "annotated-rank",
+      "officialPositionLabel": "43 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-2183",
+      "name": "香西 真介",
+      "finalPosition": 44,
+      "status": "annotated-rank",
+      "officialPositionLabel": "44 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-7019",
+      "name": "小林 裕貴",
+      "finalPosition": 45,
+      "status": "annotated-rank",
+      "officialPositionLabel": "45 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-1027",
+      "name": "澤田 泰征",
+      "finalPosition": 46,
+      "status": "annotated-rank",
+      "officialPositionLabel": "46 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1492",
+      "name": "増田 謙一",
+      "finalPosition": 47,
+      "status": "annotated-rank",
+      "officialPositionLabel": "47 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-167-0071",
+      "name": "蠣崎 藍道",
+      "finalPosition": 48,
+      "status": "annotated-rank",
+      "officialPositionLabel": "48 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1990",
+      "name": "江川 樹一郎",
+      "finalPosition": 49,
+      "status": "annotated-rank",
+      "officialPositionLabel": "49 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-1013",
+      "name": "齋藤 拓真",
+      "finalPosition": 50,
+      "status": "annotated-rank",
+      "officialPositionLabel": "50 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "SHN-156-0065",
+      "name": "木山 孝輔",
+      "finalPosition": 51,
+      "status": "annotated-rank",
+      "officialPositionLabel": "51 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3659",
+      "name": "田村 竜樹",
+      "finalPosition": 52,
+      "status": "annotated-rank",
+      "officialPositionLabel": "52 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-000-1322",
+      "name": "細矢 太樹",
+      "finalPosition": 53,
+      "status": "annotated-rank",
+      "officialPositionLabel": "53 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1065",
+      "name": "清水 和宏",
+      "finalPosition": 54,
+      "status": "annotated-rank",
+      "officialPositionLabel": "54 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "XTK-189-0091",
+      "name": "原田 敬文",
+      "finalPosition": 55,
+      "status": "annotated-rank",
+      "officialPositionLabel": "55 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-189-0016",
+      "name": "松尾 遊",
+      "finalPosition": 56,
+      "status": "annotated-rank",
+      "officialPositionLabel": "56 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-167-0030",
+      "name": "佐川 祐太",
+      "finalPosition": 57,
+      "status": "annotated-rank",
+      "officialPositionLabel": "57 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-2029",
+      "name": "山田 幸広",
+      "finalPosition": 58,
+      "status": "annotated-rank",
+      "officialPositionLabel": "58 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-2001",
+      "name": "佐藤 英夫",
+      "finalPosition": 59,
+      "status": "annotated-rank",
+      "officialPositionLabel": "59 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0153",
+      "name": "岩崎 基規",
+      "finalPosition": 60,
+      "status": "annotated-rank",
+      "officialPositionLabel": "60 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-178-0108",
+      "name": "渡邊 嵩章",
+      "finalPosition": 61,
+      "status": "annotated-rank",
+      "officialPositionLabel": "61 (LapOut)",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-3046",
+      "name": "前田 公平",
+      "finalPosition": 62,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

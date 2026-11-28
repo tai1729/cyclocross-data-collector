@@ -1,0 +1,103 @@
+{
+  "raceId": "11497",
+  "raceName": "2021-01-11 シクロクロスミーティングシリーズ　シーズン2020-2021 第7戦　清里（信州クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:52:30.231Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-201-0128",
+      "name": "小林 あか里",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472.3,
+          "cumulativeTimeSec": 472.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 487.6,
+          "cumulativeTimeSec": 959.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 497.3,
+          "cumulativeTimeSec": 1457.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 496.1,
+          "cumulativeTimeSec": 1953.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 496.8,
+          "cumulativeTimeSec": 2450.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 488.9,
+          "cumulativeTimeSec": 2939,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-190-0005",
+      "name": "船橋 星来",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 568.3,
+          "cumulativeTimeSec": 568.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 622.5,
+          "cumulativeTimeSec": 1190.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 611.3,
+          "cumulativeTimeSec": 1802.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 607.7,
+          "cumulativeTimeSec": 2409.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 617.5,
+          "cumulativeTimeSec": 3027.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

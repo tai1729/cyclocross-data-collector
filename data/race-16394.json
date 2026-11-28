@@ -1,0 +1,71 @@
+{
+  "raceId": "16394",
+  "raceName": "2023-01-29 東海シクロクロス 第5戦 愛知県日進市 愛知牧場 JCX（東海クロス）",
+  "category": "WM",
+  "updatedAt": "2026-11-28T11:42:27.889Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-201-0020",
+      "name": "平野 友恵",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532,
+          "cumulativeTimeSec": 532,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 536,
+          "cumulativeTimeSec": 1068,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 545,
+          "cumulativeTimeSec": 1613,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-156-0131",
+      "name": "松田 珠弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 545,
+          "cumulativeTimeSec": 545,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 557,
+          "cumulativeTimeSec": 1102,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 546,
+          "cumulativeTimeSec": 1648,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

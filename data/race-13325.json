@@ -1,0 +1,43 @@
+{
+  "raceId": "13325",
+  "raceName": "2021-12-19 もみじシクロクロス第３戦（もみじシクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:46:54.696Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "MMJ-212-0005",
+      "name": "船岡 湊",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 381.6,
+          "cumulativeTimeSec": 381.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 402.6,
+          "cumulativeTimeSec": 784.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 394.9,
+          "cumulativeTimeSec": 1179.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

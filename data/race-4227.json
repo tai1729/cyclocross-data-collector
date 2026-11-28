@@ -1,0 +1,41 @@
+{
+  "raceId": "4227",
+  "raceName": "2017-10-29 東北CXシリーズ#1さがえ（UCI-C2）（東北 CX Project）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T12:05:43.149Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0011",
+      "name": "佐々木 琉名",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 809.2,
+          "cumulativeTimeSec": 809.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-167-0021",
+      "name": "阿崎 大和",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 877.8,
+          "cumulativeTimeSec": 877.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

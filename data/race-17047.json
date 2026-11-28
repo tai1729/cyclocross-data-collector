@@ -1,0 +1,133 @@
+{
+  "raceId": "17047",
+  "raceName": "2023-02-26 九州シクロクロス 第3戦 海の中道ステージ  （九州シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:43:25.366Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0031",
+      "name": "西村 真大",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 91.9,
+          "cumulativeTimeSec": 91.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 93.3,
+          "cumulativeTimeSec": 185.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 94.3,
+          "cumulativeTimeSec": 279.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 98.2,
+          "cumulativeTimeSec": 377.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 100.4,
+          "cumulativeTimeSec": 478.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 97.1,
+          "cumulativeTimeSec": 575.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-223-0007",
+      "name": "平川 千晃",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 94.1,
+          "cumulativeTimeSec": 94.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 93,
+          "cumulativeTimeSec": 187.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 94.8,
+          "cumulativeTimeSec": 281.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 101.7,
+          "cumulativeTimeSec": 383.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 102,
+          "cumulativeTimeSec": 485.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 92.1,
+          "cumulativeTimeSec": 577.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-223-0039",
+      "name": "岩本 希子",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 228.7,
+          "cumulativeTimeSec": 228.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 215.2,
+          "cumulativeTimeSec": 443.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 227.8,
+          "cumulativeTimeSec": 671.7,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "raceId": "9520",
+  "raceName": "2020-01-12 第3戦深坂自然の森ステージ（山口シクロクロス）",
+  "category": "CK3",
+  "updatedAt": "2026-11-28T11:56:23.675Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "YGC-178-0003",
+      "name": "井上 悠喜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 218.7,
+          "cumulativeTimeSec": 218.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 213.7,
+          "cumulativeTimeSec": 432.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 207.8,
+          "cumulativeTimeSec": 640.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0070",
+      "name": "内野 文太",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 251,
+          "cumulativeTimeSec": 251,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 255.3,
+          "cumulativeTimeSec": 506.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 252.5,
+          "cumulativeTimeSec": 758.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

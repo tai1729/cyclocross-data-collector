@@ -1,0 +1,54 @@
+{
+  "raceId": "15583",
+  "raceName": "2022-12-11 野田シクロクロス#1（千葉クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:40:40.148Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-167-0031",
+      "name": "佐々木 啄人",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 432.6,
+          "cumulativeTimeSec": 432.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 464,
+          "cumulativeTimeSec": 896.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 476,
+          "cumulativeTimeSec": 1372.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 496.9,
+          "cumulativeTimeSec": 1869.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 690,
+          "cumulativeTimeSec": 2559.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

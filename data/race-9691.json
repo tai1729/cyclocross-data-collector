@@ -1,0 +1,50 @@
+{
+  "raceId": "9691",
+  "raceName": "2020-01-26 東海シクロクロス#6　大野極楽寺公園（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:57:07.748Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-0393",
+      "name": "大蔵 悟生",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 402.9,
+          "cumulativeTimeSec": 402.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.9,
+          "cumulativeTimeSec": 793.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 395,
+          "cumulativeTimeSec": 1188.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 388.7,
+          "cumulativeTimeSec": 1577.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "raceId": "15305",
+  "raceName": "2022-11-27 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:39:59.955Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CXK-212-0019",
+      "name": "横田 和晴",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 513,
+          "cumulativeTimeSec": 513,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-223-0018",
+      "name": "佐藤 成",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 696.4,
+          "cumulativeTimeSec": 696.4,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-223-0011",
+      "name": "生方 風羽",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 746.2,
+          "cumulativeTimeSec": 746.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

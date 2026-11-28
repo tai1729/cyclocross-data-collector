@@ -1,0 +1,109 @@
+{
+  "raceId": "14428",
+  "raceName": "2022-10-02 シクロクロスミーティングシリーズ　シーズン2022-2023 第1戦　白樺湖 （信州クロス）",
+  "category": "CJ",
+  "updatedAt": "2026-11-28T11:38:22.855Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-189-0034",
+      "name": "福島 愛都",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 387.5,
+          "cumulativeTimeSec": 387.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 393.8,
+          "cumulativeTimeSec": 781.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 403.7,
+          "cumulativeTimeSec": 1185,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 403.7,
+          "cumulativeTimeSec": 1588.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 419.4,
+          "cumulativeTimeSec": 2008.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 413,
+          "cumulativeTimeSec": 2421.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 389.8,
+          "cumulativeTimeSec": 389.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.3,
+          "cumulativeTimeSec": 807.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 414.1,
+          "cumulativeTimeSec": 1221.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 421.8,
+          "cumulativeTimeSec": 1643,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 492.1,
+          "cumulativeTimeSec": 2135.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 490.1,
+          "cumulativeTimeSec": 2625.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

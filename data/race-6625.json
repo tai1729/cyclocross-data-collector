@@ -1,0 +1,107 @@
+{
+  "raceId": "6625",
+  "raceName": "2018-11-11 中国シクロクロス第3戦広島　砂谷牧場（中国クロス）",
+  "category": "Category kids1",
+  "updatedAt": "2026-11-28T11:59:54.044Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-189-0013",
+      "name": "浅野 愛",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 127.2,
+          "cumulativeTimeSec": 127.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 128.1,
+          "cumulativeTimeSec": 255.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 119.3,
+          "cumulativeTimeSec": 374.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 135.3,
+          "cumulativeTimeSec": 509.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-178-0049",
+      "name": "三柳 穣太朗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 161,
+          "cumulativeTimeSec": 161,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 148.3,
+          "cumulativeTimeSec": 309.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 172.9,
+          "cumulativeTimeSec": 482.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 204.1,
+          "cumulativeTimeSec": 686.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-189-0027",
+      "name": "吉本 有寿",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 200.5,
+          "cumulativeTimeSec": 200.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 207.3,
+          "cumulativeTimeSec": 407.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 205.5,
+          "cumulativeTimeSec": 613.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

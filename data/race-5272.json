@@ -1,0 +1,61 @@
+{
+  "raceId": "5272",
+  "raceName": "2018-01-14 東北CXシリーズ#4ZAO（東北 CX Project）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:08:50.561Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TCX-178-0021",
+      "name": "安達 直子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 665.3,
+          "cumulativeTimeSec": 665.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 621.4,
+          "cumulativeTimeSec": 1286.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 635.7,
+          "cumulativeTimeSec": 1922.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0044",
+      "name": "水越 ユカ",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 915.8,
+          "cumulativeTimeSec": 915.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 836.9,
+          "cumulativeTimeSec": 1752.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

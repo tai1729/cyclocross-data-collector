@@ -1,0 +1,115 @@
+{
+  "raceId": "9672",
+  "raceName": "2020-01-26 九州シクロクロス 第2戦 小竹ステージ（九州シクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:57:01.256Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "YGC-178-0010",
+      "name": "永田 靖子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 674.1,
+          "cumulativeTimeSec": 674.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 712.2,
+          "cumulativeTimeSec": 1386.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 740.2,
+          "cumulativeTimeSec": 2126.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0015",
+      "name": "和間 恵",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 701.7,
+          "cumulativeTimeSec": 701.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 771,
+          "cumulativeTimeSec": 1472.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 811.9,
+          "cumulativeTimeSec": 2284.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "QCX-190-0054",
+      "name": "井上 万里江",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 726.8,
+          "cumulativeTimeSec": 726.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 836.9,
+          "cumulativeTimeSec": 1563.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 891.7,
+          "cumulativeTimeSec": 2455.4,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-189-0018",
+      "name": "笠井 千保",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 838.2,
+          "cumulativeTimeSec": 838.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1289.4,
+          "cumulativeTimeSec": 2127.6,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

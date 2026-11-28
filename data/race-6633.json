@@ -1,0 +1,154 @@
+{
+  "raceId": "6633",
+  "raceName": "2018-11-11 中国シクロクロス第3戦広島　砂谷牧場（中国クロス）",
+  "category": "C3",
+  "updatedAt": "2026-11-28T11:59:56.716Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-178-0109",
+      "name": "厨子 隆仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 315.8,
+          "cumulativeTimeSec": 315.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 327.5,
+          "cumulativeTimeSec": 643.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 327.7,
+          "cumulativeTimeSec": 971,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 311.6,
+          "cumulativeTimeSec": 1282.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 328.3,
+          "cumulativeTimeSec": 1610.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 312,
+          "cumulativeTimeSec": 1922.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-0928",
+      "name": "岩藤 司朗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 310.5,
+          "cumulativeTimeSec": 310.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 330.9,
+          "cumulativeTimeSec": 641.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 330.9,
+          "cumulativeTimeSec": 972.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 313.4,
+          "cumulativeTimeSec": 1285.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 326.1,
+          "cumulativeTimeSec": 1611.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 319.3,
+          "cumulativeTimeSec": 1931.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "GPM-000-1076",
+      "name": "西本 一喜",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 336.6,
+          "cumulativeTimeSec": 336.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 355.9,
+          "cumulativeTimeSec": 692.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 376.4,
+          "cumulativeTimeSec": 1068.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 366.4,
+          "cumulativeTimeSec": 1435.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 372.4,
+          "cumulativeTimeSec": 1807.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 359.3,
+          "cumulativeTimeSec": 2167,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "raceId": "4106",
+  "raceName": "2017-10-15 中国シクロクロス第1戦JCX第2戦広島　中央森林公園（中国クロス）",
+  "category": "Category Kids2",
+  "updatedAt": "2026-11-28T12:05:33.470Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0815",
+      "name": "田中 楓月",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 250.1,
+          "cumulativeTimeSec": 250.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 227.2,
+          "cumulativeTimeSec": 477.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-167-0079",
+      "name": "井上 碧三",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 246.8,
+          "cumulativeTimeSec": 246.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 249.5,
+          "cumulativeTimeSec": 496.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0036",
+      "name": "ホリデイ 瑠奈",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 265.7,
+          "cumulativeTimeSec": 265.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 244.8,
+          "cumulativeTimeSec": 510.5,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

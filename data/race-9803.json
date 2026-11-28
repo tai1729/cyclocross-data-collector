@@ -1,0 +1,40 @@
+{
+  "raceId": "9803",
+  "raceName": "2020-02-02 中国シクロクロス第4戦　広島　砂谷牧場（中国クロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:57:34.497Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-189-0026",
+      "name": "榎本 菜未子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 528.7,
+          "cumulativeTimeSec": 528.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 513.3,
+          "cumulativeTimeSec": 1042,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 516.6,
+          "cumulativeTimeSec": 1558.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

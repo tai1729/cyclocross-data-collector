@@ -1,0 +1,69 @@
+{
+  "raceId": "7400",
+  "raceName": "2019-01-20 東北CXシリーズ#4ざおうさまカップ（UCI-C2）（東北 CX Project）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T12:03:32.650Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-189-0014",
+      "name": "飯島 大也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 406.6,
+          "cumulativeTimeSec": 406.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 359.5,
+          "cumulativeTimeSec": 766.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-178-0034",
+      "name": "鈴木 智大",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 481.9,
+          "cumulativeTimeSec": 481.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 419.9,
+          "cumulativeTimeSec": 901.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-189-0010",
+      "name": "佐藤 真実",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 921.2,
+          "cumulativeTimeSec": 921.2,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

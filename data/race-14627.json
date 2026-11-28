@@ -1,0 +1,64 @@
+{
+  "raceId": "14627",
+  "raceName": "2022-10-23 関西シクロクロス 第1戦 日高川（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:38:41.118Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-223-0040",
+      "name": "松橋 公一",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 165.2,
+          "cumulativeTimeSec": 165.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 168.7,
+          "cumulativeTimeSec": 333.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 172.8,
+          "cumulativeTimeSec": 506.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 178.8,
+          "cumulativeTimeSec": 685.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 179.8,
+          "cumulativeTimeSec": 865.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 174.9,
+          "cumulativeTimeSec": 1040.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

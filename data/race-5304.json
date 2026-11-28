@@ -1,0 +1,80 @@
+{
+  "raceId": "5304",
+  "raceName": "2018-01-14 東北CXシリーズ#4ZAO（東北 CX Project）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:09:02.750Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CXK-000-0111",
+      "name": "須藤 むつみ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 592.9,
+          "cumulativeTimeSec": 592.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 609.1,
+          "cumulativeTimeSec": 1202,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 593.1,
+          "cumulativeTimeSec": 1795.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 589.4,
+          "cumulativeTimeSec": 2384.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-000-3028",
+      "name": "宮崎 優花",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 628.4,
+          "cumulativeTimeSec": 628.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 622.8,
+          "cumulativeTimeSec": 1251.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 612.2,
+          "cumulativeTimeSec": 1863.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 613.2,
+          "cumulativeTimeSec": 2476.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

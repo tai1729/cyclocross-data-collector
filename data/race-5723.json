@@ -1,0 +1,47 @@
+{
+  "raceId": "5723",
+  "raceName": "2018-02-11 中国シクロクロス第5戦岡山　葡萄浪漫館（中国クロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:10:35.210Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-000-0119",
+      "name": "原田 悦子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 583.2,
+          "cumulativeTimeSec": 583.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 543.7,
+          "cumulativeTimeSec": 1126.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 532.6,
+          "cumulativeTimeSec": 1659.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 530.3,
+          "cumulativeTimeSec": 2189.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

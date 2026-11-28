@@ -1,0 +1,97 @@
+{
+  "raceId": "13393",
+  "raceName": "2021-12-19 もみじシクロクロス第３戦（もみじシクロクロス）",
+  "category": "CM2",
+  "updatedAt": "2026-11-28T11:47:11.277Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "KNS-189-0167",
+      "name": "成田 佳永",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 564,
+          "cumulativeTimeSec": 564,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 573.3,
+          "cumulativeTimeSec": 1137.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 579.2,
+          "cumulativeTimeSec": 1716.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0104",
+      "name": "苅田 誠",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 566.6,
+          "cumulativeTimeSec": 566.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 618.5,
+          "cumulativeTimeSec": 1185.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 617,
+          "cumulativeTimeSec": 1802.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-6670",
+      "name": "竹木 秀一",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 612.3,
+          "cumulativeTimeSec": 612.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 657.2,
+          "cumulativeTimeSec": 1269.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 645.4,
+          "cumulativeTimeSec": 1914.9,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

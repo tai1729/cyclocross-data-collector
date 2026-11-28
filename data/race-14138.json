@@ -1,0 +1,67 @@
+{
+  "raceId": "14138",
+  "raceName": "2022-03-20 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:49:08.927Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4096",
+      "name": "大浦 玲音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 670.2,
+          "cumulativeTimeSec": 670.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 701.1,
+          "cumulativeTimeSec": 1371.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 762.2,
+          "cumulativeTimeSec": 2133.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MMJ-201-0013",
+      "name": "藤井 亜紀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 741,
+          "cumulativeTimeSec": 741,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 744,
+          "cumulativeTimeSec": 1485,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 751.6,
+          "cumulativeTimeSec": 2236.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

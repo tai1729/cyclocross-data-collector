@@ -1,0 +1,84 @@
+{
+  "raceId": "5005",
+  "raceName": "2017-12-17 シクロクロスミーティングシリーズ　シーズン2017-2018 第8戦　南信州（信州クロス）",
+  "category": "CL2 カテゴリーL2",
+  "updatedAt": "2026-11-28T12:08:00.065Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "CCM-000-2325",
+      "name": "大蔵 こころ",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 413.3,
+          "cumulativeTimeSec": 413.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 432.1,
+          "cumulativeTimeSec": 845.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 424.3,
+          "cumulativeTimeSec": 1269.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 419.3,
+          "cumulativeTimeSec": 1689,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-178-0060",
+      "name": "榊山 来実",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 537.9,
+          "cumulativeTimeSec": 537.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 538.9,
+          "cumulativeTimeSec": 1076.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 564.1,
+          "cumulativeTimeSec": 1640.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 5,
+          "lapTimeSec": 506.1,
+          "cumulativeTimeSec": 2147,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

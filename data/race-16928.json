@@ -1,0 +1,61 @@
+{
+  "raceId": "16928",
+  "raceName": "2023-02-12 山口シクロクロス第3戦豊浦ステージ  （山口シクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:43:11.682Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "QCX-223-0023",
+      "name": "荻田 佳明",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 190,
+          "cumulativeTimeSec": 190,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 176.1,
+          "cumulativeTimeSec": 366.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 177.3,
+          "cumulativeTimeSec": 543.4,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-223-0007",
+      "name": "渡邊 由惟",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 278.1,
+          "cumulativeTimeSec": 278.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 283.1,
+          "cumulativeTimeSec": 561.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

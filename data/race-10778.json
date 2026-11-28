@@ -1,0 +1,40 @@
+{
+  "raceId": "10778",
+  "raceName": "2020-11-22 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T11:50:51.428Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-201-0013",
+      "name": "藤井 亜紀",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 581.6,
+          "cumulativeTimeSec": 581.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 633.2,
+          "cumulativeTimeSec": 1214.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 657,
+          "cumulativeTimeSec": 1871.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

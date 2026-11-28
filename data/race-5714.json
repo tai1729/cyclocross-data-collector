@@ -1,0 +1,50 @@
+{
+  "raceId": "5714",
+  "raceName": "2018-02-11 中国シクロクロス第5戦岡山　葡萄浪漫館（中国クロス）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:10:31.651Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CCH-000-0008",
+      "name": "吉野 珠季",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 181,
+          "cumulativeTimeSec": 181,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 181,
+          "cumulativeTimeSec": 362,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 181,
+          "cumulativeTimeSec": 543,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 182,
+          "cumulativeTimeSec": 725,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

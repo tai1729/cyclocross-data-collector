@@ -1,0 +1,42 @@
+{
+  "raceId": "5345",
+  "raceName": "2018-01-14 湘南シクロクロス第2戦2017-18 開成水辺スポーツ公園（湘南シクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T12:09:07.522Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "XTK-178-0013",
+      "name": "佐藤 寿美",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CHB-156-0049",
+      "name": "簑原 由加利",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-000-0787",
+      "name": "安田 朋子",
+      "finalPosition": 3,
+      "status": "dnf",
+      "laps": [],
+      "dataQuality": "ok"
+    }
+  ]
+}

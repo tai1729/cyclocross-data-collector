@@ -1,0 +1,40 @@
+{
+  "raceId": "16330",
+  "raceName": "2023-01-28 東海シクロクロス 第4戦 愛知県日進市 愛知牧場（東海クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-11-28T11:42:09.464Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-212-0005",
+      "name": "綱嶋 凛々音",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 480,
+          "cumulativeTimeSec": 480,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 494,
+          "cumulativeTimeSec": 974,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 493,
+          "cumulativeTimeSec": 1467,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

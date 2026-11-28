@@ -1,0 +1,43 @@
+{
+  "raceId": "7385",
+  "raceName": "2019-01-14 シクロクロスミーティングシリーズ　シーズン2018-2019 第9戦　清里（信州クロス）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T12:03:28.328Z",
+  "raceLapNumbers": [
+    2,
+    3,
+    4
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "CCM-156-0041",
+      "name": "山崎 裕子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 539.4,
+          "cumulativeTimeSec": 539.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 627,
+          "cumulativeTimeSec": 1166.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 628.7,
+          "cumulativeTimeSec": 1795.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

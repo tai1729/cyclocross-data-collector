@@ -1,0 +1,40 @@
+{
+  "raceId": "9653",
+  "raceName": "2020-01-26 阿波シクロクロス（四国クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T11:56:54.806Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCS-167-0054",
+      "name": "福島 翼",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 688.3,
+          "cumulativeTimeSec": 688.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 712.2,
+          "cumulativeTimeSec": 1400.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 763,
+          "cumulativeTimeSec": 2163.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

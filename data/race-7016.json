@@ -1,0 +1,67 @@
+{
+  "raceId": "7016",
+  "raceName": "2018-12-16 東海シクロクロス#4　ワイルドネイチャープラザ（東海クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T12:01:18.361Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-156-0076",
+      "name": "永野 昇海",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 532.8,
+          "cumulativeTimeSec": 532.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 522.4,
+          "cumulativeTimeSec": 1055.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 544.5,
+          "cumulativeTimeSec": 1599.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4102",
+      "name": "香月 陸斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 535.9,
+          "cumulativeTimeSec": 535.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 550.6,
+          "cumulativeTimeSec": 1086.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 524.2,
+          "cumulativeTimeSec": 1610.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

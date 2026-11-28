@@ -1,0 +1,67 @@
+{
+  "raceId": "6699",
+  "raceName": "2018-11-18 東海シクロクロス#2　各務原アウトドアフィールド（東海クロス）",
+  "category": "U15",
+  "updatedAt": "2026-11-28T12:00:16.241Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-000-4101",
+      "name": "香月 空良",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 163.1,
+          "cumulativeTimeSec": 163.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 234.5,
+          "cumulativeTimeSec": 397.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 116.2,
+          "cumulativeTimeSec": 513.8,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TKI-178-0207",
+      "name": "三輪 修麻",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 166.6,
+          "cumulativeTimeSec": 166.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 233.4,
+          "cumulativeTimeSec": 400,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 119.7,
+          "cumulativeTimeSec": 519.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

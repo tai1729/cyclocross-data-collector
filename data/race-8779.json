@@ -1,0 +1,43 @@
+{
+  "raceId": "8779",
+  "raceName": "2019-11-10 関西シクロクロス 第2戦 富田林（関西クロス）",
+  "category": "CC",
+  "updatedAt": "2026-11-28T11:54:14.101Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "KNS-000-3065",
+      "name": "箕形 彰芳",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 374.1,
+          "cumulativeTimeSec": 374.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 366.8,
+          "cumulativeTimeSec": 740.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 337.7,
+          "cumulativeTimeSec": 1078.6,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

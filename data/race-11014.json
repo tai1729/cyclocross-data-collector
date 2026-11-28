@@ -1,0 +1,80 @@
+{
+  "raceId": "11014",
+  "raceName": "2020-12-06 九州シクロクロス 第1戦 平尾台ステージ（九州シクロクロス）",
+  "category": "CL1",
+  "updatedAt": "2026-11-28T11:51:28.291Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-167-0087",
+      "name": "白井 彩",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 472.1,
+          "cumulativeTimeSec": 472.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 439.7,
+          "cumulativeTimeSec": 911.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 447.9,
+          "cumulativeTimeSec": 1359.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 464.3,
+          "cumulativeTimeSec": 1824,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-178-0058",
+      "name": "阪口 知世",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 499.6,
+          "cumulativeTimeSec": 499.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 468.7,
+          "cumulativeTimeSec": 968.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 451,
+          "cumulativeTimeSec": 1419.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 468.5,
+          "cumulativeTimeSec": 1887.8,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "11540",
+  "raceName": "2021-03-07 東北CXシリーズ#4亘理（東北 CX Project）",
+  "category": "CL2+3",
+  "updatedAt": "2026-11-28T11:52:38.078Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-189-0016",
+      "name": "水谷 彩奈",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 543.8,
+          "cumulativeTimeSec": 543.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 534.4,
+          "cumulativeTimeSec": 1078.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 547.1,
+          "cumulativeTimeSec": 1625.3,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-190-0006",
+      "name": "菅原 奈緒",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 675.6,
+          "cumulativeTimeSec": 675.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 683,
+          "cumulativeTimeSec": 1358.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 665,
+          "cumulativeTimeSec": 2023.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

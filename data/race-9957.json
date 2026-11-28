@@ -1,0 +1,40 @@
+{
+  "raceId": "9957",
+  "raceName": "2020-02-16 第13回さぬきシクロクロス善通寺大会（四国クロス）",
+  "category": "CM4",
+  "updatedAt": "2026-11-28T11:57:55.459Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0367",
+      "name": "白石 卓也",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 344,
+          "cumulativeTimeSec": 344,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 324.8,
+          "cumulativeTimeSec": 668.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 315.1,
+          "cumulativeTimeSec": 983.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

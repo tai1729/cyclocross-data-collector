@@ -1,0 +1,74 @@
+{
+  "raceId": "15304",
+  "raceName": "2022-11-27 前橋シクロクロス 岩神緑地（前橋シクロクロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:39:59.914Z",
+  "raceLapNumbers": [
+    1
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 2
+  },
+  "riders": [
+    {
+      "riderId": "MBS-189-0006",
+      "name": "阿部 咲太朗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 467.1,
+          "cumulativeTimeSec": 467.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-223-0012",
+      "name": "清水 陽智",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 536.6,
+          "cumulativeTimeSec": 536.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-9021",
+      "name": "高橋 風太",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 548.6,
+          "cumulativeTimeSec": 548.6,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "MBS-223-0001",
+      "name": "町田 英治",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 573.1,
+          "cumulativeTimeSec": 573.1,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

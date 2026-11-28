@@ -1,0 +1,94 @@
+{
+  "raceId": "14135",
+  "raceName": "2022-03-20 もみじシクロクロス第５戦（もみじシクロクロス）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:49:08.792Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "MMJ-212-0006",
+      "name": "魚谷 日々仁",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 202.4,
+          "cumulativeTimeSec": 202.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 230.2,
+          "cumulativeTimeSec": 432.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 241.3,
+          "cumulativeTimeSec": 673.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-212-0322",
+      "name": "松井 獅夢",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 264.2,
+          "cumulativeTimeSec": 264.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 265.5,
+          "cumulativeTimeSec": 529.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 244.4,
+          "cumulativeTimeSec": 774.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-201-0024",
+      "name": "森村 望",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 261.8,
+          "cumulativeTimeSec": 261.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 269.3,
+          "cumulativeTimeSec": 531.1,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 254.2,
+          "cumulativeTimeSec": 785.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

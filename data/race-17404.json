@@ -1,0 +1,57 @@
+{
+  "raceId": "17404",
+  "raceName": "2023-03-26 茨城シクロクロス 第6戦 茨城町 涸沼自然公園 野鳥の森ステージ（秩父・茨城クロス（関東クロス））",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T11:44:10.424Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 3
+  },
+  "riders": [
+    {
+      "riderId": "CXK-190-0063",
+      "name": "飯島 花怜",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 313.9,
+          "cumulativeTimeSec": 313.9,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 306.8,
+          "cumulativeTimeSec": 620.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CXK-201-0096",
+      "name": "成瀬 奏音",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 314.1,
+          "cumulativeTimeSec": 314.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 306.9,
+          "cumulativeTimeSec": 621,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

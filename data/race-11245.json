@@ -1,0 +1,67 @@
+{
+  "raceId": "11245",
+  "raceName": "2020-12-27 能登クロス（シクロクロス富山）",
+  "category": "CK1",
+  "updatedAt": "2026-11-28T11:52:18.602Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "TYM-201-0008",
+      "name": "河村 皇誠",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 196.7,
+          "cumulativeTimeSec": 196.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 215.1,
+          "cumulativeTimeSec": 411.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 205.4,
+          "cumulativeTimeSec": 617.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-190-0120",
+      "name": "室 倖弥",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 243.5,
+          "cumulativeTimeSec": 243.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 279.5,
+          "cumulativeTimeSec": 523,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 487.3,
+          "cumulativeTimeSec": 1010.3,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

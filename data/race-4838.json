@@ -1,0 +1,96 @@
+{
+  "raceId": "4838",
+  "raceName": "2017-12-17 2017～2018山口シクロクロス　第1戦リフレッシュパーク豊浦（山口シクロクロス）",
+  "category": "Category Kids3",
+  "updatedAt": "2026-11-28T12:07:39.942Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCH-156-0005",
+      "name": "末岡 遥斗",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 220.8,
+          "cumulativeTimeSec": 220.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 225.7,
+          "cumulativeTimeSec": 446.5,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCH-156-0006",
+      "name": "末岡 宏斗",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 230.2,
+          "cumulativeTimeSec": 230.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 232.5,
+          "cumulativeTimeSec": 462.7,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0007",
+      "name": "藤川 湊介",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 291,
+          "cumulativeTimeSec": 291,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 294.3,
+          "cumulativeTimeSec": 585.3,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "YGC-178-0009",
+      "name": "永田 祥恵",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 301.6,
+          "cumulativeTimeSec": 301.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 288.1,
+          "cumulativeTimeSec": 589.7,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

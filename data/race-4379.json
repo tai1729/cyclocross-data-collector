@@ -1,0 +1,121 @@
+{
+  "raceId": "4379",
+  "raceName": "2017-11-12 シクロクロス富山#1（シクロクロス富山）",
+  "category": "CL2",
+  "updatedAt": "2026-11-28T12:06:18.589Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-156-0204",
+      "name": "谷田 葉月",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 570.8,
+          "cumulativeTimeSec": 570.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 575.5,
+          "cumulativeTimeSec": 1146.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 635.7,
+          "cumulativeTimeSec": 1782,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TYM-178-0013",
+      "name": "畑中 しのぶ",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 674,
+          "cumulativeTimeSec": 674,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 673.9,
+          "cumulativeTimeSec": 1347.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 623.2,
+          "cumulativeTimeSec": 1971.1,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-156-0071",
+      "name": "石川 千代",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 663.8,
+          "cumulativeTimeSec": 663.8,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 676.4,
+          "cumulativeTimeSec": 1340.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 677.6,
+          "cumulativeTimeSec": 2017.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "TCX-156-0044",
+      "name": "水越 ユカ",
+      "finalPosition": 4,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 739.4,
+          "cumulativeTimeSec": 739.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 801.8,
+          "cumulativeTimeSec": 1541.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 696.8,
+          "cumulativeTimeSec": 2238,
+          "rankAtLap": 4
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

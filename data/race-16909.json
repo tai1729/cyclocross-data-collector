@@ -1,0 +1,67 @@
+{
+  "raceId": "16909",
+  "raceName": "2023-02-12 関西シクロクロス くろんどクロス（関西クロス）",
+  "category": "CL3",
+  "updatedAt": "2026-11-28T11:43:08.239Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "KNS-190-0094",
+      "name": "井上 美幸",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 421.5,
+          "cumulativeTimeSec": 421.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 408.2,
+          "cumulativeTimeSec": 829.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 410.5,
+          "cumulativeTimeSec": 1240.2,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-223-0179",
+      "name": "奥田 亜紀",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 416.7,
+          "cumulativeTimeSec": 416.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 470.3,
+          "cumulativeTimeSec": 887,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 440.2,
+          "cumulativeTimeSec": 1327.2,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "raceId": "10916",
+  "raceName": "2020-11-23 関西シクロクロス 第4戦 マキノ(2日目)（関西クロス）",
+  "category": "U17",
+  "updatedAt": "2026-11-28T11:51:18.178Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-201-0039",
+      "name": "澤井 千洋",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 517.1,
+          "cumulativeTimeSec": 517.1,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 500.4,
+          "cumulativeTimeSec": 1017.5,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 488.2,
+          "cumulativeTimeSec": 1505.7,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "KNS-000-4642",
+      "name": "水谷 啓人",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 524.7,
+          "cumulativeTimeSec": 524.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 504.3,
+          "cumulativeTimeSec": 1029,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 517.6,
+          "cumulativeTimeSec": 1546.6,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
