@@ -1,0 +1,40 @@
+{
+  "raceId": "29131",
+  "raceName": "2026-11-23 東海シクロクロス JCF/JCX公認レース FUKAYA GHISALLO CUP ワイルドネイチャープラザ（東海クロス）",
+  "category": "WU17",
+  "updatedAt": "2026-11-28T06:12:32.108Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "riders": [
+    {
+      "riderId": "SHN-212-0007",
+      "name": "山本 歩月",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 680.8,
+          "cumulativeTimeSec": 680.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 720,
+          "cumulativeTimeSec": 1400.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 677.1,
+          "cumulativeTimeSec": 2077.9,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

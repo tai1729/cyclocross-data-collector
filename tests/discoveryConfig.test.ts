@@ -3,7 +3,7 @@ import test from "node:test";
 import {
   DiscoveryFailureError,
   assertSeasonResponse,
-  orderCategoriesByOfficialPriority,
+  parseCategoryTabs,
   parseMeetCandidates,
   readSeasonOptions,
   resolveSeasonOption,
@@ -56,44 +56,59 @@ test("rejects a selected response whose canonical heading is missing or duplicat
   );
 });
 
-test("orders recognized classes by official priority and keeps unknown classes stable", () => {
-  const categories: MeetEntry["categories"] = [
-    { raceId: "redirect", name: "MM2+3", order: 0 },
-    { raceId: "unknown-a", name: "Special A", order: 1 },
-    { raceId: "ck1", name: "CK1", order: 2 },
-    { raceId: "me1", name: "ME1", order: 3 },
-    { raceId: "we2", name: "WE2", order: 4 },
-    { raceId: "unknown-b", name: "Special B", order: 5 },
-    { raceId: "me2", name: "ME2", order: 6 },
-    { raceId: "me34", name: "ME3+4", order: 7 },
-    { raceId: "we1", name: "WE1", order: 8 },
-    { raceId: "mm1", name: "MM1", order: 9 },
-    { raceId: "mu17", name: "MU17", order: 10 },
-    { raceId: "mu15", name: "MU15", order: 11 },
-    { raceId: "ck3", name: "CK3", order: 12 },
-    { raceId: "ck2", name: "CK2", order: 13 },
-  ];
+const raceLink = (id: string, name: string) =>
+  `<li><a href="https://data.cyclocross.jp/race/${id}"> ${name} </a></li>`;
+const selectedTab = (name: string) => `<li class="selected"><span>${name}</span></li>`;
+const tabs = (items: string, heading: string) =>
+  `<ul id="cat_tab">\n${items}\n</ul><h2 id="ec_name"> ${heading} </h2>`;
 
-  const ordered = orderCategoriesByOfficialPriority(categories);
+const names = (categories: MeetEntry["categories"]) => categories.map(({ name }) => name);
+const raceIds = (categories: MeetEntry["categories"]) => categories.map(({ raceId }) => raceId);
 
-  assert.deepEqual(ordered.map(({ name }) => name), [
-    "ME1",
-    "ME2",
-    "ME3+4",
-    "WE1",
-    "WE2",
-    "MM1",
-    "MM2+3",
-    "MU17",
-    "MU15",
-    "CK3",
-    "CK2",
-    "CK1",
-    "Special A",
-    "Special B",
-  ]);
-  assert.deepEqual(ordered.map(({ order }) => order), ordered.map((_, index) => index));
-  assert.deepEqual(categories[0], { raceId: "redirect", name: "MM2+3", order: 0 });
+test("keeps the official tab order when the shown category is first", () => {
+  const parsed = parseCategoryTabs(
+    tabs(`${selectedTab("E1")}${raceLink("2", "E2")}${raceLink("3", "CK3")}`, "E1"),
+    "1",
+  );
+  assert.deepEqual(names(parsed), ["E1", "E2", "CK3"]);
+  assert.deepEqual(raceIds(parsed), ["1", "2", "3"]);
+  assert.deepEqual(parsed.map(({ order }) => order), [0, 1, 2]);
+});
+
+test("places the shown category at its tab position when it is in the middle", () => {
+  const parsed = parseCategoryTabs(
+    tabs(`${raceLink("10", "ME1")}${selectedTab("MM2+3")}${raceLink("12", "CK1")}`, "MM2+3"),
+    "11",
+  );
+  assert.deepEqual(names(parsed), ["ME1", "MM2+3", "CK1"]);
+  assert.deepEqual(raceIds(parsed), ["10", "11", "12"]);
+});
+
+test("falls back to the shown category first when no tab is selected or there are no tabs", () => {
+  const noSelected = parseCategoryTabs(
+    tabs(`${raceLink("20", "A")}${raceLink("21", "B")}`, "Z"),
+    "19",
+  );
+  assert.deepEqual(raceIds(noSelected), ["19", "20", "21"]);
+  assert.equal(noSelected[0].name, "Z");
+
+  const noTabs = parseCategoryTabs('<h2 id="ec_name">Only</h2>', "30");
+  assert.deepEqual(noTabs, [{ raceId: "30", name: "Only", order: 0 }]);
+});
+
+test("ignores duplicate race links and skips the selected tab without a redirect", () => {
+  const duplicated = parseCategoryTabs(
+    tabs(`${raceLink("40", "E1")}${raceLink("40", "E1 again")}${raceLink("41", "E2")}`, "E1"),
+    null,
+  );
+  assert.deepEqual(raceIds(duplicated), ["40", "41"]);
+
+  const withoutRedirect = parseCategoryTabs(
+    tabs(`${selectedTab("E1")}${raceLink("51", "E2")}`, "E1"),
+    null,
+  );
+  assert.deepEqual(raceIds(withoutRedirect), ["51"]);
+  assert.deepEqual(withoutRedirect.map(({ order }) => order), [0]);
 });
 
 test("filters explicit-season candidates by event-date season and records mismatches", () => {

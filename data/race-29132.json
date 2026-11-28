@@ -1,0 +1,43 @@
+{
+  "raceId": "29132",
+  "raceName": "2026-11-23 東海シクロクロス JCF/JCX公認レース FUKAYA GHISALLO CUP ワイルドネイチャープラザ（東海クロス）",
+  "category": "WU15",
+  "updatedAt": "2026-11-28T06:12:32.215Z",
+  "raceLapNumbers": [
+    1,
+    2,
+    3
+  ],
+  "excludedRowsByStatus": {
+    "DNS": 1
+  },
+  "riders": [
+    {
+      "riderId": "TKI-223-0077",
+      "name": "岡田 明子",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 562.8,
+          "cumulativeTimeSec": 562.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 582.4,
+          "cumulativeTimeSec": 1145.1999999999998,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 571.9,
+          "cumulativeTimeSec": 1717.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}

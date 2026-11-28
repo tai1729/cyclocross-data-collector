@@ -27,24 +27,6 @@ import { writeSiteMetadata } from "../lib/siteMetadata.js";
 export const MEET_LIST_URL = "https://data.cyclocross.jp/meet";
 const MAX_CONCURRENCY = 5;
 const DISCOVERY_WINDOW_DAYS = 60;
-const OFFICIAL_CATEGORY_PRIORITY = [
-  "ME1",
-  "ME2",
-  "ME3+4",
-  "WE1",
-  "WE2",
-  "MM1",
-  "MM2+3",
-  "MU17",
-  "MU15",
-  "CK3",
-  "CK2",
-  "CK1",
-] as const;
-const OFFICIAL_CATEGORY_PRIORITY_INDEX = new Map<string, number>(
-  OFFICIAL_CATEGORY_PRIORITY.map((name, index) => [name, index]),
-);
-
 export interface MeetCandidate {
   meetId: string;
   meetDate: string;
@@ -83,23 +65,40 @@ function extractRaceId(url: string): string | null {
   return match ? match[1] : null;
 }
 
-export function orderCategoriesByOfficialPriority(
-  categories: MeetEntry["categories"],
+/**
+ * 公式大会ページの #cat_tab をタブの並び順のまま読む。表示中のカテゴリー（li.selected、リンクなし）は
+ * リダイレクト先の raceId としてその位置に入れる。selected が無い・タブが無いときは先頭に入れる。
+ */
+export function parseCategoryTabs(
+  html: string,
+  redirectedRaceId: string | null,
 ): MeetEntry["categories"] {
-  return categories
-    .map((category, sourceIndex) => ({ category, sourceIndex }))
-    .sort((left, right) => {
-      const leftPriority = OFFICIAL_CATEGORY_PRIORITY_INDEX.get(left.category.name.trim());
-      const rightPriority = OFFICIAL_CATEGORY_PRIORITY_INDEX.get(right.category.name.trim());
+  const $ = cheerio.load(html);
+  const shownName = $("#ec_name").text().trim();
+  const categories: { raceId: string; name: string }[] = [];
+  const seen = new Set<string>();
 
-      if (leftPriority !== undefined && rightPriority !== undefined) {
-        return leftPriority - rightPriority || left.sourceIndex - right.sourceIndex;
-      }
-      if (leftPriority !== undefined) return -1;
-      if (rightPriority !== undefined) return 1;
-      return left.sourceIndex - right.sourceIndex;
-    })
-    .map(({ category }, order) => ({ ...category, order }));
+  $("#cat_tab li").each((_, element) => {
+    const item = $(element);
+    const link = item.find("a[href*='/race/']").first();
+    if (link.length > 0) {
+      const raceId = extractRaceId(link.attr("href") ?? "");
+      if (!raceId || seen.has(raceId)) return;
+      seen.add(raceId);
+      categories.push({ raceId, name: link.text().trim() });
+      return;
+    }
+    if (item.hasClass("selected") && redirectedRaceId && !seen.has(redirectedRaceId)) {
+      seen.add(redirectedRaceId);
+      categories.push({ raceId: redirectedRaceId, name: shownName || item.text().trim() });
+    }
+  });
+
+  if (redirectedRaceId && !seen.has(redirectedRaceId)) {
+    categories.unshift({ raceId: redirectedRaceId, name: shownName });
+  }
+
+  return categories.map((category, order) => ({ ...category, order }));
 }
 
 function extractMeetId(url: string): string | null {
@@ -252,26 +251,7 @@ async function findMeetEntry(candidate: MeetCandidate, requestedSeason: string |
     );
   }
 
-  const $ = cheerio.load(html);
-  const categories: MeetEntry["categories"] = [];
-  const seen = new Set<string>();
-
-  const redirectedRaceId = extractRaceId(url);
-  if (redirectedRaceId) {
-    categories.push({ raceId: redirectedRaceId, name: $("#ec_name").text().trim(), order: 0 });
-    seen.add(redirectedRaceId);
-  }
-
-  $("#cat_tab a[href*='/race/']").each((_, element) => {
-    const raceId = extractRaceId($(element).attr("href") ?? "");
-    if (!raceId || seen.has(raceId)) return;
-    seen.add(raceId);
-    categories.push({
-      raceId,
-      name: $(element).text().trim(),
-      order: categories.length,
-    });
-  });
+  const categories = parseCategoryTabs(html, extractRaceId(url));
 
   if (categories.length === 0) {
     throw failure(
@@ -292,7 +272,7 @@ async function findMeetEntry(candidate: MeetCandidate, requestedSeason: string |
     meetDate: candidate.meetDate,
     series: candidate.series,
     meetName: candidate.meetName,
-    categories: orderCategoriesByOfficialPriority(categories),
+    categories,
   };
 }
 
