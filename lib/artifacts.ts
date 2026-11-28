@@ -97,6 +97,17 @@ export interface RiderIndexArtifact {
   riders: RiderIndexEntry[];
 }
 
+export interface RiderIndexManifest {
+  version: typeof ARTIFACT_VERSION;
+  /** 新しい順。各シーズンの索引は rider-index/{season}.json にある */
+  seasons: string[];
+}
+
+export interface RiderIndexBySeason {
+  manifest: RiderIndexManifest;
+  seasons: Record<string, RiderIndexArtifact>;
+}
+
 export interface ArtifactInput {
   meets: readonly MeetEntry[];
   races: ReadonlyMap<string, RaceResult | undefined>;
@@ -412,6 +423,7 @@ function validateExcludedStatusCounts(
 export function buildArtifacts(input: ArtifactInput): {
   inventory: InventoryArtifact;
   riderIndex: RiderIndexArtifact;
+  riderIndexBySeason: RiderIndexBySeason;
 } {
   const failures = [...(input.failures ?? []), ...validateDataset(input.meets)];
   const indexed = new Map<string, { entry: Omit<RiderIndexEntry, "appearances">; appearances: RiderAppearance[] }>();
@@ -420,6 +432,7 @@ export function buildArtifacts(input: ArtifactInput): {
   let resultOnlyRaces = 0;
   let unavailableRaces = 0;
   let totalSources = 0;
+  const seasonSources = new Map<string, { total: number; unavailable: number }>();
 
   const events = [...input.meets]
     .sort((left, right) => right.meetDate.localeCompare(left.meetDate) || left.meetId.localeCompare(right.meetId))
@@ -428,12 +441,16 @@ export function buildArtifacts(input: ArtifactInput): {
         .sort((left, right) => left.order - right.order || left.raceId.localeCompare(right.raceId))
         .map((category): InventoryCategory => {
           totalSources += 1;
+          const seasonCount = seasonSources.get(meet.season) ?? { total: 0, unavailable: 0 };
+          seasonCount.total += 1;
+          seasonSources.set(meet.season, seasonCount);
           const race = input.races.get(category.raceId);
           const diagnostics = validateExcludedStatusCounts(race?.excludedRowsByStatus, meet, category);
           failures.push(...diagnostics.failures);
           const excludedRowsByStatus = diagnostics.counts;
           if (!race || race.riders.length === 0) {
             unavailableRaces += 1;
+            seasonCount.unavailable += 1;
             if (!race) {
               failures.push({
                 stage: "collection",
@@ -515,6 +532,52 @@ export function buildArtifacts(input: ArtifactInput): {
       return { ...meet, categories };
     });
 
+  const toPublic = ({ categoryOrder, riderName, riderDataQuality, ...appearance }: RiderAppearance) => {
+    void categoryOrder;
+    void riderName;
+    void riderDataQuality;
+    return appearance;
+  };
+  const seasonRiders = new Map<string, RiderIndexEntry[]>();
+  for (const { entry, appearances } of indexed.values()) {
+    const bySeason = new Map<string, RiderAppearance[]>();
+    for (const appearance of [...appearances].sort(compareAppearance)) {
+      const list = bySeason.get(appearance.season) ?? [];
+      list.push(appearance);
+      bySeason.set(appearance.season, list);
+    }
+    for (const [season, list] of bySeason) {
+      const riders = seasonRiders.get(season) ?? [];
+      riders.push({
+        riderId: entry.riderId,
+        name: list[0]!.riderName,
+        dataQuality: list[0]!.riderDataQuality,
+        totalAppearances: list.length,
+        appearances: list.map(toPublic),
+      });
+      seasonRiders.set(season, riders);
+    }
+  }
+  const orderedSeasons = [...seasonSources.keys()].sort((left, right) => right.localeCompare(left));
+  const riderIndexBySeason: RiderIndexBySeason = {
+    manifest: { version: ARTIFACT_VERSION, seasons: orderedSeasons },
+    seasons: Object.fromEntries(
+      orderedSeasons.map((season) => {
+        const counts = seasonSources.get(season)!;
+        return [
+          season,
+          {
+            version: ARTIFACT_VERSION,
+            scannedSources: counts.total - counts.unavailable,
+            failedSources: counts.unavailable,
+            totalSources: counts.total,
+            riders: (seasonRiders.get(season) ?? []).sort((left, right) => left.riderId.localeCompare(right.riderId)),
+          },
+        ];
+      }),
+    ),
+  };
+
   const riders = [...indexed.values()]
     .map(({ entry, appearances }) => {
       const ordered = [...appearances].sort(compareAppearance);
@@ -553,5 +616,6 @@ export function buildArtifacts(input: ArtifactInput): {
       totalSources,
       riders,
     },
+    riderIndexBySeason,
   };
 }

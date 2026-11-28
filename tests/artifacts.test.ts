@@ -403,3 +403,29 @@ test("keeps up to 200 newest appearances per rider for the viewer's show-more li
   assert.equal(rider?.totalAppearances, 8);
   assert.equal(rider?.appearances.length, 8);
 });
+
+test("splits the rider index into one file per season with a manifest", () => {
+  const older: MeetEntry = { ...meet, meetId: "M-0", season: "2023-24", meetDate: "2023-12-10", categories: [{ raceId: "R-9", name: "R-9", order: 1 }] };
+  const newer: MeetEntry = { ...meet, categories: [{ raceId: "R-1", name: "R-1", order: 1 }, { raceId: "R-2", name: "R-2", order: 2 }] };
+  const result = buildArtifacts({
+    meets: [older, newer],
+    races: new Map([
+      ["R-9", race("R-9", [{ ...lapRider, name: "Old Name" }], [1])],
+      ["R-1", race("R-1", [lapRider], [1])],
+      ["R-2", race("R-2", [lapRider, resultOnlyRider], [1])],
+    ]),
+  });
+
+  const { manifest, seasons } = result.riderIndexBySeason;
+  assert.deepEqual(manifest.seasons, ["2024-25", "2023-24"]);
+  assert.equal(manifest.version, result.riderIndex.version);
+  const recent = seasons["2024-25"]!.riders.find((rider) => rider.riderId === "RIDER-2");
+  const old = seasons["2023-24"]!.riders.find((rider) => rider.riderId === "RIDER-2");
+  assert.equal(recent?.totalAppearances, 2);
+  assert.deepEqual(recent?.appearances.map(({ raceId }) => raceId), ["R-1", "R-2"]);
+  assert.equal(old?.name, "Old Name");
+  assert.deepEqual(old?.appearances.map(({ season }) => season), ["2023-24"]);
+  assert.equal(seasons["2023-24"]!.totalSources, 1);
+  assert.equal(seasons["2024-25"]!.totalSources, 2);
+  assert.equal(seasons["2023-24"]!.riders.some((rider) => rider.riderId === "RIDER-1"), false);
+});
