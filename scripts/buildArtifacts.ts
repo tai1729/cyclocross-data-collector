@@ -54,7 +54,8 @@ export async function buildAndWriteArtifacts(options: { strict?: boolean } = {})
 
   const artifacts = buildArtifacts({ meets, races });
   await writeJson(INVENTORY_JSON_PATH, artifacts.inventory);
-  await writeJson(RIDER_INDEX_JSON_PATH, artifacts.riderIndex);
+  // 1ファイルの選手索引は GitHub の容量の警告を超えるため書かない。viewer は rider-index/ を読む
+  await rm(RIDER_INDEX_JSON_PATH, { force: true });
   await writeRiderIndexBySeason(artifacts.riderIndexBySeason);
 
   if (options.strict && artifacts.inventory.failures.length > 0) {
