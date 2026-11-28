@@ -1,18 +1,33 @@
-import { readFile } from "node:fs/promises";
+import { mkdir, readdir, readFile, rm, writeFile } from "node:fs/promises";
 import { pathToFileURL } from "node:url";
 import path from "node:path";
 import {
   INVENTORY_JSON_PATH,
   MEETS_JSON_PATH,
+  RIDER_INDEX_DIR,
   RIDER_INDEX_JSON_PATH,
   readJson,
   writeJson,
   type MeetEntry,
 } from "../lib/raceConfig.js";
-import { buildArtifacts, type InventoryFailure } from "../lib/artifacts.js";
+import { buildArtifacts, type InventoryFailure, type RiderIndexBySeason } from "../lib/artifacts.js";
 import type { RaceResult } from "../lib/types.js";
 
 const DATA_DIR = path.join(import.meta.dirname, "..", "data");
+
+/** シーズンごとの選手索引を書く。容量を抑えるため各シーズンは改行なしのJSONにする。 */
+async function writeRiderIndexBySeason({ manifest, seasons }: RiderIndexBySeason): Promise<void> {
+  await mkdir(RIDER_INDEX_DIR, { recursive: true });
+  const expected = new Set(["manifest.json", ...manifest.seasons.map((season) => `${season}.json`)]);
+  for (const name of await readdir(RIDER_INDEX_DIR)) {
+    if (name.endsWith(".json") && !expected.has(name)) await rm(path.join(RIDER_INDEX_DIR, name));
+  }
+  for (const season of manifest.seasons) {
+    await writeFile(path.join(RIDER_INDEX_DIR, `${season}.json`), `${JSON.stringify(seasons[season])}
+`, "utf-8");
+  }
+  await writeJson(path.join(RIDER_INDEX_DIR, "manifest.json"), manifest);
+}
 
 async function readRace(raceId: string): Promise<RaceResult | undefined> {
   try {
@@ -40,6 +55,7 @@ export async function buildAndWriteArtifacts(options: { strict?: boolean } = {})
   const artifacts = buildArtifacts({ meets, races });
   await writeJson(INVENTORY_JSON_PATH, artifacts.inventory);
   await writeJson(RIDER_INDEX_JSON_PATH, artifacts.riderIndex);
+  await writeRiderIndexBySeason(artifacts.riderIndexBySeason);
 
   if (options.strict && artifacts.inventory.failures.length > 0) {
     throw new Error(`${artifacts.inventory.failures.length} dataset failure(s) recorded in inventory.json`);

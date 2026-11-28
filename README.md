@@ -34,7 +34,8 @@ viewer（Vercel）
 | --- | --- | --- |
 | `data/race-{raceId}.json` | カテゴリー別のレース結果とラップ（viewerが読む） | collect |
 | `meets.json` | 大会とカテゴリーの一覧（viewerが読む） | discover / collect |
-| `rider-index.json` | 選手の横断検索用インデックス（viewerが読む） | build-artifacts |
+| `rider-index.json` | 選手の横断検索用インデックス（移行中。viewerは `rider-index/` に切り替える） | build-artifacts |
+| `rider-index/manifest.json`, `rider-index/{season}.json` | シーズンごとの選手索引（1シーズン約3MB、改行なし） | build-artifacts |
 | `site-metadata.json` | データが最後に変わった日時 `updatedAt`（viewerが表示） | collect |
 | `races.json` | 収集対象のレースIDと開催日 | discover |
 | `known_meets.json` | 展開済み大会スラッグ（重複防止） | discover |
