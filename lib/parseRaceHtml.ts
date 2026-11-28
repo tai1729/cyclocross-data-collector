@@ -101,7 +101,8 @@ interface RawRider {
 
 interface LapTableSchema {
   lapNumbers: number[];
-  cellOffset: number;
+  /** lapNumbers と同じ順の、ラップ表の列番号（選手名の後ろを0とする） */
+  columnIndexes: number[];
   valueType: "cumulative" | "lap-time";
 }
 
@@ -210,7 +211,8 @@ function detectStartLoopValueType(
  * ラップタイムテーブルのヘッダー（例: "2周", "3周", ...）から
  * 列インデックス→周回番号のマッピングを作る。
  * レースによって開始周が1周からでない場合があるため、決め打ちにしない。
- * StartLoop列に計測値があれば、公式の周回数どおりそれを1周目とし、"k周"をk+1周目にする。
+ * "StartLoop" など周回番号の無い列でも、計測値があれば公式の周回数どおり1周として数え、
+ * 直前の周の次の番号にする（後ろの "k周" は1つずつずれる）。計測値が無ければ飛ばす。
  */
 function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSchema {
   const headerCells = $(".table__laptime thead th.cell__lapat");
@@ -219,28 +221,39 @@ function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSch
     : $(".table__laptime thead th").slice(2))
     .toArray()
     .map((el) => $(el).text().trim());
-  const hasStartLoop = labels[0] === "StartLoop";
-  const numberedLaps: number[] = [];
-  for (const label of labels) {
-    if (label === "StartLoop") continue;
+  const lapNumberOf = (label: string): number | null => {
     const match = label.match(/(\d+)\s*周/);
-    if (match) numberedLaps.push(Number(match[1]));
-  }
+    const lap = match ? Number(match[1]) : 0;
+    return lap > 0 ? lap : null;
+  };
+  const hasUnnumbered = labels.some((label) => lapNumberOf(label) === null);
+  const rows = hasUnnumbered ? readTimingRows($, raceId, labels.length) : [];
 
-  if (!hasStartLoop) {
-    return { lapNumbers: numberedLaps, cellOffset: 0, valueType: "cumulative" };
-  }
+  const lapNumbers: number[] = [];
+  const columnIndexes: number[] = [];
+  let shift = 0;
+  labels.forEach((label, index) => {
+    const numbered = lapNumberOf(label);
+    if (numbered !== null) {
+      lapNumbers.push(numbered + shift);
+      columnIndexes.push(index);
+      return;
+    }
+    if (!rows.some((row) => (row.values[index] ?? 0) > 0)) return;
+    lapNumbers.push((lapNumbers.at(-1) ?? 0) + 1);
+    columnIndexes.push(index);
+    shift += 1;
+  });
 
-  const rows = readTimingRows($, raceId, 1 + numberedLaps.length);
-  const startLoopTimed = rows.some((row) => (row.values[0] ?? 0) > 0);
-  const cellOffset = startLoopTimed ? 0 : 1;
   return {
-    lapNumbers: startLoopTimed ? [1, ...numberedLaps.map((lap) => lap + 1)] : numberedLaps,
-    cellOffset,
-    valueType: detectStartLoopValueType(
-      rows.map((row) => ({ ...row, values: row.values.slice(cellOffset) })),
-      parseResultTotalTimes($, raceId),
-    ),
+    lapNumbers,
+    columnIndexes,
+    valueType: hasUnnumbered
+      ? detectStartLoopValueType(
+          rows.map((row) => ({ ...row, values: columnIndexes.map((index) => row.values[index] ?? null) })),
+          parseResultTotalTimes($, raceId),
+        )
+      : "cumulative",
   };
 }
 
@@ -324,17 +337,15 @@ function parseRawRiders(
       rowOrdinal + 1,
     );
 
-    const lapCellEls = $row
-      .find("td")
-      .slice(2 + schema.cellOffset, 2 + schema.cellOffset + schema.lapNumbers.length)
-      .toArray();
+    const rowCells = $row.find("td").toArray();
+    const lapCellEls = schema.columnIndexes.map((index) => rowCells[2 + index]);
     let prevCumulative = 0;
     let hasAnomaly = false;
     let missingValueSeen = false;
 
     const lapCells: RawLapCell[] = lapCellEls.map((cellEl, i) => {
       const lapNumber = schema.lapNumbers[i];
-      const text = $(cellEl).text().trim();
+      const text = cellEl ? $(cellEl).text().trim() : "";
       const parsedTimeSec = parseClockToSec(text);
       let cumulativeTimeSec = parsedTimeSec;
 
