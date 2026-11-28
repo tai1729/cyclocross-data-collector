@@ -207,6 +207,24 @@ test("counts any timed column without a lap number as the next lap", () => {
   assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [420, 850, 1290]);
 });
 
+test("ignores a StartLoop column where only a few riders have a time", () => {
+  const result = parseRaceHtml(
+    "sl-mostly-zero",
+    raceHtml(
+      ["StartLoop", "1周", "2周"],
+      [
+        riderRow("1", "R-1", "Leader", ["0.0", "5:00.0", "5:10.0"]),
+        riderRow("2", "R-2", "Second", ["0.0", "5:05.0", "5:15.0"]),
+        riderRow("3", "R-3", "Late starter", ["1:01.0", "5:30.0", "5:40.0"]),
+      ].join(""),
+    ),
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2]);
+  assert.ok(result.riders.every((rider) => rider.dataQuality === "ok"));
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [300, 610]);
+});
+
 test("skips an untimed column without a lap number and keeps later laps aligned", () => {
   const result = parseRaceHtml(
     "untimed-note",

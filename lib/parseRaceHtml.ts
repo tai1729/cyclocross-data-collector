@@ -162,7 +162,10 @@ function readTimingRows($: cheerio.CheerioAPI, raceId: string, columnCount: numb
       .find("td")
       .slice(2, 2 + columnCount)
       .toArray()
-      .map((cell) => parseClockToSec($(cell).text().trim()));
+      .map((cell) => {
+        const text = $(cell).text().trim();
+        return /^0+(?:\.0+)?$/.test(text) ? 0 : parseClockToSec(text);
+      });
     rows.push({ riderId, finished: parsedRank.status === "finished", values });
   });
   return rows;
@@ -212,7 +215,7 @@ function detectStartLoopValueType(
  * 列インデックス→周回番号のマッピングを作る。
  * レースによって開始周が1周からでない場合があるため、決め打ちにしない。
  * "StartLoop" など周回番号の無い列でも、計測値があれば公式の周回数どおり1周として数え、
- * 直前の周の次の番号にする（後ろの "k周" は1つずつずれる）。計測値が無ければ飛ばす。
+ * 直前の周の次の番号にする（後ろの "k周" は1つずつずれる）。計測値が無い、または 0.0 の選手の方が多ければ飛ばす。
  */
 function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSchema {
   const headerCells = $(".table__laptime thead th.cell__lapat");
@@ -239,7 +242,10 @@ function parseLapTableSchema($: cheerio.CheerioAPI, raceId: string): LapTableSch
       columnIndexes.push(index);
       return;
     }
-    if (!rows.some((row) => (row.values[index] ?? 0) > 0)) return;
+    // 0.0 の選手が多い列は計測していない列とみなす（出遅れなど一部の選手だけに値が入ることがある）
+    const timedRows = rows.filter((row) => (row.values[index] ?? 0) > 0).length;
+    const zeroRows = rows.filter((row) => row.values[index] === 0).length;
+    if (timedRows === 0 || timedRows <= zeroRows) return;
     lapNumbers.push((lapNumbers.at(-1) ?? 0) + 1);
     columnIndexes.push(index);
     shift += 1;
