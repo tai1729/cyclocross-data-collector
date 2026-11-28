@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { buildArtifacts } from "../lib/artifacts.js";
+import { buildArtifacts, RIDER_INDEX_APPEARANCE_LIMIT } from "../lib/artifacts.js";
 import { parseRaceHtml } from "../lib/parseRaceHtml.js";
 import type { MeetEntry } from "../lib/raceConfig.js";
 import type { RaceResult } from "../lib/types.js";
@@ -389,4 +389,17 @@ test("classifies normalized races with no accepted riders as nonblocking unavail
   assert.equal(result.inventory.events[0]?.categories[0]?.resultAvailability, "unavailable");
   assert.equal(result.inventory.events[0]?.categories[0]?.lapDataAvailability, "unavailable");
   assert.deepEqual(result.inventory.failures, []);
+});
+
+test("keeps up to 200 newest appearances per rider for the viewer's show-more list", () => {
+  assert.equal(RIDER_INDEX_APPEARANCE_LIMIT, 200);
+  const ids = Array.from({ length: 8 }, (_, index) => `R-${index + 1}`);
+  const result = buildArtifacts({
+    meets: [{ ...meet, categories: ids.map((raceId, order) => ({ raceId, name: raceId, order })) }],
+    races: new Map(ids.map((raceId) => [raceId, race(raceId, [lapRider], [1])])),
+  });
+
+  const rider = result.riderIndex.riders.find((entry) => entry.riderId === "RIDER-2");
+  assert.equal(rider?.totalAppearances, 8);
+  assert.equal(rider?.appearances.length, 8);
 });
