@@ -122,6 +122,78 @@ test("excludes StartLoop from metadata and converts lap-time columns", () => {
   ]);
 });
 
+const resultTable = (rows: string) => `<table class="table__result"><tbody>${rows}</tbody></table>`;
+
+test("counts a timed StartLoop as lap 1 when values are lap times", () => {
+  const result = parseRaceHtml(
+    "sl-lap",
+    `${raceHtml(
+      ["StartLoop", "1周", "2周"],
+      [
+        riderRow("1", "R-1", "Leader", ["7:39.0", "7:31.9", "7:33.4"]),
+        riderRow("2", "R-2", "Second", ["7:48.9", "7:55.6", "7:44.5"]),
+      ].join(""),
+      3,
+    )}${resultTable(
+      resultRow("1", "Leader", "22:44.3", "R-1") + resultRow("2", "Second", "+44.7", "R-2"),
+    )}`,
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2, 3]);
+  assert.deepEqual(result.riders[0].laps, [
+    { lapNumber: 1, lapTimeSec: 459, cumulativeTimeSec: 459, rankAtLap: 1 },
+    { lapNumber: 2, lapTimeSec: 451.9, cumulativeTimeSec: 910.9, rankAtLap: 1 },
+    { lapNumber: 3, lapTimeSec: 453.4, cumulativeTimeSec: 1364.3, rankAtLap: 1 },
+  ]);
+  assert.equal(result.riders[1].laps[2]?.cumulativeTimeSec, 1409);
+});
+
+test("counts a timed StartLoop as lap 1 when values are cumulative", () => {
+  const result = parseRaceHtml(
+    "sl-cumulative",
+    `${raceHtml(
+      ["StartLoop", "1周", "2周"],
+      [
+        riderRow("1", "R-1", "Leader", ["7:43.8", "16:00.3", "24:46.1"]),
+        riderRow("2", "R-2", "Second", ["8:08.7", "16:54.7", "25:33.6"]),
+      ].join(""),
+    )}${resultTable(
+      resultRow("1", "Leader", "24:46.1", "R-1") + resultRow("2", "Second", "+47.5", "R-2"),
+    )}`,
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1, 2, 3]);
+  assert.deepEqual(result.riders[0].laps, [
+    { lapNumber: 1, lapTimeSec: 463.8, cumulativeTimeSec: 463.8, rankAtLap: 1 },
+    { lapNumber: 2, lapTimeSec: 496.5, cumulativeTimeSec: 960.3, rankAtLap: 1 },
+    { lapNumber: 3, lapTimeSec: 525.8, cumulativeTimeSec: 1486.1, rankAtLap: 1 },
+  ]);
+});
+
+test("detects cumulative StartLoop values without a result table", () => {
+  const result = parseRaceHtml(
+    "sl-cumulative-no-result",
+    raceHtml(
+      ["StartLoop", "1周", "2周"],
+      riderRow("1", "R-1", "Leader", ["7:50.8", "16:13.7", "24:56.1"]),
+    ),
+  );
+
+  assert.deepEqual(result.riders[0].laps.map((lap) => lap.cumulativeTimeSec), [470.8, 973.7, 1496.1]);
+});
+
+test("a StartLoop-only race has one lap", () => {
+  const result = parseRaceHtml(
+    "sl-only",
+    raceHtml(["StartLoop"], riderRow("1", "R-1", "Kid", ["2:03.0"]) + riderRow("2", "R-2", "Kid 2", ["3:30.0"])),
+  );
+
+  assert.deepEqual(result.raceLapNumbers, [1]);
+  assert.deepEqual(result.riders[1].laps, [
+    { lapNumber: 1, lapTimeSec: 210, cumulativeTimeSec: 210, rankAtLap: 2 },
+  ]);
+});
+
 test("marks non-increasing cumulative times as anomalous", () => {
   const result = parseRaceHtml(
     "3",
