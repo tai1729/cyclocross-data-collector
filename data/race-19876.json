@@ -2,10 +2,11 @@
   "raceId": "19876",
   "raceName": "2024-01-14 第29回全日本選手権シクロクロスDay2（全日本選手権）",
   "category": "WU17",
-  "updatedAt": "2026-09-15T00:07:02.141Z",
+  "updatedAt": "2026-11-28T09:16:10.575Z",
   "raceLapNumbers": [
     1,
-    2
+    2,
+    3
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -19,14 +20,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 942,
-          "cumulativeTimeSec": 942,
+          "lapTimeSec": 513.4,
+          "cumulativeTimeSec": 513.4,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1370,
-          "cumulativeTimeSec": 2312,
+          "lapTimeSec": 428.6,
+          "cumulativeTimeSec": 942,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 428,
+          "cumulativeTimeSec": 1370,
           "rankAtLap": 1
         }
       ],
@@ -40,14 +47,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1031.9,
+          "lapTimeSec": 552.6,
+          "cumulativeTimeSec": 552.6,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 479.3,
           "cumulativeTimeSec": 1031.9,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1493.8,
-          "cumulativeTimeSec": 2525.7,
+          "lapNumber": 3,
+          "lapTimeSec": 461.9,
+          "cumulativeTimeSec": 1493.8,
           "rankAtLap": 2
         }
       ],
@@ -61,14 +74,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1021.2,
+          "lapTimeSec": 561.4,
+          "cumulativeTimeSec": 561.4,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 459.8,
           "cumulativeTimeSec": 1021.2,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1523.9,
-          "cumulativeTimeSec": 2545.1000000000004,
+          "lapNumber": 3,
+          "lapTimeSec": 502.7,
+          "cumulativeTimeSec": 1523.9,
           "rankAtLap": 3
         }
       ],

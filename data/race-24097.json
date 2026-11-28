@@ -2,11 +2,12 @@
   "raceId": "24097",
   "raceName": "2025-03-16 2024-25もみじシクロクロス第５戦（もみじシクロクロス）",
   "category": "ME3+4",
-  "updatedAt": "2026-09-15T00:13:56.378Z",
+  "updatedAt": "2026-11-28T09:17:57.912Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -20,20 +21,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 821.8,
-          "cumulativeTimeSec": 821.8,
+          "lapTimeSec": 405.7,
+          "cumulativeTimeSec": 405.7,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1236.2,
-          "cumulativeTimeSec": 2058,
+          "lapTimeSec": 416.1,
+          "cumulativeTimeSec": 821.8,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 1642.3,
-          "cumulativeTimeSec": 3700.3,
+          "lapTimeSec": 414.4,
+          "cumulativeTimeSec": 1236.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 1642.3,
           "rankAtLap": 1
         }
       ],
@@ -47,20 +54,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 863.6,
+          "lapTimeSec": 450.9,
+          "cumulativeTimeSec": 450.9,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412.7,
           "cumulativeTimeSec": 863.6,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1315.6,
-          "cumulativeTimeSec": 2179.2,
+          "lapNumber": 3,
+          "lapTimeSec": 452,
+          "cumulativeTimeSec": 1315.6,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 1753.5,
-          "cumulativeTimeSec": 3932.7,
+          "lapNumber": 4,
+          "lapTimeSec": 437.9,
+          "cumulativeTimeSec": 1753.5,
           "rankAtLap": 2
         }
       ],
@@ -74,20 +87,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 891.4,
+          "lapTimeSec": 436.9,
+          "cumulativeTimeSec": 436.9,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 454.5,
           "cumulativeTimeSec": 891.4,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1351,
-          "cumulativeTimeSec": 2242.4,
+          "lapNumber": 3,
+          "lapTimeSec": 459.6,
+          "cumulativeTimeSec": 1351,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 1856.3,
-          "cumulativeTimeSec": 4098.7,
+          "lapNumber": 4,
+          "lapTimeSec": 505.3,
+          "cumulativeTimeSec": 1856.3,
           "rankAtLap": 3
         }
       ],
@@ -101,20 +120,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 986.3,
-          "cumulativeTimeSec": 986.3,
+          "lapTimeSec": 456.5,
+          "cumulativeTimeSec": 456.5,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1485.2,
-          "cumulativeTimeSec": 2471.5,
+          "lapTimeSec": 529.8,
+          "cumulativeTimeSec": 986.3,
           "rankAtLap": 4
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 2110.9,
-          "cumulativeTimeSec": 4582.4,
+          "lapTimeSec": 498.9,
+          "cumulativeTimeSec": 1485.2,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 625.7,
+          "cumulativeTimeSec": 2110.9,
           "rankAtLap": 4
         }
       ],
@@ -128,7 +153,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 2122.1,
+          "lapTimeSec": 689.5,
+          "cumulativeTimeSec": 689.5,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 1432.6,
           "cumulativeTimeSec": 2122.1,
           "rankAtLap": 5
         }

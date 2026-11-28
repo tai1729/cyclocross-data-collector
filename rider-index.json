@@ -105436,7 +105436,7 @@
       "riderId": "KNS-000-4643",
       "name": "美並 聡子",
       "dataQuality": "ok",
-      "totalAppearances": 13,
+      "totalAppearances": 12,
       "appearances": [
         {
           "meetId": "MMJ-267-002",
@@ -105504,7 +105504,7 @@
       "riderId": "KNS-000-4644",
       "name": "美並 慎一",
       "dataQuality": "ok",
-      "totalAppearances": 22,
+      "totalAppearances": 16,
       "appearances": [
         {
           "meetId": "MMJ-267-002",
@@ -105557,13 +105557,13 @@
           "categoryName": "ME1"
         },
         {
-          "meetId": "MMJ-256-003",
-          "meetName": "2025-26もみじシクロクロス第３戦",
-          "meetDate": "2026-01-11",
+          "meetId": "TYM-256-001",
+          "meetName": "朝日町自転車オフロード祭inTOYAMA",
+          "meetDate": "2025-12-07",
           "season": "2025-26",
-          "series": "もみじ",
-          "raceId": "26530",
-          "categoryId": "26530",
+          "series": "富山",
+          "raceId": "25843",
+          "categoryId": "25843",
           "categoryName": "ME1"
         }
       ]
@@ -183005,6 +183005,92 @@
           "raceId": "29156",
           "categoryId": "29156",
           "categoryName": "E4"
+        }
+      ]
+    },
+    {
+      "riderId": "KYU-267-0001",
+      "name": "美並 聡子",
+      "dataQuality": "ok",
+      "totalAppearances": 1,
+      "appearances": [
+        {
+          "meetId": "CCS-234-002",
+          "meetName": "第9回高知CX ヤシィシクロクロスカップ day2",
+          "meetDate": "2024-02-11",
+          "season": "2023-24",
+          "series": "四国",
+          "raceId": "20357",
+          "categoryId": "20357",
+          "categoryName": "WE2"
+        }
+      ]
+    },
+    {
+      "riderId": "KYU-267-0002",
+      "name": "美並 慎一",
+      "dataQuality": "ok",
+      "totalAppearances": 6,
+      "appearances": [
+        {
+          "meetId": "MMJ-256-003",
+          "meetName": "2025-26もみじシクロクロス第３戦",
+          "meetDate": "2026-01-11",
+          "season": "2025-26",
+          "series": "もみじ",
+          "raceId": "26530",
+          "categoryId": "26530",
+          "categoryName": "ME1"
+        },
+        {
+          "meetId": "YGC-256-001",
+          "meetName": "2025-2026　セービング・山口シクロクロス　第１戦　リフレッシュパーク豊浦",
+          "meetDate": "2025-12-21",
+          "season": "2025-26",
+          "series": "山口",
+          "raceId": "26230",
+          "categoryId": "26230",
+          "categoryName": "ME1"
+        },
+        {
+          "meetId": "MMJ-245-001",
+          "meetName": "2024-25もみじシクロクロス第１戦",
+          "meetDate": "2024-10-27",
+          "season": "2024-25",
+          "series": "もみじ",
+          "raceId": "21791",
+          "categoryId": "21791",
+          "categoryName": "ME1"
+        },
+        {
+          "meetId": "CCS-234-002",
+          "meetName": "第9回高知CX ヤシィシクロクロスカップ day2",
+          "meetDate": "2024-02-11",
+          "season": "2023-24",
+          "series": "四国",
+          "raceId": "20364",
+          "categoryId": "20364",
+          "categoryName": "ME1"
+        },
+        {
+          "meetId": "MMJ-234-001",
+          "meetName": "2023-24もみじシクロクロス第１戦",
+          "meetDate": "2023-10-22",
+          "season": "2023-24",
+          "series": "もみじ",
+          "raceId": "17909",
+          "categoryId": "17909",
+          "categoryName": "C1"
+        },
+        {
+          "meetId": "CCM-234-001",
+          "meetName": "シクロクロスミーティングシリーズ　シーズン2023-2024 第1戦　白樺湖",
+          "meetDate": "2023-10-01",
+          "season": "2023-24",
+          "series": "信州",
+          "raceId": "17739",
+          "categoryId": "17739",
+          "categoryName": "ME1"
         }
       ]
     },

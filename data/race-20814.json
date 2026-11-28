@@ -2,11 +2,12 @@
   "raceId": "20814",
   "raceName": "2024-02-25 2023-24もみじシクロクロス第４戦 （もみじシクロクロス）",
   "category": "C3",
-  "updatedAt": "2026-09-15T00:08:30.117Z",
+  "updatedAt": "2026-11-28T09:16:36.067Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "riders": [
     {
@@ -17,20 +18,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 995.2,
-          "cumulativeTimeSec": 995.2,
+          "lapTimeSec": 469,
+          "cumulativeTimeSec": 469,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1490.3,
-          "cumulativeTimeSec": 2485.5,
+          "lapTimeSec": 526.2,
+          "cumulativeTimeSec": 995.2,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 1994.2,
-          "cumulativeTimeSec": 4479.7,
+          "lapTimeSec": 495.1,
+          "cumulativeTimeSec": 1490.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 503.9,
+          "cumulativeTimeSec": 1994.2,
           "rankAtLap": 1
         }
       ],

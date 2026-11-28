@@ -2,14 +2,15 @@
   "raceId": "19459",
   "raceName": "2023-12-24 2023-24もみじシクロクロス第３戦 （もみじシクロクロス）",
   "category": "C2",
-  "updatedAt": "2026-09-15T00:06:36.360Z",
+  "updatedAt": "2026-11-28T09:16:05.923Z",
   "raceLapNumbers": [
     1,
     2,
     3,
     4,
     5,
-    6
+    6,
+    7
   ],
   "excludedRowsByStatus": {
     "DNS": 2
@@ -23,38 +24,44 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 817.6,
+          "lapTimeSec": 405.6,
+          "cumulativeTimeSec": 405.6,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 412,
           "cumulativeTimeSec": 817.6,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1210.4,
-          "cumulativeTimeSec": 2028,
-          "rankAtLap": 1
-        },
-        {
           "lapNumber": 3,
-          "lapTimeSec": 1606.4,
-          "cumulativeTimeSec": 3634.4,
+          "lapTimeSec": 392.8,
+          "cumulativeTimeSec": 1210.4,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 2005.6,
-          "cumulativeTimeSec": 5640,
+          "lapTimeSec": 396,
+          "cumulativeTimeSec": 1606.4,
           "rankAtLap": 1
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 2400.6,
-          "cumulativeTimeSec": 8040.6,
+          "lapTimeSec": 399.2,
+          "cumulativeTimeSec": 2005.6,
           "rankAtLap": 1
         },
         {
           "lapNumber": 6,
-          "lapTimeSec": 2802.1,
-          "cumulativeTimeSec": 10842.7,
+          "lapTimeSec": 395,
+          "cumulativeTimeSec": 2400.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 401.5,
+          "cumulativeTimeSec": 2802.1,
           "rankAtLap": 1
         }
       ],
@@ -68,38 +75,44 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 842.7,
+          "lapTimeSec": 389.7,
+          "cumulativeTimeSec": 389.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 453,
           "cumulativeTimeSec": 842.7,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1289.8,
-          "cumulativeTimeSec": 2132.5,
-          "rankAtLap": 2
-        },
-        {
           "lapNumber": 3,
-          "lapTimeSec": 1736,
-          "cumulativeTimeSec": 3868.5,
+          "lapTimeSec": 447.1,
+          "cumulativeTimeSec": 1289.8,
           "rankAtLap": 2
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 2181.1,
-          "cumulativeTimeSec": 6049.6,
+          "lapTimeSec": 446.2,
+          "cumulativeTimeSec": 1736,
           "rankAtLap": 2
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 2612.3,
-          "cumulativeTimeSec": 8661.900000000001,
+          "lapTimeSec": 445.1,
+          "cumulativeTimeSec": 2181.1,
           "rankAtLap": 2
         },
         {
           "lapNumber": 6,
-          "lapTimeSec": 3056.8,
-          "cumulativeTimeSec": 11718.7,
+          "lapTimeSec": 431.2,
+          "cumulativeTimeSec": 2612.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 444.5,
+          "cumulativeTimeSec": 3056.8,
           "rankAtLap": 2
         }
       ],
@@ -113,38 +126,44 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 840.9,
-          "cumulativeTimeSec": 840.9,
+          "lapTimeSec": 404,
+          "cumulativeTimeSec": 404,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1293.8,
-          "cumulativeTimeSec": 2134.7,
-          "rankAtLap": 3
+          "lapTimeSec": 436.9,
+          "cumulativeTimeSec": 840.9,
+          "rankAtLap": 2
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 1745.2,
-          "cumulativeTimeSec": 3879.8999999999996,
+          "lapTimeSec": 452.9,
+          "cumulativeTimeSec": 1293.8,
           "rankAtLap": 3
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 2197.6,
-          "cumulativeTimeSec": 6077.5,
+          "lapTimeSec": 451.4,
+          "cumulativeTimeSec": 1745.2,
           "rankAtLap": 3
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 2658.5,
-          "cumulativeTimeSec": 8736,
+          "lapTimeSec": 452.4,
+          "cumulativeTimeSec": 2197.6,
           "rankAtLap": 3
         },
         {
           "lapNumber": 6,
-          "lapTimeSec": 3122.2,
-          "cumulativeTimeSec": 11858.2,
+          "lapTimeSec": 460.9,
+          "cumulativeTimeSec": 2658.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 7,
+          "lapTimeSec": 463.7,
+          "cumulativeTimeSec": 3122.2,
           "rankAtLap": 3
         }
       ],

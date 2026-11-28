@@ -2,11 +2,12 @@
   "raceId": "20002",
   "raceName": "2024-01-20 東海シクロクロス 第5戦 愛知県 愛知牧場（東海クロス）",
   "category": "MU15",
-  "updatedAt": "2026-09-15T00:07:06.913Z",
+  "updatedAt": "2026-11-28T09:16:19.662Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -20,20 +21,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 615,
-          "cumulativeTimeSec": 615,
+          "lapTimeSec": 481,
+          "cumulativeTimeSec": 481,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 684,
-          "cumulativeTimeSec": 1299,
+          "lapTimeSec": 615,
+          "cumulativeTimeSec": 1096,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 684,
+          "cumulativeTimeSec": 1780,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 639,
-          "cumulativeTimeSec": 1938,
+          "cumulativeTimeSec": 2419,
           "rankAtLap": 1
         }
       ],
@@ -47,20 +54,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 637,
-          "cumulativeTimeSec": 637,
+          "lapTimeSec": 481,
+          "cumulativeTimeSec": 481,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 670,
-          "cumulativeTimeSec": 1307,
+          "lapTimeSec": 637,
+          "cumulativeTimeSec": 1118,
           "rankAtLap": 2
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 670,
+          "cumulativeTimeSec": 1788,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 681,
-          "cumulativeTimeSec": 1988,
+          "cumulativeTimeSec": 2469,
           "rankAtLap": 2
         }
       ],
@@ -74,20 +87,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 681,
-          "cumulativeTimeSec": 681,
+          "lapTimeSec": 482,
+          "cumulativeTimeSec": 482,
           "rankAtLap": 3
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 750,
-          "cumulativeTimeSec": 1431,
+          "lapTimeSec": 681,
+          "cumulativeTimeSec": 1163,
           "rankAtLap": 3
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 750,
+          "cumulativeTimeSec": 1913,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 781,
-          "cumulativeTimeSec": 2212,
+          "cumulativeTimeSec": 2694,
           "rankAtLap": 3
         }
       ],
@@ -101,20 +120,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 725,
-          "cumulativeTimeSec": 725,
+          "lapTimeSec": 482,
+          "cumulativeTimeSec": 482,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 788,
-          "cumulativeTimeSec": 1513,
+          "lapTimeSec": 725,
+          "cumulativeTimeSec": 1207,
           "rankAtLap": 4
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 788,
+          "cumulativeTimeSec": 1995,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 826,
-          "cumulativeTimeSec": 2339,
+          "cumulativeTimeSec": 2821,
           "rankAtLap": 4
         }
       ],
@@ -128,20 +153,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 751,
-          "cumulativeTimeSec": 751,
+          "lapTimeSec": 483,
+          "cumulativeTimeSec": 483,
           "rankAtLap": 6
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 861,
-          "cumulativeTimeSec": 1612,
-          "rankAtLap": 5
+          "lapTimeSec": 751,
+          "cumulativeTimeSec": 1234,
+          "rankAtLap": 6
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 861,
+          "cumulativeTimeSec": 2095,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 958,
-          "cumulativeTimeSec": 2570,
+          "cumulativeTimeSec": 3053,
           "rankAtLap": 5
         }
       ],
@@ -155,14 +186,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 726,
-          "cumulativeTimeSec": 726,
+          "lapTimeSec": 482,
+          "cumulativeTimeSec": 482,
           "rankAtLap": 5
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 726,
+          "cumulativeTimeSec": 1208,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 1298,
-          "cumulativeTimeSec": 2024,
+          "cumulativeTimeSec": 2506,
           "rankAtLap": 6
         }
       ],
@@ -176,14 +213,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1028,
-          "cumulativeTimeSec": 1028,
+          "lapTimeSec": 483,
+          "cumulativeTimeSec": 483,
           "rankAtLap": 7
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 1028,
+          "cumulativeTimeSec": 1511,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 1170,
-          "cumulativeTimeSec": 2198,
+          "cumulativeTimeSec": 2681,
           "rankAtLap": 7
         }
       ],

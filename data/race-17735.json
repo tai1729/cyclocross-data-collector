@@ -2,10 +2,11 @@
   "raceId": "17735",
   "raceName": "2023-10-01 シクロクロスミーティングシリーズ　シーズン2023-2024 第1戦　白樺湖 （信州クロス）",
   "category": "MU17",
-  "updatedAt": "2026-09-15T00:04:18.375Z",
+  "updatedAt": "2026-11-28T09:15:25.121Z",
   "raceLapNumbers": [
     1,
-    2
+    2,
+    3
   ],
   "riders": [
     {
@@ -16,14 +17,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1221.3,
-          "cumulativeTimeSec": 1221.3,
+          "lapTimeSec": 607.5,
+          "cumulativeTimeSec": 607.5,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1860,
-          "cumulativeTimeSec": 3081.3,
+          "lapTimeSec": 613.8,
+          "cumulativeTimeSec": 1221.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 638.7,
+          "cumulativeTimeSec": 1860,
           "rankAtLap": 1
         }
       ],
@@ -37,14 +44,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1354.3,
-          "cumulativeTimeSec": 1354.3,
+          "lapTimeSec": 650.6,
+          "cumulativeTimeSec": 650.6,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 2068.8,
-          "cumulativeTimeSec": 3423.1000000000004,
+          "lapTimeSec": 703.7,
+          "cumulativeTimeSec": 1354.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 714.5,
+          "cumulativeTimeSec": 2068.8,
           "rankAtLap": 2
         }
       ],

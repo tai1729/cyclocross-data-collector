@@ -2,10 +2,11 @@
   "raceId": "24685",
   "raceName": "2025-11-02 御殿場シクロクロス Supported by 湘南CX（湘南シクロクロス）",
   "category": "CK1",
-  "updatedAt": "2026-09-15T00:15:13.732Z",
+  "updatedAt": "2026-11-28T09:18:21.100Z",
   "raceLapNumbers": [
     1,
-    2
+    2,
+    3
   ],
   "riders": [
     {
@@ -15,15 +16,15 @@
       "status": "finished",
       "laps": [
         {
-          "lapNumber": 1,
+          "lapNumber": 2,
           "lapTimeSec": 499.4,
           "cumulativeTimeSec": 499.4,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 950.8,
-          "cumulativeTimeSec": 1450.1999999999998,
+          "lapNumber": 3,
+          "lapTimeSec": 451.4,
+          "cumulativeTimeSec": 950.8,
           "rankAtLap": 1
         }
       ],
@@ -37,14 +38,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 679.5,
+          "lapTimeSec": 71.2,
+          "cumulativeTimeSec": 71.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 608.3,
           "cumulativeTimeSec": 679.5,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1276,
-          "cumulativeTimeSec": 1955.5,
+          "lapNumber": 3,
+          "lapTimeSec": 596.5,
+          "cumulativeTimeSec": 1276,
           "rankAtLap": 2
         }
       ],

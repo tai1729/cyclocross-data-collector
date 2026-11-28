@@ -2,9 +2,10 @@
   "raceId": "21856",
   "raceName": "2024-10-27 2024-25もみじシクロクロス第１戦（もみじシクロクロス）",
   "category": "WM",
-  "updatedAt": "2026-09-15T00:10:10.453Z",
+  "updatedAt": "2026-11-28T09:16:54.253Z",
   "raceLapNumbers": [
-    1
+    1,
+    2
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -18,7 +19,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1725,
+          "lapTimeSec": 729.2,
+          "cumulativeTimeSec": 729.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 995.8,
           "cumulativeTimeSec": 1725,
           "rankAtLap": 1
         }

@@ -2,7 +2,7 @@
   "raceId": "25309",
   "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-15T00:15:41.238Z",
+  "updatedAt": "2026-11-28T09:18:35.928Z",
   "raceLapNumbers": [
     1,
     2,
@@ -17,14 +17,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 667,
-          "cumulativeTimeSec": 667,
+          "lapTimeSec": 645.7,
+          "cumulativeTimeSec": 645.7,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 667,
+          "cumulativeTimeSec": 1312.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 683.7,
-          "cumulativeTimeSec": 1350.7,
+          "cumulativeTimeSec": 1996.4,
           "rankAtLap": 1
         }
       ],
@@ -38,14 +44,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 801.1,
-          "cumulativeTimeSec": 801.1,
+          "lapTimeSec": 747.1,
+          "cumulativeTimeSec": 747.1,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 801.1,
+          "cumulativeTimeSec": 1548.2,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 818.9,
-          "cumulativeTimeSec": 1620,
+          "cumulativeTimeSec": 2367.1,
           "rankAtLap": 2
         }
       ],

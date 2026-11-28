@@ -2,9 +2,10 @@
   "raceId": "25491",
   "raceName": "2025-11-29 シクロクロスミーティングシリーズ　シーズン2025-2026　第6戦　チロルの森Day1（信州クロス）",
   "category": "CK1",
-  "updatedAt": "2026-09-15T00:16:06.241Z",
+  "updatedAt": "2026-11-28T09:18:49.987Z",
   "raceLapNumbers": [
-    1
+    1,
+    2
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -18,7 +19,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 444.5,
+          "lapTimeSec": 73.2,
+          "cumulativeTimeSec": 73.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 371.3,
           "cumulativeTimeSec": 444.5,
           "rankAtLap": 1
         }

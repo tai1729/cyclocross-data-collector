@@ -2,7 +2,7 @@
   "raceId": "25797",
   "raceName": "2025-12-07 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-15T00:16:29.611Z",
+  "updatedAt": "2026-11-28T09:18:58.111Z",
   "raceLapNumbers": [
     1,
     2
@@ -16,8 +16,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 273.5,
+          "cumulativeTimeSec": 273.5,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 244.3,
-          "cumulativeTimeSec": 244.3,
+          "cumulativeTimeSec": 517.8,
           "rankAtLap": 1
         }
       ],
@@ -31,8 +37,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 273,
+          "cumulativeTimeSec": 273,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 250.3,
-          "cumulativeTimeSec": 250.3,
+          "cumulativeTimeSec": 523.3,
           "rankAtLap": 2
         }
       ],
@@ -46,8 +58,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 297.8,
+          "cumulativeTimeSec": 297.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 281.3,
-          "cumulativeTimeSec": 281.3,
+          "cumulativeTimeSec": 579.1,
           "rankAtLap": 3
         }
       ],

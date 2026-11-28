@@ -2,7 +2,7 @@
   "raceId": "18095",
   "raceName": "2023-10-29 御殿場シクロクロス Supported by 湘南CX （湘南シクロクロス）",
   "category": "MM35",
-  "updatedAt": "2026-09-15T00:04:44.503Z",
+  "updatedAt": "2026-11-28T09:15:33.222Z",
   "raceLapNumbers": [
     1,
     2,
@@ -18,20 +18,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1045.4,
+          "lapTimeSec": 530.3,
+          "cumulativeTimeSec": 530.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 515.1,
           "cumulativeTimeSec": 1045.4,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1581.8,
-          "cumulativeTimeSec": 2627.2,
+          "lapNumber": 3,
+          "lapTimeSec": 536.4,
+          "cumulativeTimeSec": 1581.8,
           "rankAtLap": 1
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 2122.1,
-          "cumulativeTimeSec": 4749.299999999999,
+          "lapNumber": 4,
+          "lapTimeSec": 540.3,
+          "cumulativeTimeSec": 2122.1,
           "rankAtLap": 1
         }
       ],
@@ -45,20 +51,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1065.6,
+          "lapTimeSec": 526.3,
+          "cumulativeTimeSec": 526.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 539.3,
           "cumulativeTimeSec": 1065.6,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1601.5,
-          "cumulativeTimeSec": 2667.1,
+          "lapNumber": 3,
+          "lapTimeSec": 535.9,
+          "cumulativeTimeSec": 1601.5,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 3,
-          "lapTimeSec": 2168.5,
-          "cumulativeTimeSec": 4835.6,
+          "lapNumber": 4,
+          "lapTimeSec": 567,
+          "cumulativeTimeSec": 2168.5,
           "rankAtLap": 2
         }
       ],
@@ -72,20 +84,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1179,
-          "cumulativeTimeSec": 1179,
+          "lapTimeSec": 583.4,
+          "cumulativeTimeSec": 583.4,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1843.8,
-          "cumulativeTimeSec": 3022.8,
+          "lapTimeSec": 595.6,
+          "cumulativeTimeSec": 1179,
           "rankAtLap": 4
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 2537.4,
-          "cumulativeTimeSec": 5560.200000000001,
+          "lapTimeSec": 664.8,
+          "cumulativeTimeSec": 1843.8,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 693.6,
+          "cumulativeTimeSec": 2537.4,
           "rankAtLap": 3
         }
       ],
@@ -99,14 +117,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1075.2,
-          "cumulativeTimeSec": 1075.2,
+          "lapTimeSec": 549.7,
+          "cumulativeTimeSec": 549.7,
           "rankAtLap": 3
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1614,
-          "cumulativeTimeSec": 2689.2,
+          "lapTimeSec": 525.5,
+          "cumulativeTimeSec": 1075.2,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 538.8,
+          "cumulativeTimeSec": 1614,
           "rankAtLap": 3
         }
       ],

@@ -2,9 +2,10 @@
   "raceId": "18645",
   "raceName": "2023-12-03 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
   "category": "WE3",
-  "updatedAt": "2026-09-15T00:05:41.684Z",
+  "updatedAt": "2026-11-28T09:15:50.316Z",
   "raceLapNumbers": [
-    1
+    1,
+    2
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -18,9 +19,15 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 274,
+          "cumulativeTimeSec": 274,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 267,
-          "cumulativeTimeSec": 267,
-          "rankAtLap": 2
+          "cumulativeTimeSec": 541,
+          "rankAtLap": 1
         }
       ],
       "dataQuality": "ok"
@@ -33,9 +40,15 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 283,
+          "cumulativeTimeSec": 283,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 269,
-          "cumulativeTimeSec": 269,
-          "rankAtLap": 3
+          "cumulativeTimeSec": 552,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -48,9 +61,15 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 307,
+          "cumulativeTimeSec": 307,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 266,
-          "cumulativeTimeSec": 266,
-          "rankAtLap": 1
+          "cumulativeTimeSec": 573,
+          "rankAtLap": 3
         }
       ],
       "dataQuality": "ok"
@@ -63,9 +82,15 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 311,
+          "cumulativeTimeSec": 311,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 308,
-          "cumulativeTimeSec": 308,
-          "rankAtLap": 5
+          "cumulativeTimeSec": 619,
+          "rankAtLap": 4
         }
       ],
       "dataQuality": "ok"
@@ -78,9 +103,15 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 333,
+          "cumulativeTimeSec": 333,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 288,
-          "cumulativeTimeSec": 288,
-          "rankAtLap": 4
+          "cumulativeTimeSec": 621,
+          "rankAtLap": 5
         }
       ],
       "dataQuality": "ok"
@@ -93,8 +124,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 317,
+          "cumulativeTimeSec": 317,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 337,
-          "cumulativeTimeSec": 337,
+          "cumulativeTimeSec": 654,
           "rankAtLap": 6
         }
       ],
@@ -108,8 +145,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 468,
+          "cumulativeTimeSec": 468,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 443,
-          "cumulativeTimeSec": 443,
+          "cumulativeTimeSec": 911,
           "rankAtLap": 7
         }
       ],

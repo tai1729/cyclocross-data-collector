@@ -2,7 +2,7 @@
   "raceId": "25299",
   "raceName": "2025-11-23 東海シクロクロス 第1戦 愛知県 ワイルドネイチャープラザ DAY1（東海クロス）",
   "category": "CK1",
-  "updatedAt": "2026-09-15T00:15:40.044Z",
+  "updatedAt": "2026-11-28T09:18:33.985Z",
   "raceLapNumbers": [
     1
   ],
@@ -15,7 +15,14 @@
       "name": "八坂 愛菜",
       "finalPosition": 1,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 566,
+          "cumulativeTimeSec": 566,
+          "rankAtLap": 1
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -23,7 +30,14 @@
       "name": "小島 蒼偉",
       "finalPosition": 2,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 682.5,
+          "cumulativeTimeSec": 682.5,
+          "rankAtLap": 2
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -31,7 +45,14 @@
       "name": "山崎 琴葉",
       "finalPosition": 3,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 822.2,
+          "cumulativeTimeSec": 822.2,
+          "rankAtLap": 3
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -39,7 +60,14 @@
       "name": "奥田 康生",
       "finalPosition": 4,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 830.2,
+          "cumulativeTimeSec": 830.2,
+          "rankAtLap": 4
+        }
+      ],
       "dataQuality": "ok"
     },
     {
@@ -47,7 +75,14 @@
       "name": "松邨 華奈",
       "finalPosition": 5,
       "status": "finished",
-      "laps": [],
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 837.8,
+          "cumulativeTimeSec": 837.8,
+          "rankAtLap": 5
+        }
+      ],
       "dataQuality": "ok"
     }
   ]

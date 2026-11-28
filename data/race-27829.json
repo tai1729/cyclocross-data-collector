@@ -2,11 +2,12 @@
   "raceId": "27829",
   "raceName": "2026-03-08 シクロクロス四国 第3戦 阿波シクロクロス（四国クロス）",
   "category": "CK2",
-  "updatedAt": "2026-09-15T00:19:22.717Z",
+  "updatedAt": "2026-11-28T09:19:29.042Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "excludedRowsByStatus": {
     "DNS": 2
@@ -20,20 +21,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 403.9,
-          "cumulativeTimeSec": 403.9,
+          "lapTimeSec": 208.9,
+          "cumulativeTimeSec": 208.9,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 601.3,
-          "cumulativeTimeSec": 1005.1999999999999,
-          "rankAtLap": 1
+          "lapTimeSec": 195,
+          "cumulativeTimeSec": 403.9,
+          "rankAtLap": 2
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 794.5,
-          "cumulativeTimeSec": 1799.6999999999998,
+          "lapTimeSec": 197.4,
+          "cumulativeTimeSec": 601.3,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 193.2,
+          "cumulativeTimeSec": 794.5,
           "rankAtLap": 1
         }
       ],
@@ -47,20 +54,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 403,
-          "cumulativeTimeSec": 403,
+          "lapTimeSec": 207.8,
+          "cumulativeTimeSec": 207.8,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 603,
-          "cumulativeTimeSec": 1006,
-          "rankAtLap": 2
+          "lapTimeSec": 195.2,
+          "cumulativeTimeSec": 403,
+          "rankAtLap": 1
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 803.1,
-          "cumulativeTimeSec": 1809.1,
+          "lapTimeSec": 200,
+          "cumulativeTimeSec": 603,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 200.1,
+          "cumulativeTimeSec": 803.1,
           "rankAtLap": 2
         }
       ],
@@ -74,14 +87,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 560.8,
-          "cumulativeTimeSec": 560.8,
+          "lapTimeSec": 288.2,
+          "cumulativeTimeSec": 288.2,
           "rankAtLap": 3
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 857.6,
-          "cumulativeTimeSec": 1418.4,
+          "lapTimeSec": 272.6,
+          "cumulativeTimeSec": 560.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 296.8,
+          "cumulativeTimeSec": 857.6,
           "rankAtLap": 3
         }
       ],

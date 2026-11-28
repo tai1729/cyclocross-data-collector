@@ -2,11 +2,12 @@
   "raceId": "18658",
   "raceName": "2023-12-03 東海シクロクロス 第3戦 愛知県 東郷ケッターパーク（東海クロス）",
   "category": "MU15",
-  "updatedAt": "2026-09-15T00:05:44.800Z",
+  "updatedAt": "2026-11-28T09:15:54.653Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -20,20 +21,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 341,
-          "cumulativeTimeSec": 341,
+          "lapTimeSec": 348,
+          "cumulativeTimeSec": 348,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 344,
-          "cumulativeTimeSec": 685,
+          "lapTimeSec": 341,
+          "cumulativeTimeSec": 689,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 344,
+          "cumulativeTimeSec": 1033,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 340,
-          "cumulativeTimeSec": 1025,
+          "cumulativeTimeSec": 1373,
           "rankAtLap": 1
         }
       ],
@@ -47,20 +54,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 381,
-          "cumulativeTimeSec": 381,
+          "lapTimeSec": 391,
+          "cumulativeTimeSec": 391,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 388,
-          "cumulativeTimeSec": 769,
+          "lapTimeSec": 381,
+          "cumulativeTimeSec": 772,
           "rankAtLap": 2
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 388,
+          "cumulativeTimeSec": 1160,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 387,
-          "cumulativeTimeSec": 1156,
+          "cumulativeTimeSec": 1547,
           "rankAtLap": 2
         }
       ],
@@ -74,20 +87,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 399,
-          "cumulativeTimeSec": 399,
+          "lapTimeSec": 419,
+          "cumulativeTimeSec": 419,
           "rankAtLap": 3
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 408,
-          "cumulativeTimeSec": 807,
+          "lapTimeSec": 399,
+          "cumulativeTimeSec": 818,
           "rankAtLap": 3
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 408,
+          "cumulativeTimeSec": 1226,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 411,
-          "cumulativeTimeSec": 1218,
+          "cumulativeTimeSec": 1637,
           "rankAtLap": 3
         }
       ],
@@ -101,20 +120,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 431,
-          "cumulativeTimeSec": 431,
+          "lapTimeSec": 440,
+          "cumulativeTimeSec": 440,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 440,
+          "lapTimeSec": 431,
           "cumulativeTimeSec": 871,
-          "rankAtLap": 5
+          "rankAtLap": 4
         },
         {
           "lapNumber": 3,
+          "lapTimeSec": 440,
+          "cumulativeTimeSec": 1311,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 4,
           "lapTimeSec": 431,
-          "cumulativeTimeSec": 1302,
+          "cumulativeTimeSec": 1742,
           "rankAtLap": 4
         }
       ],
@@ -128,15 +153,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 469,
-          "cumulativeTimeSec": 469,
+          "lapTimeSec": 646,
+          "cumulativeTimeSec": 646,
           "rankAtLap": 5
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 469,
+          "cumulativeTimeSec": 1115,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 384,
-          "cumulativeTimeSec": 853,
-          "rankAtLap": 4
+          "cumulativeTimeSec": 1499,
+          "rankAtLap": 5
         }
       ],
       "dataQuality": "ok"

@@ -2,13 +2,14 @@
   "raceId": "23826",
   "raceName": "2025-02-23 2024-25もみじシクロクロス第４戦（もみじシクロクロス）",
   "category": "MJ",
-  "updatedAt": "2026-09-15T00:13:34.909Z",
+  "updatedAt": "2026-11-28T09:17:52.245Z",
   "raceLapNumbers": [
     1,
     2,
     3,
     4,
-    5
+    5,
+    6
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -22,32 +23,38 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 864.8,
-          "cumulativeTimeSec": 864.8,
+          "lapTimeSec": 423.3,
+          "cumulativeTimeSec": 423.3,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1297.2,
-          "cumulativeTimeSec": 2162,
+          "lapTimeSec": 441.5,
+          "cumulativeTimeSec": 864.8,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 1725.3,
-          "cumulativeTimeSec": 3887.3,
+          "lapTimeSec": 432.4,
+          "cumulativeTimeSec": 1297.2,
           "rankAtLap": 1
         },
         {
           "lapNumber": 4,
-          "lapTimeSec": 2150.2,
-          "cumulativeTimeSec": 6037.5,
+          "lapTimeSec": 428.1,
+          "cumulativeTimeSec": 1725.3,
           "rankAtLap": 1
         },
         {
           "lapNumber": 5,
-          "lapTimeSec": 2605.2,
-          "cumulativeTimeSec": 8642.7,
+          "lapTimeSec": 424.9,
+          "cumulativeTimeSec": 2150.2,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 6,
+          "lapTimeSec": 455,
+          "cumulativeTimeSec": 2605.2,
           "rankAtLap": 1
         }
       ],

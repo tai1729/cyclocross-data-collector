@@ -2,10 +2,11 @@
   "raceId": "20951",
   "raceName": "2024-03-03 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
   "category": "CL2",
-  "updatedAt": "2026-09-15T00:08:45.944Z",
+  "updatedAt": "2026-11-28T09:16:41.747Z",
   "raceLapNumbers": [
     1,
-    2
+    2,
+    3
   ],
   "excludedRowsByStatus": {
     "DNS": 1
@@ -19,14 +20,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 995.7,
-          "cumulativeTimeSec": 995.7,
+          "lapTimeSec": 539.3,
+          "cumulativeTimeSec": 539.3,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1451.3,
-          "cumulativeTimeSec": 2447,
+          "lapTimeSec": 456.4,
+          "cumulativeTimeSec": 995.7,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 455.6,
+          "cumulativeTimeSec": 1451.3,
           "rankAtLap": 1
         }
       ],
@@ -40,14 +47,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1063,
-          "cumulativeTimeSec": 1063,
+          "lapTimeSec": 580.8,
+          "cumulativeTimeSec": 580.8,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1555.7,
-          "cumulativeTimeSec": 2618.7,
+          "lapTimeSec": 482.2,
+          "cumulativeTimeSec": 1063,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 492.7,
+          "cumulativeTimeSec": 1555.7,
           "rankAtLap": 2
         }
       ],
@@ -61,14 +74,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1355.5,
-          "cumulativeTimeSec": 1355.5,
+          "lapTimeSec": 740,
+          "cumulativeTimeSec": 740,
           "rankAtLap": 3
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1907.5,
-          "cumulativeTimeSec": 3263,
+          "lapTimeSec": 615.5,
+          "cumulativeTimeSec": 1355.5,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 552,
+          "cumulativeTimeSec": 1907.5,
           "rankAtLap": 3
         }
       ],

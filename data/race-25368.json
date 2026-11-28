@@ -2,7 +2,7 @@
   "raceId": "25368",
   "raceName": "2025-11-24 東海シクロクロス 第2戦 愛知県 ワイルドネイチャープラザ DAY2（東海クロス）",
   "category": "WU17",
-  "updatedAt": "2026-09-15T00:15:55.577Z",
+  "updatedAt": "2026-11-28T09:18:44.422Z",
   "raceLapNumbers": [
     1,
     2,
@@ -20,15 +20,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 591.9,
-          "cumulativeTimeSec": 591.9,
+          "lapTimeSec": 598.5,
+          "cumulativeTimeSec": 598.5,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 591.9,
+          "cumulativeTimeSec": 1190.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 608.3,
-          "cumulativeTimeSec": 1200.1999999999998,
-          "rankAtLap": 2
+          "cumulativeTimeSec": 1798.7,
+          "rankAtLap": 1
         }
       ],
       "dataQuality": "ok"
@@ -41,15 +47,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 614.9,
-          "cumulativeTimeSec": 614.9,
+          "lapTimeSec": 614.5,
+          "cumulativeTimeSec": 614.5,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
+          "lapTimeSec": 614.9,
+          "cumulativeTimeSec": 1229.4,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
           "lapTimeSec": 585.2,
-          "cumulativeTimeSec": 1200.1,
-          "rankAtLap": 1
+          "cumulativeTimeSec": 1814.6,
+          "rankAtLap": 2
         }
       ],
       "dataQuality": "ok"
@@ -62,8 +74,14 @@
       "laps": [
         {
           "lapNumber": 1,
+          "lapTimeSec": 748.7,
+          "cumulativeTimeSec": 748.7,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
           "lapTimeSec": 777.8,
-          "cumulativeTimeSec": 777.8,
+          "cumulativeTimeSec": 1526.5,
           "rankAtLap": 3
         }
       ],

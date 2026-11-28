@@ -2,11 +2,12 @@
   "raceId": "24528",
   "raceName": "2025-10-19 関西シクロクロス 第1戦 桂川（関西クロス）",
   "category": "CK1",
-  "updatedAt": "2026-09-15T00:14:52.284Z",
+  "updatedAt": "2026-11-28T09:18:11.393Z",
   "raceLapNumbers": [
     1,
     2,
-    3
+    3,
+    4
   ],
   "excludedRowsByStatus": {
     "DNS": 5
@@ -20,20 +21,26 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 437.9,
-          "cumulativeTimeSec": 437.9,
+          "lapTimeSec": 214.8,
+          "cumulativeTimeSec": 214.8,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 643.6,
-          "cumulativeTimeSec": 1081.5,
+          "lapTimeSec": 223.1,
+          "cumulativeTimeSec": 437.9,
           "rankAtLap": 1
         },
         {
           "lapNumber": 3,
-          "lapTimeSec": 861.9,
-          "cumulativeTimeSec": 1943.4,
+          "lapTimeSec": 205.7,
+          "cumulativeTimeSec": 643.6,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 4,
+          "lapTimeSec": 218.3,
+          "cumulativeTimeSec": 861.9,
           "rankAtLap": 1
         }
       ],
@@ -47,14 +54,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 465.7,
-          "cumulativeTimeSec": 465.7,
+          "lapTimeSec": 241.8,
+          "cumulativeTimeSec": 241.8,
           "rankAtLap": 2
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 709,
-          "cumulativeTimeSec": 1174.7,
+          "lapTimeSec": 223.9,
+          "cumulativeTimeSec": 465.7,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 243.3,
+          "cumulativeTimeSec": 709,
           "rankAtLap": 2
         }
       ],
@@ -68,14 +81,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 487.4,
+          "lapTimeSec": 260.3,
+          "cumulativeTimeSec": 260.3,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 227.1,
           "cumulativeTimeSec": 487.4,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 713.9,
-          "cumulativeTimeSec": 1201.3,
+          "lapNumber": 3,
+          "lapTimeSec": 226.5,
+          "cumulativeTimeSec": 713.9,
           "rankAtLap": 3
         }
       ],
@@ -89,14 +108,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 491.6,
-          "cumulativeTimeSec": 491.6,
+          "lapTimeSec": 250,
+          "cumulativeTimeSec": 250,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 725.6,
-          "cumulativeTimeSec": 1217.2,
+          "lapTimeSec": 241.6,
+          "cumulativeTimeSec": 491.6,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 234,
+          "cumulativeTimeSec": 725.6,
           "rankAtLap": 4
         }
       ],
@@ -110,14 +135,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 493.2,
+          "lapTimeSec": 261.7,
+          "cumulativeTimeSec": 261.7,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 231.5,
           "cumulativeTimeSec": 493.2,
           "rankAtLap": 5
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 736.4,
-          "cumulativeTimeSec": 1229.6,
+          "lapNumber": 3,
+          "lapTimeSec": 243.2,
+          "cumulativeTimeSec": 736.4,
           "rankAtLap": 5
         }
       ],
@@ -131,15 +162,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 505,
+          "lapTimeSec": 267.5,
+          "cumulativeTimeSec": 267.5,
+          "rankAtLap": 9
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 237.5,
           "cumulativeTimeSec": 505,
           "rankAtLap": 7
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 738.1,
-          "cumulativeTimeSec": 1243.1,
-          "rankAtLap": 7
+          "lapNumber": 3,
+          "lapTimeSec": 233.1,
+          "cumulativeTimeSec": 738.1,
+          "rankAtLap": 6
         }
       ],
       "dataQuality": "ok"
@@ -152,15 +189,21 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 497.4,
+          "lapTimeSec": 258.6,
+          "cumulativeTimeSec": 258.6,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 238.8,
           "cumulativeTimeSec": 497.4,
           "rankAtLap": 6
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 740.3,
-          "cumulativeTimeSec": 1237.6999999999998,
-          "rankAtLap": 6
+          "lapNumber": 3,
+          "lapTimeSec": 242.9,
+          "cumulativeTimeSec": 740.3,
+          "rankAtLap": 7
         }
       ],
       "dataQuality": "ok"
@@ -173,14 +216,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 530.8,
+          "lapTimeSec": 264.4,
+          "cumulativeTimeSec": 264.4,
+          "rankAtLap": 8
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 266.4,
           "cumulativeTimeSec": 530.8,
           "rankAtLap": 9
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 798.6,
-          "cumulativeTimeSec": 1329.4,
+          "lapNumber": 3,
+          "lapTimeSec": 267.8,
+          "cumulativeTimeSec": 798.6,
           "rankAtLap": 8
         }
       ],
@@ -194,14 +243,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 528.6,
+          "lapTimeSec": 248.3,
+          "cumulativeTimeSec": 248.3,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 280.3,
           "cumulativeTimeSec": 528.6,
           "rankAtLap": 8
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 815.7,
-          "cumulativeTimeSec": 1344.3000000000002,
+          "lapNumber": 3,
+          "lapTimeSec": 287.1,
+          "cumulativeTimeSec": 815.7,
           "rankAtLap": 9
         }
       ],
@@ -215,14 +270,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 573.8,
-          "cumulativeTimeSec": 573.8,
+          "lapTimeSec": 301.1,
+          "cumulativeTimeSec": 301.1,
           "rankAtLap": 12
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 833.6,
-          "cumulativeTimeSec": 1407.4,
+          "lapTimeSec": 272.7,
+          "cumulativeTimeSec": 573.8,
+          "rankAtLap": 12
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 259.8,
+          "cumulativeTimeSec": 833.6,
           "rankAtLap": 10
         }
       ],
@@ -236,14 +297,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 570.1,
+          "lapTimeSec": 303,
+          "cumulativeTimeSec": 303,
+          "rankAtLap": 13
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 267.1,
           "cumulativeTimeSec": 570.1,
           "rankAtLap": 11
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 837.7,
-          "cumulativeTimeSec": 1407.8000000000002,
+          "lapNumber": 3,
+          "lapTimeSec": 267.6,
+          "cumulativeTimeSec": 837.7,
           "rankAtLap": 11
         }
       ],
@@ -257,14 +324,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 568.2,
-          "cumulativeTimeSec": 568.2,
+          "lapTimeSec": 281.7,
+          "cumulativeTimeSec": 281.7,
           "rankAtLap": 10
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 866.2,
-          "cumulativeTimeSec": 1434.4,
+          "lapTimeSec": 286.5,
+          "cumulativeTimeSec": 568.2,
+          "rankAtLap": 10
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 298,
+          "cumulativeTimeSec": 866.2,
           "rankAtLap": 12
         }
       ],
@@ -278,14 +351,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 580.4,
+          "lapTimeSec": 288.6,
+          "cumulativeTimeSec": 288.6,
+          "rankAtLap": 11
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 291.8,
           "cumulativeTimeSec": 580.4,
           "rankAtLap": 13
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 874.3,
-          "cumulativeTimeSec": 1454.6999999999998,
+          "lapNumber": 3,
+          "lapTimeSec": 293.9,
+          "cumulativeTimeSec": 874.3,
           "rankAtLap": 13
         }
       ],
@@ -299,14 +378,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 605.4,
-          "cumulativeTimeSec": 605.4,
+          "lapTimeSec": 307.2,
+          "cumulativeTimeSec": 307.2,
           "rankAtLap": 14
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 886.4,
-          "cumulativeTimeSec": 1491.8,
+          "lapTimeSec": 298.2,
+          "cumulativeTimeSec": 605.4,
+          "rankAtLap": 14
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 281,
+          "cumulativeTimeSec": 886.4,
           "rankAtLap": 14
         }
       ],
@@ -320,14 +405,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 630.7,
-          "cumulativeTimeSec": 630.7,
+          "lapTimeSec": 338.8,
+          "cumulativeTimeSec": 338.8,
           "rankAtLap": 16
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 922.3,
-          "cumulativeTimeSec": 1553,
+          "lapTimeSec": 291.9,
+          "cumulativeTimeSec": 630.7,
+          "rankAtLap": 16
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 291.6,
+          "cumulativeTimeSec": 922.3,
           "rankAtLap": 15
         }
       ],
@@ -341,14 +432,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 624.6,
-          "cumulativeTimeSec": 624.6,
+          "lapTimeSec": 313.5,
+          "cumulativeTimeSec": 313.5,
           "rankAtLap": 15
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 934.2,
-          "cumulativeTimeSec": 1558.8000000000002,
+          "lapTimeSec": 311.1,
+          "cumulativeTimeSec": 624.6,
+          "rankAtLap": 15
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 309.6,
+          "cumulativeTimeSec": 934.2,
           "rankAtLap": 16
         }
       ],
@@ -362,7 +459,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 715.3,
+          "lapTimeSec": 363.9,
+          "cumulativeTimeSec": 363.9,
+          "rankAtLap": 18
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 351.4,
           "cumulativeTimeSec": 715.3,
           "rankAtLap": 17
         }
@@ -377,7 +480,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 720.7,
+          "lapTimeSec": 356.3,
+          "cumulativeTimeSec": 356.3,
+          "rankAtLap": 17
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 364.4,
           "cumulativeTimeSec": 720.7,
           "rankAtLap": 18
         }
@@ -392,7 +501,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 796.9,
+          "lapTimeSec": 406.1,
+          "cumulativeTimeSec": 406.1,
+          "rankAtLap": 19
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 390.8,
           "cumulativeTimeSec": 796.9,
           "rankAtLap": 19
         }
@@ -407,7 +522,13 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 828.6,
+          "lapTimeSec": 410.9,
+          "cumulativeTimeSec": 410.9,
+          "rankAtLap": 20
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 417.7,
           "cumulativeTimeSec": 828.6,
           "rankAtLap": 20
         }

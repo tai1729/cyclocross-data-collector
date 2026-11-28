@@ -2,10 +2,11 @@
   "raceId": "24028",
   "raceName": "2025-03-02 中国シクロクロス 岡山県井原市葡萄浪漫館（中国クロス）",
   "category": "WE2",
-  "updatedAt": "2026-09-15T00:13:46.786Z",
+  "updatedAt": "2026-11-28T09:17:53.931Z",
   "raceLapNumbers": [
     1,
-    2
+    2,
+    3
   ],
   "riders": [
     {
@@ -16,14 +17,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1141.3,
+          "lapTimeSec": 615.3,
+          "cumulativeTimeSec": 615.3,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 526,
           "cumulativeTimeSec": 1141.3,
           "rankAtLap": 3
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1628.5,
-          "cumulativeTimeSec": 2769.8,
+          "lapNumber": 3,
+          "lapTimeSec": 487.2,
+          "cumulativeTimeSec": 1628.5,
           "rankAtLap": 1
         }
       ],
@@ -37,14 +44,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1136.8,
-          "cumulativeTimeSec": 1136.8,
+          "lapTimeSec": 612.4,
+          "cumulativeTimeSec": 612.4,
           "rankAtLap": 1
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1660,
-          "cumulativeTimeSec": 2796.8,
+          "lapTimeSec": 524.4,
+          "cumulativeTimeSec": 1136.8,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 523.2,
+          "cumulativeTimeSec": 1660,
           "rankAtLap": 2
         }
       ],
@@ -58,14 +71,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1138.1,
+          "lapTimeSec": 618.8,
+          "cumulativeTimeSec": 618.8,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 519.3,
           "cumulativeTimeSec": 1138.1,
           "rankAtLap": 2
         },
         {
-          "lapNumber": 2,
-          "lapTimeSec": 1665.7,
-          "cumulativeTimeSec": 2803.8,
+          "lapNumber": 3,
+          "lapTimeSec": 527.6,
+          "cumulativeTimeSec": 1665.7,
           "rankAtLap": 3
         }
       ],
@@ -79,14 +98,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1277.4,
-          "cumulativeTimeSec": 1277.4,
+          "lapTimeSec": 668.9,
+          "cumulativeTimeSec": 668.9,
           "rankAtLap": 4
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1865.1,
-          "cumulativeTimeSec": 3142.5,
+          "lapTimeSec": 608.5,
+          "cumulativeTimeSec": 1277.4,
+          "rankAtLap": 4
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 587.7,
+          "cumulativeTimeSec": 1865.1,
           "rankAtLap": 4
         }
       ],
@@ -100,14 +125,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1294.1,
-          "cumulativeTimeSec": 1294.1,
+          "lapTimeSec": 686.1,
+          "cumulativeTimeSec": 686.1,
           "rankAtLap": 5
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1902.8,
-          "cumulativeTimeSec": 3196.8999999999996,
+          "lapTimeSec": 608,
+          "cumulativeTimeSec": 1294.1,
+          "rankAtLap": 5
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 608.7,
+          "cumulativeTimeSec": 1902.8,
           "rankAtLap": 5
         }
       ],
@@ -121,14 +152,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1338.3,
-          "cumulativeTimeSec": 1338.3,
+          "lapTimeSec": 705.2,
+          "cumulativeTimeSec": 705.2,
           "rankAtLap": 6
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 1991.5,
-          "cumulativeTimeSec": 3329.8,
+          "lapTimeSec": 633.1,
+          "cumulativeTimeSec": 1338.3,
+          "rankAtLap": 6
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 653.2,
+          "cumulativeTimeSec": 1991.5,
           "rankAtLap": 6
         }
       ],
@@ -142,14 +179,20 @@
       "laps": [
         {
           "lapNumber": 1,
-          "lapTimeSec": 1346.1,
-          "cumulativeTimeSec": 1346.1,
+          "lapTimeSec": 707.7,
+          "cumulativeTimeSec": 707.7,
           "rankAtLap": 7
         },
         {
           "lapNumber": 2,
-          "lapTimeSec": 2011.9,
-          "cumulativeTimeSec": 3358,
+          "lapTimeSec": 638.4,
+          "cumulativeTimeSec": 1346.1,
+          "rankAtLap": 7
+        },
+        {
+          "lapNumber": 3,
+          "lapTimeSec": 665.8,
+          "cumulativeTimeSec": 2011.9,
           "rankAtLap": 7
         }
       ],
