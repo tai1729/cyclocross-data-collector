@@ -7,6 +7,7 @@ import {
   parseMeetCandidates,
   readSeasonOptions,
   resolveSeasonOption,
+  selectDiscoveryCandidates,
 } from "../scripts/discover.js";
 import {
   isCanonicalSeason,
@@ -157,4 +158,24 @@ test("uses canonical season labels derived from event dates", () => {
   assert.equal(isCanonicalSeason("2023-25"), false);
   assert.equal(seasonForDate("2023-07-01"), "2023-24");
   assert.equal(seasonForDate("2024-06-30"), "2023-24");
+});
+
+test("re-reads known meets from the last 14 days so reissued raceIds are noticed", () => {
+  const candidate = (meetId: string, meetDate: string) => ({ meetId, meetDate, series: "test", meetName: meetId });
+  const candidates = [
+    candidate("new", "2026-11-20"),
+    candidate("known-recent", "2026-11-23"),
+    candidate("known-edge", "2026-11-14"),
+    candidate("known-old", "2026-11-13"),
+    candidate("known-future", "2026-12-05"),
+  ];
+  const known = new Set(["known-recent", "known-edge", "known-old", "known-future"]);
+  const selected = selectDiscoveryCandidates(candidates, known, {
+    season: null,
+    start: "2026-09-29",
+    end: "2027-01-27",
+    force: false,
+    today: "2026-11-28",
+  });
+  assert.deepEqual(selected.map(({ meetId }) => meetId), ["new", "known-recent", "known-edge"]);
 });
