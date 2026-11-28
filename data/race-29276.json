@@ -1,0 +1,75 @@
+{
+  "raceId": "29276",
+  "raceName": "2026-11-28 シクロクロスミーティングシリーズ　シーズン2026-2027　第6戦チロルの森Day1（信州クロス）",
+  "category": "CK2",
+  "updatedAt": "2026-11-28T08:02:17.574Z",
+  "raceLapNumbers": [
+    1,
+    2
+  ],
+  "riders": [
+    {
+      "riderId": "CCM-245-0012",
+      "name": "丸山 憧",
+      "finalPosition": 1,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 247.4,
+          "cumulativeTimeSec": 247.4,
+          "rankAtLap": 1
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 197.7,
+          "cumulativeTimeSec": 445.1,
+          "rankAtLap": 1
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-245-0031",
+      "name": "大槻 空",
+      "finalPosition": 2,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 266.1,
+          "cumulativeTimeSec": 266.1,
+          "rankAtLap": 2
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 230.9,
+          "cumulativeTimeSec": 497,
+          "rankAtLap": 2
+        }
+      ],
+      "dataQuality": "ok"
+    },
+    {
+      "riderId": "CCM-223-0037",
+      "name": "小林 蒼",
+      "finalPosition": 3,
+      "status": "finished",
+      "laps": [
+        {
+          "lapNumber": 1,
+          "lapTimeSec": 305,
+          "cumulativeTimeSec": 305,
+          "rankAtLap": 3
+        },
+        {
+          "lapNumber": 2,
+          "lapTimeSec": 297.8,
+          "cumulativeTimeSec": 602.8,
+          "rankAtLap": 3
+        }
+      ],
+      "dataQuality": "ok"
+    }
+  ]
+}
